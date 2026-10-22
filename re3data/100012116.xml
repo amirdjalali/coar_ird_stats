@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012116</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R36647</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Comparative Welfare Entitlements Project Dataset</r3d:repositoryName>
+				<r3d:additionalName language="eng">CWED</r3d:additionalName>
+				<r3d:additionalName language="eng">CWEP</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.cwep.us/</r3d:repositoryUrl>
+				<r3d:description language="eng">The Comparative Welfare Entitlements Project (CWEP) collects data on institutional features of social insurance programs in 33 countries dating back to the early 1970s. The project extends and updates information collected and published online as CWED by Lyle Scruggs and CWED 2 by Lyle Scruggs, Detlef Jahn, and Kati Kuitto. Data is currently provided for unemployment and sickness insurance benefits as well as for standard and minimum pensions and covers income replacement rates of cash benefits, eligibility criteria and coverage of the programs. Replacement rates are available for ten household types, making CWEP one of the most comprehensive datasets on replacement rates for social insurance programs.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@cwed2.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12402</r3d:subjectId>
+				<r3d:subjectName>Economic Policy, Applied Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.cwep.us/home/about</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>income replacement rates</r3d:keyword>
+					<r3d:keyword>replacement rate</r3d:keyword>
+					<r3d:keyword>social insurance</r3d:keyword>
+					<r3d:keyword>social security program</r3d:keyword>
+					<r3d:keyword>standard and minimum pensions</r3d:keyword>
+					<r3d:keyword>unemployment and sickness insurance</r3d:keyword>
+					<r3d:keyword>welfare policies</r3d:keyword>
+					<r3d:keyword>work and welfare</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="deu">Ernst Moritz Arndt Universität Greifswald, Institut für Politik- und Kommunikationswissenschaft</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">IPK</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://ipk.uni-greifswald.de/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Connecticut</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">UConn</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://polisci.uconn.edu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02der9h97</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_003764</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+								<r3d:databaseAccess>
+			<r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+							<r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.cwep.us/home/data</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>How to submit</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://www.cwep.us/home/data</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+									<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.cwep.us/home/data</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks>Comparative Welfare Entitlements Dataset (CWED) is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+		<r3d:entryDate>2016-08-16</r3d:entryDate>
+		<r3d:lastUpdate>2024-08-01</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010174</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3WK5M</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">West African Vegetation</r3d:repositoryName>
+				<r3d:additionalName language="eng">A vegetation data network for West Africa</r3d:additionalName>
+				<r3d:repositoryUrl>http://www.westafricanvegetation.org/menu/home.aspx</r3d:repositoryUrl>
+				<r3d:description language="eng">This is a database for vegetation data from West Africa, i.e. phytosociological and dendrometric relevés as well as floristic inventories. The West African Vegetation Database has been developed in the framework of the projects “SUN - Sustainable Use of Natural Vegetation in West Africa”  and “Biodiversity Transect Analysis in Africa” (BIOTA, https://www.biota-africa.org/).</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>westafricanvegetation@senckenberg.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>&gt;10.000 entries</r3d:size>
+						<r3d:startDate>2011</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>231</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21202</r3d:subjectId>
+				<r3d:subjectName>Ecology and Biodiversity of Plants and Ecosystems</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23104</r3d:subjectId>
+				<r3d:subjectName>Ecology of Land Use</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21201</r3d:subjectId>
+				<r3d:subjectName>Evolution and Systematics of Plants and Fungi</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>212</r3d:subjectId>
+				<r3d:subjectName>Plant Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23101</r3d:subjectId>
+				<r3d:subjectName>Soil Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>http://www.westafricanvegetation.senckenberg.de/menu/about_project.aspx</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Sub-Sahara</r3d:keyword>
+					<r3d:keyword>biodiversity</r3d:keyword>
+					<r3d:keyword>phytodiversity</r3d:keyword>
+					<r3d:keyword>relevés</r3d:keyword>
+					<r3d:keyword>vegetation surveys</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Aarhus University</r3d:institutionName>
+									<r3d:institutionAdditionalName language="dan">Aarhus Universitet</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DNK</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.au.dk/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01aj84f44</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_000948</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Biodiversität und Klima Forschungszentrum</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">BiK-F</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bik-f.de/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Cheikh Anta Diop University</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">Université Cheikh Anta Diop de Dakar</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>SEN</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ucad.sn/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04je6yw13</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">European Commission</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">EC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EEC</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://commission.europa.eu/index_de</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00k4n6c32</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011211</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Federal Ministry  of Research, Technology and Space</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">BMFTR</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Bundesministerium für Forschung, Technologie und Raumfahrt</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">formerly: Federal Ministry of Education and Research</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bmftr.bund.de/EN/Home/home_node.html</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04pz7b180</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_005066</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Goethe Universität Frankfurt am Main</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Goethe University Frankfurt</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.uni-frankfurt.de/de</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04cvxnb49</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011240</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Royal Botanic Gardens, Kew</r3d:institutionName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.kew.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00ynnr806</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_010543</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Senckenberg Gesellschaft für Naturforschung</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">SGN</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Senckenberg Society for Nature Research - Leibniz Institution for Biodiversity and Earth System Research</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Senckenberg world of biodiversity</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.senckenberg.de/de/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00xmqmx64</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University Joseph Ki-Zerbo</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">Université Joseph KI-ZERBO</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>BFA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://ujkz.bf/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00t5e2y66</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Abomey-Calavi</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">UAC</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Université d&#039;Abomey-Calavi</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>BEN</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.uac.bj/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03gzr6j88</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>terms of use</r3d:policyName>
+				<r3d:policyUrl>http://westafricanvegetation.senckenberg.de/menu/terms_use.aspx</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://creativecommons.org/licenses/by-nc-sa/3.0/us/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>none</r3d:pidSystem>
+																								<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2012-12-18</r3d:entryDate>
+		<r3d:lastUpdate>2026-01-14</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

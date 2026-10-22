@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010082</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3W30W</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">CUAHSI</r3d:repositoryName>
+				<r3d:additionalName language="eng">Consortium of Universities for the Advancement of Hydrologic Science, Incorporation</r3d:additionalName>
+				<r3d:additionalName language="eng">Universities Allied for Water Research</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.cuahsi.org/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_002197</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>nlx_154706</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">CUAHSI&#039;s Hydrologic Information System (CUAHSI-HIS) provides web services, tools, standards and procedures that enhance access to more and better data for hydrologic analysis</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>help@cuahsi.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.cuahsi.org/about/contact-us/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2001</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34601</r3d:subjectId>
+				<r3d:subjectName>Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>346</r3d:subjectId>
+				<r3d:subjectName>Water Research</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.cuahsi.org/about/what-we-do</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>FAIR</r3d:keyword>
+					<r3d:keyword>GIS data</r3d:keyword>
+					<r3d:keyword>NEXRAD rainfall</r3d:keyword>
+					<r3d:keyword>hydrologic data</r3d:keyword>
+					<r3d:keyword>satellite remote sensing data</r3d:keyword>
+					<r3d:keyword>water conditions</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Consortium of Universities for the Advancement of Hydrologic Science, Inc.</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CUAHSI</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.cuahsi.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04s2bx355</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_002197</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2001</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nsf.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/021nxhr62</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_012938</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2004</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>CUAHSI Software Licensing Policy</r3d:policyName>
+				<r3d:policyUrl>https://his.cuahsi.org/documents/HIS-software-policy-20080225.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Policies &amp; Conduct</r3d:policyName>
+				<r3d:policyUrl>https://www.cuahsi.org/about/policies-and-conduct</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Research Data Management Guide</r3d:policyName>
+				<r3d:policyUrl>https://www.cuahsi.org/data-services/research-data-management-guide</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>BSD</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://opensource.org/license/bsd-3-clause/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://new.nsf.gov/funding/data-management-plan</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Publish your Data</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://help.hydroshare.org/publishing-in-hydroshare/how-to-publish-in-hydroshare/</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://hiscentral.cuahsi.org/webservices/hiscentral.asmx</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://www.hydroshare.org/hsapi/</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+																							<r3d:metadataStandard>
+				<r3d:metadataStandardName>FGDC/CSDGM (Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m17</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2012-08-31</r3d:entryDate>
+		<r3d:lastUpdate>2025-10-16</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100000012</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R37P4C</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Biological and Chemical Oceanography Data Management Office</r3d:repositoryName>
+				<r3d:additionalName language="eng">BCO-DMO</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.bco-dmo.org/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.pjj4gd</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">The Biological and Chemical Oceanography Data Management Office (BCO-DMO) is a publicly accessible earth science data repository created to curate, publicly serve (publish), and archive digital data and information from biological, chemical and biogeochemical research conducted in coastal, marine, great lakes and laboratory environments. The BCO-DMO repository works closely with investigators funded through the NSF OCE Division’s Biological and Chemical Sections and the Division of Polar Programs Antarctic Organisms &amp; Ecosystems. The office provides services that span the full data life cycle, from data management planning support and DOI creation, to archive with appropriate national facilities.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@bco-dmo.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>53 Programs; 1.709 Projects; 3.505 Deployments; 7.906 Datasets; 705 Instruments; 1.634 Parameters</r3d:size>
+						<r3d:startDate>2006</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34101</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34102</r3d:subjectId>
+				<r3d:subjectName>Oceanography</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.bco-dmo.org/about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>biological oceanography</r3d:keyword>
+					<r3d:keyword>chemical oceanography</r3d:keyword>
+					<r3d:keyword>marine biogeochemistry</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">DataONE</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.dataone.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00hr5y405</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_003999</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">EarthCube Council of Data Facilities</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CDF</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.earthcube.org/council-of-data-facilities</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nsf.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/021nxhr62</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_012938</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Woods Hole Oceanographic Institution</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">WHOI</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.whoi.edu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03zbnzt98</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_006315</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Access and Reuse</r3d:policyName>
+				<r3d:policyUrl>https://www.bco-dmo.org/how-to/access-and-reuse</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Division of Ocean Sciences (OCE) Sample and Data Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.nsf.gov/policies/document/division-ocean-sciences-oce-sample-data-policy</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.nsf.gov/policies/document/division-ocean-sciences-oce-sample-data-policy</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>How to Get Started Contributing Data</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://www.bco-dmo.org/how-to/contribute</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>MySQL</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>NetCDF</r3d:apiType>
+				<r3d:apiUrl>https://www.bco-dmo.org/faq-page#what_formats_avail_for_download</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://erddap.bco-dmo.org/erddap/index.html</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+					<r3d:pidSystem>hdl</r3d:pidSystem>
+									<r3d:metrics>Usage statistics</r3d:metrics>
+							<r3d:citationGuidelineUrl>https://www.bco-dmo.org/how-to/access-and-reuse/attribution</r3d:citationGuidelineUrl>
+							<r3d:aidSystem>ORCID</r3d:aidSystem>
+							<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+									<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2026-06-25</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2029-06-24</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/8OY5VY</r3d:certificateUrl>
+							</r3d:certificate>
+									<r3d:metadataStandard>
+				<r3d:metadataStandardName>DCAT (Data Catalog Vocabulary)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m12</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>DIF (Directory Interchange Format)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m14</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>ISO 19115</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m22</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>BCO-DMO was CTS certified until 2023-07-14.</r3d:remarks>
+		<r3d:entryDate>2012-08-19</r3d:entryDate>
+		<r3d:lastUpdate>2026-07-06</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013539</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJMXV</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">RETOPEA</r3d:repositoryName>
+				<r3d:additionalName language="eng">Religious Toleration and Peace</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.retopea.eu/</r3d:repositoryUrl>
+				<r3d:description language="eng">RETOPEA investigates the different ways in which religious coexistence is thought of in different environments and how religious peace treaties have been established in the past. The idea is to use the insights gained to inform thinking about present-day peaceful religious co-existence
+The dataset contains the contents and the metadata of the resources (i.e., clippings) published on the RETOPEA website (retopea.eu).</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://retopea.eu/s/start/page/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>nld</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>112</r3d:subjectId>
+				<r3d:subjectName>History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11203</r3d:subjectId>
+				<r3d:subjectName>Modern and Contemporary History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11605</r3d:subjectId>
+				<r3d:subjectName>Religious Studies and Jewish Studies</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>116</r3d:subjectId>
+				<r3d:subjectName>Social and Cultural Anthropology, Non-European Cultures, Jewish Studies and Religious Studies</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>117</r3d:subjectId>
+				<r3d:subjectName>Theology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://retopea.eu/s/start/page/about</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>history</r3d:keyword>
+					<r3d:keyword>modern history</r3d:keyword>
+					<r3d:keyword>religious peace treaties</r3d:keyword>
+					<r3d:keyword>religious studies</r3d:keyword>
+					<r3d:keyword>school projects</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Euro-Arab Foundation for Higher Studies</r3d:institutionName>
+								<r3d:institutionCountry>ESP</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://fundea.org/en/fundea-2/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00svpda47</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="nld">KU Leuven</r3d:institutionName>
+								<r3d:institutionCountry>BEL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.kuleuven.be/english/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05f950310</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_001099</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_149306</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Le Foyer vzw</r3d:institutionName>
+								<r3d:institutionCountry>BEL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.foyer.be/?lang=en</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Leibniz Institute of European History</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">IEG</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Leibniz-Institut für Europäische Geschichte</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ieg-mainz.de/en/institute</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/059dyrr28</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Macedonian Centre for Intercultural Cooperation</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">MCIC</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="mkd">Qendra Maqedonase për Bashkëpunim Ndërkombëtar</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="mkd">МЦМС</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>MKD</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://mcms.mk/en.html</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Open University</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">OU</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.open.ac.uk/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05mzfcs16</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_004931</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Saints Cyril and Methodius University of Skopje</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Ss. Cyril and Methodius University in Skopje</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="mkd">UKIM</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="mkd">Универзитет „Св. Кирил и Методиј“ во Скопје</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>MKD</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ukim.edu.mk/en_index.php</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02wk2vx54</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Granada</r3d:institutionName>
+									<r3d:institutionAdditionalName language="spa">Universidad de Granada</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ESP</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ugr.es/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04njjy449</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011648</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_22932</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Helsinki</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fin">Helsingin Yliopisto</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FIN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.helsinki.fi/en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/040af2s02</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011653</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_80279</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Tartu</r3d:institutionName>
+									<r3d:institutionAdditionalName language="est">Tartu Ülikool</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">UTartu</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EST</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ut.ee/en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03z77qz90</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011710</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_49099</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Warsaw</r3d:institutionName>
+									<r3d:institutionAdditionalName language="pol">Uniwersytet Warszawski</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://en.uw.edu.pl/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/039bjqg32</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011747</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_152513</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>About</r3d:policyName>
+				<r3d:policyUrl>https://www.retopea.eu/s/start/page/about</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-nc/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+																									<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+														<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2021-03-22</r3d:entryDate>
+		<r3d:lastUpdate>2024-08-13</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011922</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R33M0X</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">CLARIN.SI repository</r3d:repositoryName>
+				<r3d:additionalName language="eng">Slovenian CLARIN repository</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.clarin.si/repository/xmlui/</r3d:repositoryUrl>
+				<r3d:description language="eng">CLARIN.SI is the Slovenian node of the European CLARIN (Common Language Resources and Technology Infrastructure) Centers. The CLARIN.SI repository is hosted at the Jožef Stefan Institute and offers long-term preservation of deposited linguistic resources, along with their descriptive metadata. The integration of the repository with the CLARIN infrastructure gives the deposited resources wide exposure, so that they can be known, used and further developed beyond the lifetime of the projects in which they were produced. Among the resources currently available in the CLARIN.SI repository are the multilingual MULTEXT-East resources, the CC version of Slovenian reference corpus Gigafida, the morphological lexicon Sloleks, the IMP corpora and lexicons of historical Slovenian, as well as many other resources for a variety of languages.  Furthermore, several REST-based web services are provided for different corpus-linguistic and NLP tasks.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.clarin.si/info/contact/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@clarin.si</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>tomaz.erjavec@ijs.si</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2013</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>slv</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>443</r3d:subjectId>
+				<r3d:subjectName>Computer Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>44</r3d:subjectId>
+				<r3d:subjectName>Computer Science, Systems and Electrical Engineering</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>44105</r3d:subjectId>
+				<r3d:subjectName>Human Factors, Ergonomics, Human-Machine Systems</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>114</r3d:subjectId>
+				<r3d:subjectName>Linguistics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>441</r3d:subjectId>
+				<r3d:subjectName>Systems Engineering</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.clarin.si/repository/xmlui/page/about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>computer science</r3d:keyword>
+					<r3d:keyword>corpora</r3d:keyword>
+					<r3d:keyword>digital language data</r3d:keyword>
+					<r3d:keyword>grammars</r3d:keyword>
+					<r3d:keyword>language models</r3d:keyword>
+					<r3d:keyword>language technology</r3d:keyword>
+					<r3d:keyword>linguistics</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">CLARIN ERIC</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure European Research Infrastructure Consortium</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">ERIC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EEC</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.clarin.eu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03wp25384</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">CLARIN.SI</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure, Slovenia</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="slv">Slovenska raziskovalna infrastruktura za jezikovne vire in tehnologije</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>SVN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.clarin.si/info/about/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Jožef Stefan Institute</r3d:institutionName>
+									<r3d:institutionAdditionalName language="slv">IJS</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="slv">Institut &quot;Jožef Stefan&quot;</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>SVN</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ijs.si/ijsw/V001/JSI</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05060sz93</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_000974</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Ministry of Education, Science and Sport</r3d:institutionName>
+									<r3d:institutionAdditionalName language="slv">Ministrstvo za izobraževanje, znanost in šport</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>SVN</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.gov.si/en/state-authorities/ministries/ministry-of-education-science-and-sport/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05tahaz79</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>CLARIN standard recommendations</r3d:policyName>
+				<r3d:policyUrl>https://www.clarin.eu/content/standard-recommendations</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>CLARIN.SI Repository and its Policies</r3d:policyName>
+				<r3d:policyUrl>https://www.clarin.si/repository/xmlui/page/about</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>How to deposit</r3d:policyName>
+				<r3d:policyUrl>https://www.clarin.si/repository/xmlui/page/deposit</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms of service</r3d:policyName>
+				<r3d:policyUrl>https://www.clarin.si/repository/xmlui/page/terms-of-service</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Apache License 2.0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://opensource.org/license/apache-2-0</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>BSD</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://opensource.org/license?ls=bsd</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/?lang=en</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.clarin.si/repository/xmlui/page/licenses</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Distribution License Agreement</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://www.clarin.si/repository/xmlui/page/contract</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>DSpace</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://www.clarin.si/repository/oai/request?verb=Identify</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>http://www.language-archives.org/archive_records/clarin.si</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>hdl</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.clarin.si/repository/xmlui/page/cite</r3d:citationGuidelineUrl>
+													<r3d:certificate>
+				<r3d:certificateName>CLARIN certificate B</r3d:certificateName>
+									<r3d:certificateStartDate>2025-04-24</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2028-04-23</r3d:certificateEndDate>
+								<r3d:certificateUrl>http://hdl.handle.net/11372/DOC-115</r3d:certificateUrl>
+							</r3d:certificate>
+					<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2025-04-24</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2028-04-23</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/EBQJRF</r3d:certificateUrl>
+							</r3d:certificate>
+									<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>OAI-ORE (Open Archives Initiative Object Reuse and Exchange)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m26</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+							<r3d:syndication>
+				<r3d:syndicationType>RSS</r3d:syndicationType>
+				<r3d:syndicationUrl>https://www.clarin.si/repository/xmlui/feed/rss_2.0/site</r3d:syndicationUrl>
+			</r3d:syndication>
+				<r3d:remarks>Partners: https://www.clarin.si/info/partners/
+The repository runs under the LINDAT/DSpace platform (available on GitHub), used by, and originaly developed for the Czech LINDAT/CLARIN repository at  UFAL. In May CLARIN.SI, after many years, also joined CLARIN ERIC, becoming its 14th member.</r3d:remarks>
+		<r3d:entryDate>2016-01-26</r3d:entryDate>
+		<r3d:lastUpdate>2025-05-08</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

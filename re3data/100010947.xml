@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010947</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R37K7G</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Partnership for Interdisciplinary Studies of Coastal Oceans</r3d:repositoryName>
+				<r3d:additionalName language="eng">PISCO</r3d:additionalName>
+				<r3d:repositoryUrl>https://piscoweb.org/</r3d:repositoryUrl>
+				<r3d:description language="eng">PISCO researchers collect biological, chemical, and physical data about ocean ecosystems in the nearshore portions of the California Current Large Marine Ecosystem. Data are archived and used to create summaries and graphics, in order to ensure that the data can be used and understood by a diverse audience of managers, policy makers, scientists and the general public.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://piscoweb.org/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>21.757 datasets (DataONE)</r3d:size>
+						<r3d:startDate>1999</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>345</r3d:subjectId>
+				<r3d:subjectName>Geography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34102</r3d:subjectId>
+				<r3d:subjectName>Oceanography</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://piscoweb.org/our-work</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>ecosystem</r3d:keyword>
+					<r3d:keyword>environmental sciences</r3d:keyword>
+					<r3d:keyword>marine ecology</r3d:keyword>
+					<r3d:keyword>ocean ecosystems</r3d:keyword>
+					<r3d:keyword>oceanography</r3d:keyword>
+					<r3d:keyword>tides</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">DataONE</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Data Observation Network for Earth</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.dataone.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00hr5y405</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_003999</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_158410</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2012</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Oregon State University</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">OSU</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://oregonstate.edu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00ysfqy60</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_009731</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_87751</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Stanford University</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.stanford.edu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00f54p054</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011538</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_44253</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of California Santa Barbara</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">UCSB</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ucsb.edu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02t274463</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011623</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_56111</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of California Santa Cruz</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">UCSC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ucsc.edu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03s65by71</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011624</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_63906</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data Access</r3d:policyName>
+				<r3d:policyUrl>https://piscoweb.org/data-access</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://piscoweb.org/data-access</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>DOI</r3d:pidSystem>
+																							<r3d:metadataStandard>
+				<r3d:metadataStandardName>EML (Ecological Metadata Language)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m16</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>PISCO is covered by Thomson Reuters Data Citation Index. Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO) activities are funded through a diversity of collaborative grants from public and private sources. PISCO is a DataOne member node: https://search.dataone.org/portals/PISCO
+When PISCO scientists collect data as part of projects funded by the National Science Foundation Division of Ocean Sciences, data are archived with the Foundation&#039;s Biological and Chemical Oceanography Data Management Office. These data include pH from sensors mounted in the rocky intertidal and on nearshore coastal moorings, organism responses to ocean acidification, and ecological data relevant to rockfish and seastar populations. Links to project descriptions, data, and metadata: https://www.bco-dmo.org/program/2033</r3d:remarks>
+		<r3d:entryDate>2014-08-26</r3d:entryDate>
+		<r3d:lastUpdate>2026-08-13</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

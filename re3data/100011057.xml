@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011057</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3TW53</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Copernicus</r3d:repositoryName>
+				<r3d:additionalName language="eng">The European Earth Observation Pogramme</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.copernicus.eu/en</r3d:repositoryUrl>
+				<r3d:description language="eng">Copernicus is a European system for monitoring the Earth.
+Copernicus consists of a complex set of systems which collect data from multiple sources: earth observation satellites and in situ sensors such as ground stations, airborne and sea-borne sensors. It processes these data and provides users with reliable and up-to-date information through a set of services related to environmental and security issues. The services address six thematic areas: land monitoring, marine monitoring, atmosphere monitoring, climate change, emergency management and security.
+The main users of Copernicus services are policymakers and public authorities who need the information to develop environmental legislation and policies or to take critical decisions in the event of an emergency, such as a natural disaster or a humanitarian crisis.
+Based on the Copernicus services and on the data collected through the Sentinels and the contributing missions , many value-added services can be tailored to specific public or commercial needs, resulting in new business opportunities. In fact, several economic studies have already demonstrated a huge potential for job creation, innovation and growth.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.copernicus.eu/en/network/get-touch</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>support@copernicus.eu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+								<r3d:startDate>2011</r3d:startDate>
+        				<r3d:endDate>
+						<r3d:closed>2026-08-26</r3d:closed>
+								</r3d:endDate>
+        							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>231</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34101</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23104</r3d:subjectId>
+				<r3d:subjectName>Ecology of Land Use</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34302</r3d:subjectId>
+				<r3d:subjectName>Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>343</r3d:subjectId>
+				<r3d:subjectName>Geophysics and Geodesy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34102</r3d:subjectId>
+				<r3d:subjectName>Oceanography</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.copernicus.eu/en/about-copernicus</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>EMSA</r3d:keyword>
+					<r3d:keyword>EUROSUR</r3d:keyword>
+					<r3d:keyword>FRONTEX</r3d:keyword>
+					<r3d:keyword>G-MOSAIC</r3d:keyword>
+					<r3d:keyword>SEA</r3d:keyword>
+					<r3d:keyword>Sentinels</r3d:keyword>
+					<r3d:keyword>agriculture</r3d:keyword>
+					<r3d:keyword>border surveillance</r3d:keyword>
+					<r3d:keyword>civil protection</r3d:keyword>
+					<r3d:keyword>climate change</r3d:keyword>
+					<r3d:keyword>earth observation</r3d:keyword>
+					<r3d:keyword>environment protection</r3d:keyword>
+					<r3d:keyword>environmental hazards</r3d:keyword>
+					<r3d:keyword>fisheries</r3d:keyword>
+					<r3d:keyword>forestry</r3d:keyword>
+					<r3d:keyword>health</r3d:keyword>
+					<r3d:keyword>management of urban areas</r3d:keyword>
+					<r3d:keyword>regional and local planning</r3d:keyword>
+					<r3d:keyword>satellite missions</r3d:keyword>
+					<r3d:keyword>sustainable development</r3d:keyword>
+					<r3d:keyword>tourism</r3d:keyword>
+					<r3d:keyword>transport</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">European Commission</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">EC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EEC</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://commission.europa.eu/index_en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00k4n6c32</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011211</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">European Environment Agency</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">EEA</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EEC</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.eea.europa.eu/en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02k4b9v70</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">European Space Agency</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ESA</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EEC</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.esa.int</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03wd9za21</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Copernicus policy</r3d:policyName>
+				<r3d:policyUrl>https://www.copernicus.eu/en/documentation/copernicus-policy/copernicus-policy</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>How to access data</r3d:policyName>
+				<r3d:policyUrl>https://www.copernicus.eu/en/terms-use/how-access-data</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms and Conditions</r3d:policyName>
+				<r3d:policyUrl>https://dataspace.copernicus.eu/terms-and-conditions</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.copernicus.eu/en/access-data/copyright-and-licences</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.copernicus.eu/en/how/how-access-data</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://sentinels.copernicus.eu/documents/247904/690755/Sentinel_Data_Legal_Notice</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.copernicus.eu/en/how/how-access-data</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+									<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://openeo.dataspace.copernicus.eu/</r3d:apiUrl>
+									<r3d:apiDocumentation>https://dataspace.copernicus.eu/analyse/apis/openeo-api</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://sh.dataspace.copernicus.eu/api/v1/catalog/1.0.0/search</r3d:apiUrl>
+									<r3d:apiDocumentation>https://dataspace.copernicus.eu/analyse/apis/sentinel-hub</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://sh.dataspace.copernicus.eu/ogc</r3d:apiUrl>
+									<r3d:apiDocumentation>https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/OGC.html</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>none</r3d:pidSystem>
+															<r3d:enhancedPublication>no</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>INSPIRE Metadata Regulation</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m66</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>ISO 19115</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m22</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>Copernicus uses INSPIRE metadata standard.</r3d:remarks>
+		<r3d:entryDate>2014-04-25</r3d:entryDate>
+		<r3d:lastUpdate>2026-08-26</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011571</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R33G9Z</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">GRIIDC</r3d:repositoryName>
+				<r3d:additionalName language="eng">Gulf Science Data Repository</r3d:additionalName>
+				<r3d:repositoryUrl>https://griidc.org</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.97002c</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">GRIIDC is a multidisciplinary data repository based out of the Harte Research Institute at Texas A&amp;M University - Corpus Christi. GRIIDC stores data from multiple fields of study including biology, chemistry, physical oceanography, sociology, political science, and public health. Data are free to download and are issued digital object identifiers. Storage services are fee-based and include data management/submission training; data management planning assistance; and storage and distribution. The mission of GRIIDC is to ensure a data and information legacy that promotes continual scientific discovery and public awareness of coastal and marine ecosystems.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>help@griidc.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.griidc.org/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>project-related</r3d:type>
+						<r3d:size>3.598 datasets; 446 research groups</r3d:size>
+						<r3d:startDate>2011-01-10</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>31</r3d:subjectId>
+				<r3d:subjectName>Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>44</r3d:subjectId>
+				<r3d:subjectName>Computer Science, Systems and Electrical Engineering</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>221</r3d:subjectId>
+				<r3d:subjectName>Microbiology, Virology and Immunology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>32</r3d:subjectId>
+				<r3d:subjectName>Physics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22202</r3d:subjectId>
+				<r3d:subjectName>Public Heatlh, Healthcare Research, Social and Occupational Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.griidc.org/about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>dilution of petroleum</r3d:keyword>
+					<r3d:keyword>dispersion of petroleum</r3d:keyword>
+					<r3d:keyword>distribution of petroleum</r3d:keyword>
+					<r3d:keyword>ecosystem</r3d:keyword>
+					<r3d:keyword>gas releases</r3d:keyword>
+					<r3d:keyword>oil spill</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">DataONE</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Data Observation Network for Earth</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.dataone.org</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00hr5y405</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_003999</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2017</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Harte Research Institute</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">HRI</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.harteresearch.org/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Texas A&amp;M University - Corpus Christi</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">The Island University</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.tamucc.edu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01mrfdz82</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Terms &amp; Conditions</r3d:policyName>
+				<r3d:policyUrl>https://www.griidc.org/terms-and-conditions</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/deed.en</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OpenDAP</r3d:apiType>
+				<r3d:apiUrl>https://erddap.griidc.org/erddap/index.html</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://erddap.griidc.org/erddap/rest.html</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.griidc.org/faq</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>FGDC/CSDGM (Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m17</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>ISO 19115</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m22</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>GRIIDC is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+		<r3d:entryDate>2015-03-04</r3d:entryDate>
+		<r3d:lastUpdate>2025-05-06</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

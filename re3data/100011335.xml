@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011335</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31G9B</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">DHS Data Access</r3d:repositoryName>
+				<r3d:additionalName language="eng">DHS data repository</r3d:additionalName>
+				<r3d:additionalName language="eng">DNB Household Survey</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.dhsdata.nl/</r3d:repositoryUrl>
+				<r3d:description language="eng">The DNB Household Survey (DHS) supplies longitudinal data to the international academic community, with a focus on the psychological and economic aspects of financial behavior. The study comprises information on work, pensions, housing, mortgages, income, assets, loans, health, economic and psychological concepts, and personal characteristics. The DHS data are collected from 2,000 households participating in the CentERpanel. The CentERpanel is an Internet panel that reflects the composition of the Dutch-speaking population in the Netherlands. Both the DHS as well as the CentERpanel, in which the study in conducted, are run by CentERdata</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@centerdata.nl</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+								<r3d:startDate>1993</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>nld</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12302</r3d:subjectId>
+				<r3d:subjectName>Empirical Social Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+									<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/NHD0-W6SY</r3d:contentTypeId>
+				<r3d:contentTypeName>survey data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Economic and Psychological Concepts</r3d:keyword>
+					<r3d:keyword>accomodation</r3d:keyword>
+					<r3d:keyword>assets</r3d:keyword>
+					<r3d:keyword>health</r3d:keyword>
+					<r3d:keyword>income</r3d:keyword>
+					<r3d:keyword>liabilities</r3d:keyword>
+					<r3d:keyword>mortages</r3d:keyword>
+					<r3d:keyword>survey data</r3d:keyword>
+					<r3d:keyword>work</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">CentERdata - Institute for data collection and research</r3d:institutionName>
+									<r3d:institutionAdditionalName language="nld">CentERdata - Instituut voor dataverzameling en onderzoek</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>NLD</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://en.centerdata.nl/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">DANS</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Data Archiving and Networked Services</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>NLD</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://dans.knaw.nl/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/008pnp284</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_000904</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_156902</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>CentERdata General Terms and Conditions</r3d:policyName>
+				<r3d:policyUrl>https://en.centerdata.nl/app/uploads/sites/3/2021/11/Centerdata-Algemene-voorwaarden-EN.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>DANS EASY General Terms and Conditions of Use</r3d:policyName>
+				<r3d:policyUrl>https://dans.knaw.nl/wp-content/uploads/2022/01/EASYGeneralTermsandConditionsofUse-1.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Data Management and Preservation Policy of the DNB Household Survey</r3d:policyName>
+				<r3d:policyUrl>https://www.dhsdata.nl/files/Data_Management_and_Preservation_DHS_3.0.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>data deposit license agreements of DANS</r3d:policyName>
+				<r3d:policyUrl>https://dans.knaw.nl/en/legal-information/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://en.centerdata.nl/app/uploads/sites/3/2021/11/Centerdata-Algemene-voorwaarden-EN.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>DOI</r3d:pidSystem>
+					<r3d:pidSystem>URN</r3d:pidSystem>
+															<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>In addition DHS data are archived in EASY, the online archiving system of the Dutch Data Archiving and Networked Services (DANS).
+Centerdata handles large amounts of data and information, therefore, obtaining an ISO 27001 certification was a logical ambition. We have achieved this certification in March 2021
+CTS certified until 2023-10-18.</r3d:remarks>
+		<r3d:entryDate>2014-12-19</r3d:entryDate>
+		<r3d:lastUpdate>2026-08-28</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

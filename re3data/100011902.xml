@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011902</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3PH05</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="deu">SFB 882 Forschungsdatenzentrum</r3d:repositoryName>
+				<r3d:additionalName language="eng">CRC 882 RDC</r3d:additionalName>
+				<r3d:additionalName language="deu">FDZ SFB882 &quot;Von Heterogenitäten zu Ungleichheiten&quot;</r3d:additionalName>
+				<r3d:additionalName language="eng">Research Data Centre of the Collaborative Research Centre SFB 882 &quot;From heterogeneities to inequalities&quot;</r3d:additionalName>
+				<r3d:repositoryUrl>https://sfb882.uni-bielefeld.de/de/fdz-sfb882.html</r3d:repositoryUrl>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt;   This repository is offline (as of 2025-07-09), the project website is still accessible in archived form   &gt;&gt;&gt;!!!&gt;&gt;&gt;  The Research Data Center (RDC) of the Collaborative Research Center 882 &quot;From heterogeneities to inequalities&quot; at Bielefeld University provides external scientists access to the research data generated in the CRC 882. It provides access to both qualitative and quantitative data from the field of inequality research. The CRC 882 RDC supports external researchers who are reusing the data, as well as gives advice on data documentation and anonymization procedures to the researchers of the CRC to ensure high data quality.
+
+The datasets include, for example, a panel on youth crime, different series of interviews on ethnicity, paternal life and recalls of employees, as well as other panels, interview data and experimental data. In the further course of the Collaborative Research Center the database will be expanded with the data of future projects. External scientists can make an application for the scientific use of CRC 882 Research Data. In accordance with data privacy requirements, the access will be organized via controlled remote data access or via on-site use. For this purpose, the RDC provides workplaces for guest researchers.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>fdz.sfb882@uni-bielefeld.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>office.sfb882@uni-bielefeld.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>sliebig@uni-bielefeld.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+										<r3d:endDate>
+						<r3d:closed>2016-06-30</r3d:closed>
+									<r3d:offline>2025-07-09</r3d:offline>
+					</r3d:endDate>
+        							<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12302</r3d:subjectId>
+				<r3d:subjectName>Empirical Social Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://sfb882.uni-bielefeld.de/de/program.html</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>Interviews on ethnicity</r3d:keyword>
+					<r3d:keyword>Interviews to Paternal lifestyle</r3d:keyword>
+					<r3d:keyword>Recalls of employers</r3d:keyword>
+					<r3d:keyword>inequality research</r3d:keyword>
+					<r3d:keyword>qualitative data</r3d:keyword>
+					<r3d:keyword>quantiatitve data</r3d:keyword>
+					<r3d:keyword>youth crime</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="deu">Deutsche Forschungsgemeinschaft</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">DFG</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">German Research Foundation</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.dfg.de/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_012420</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_144062</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Universität Bielefeld, Sonderforschungsbereich 882 &quot;Von Heterogenitäten zu Ungleichheiten&quot;</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">University Bielefeld, Collaborative Research Centre SFB 882 “From Heterogeneities to Inequalities”</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://sfb882.uni-bielefeld.de/de.1.html</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Impressum</r3d:policyName>
+				<r3d:policyUrl>https://sfb882.uni-bielefeld.de/de/imprint.html</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Qualitätssicherung der vom Rat für Sozial- und Wirtschaftsdaten RatSWD) akkreditierten Forschungsdatenzentren (FDZ)</r3d:policyName>
+				<r3d:policyUrl>https://www.konsortswd.de/wp-content/uploads/RatSWD_FDZKriterien.PDF</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://sfb882.uni-bielefeld.de/de/imprint.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+											<r3d:versioning>no</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://pub.uni-bielefeld.de/docs/api</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://pub.uni-bielefeld.de/download/2490155/2490156</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>SFB 882 Forschungsdatenzentrum was RatSWD accredited from 2013 to 2016</r3d:remarks>
+		<r3d:entryDate>2015-12-22</r3d:entryDate>
+		<r3d:lastUpdate>2025-07-09</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

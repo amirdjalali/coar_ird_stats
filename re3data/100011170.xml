@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011170</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3TK84</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">BioImages - Virtual Field-Guide</r3d:repositoryName>
+				<r3d:additionalName language="eng">Virtual Field-Guide to UK Biodiversity</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.bioimages.org.uk/</r3d:repositoryUrl>
+				<r3d:description language="eng">This site offers an enormous collection of photographs of wild species and natural history objects. It covers most groups of organisms with the exception of birds and other vertebrates. The photographs are presented to illustrate biodiversity and as an aid to identification. The criterion for inclusion of a species is that it must have been, or might be expected to be, found in Britain or Ireland. BioImages follows the biological classification. Biota is a hierarchical system with species grouped in genera, genera in families, families in orders and so on up to kingdoms and superkingdoms. The datasets are linked to bioinfo: food webs and species interactions in the Biodiversity of UK and Ireland.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>malcolm.storey@dsl.pipex.com</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>bioimages: 7.461 Taxa; 122.523 Images; 6.092 Identification references.
+bioinfo: 24.700 Taxa with infos; 8.771 References; 105.000 Trophisms</r3d:size>
+						<r3d:startDate>1998-04-01</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21303</r3d:subjectId>
+				<r3d:subjectName>Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21202</r3d:subjectId>
+				<r3d:subjectName>Ecology and Biodiversity of Plants and Ecosystems</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>212</r3d:subjectId>
+				<r3d:subjectName>Plant Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>213</r3d:subjectId>
+				<r3d:subjectName>Zoology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.bioinfo.org.uk/html/b148841.htm</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Biota</r3d:keyword>
+					<r3d:keyword>Britain</r3d:keyword>
+					<r3d:keyword>Britain</r3d:keyword>
+					<r3d:keyword>Ireland</r3d:keyword>
+					<r3d:keyword>Ireland</r3d:keyword>
+					<r3d:keyword>biodiversity</r3d:keyword>
+					<r3d:keyword>fungi</r3d:keyword>
+					<r3d:keyword>insects</r3d:keyword>
+					<r3d:keyword>natural objects</r3d:keyword>
+					<r3d:keyword>plant pathology</r3d:keyword>
+					<r3d:keyword>plants</r3d:keyword>
+					<r3d:keyword>specimen</r3d:keyword>
+					<r3d:keyword>wild species</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">BioInfo (UK)</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">food webs and species interactions in the Biodiversity of UK and Ireland</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bioinfo.org.uk/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Malcolm Storey</r3d:institutionName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bioimages.org.uk/cright.htm</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Purpose</r3d:policyName>
+				<r3d:policyUrl>https://www.bioimages.org.uk/cright.htm</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://creativecommons.org/licenses/by-nc-sa/2.0/uk/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.bioimages.org.uk/cright.htm</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+							<r3d:versioning>no</r3d:versioning>
+									<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.bioimages.org.uk/cright.htm</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>Biota takes you to the top of the classification tree https://www.bioinfo.org.uk/html/Biota.htm</r3d:remarks>
+		<r3d:entryDate>2014-10-14</r3d:entryDate>
+		<r3d:lastUpdate>2026-09-08</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012490</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3CN48</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations</r3d:repositoryName>
+				<r3d:additionalName language="eng">CALIPSO</r3d:additionalName>
+				<r3d:repositoryUrl>https://www-calipso.larc.nasa.gov/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.50d4cd</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">The CALIPSO satellite provides new insight into the role that clouds and atmospheric aerosols play in regulating Earth&#039;s weather, climate, and air quality.
+CALIPSO combines an active lidar instrument with passive infrared and visible imagers to probe the vertical structure and properties of thin clouds and aerosols over the globe. CALIPSO was launched on April 28, 2006, with the CloudSat satellite.
+CALIPSO and CloudSat are highly complementary and together provide new, never-before-seen 3D perspectives of how clouds and aerosols form, evolve, and affect weather and climate. CALIPSO and CloudSat fly in formation with three other satellites in the A-train constellation to enable an even greater understanding of our climate system.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>Charles.R.Trepte@nasa.gov</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www-calipso.larc.nasa.gov/resources/faq.php</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2006</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>325</r3d:subjectId>
+				<r3d:subjectName>Astrophysics and Astronomy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34302</r3d:subjectId>
+				<r3d:subjectName>Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>343</r3d:subjectId>
+				<r3d:subjectName>Geophysics and Geodesy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>32</r3d:subjectId>
+				<r3d:subjectName>Physics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.nasa.gov/mission_pages/calipso/main/index.html</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>A-train</r3d:keyword>
+					<r3d:keyword>aerosols</r3d:keyword>
+					<r3d:keyword>air quality</r3d:keyword>
+					<r3d:keyword>climate</r3d:keyword>
+					<r3d:keyword>clouds</r3d:keyword>
+					<r3d:keyword>weather</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="fra">Centre national d&#039;études spatiales</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">CNES</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://cnes.fr/en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04h1h0y33</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">NASA Langley Research Center, Atmospheric Science Data Center</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">LaRC ASDC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://eosweb.larc.nasa.gov/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nasa.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/027ka1x80</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>CALIPSO Data User Guide</r3d:policyName>
+				<r3d:policyUrl>https://www-calipso.larc.nasa.gov/resources/calipso_users_guide/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.nasa.gov/about/highlights/HP_Privacy.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.nasa.gov/multimedia/guidelines/index.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.usa.gov/government-works</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+							</r3d:dataUpload>
+											<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>NetCDF</r3d:apiType>
+				<r3d:apiUrl>https://www-calipso.larc.nasa.gov/resources/calipso_users_guide/tools/idl/readNCDF.pro</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://asdc.larc.nasa.gov/citing-data</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2017-10-04</r3d:entryDate>
+		<r3d:lastUpdate>2023-01-18</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010060</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3G01H</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">OpenEI</r3d:repositoryName>
+				<r3d:additionalName language="eng">Open Energy Information</r3d:additionalName>
+				<r3d:additionalName language="eng">OpenEnergyInfo</r3d:additionalName>
+				<r3d:repositoryUrl>https://openei.org/wiki/Main_Page</r3d:repositoryUrl>
+				<r3d:description language="eng">The Open Energy Information (OpenEI.org) initiative is a free, open source knowledge-sharing platform created to facilitate access to data, models, tools, and information that accelerate the transition to clean energy systems through informed decisions. Sponsored by the Department of Energy, and developed by the National Renewable Energy Lab, in support of the Open Government Initiative, OpenEI strives to make energy-related data and information searchable, accessible, and useful to both people and machines</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://openei.org/wiki/OpenEI:About</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>openeiweb@nrel.gov</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+						<r3d:size>2.606 datasets</r3d:size>
+						<r3d:startDate>2009</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>32</r3d:subjectId>
+				<r3d:subjectName>Physics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://openei.org/wiki/OpenEI:About</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/CQMR-7K63</r3d:contentTypeId>
+				<r3d:contentTypeName>recorded data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>energy</r3d:keyword>
+					<r3d:keyword>energy data</r3d:keyword>
+					<r3d:keyword>energy efficiency</r3d:keyword>
+					<r3d:keyword>energy information</r3d:keyword>
+					<r3d:keyword>geothermal energy</r3d:keyword>
+					<r3d:keyword>oil and gas</r3d:keyword>
+					<r3d:keyword>renewable energy</r3d:keyword>
+					<r3d:keyword>solar energy</r3d:keyword>
+					<r3d:keyword>water energy</r3d:keyword>
+					<r3d:keyword>wind energy</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">National Laboratory of the Rockies</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NRL</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">formerly: National Renewable Energy Laboratory (NREL)</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nlr.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/036266993</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">United States Department of Energy</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">DOE</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.energy.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01bj3aw27</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Incentives and Policies for Renewable Energy and Energy Efficiency</r3d:policyName>
+				<r3d:policyUrl>https://openei.org/wiki/Gateway:Incentives_and_Policies</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>OpenEI core content policies</r3d:policyName>
+				<r3d:policyUrl>https://openei.org/wiki/OpenEI:Core_content_policies</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>The Open Definition</r3d:policyName>
+				<r3d:policyUrl>https://opendefinition.org/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://creativecommons.org/licenses/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>core content policies</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://openei.org/wiki/OpenEI:Core_content_policies</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+									<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://openei.org/services/</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>SPARQL</r3d:apiType>
+				<r3d:apiUrl>https://openei.org/services/doc/sparql/</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://openei.org/wiki/Help:Citations</r3d:citationGuidelineUrl>
+																			<r3d:syndication>
+				<r3d:syndicationType>ATOM</r3d:syndicationType>
+				<r3d:syndicationUrl>https://en.openei.org/w/index.php?title=Special:RecentChanges&amp;feed=atom</r3d:syndicationUrl>
+			</r3d:syndication>
+				<r3d:remarks>NREL is a national laboratory of the U.S. Department of Energy, Office of Energy Effciency and Renewable Energy, operated by the Alliance for Sustainable Energy, LLC. Partners: https://openei.org/wiki/OpenEI_International_Sponsors_and_Partners</r3d:remarks>
+		<r3d:entryDate>2012-10-02</r3d:entryDate>
+		<r3d:lastUpdate>2026-02-10</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

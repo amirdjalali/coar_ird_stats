@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012787</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3F79N</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Greo Dataverse</r3d:repositoryName>
+				<r3d:additionalName language="eng">Greo Evidence Insights</r3d:additionalName>
+				<r3d:additionalName language="eng">formerly name: Gambling Research Exchange Dataverse</r3d:additionalName>
+				<r3d:repositoryUrl>https://borealisdata.ca/dataverse/GREO</r3d:repositoryUrl>
+				<r3d:description language="eng">Greo Evidence Insights (Greo) is an independent, non-profit organization specializing in research, knowledge mobilization, and evaluation in the health and well-being sectors. For 25 years, Greo has transformed research and insights into actionable strategies for our clients and partners to prevent and reduce harm related to gambling, gaming, technology use and substance use. In line with this mandate, datasets curated in this archive relate to gambling and reducing gambling related harms.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>dataset@greo.ca</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.greo.ca/en/about-us/contact-us.aspx?_mid_=9492</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>29 datasets, 147 data files</r3d:size>
+						<r3d:startDate>2014</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12402</r3d:subjectId>
+				<r3d:subjectName>Economic Policy, Applied Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12302</r3d:subjectId>
+				<r3d:subjectName>Empirical Social Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22202</r3d:subjectId>
+				<r3d:subjectName>Public Heatlh, Healthcare Research, Social and Occupational Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12406</r3d:subjectId>
+				<r3d:subjectName>Statistics and Econometrics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.greo.ca/en/about-us/what-we-do.aspx?_mid_=31396</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Canadian Problem Gambling Index - CPGI</r3d:keyword>
+					<r3d:keyword>gambling</r3d:keyword>
+					<r3d:keyword>gambling harms</r3d:keyword>
+					<r3d:keyword>gambling involvement</r3d:keyword>
+					<r3d:keyword>prevalence</r3d:keyword>
+					<r3d:keyword>problem gambling</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Greo Evidence Insights</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Greo</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.greo.ca/en/index.aspx</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/047mprv74</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2015</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Ontario Council of University Libraries</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">CBUO</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Conseil des bibliothèques universitaires de l&#039;Ontario</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">OCUL</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://ocul.on.ca/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/028215596</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Borealis Terms of Use</r3d:policyName>
+				<r3d:policyUrl>https://borealisdata.ca/termsofuse/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Borealis User Guide</r3d:policyName>
+				<r3d:policyUrl>https://guides.dataverse.org/en/latest/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms of Use</r3d:policyName>
+				<r3d:policyUrl>https://www.greo.ca/en/greo-resource/resources/Documents/Policy_DataRepository_TermsOfUseAgreement_20220726.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.greo.ca/en/greo-resource/service-level-definition.aspx</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>feeRequired</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Greo Dataverse Depositor Agreement</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://www.greo.ca/en/greo-resource/resources/Documents/Policy_DataRepository_DepositorAgreement_20220726.pdf</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>Dataverse</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://borealisdata.ca/oai?verb=Identify</r3d:apiUrl>
+									<r3d:apiDocumentation>https://borealisdata.ca/guides/en/latest/admin/discoverability.html</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://guides.dataverse.org/en/latest/api/native-api.html</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>SWORD</r3d:apiType>
+				<r3d:apiUrl>https://guides.dataverse.org/en/latest/api/sword.html</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+					<r3d:pidSystem>hdl</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://dataverse.org/best-practices/data-citation</r3d:citationGuidelineUrl>
+																	<r3d:metadataStandard>
+				<r3d:metadataStandardName>DDI (Data Documentation Initiative)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m13</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>DataCite Metadata Schema</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m11</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>OAI-ORE (Open Archives Initiative Object Reuse and Exchange)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m26</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>As of 2022 Scholars Portal Dataverse is Borealis.
+Greo Evidence Insights (Greo) was formerly known as Gambling Research Exchange Ontario and, prior to that, the Ontario Problem Gambling Research Centre (OPGRC).
+The LGCA (Liquor, Gaming and Cannabis Authority of Manitoba data) partnered with Gambling Research Exchange Ontario (GREO) to store datasets from their research program in GREO&#039;s data repository so more students and academics have access.</r3d:remarks>
+		<r3d:entryDate>2018-08-01</r3d:entryDate>
+		<r3d:lastUpdate>2025-06-23</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012592</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3T800</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">VAMDC Portal</r3d:repositoryName>
+				<r3d:additionalName language="eng">Virtual Atomic and Molecular Data Centre Portal</r3d:additionalName>
+				<r3d:repositoryUrl>https://portal.vamdc.eu/vamdc_portal/home.seam</r3d:repositoryUrl>
+				<r3d:description language="eng">VAMDC aims to be an interoperable e-infrastructure that provides the international research community with access to a broad range of atomic and molecular (A&amp;M) data compiled within a set of A&amp;M databases accessible through the provision of this portal and of user software. Furthermore VAMDC aims to provide A&amp;M data providers and compilers with a large dissemination platform for their work.
+VAMDC infrastructure was established to provide a service to a wide international research community and has been developed in conjunction with consultations and advice from the A&amp;M user community.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://portal.vamdc.eu/vamdc_portal/help.seam</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>support@vamdc.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2018-07-16</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>32</r3d:subjectId>
+				<r3d:subjectName>Physics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://portal.vamdc.eu/vamdc_portal/home.seam</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>atoms</r3d:keyword>
+					<r3d:keyword>molecules</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">VAMDC Consortium</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Virtual Atomic and Molecular Data Centre Consortium</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://vamdc.org/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>General disclaimer</r3d:policyName>
+				<r3d:policyUrl>https://portal.vamdc.eu/vamdc_portal/disclaimer.seam</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Guidelines and Procedures for VAMDC Document Standards, Schemas and Software Management</r3d:policyName>
+				<r3d:policyUrl>https://standards.vamdc.eu/management/index.html</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Registry user’s guide</r3d:policyName>
+				<r3d:policyUrl>https://standards.vamdc.eu/registry/index.html</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>User guide for portal</r3d:policyName>
+				<r3d:policyUrl>https://tutorial.vamdc.org/self-study/end-user-self-study/user-guide-portal.html</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-nd/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://portal.vamdc.eu/vamdc_portal/disclaimer.seam</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+									<r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>MySQL</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://standards.vamdc.eu/dataAccessProtocol/vamdctap.html</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://standards.vamdc.eu/queryLanguage/index.html</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>other</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://portal.vamdc.eu/vamdc_portal/citation.seam</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2018-01-19</r3d:entryDate>
+		<r3d:lastUpdate>2023-08-18</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

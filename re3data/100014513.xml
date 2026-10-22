@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014513</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNOX</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">RADAR4Memory</r3d:repositoryName>
+				<r3d:repositoryUrl>https://radar4memory.radar-service.eu/radar/de/home</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.f64bbe</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">RADAR4Memory is a low-threshold and easy-to-use service for the sustainable publication and preservation of research data from the historical sciences and other disciplines working with historical data. It offers free publication for any data type and format according to the FAIR principles, regardless of the researcher&#039;s institutional affiliation. Thanks to persistent identifiers (DOI) and a guaranteed retention period of at least 25 years, the research data will remain available, citable and findable in the long term. The service is currently aimed exclusively at researchers at publicly funded research institutions and universities as well as non-commercial academies, libraries, archives and museums in Germany. No contract is required and no fees are charged for the publication of data. The upload, organization, annotation and curation of the research data as well as the peer review process (as an optional step) and finally the publication are the responsibility of the researchers.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@radar-service.eu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>111</r3d:subjectId>
+				<r3d:subjectName>Ancient Cultures</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11103</r3d:subjectId>
+				<r3d:subjectName>Ancient History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11202</r3d:subjectId>
+				<r3d:subjectName>Early Modern History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12407</r3d:subjectId>
+				<r3d:subjectName>Economic and Social History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>121</r3d:subjectId>
+				<r3d:subjectName>Educational Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12101</r3d:subjectId>
+				<r3d:subjectName>General Education and History of Education</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>112</r3d:subjectId>
+				<r3d:subjectName>History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11801</r3d:subjectId>
+				<r3d:subjectName>History of Philosophy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11204</r3d:subjectId>
+				<r3d:subjectName>History of Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11201</r3d:subjectId>
+				<r3d:subjectName>Medieval History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11203</r3d:subjectId>
+				<r3d:subjectName>Modern and Contemporary History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>118</r3d:subjectId>
+				<r3d:subjectName>Philosophy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>116</r3d:subjectId>
+				<r3d:subjectName>Social and Cultural Anthropology, Non-European Cultures, Jewish Studies and Religious Studies</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://radar.products.fiz-karlsruhe.de/de/radarabout/radar4memory</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>FAIR</r3d:keyword>
+					<r3d:keyword>NFDI</r3d:keyword>
+					<r3d:keyword>NFDI4Memory</r3d:keyword>
+					<r3d:keyword>digital humanities</r3d:keyword>
+					<r3d:keyword>historical sciences</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">FIZ Karlsruhe - Leibniz Institute for Information Infrastructure</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">FIZ Karlsruhe</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">FIZ Karlsruhe - Leibniz-Institut für Informationsinfrastruktur GmbH</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.fiz-karlsruhe.de/en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/0387prb75</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2024-11</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Framework conditions for the use of RADAR4Memory</r3d:policyName>
+				<r3d:policyUrl>https://radar.products.fiz-karlsruhe.de/en/radarabout/radar4memory#you+are+interested%3F</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>RADAR4Memory License and User Instructions for Data Providers</r3d:policyName>
+				<r3d:policyUrl>https://radar.products.fiz-karlsruhe.de/sites/default/files/radar/docs/terms/License_and_User_Instructions_for_Data_Providers_RADAR4Memory.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC0</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://creativecommons.org/publicdomain/zero/1.0/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>RADAR4Memory License and User Instructions for Data Providers</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://radar.products.fiz-karlsruhe.de/sites/default/files/radar/docs/terms/License_and_User_Instructions_for_Data_Providers_RADAR4Memory.pdf</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>RADAR</r3d:software>
+							<r3d:versioning>no</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://www.radar-service.eu/oai/OAIHandler?verb=ListRecords&amp;metadataPrefix=radar&amp;set=radar4memory</r3d:apiUrl>
+									<r3d:apiDocumentation>https://radar.products.fiz-karlsruhe.de/de/radarabout/radar4memory#oai-pmh+endpunkt</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://www.radar-service.eu/oai/OAIHandler?verb=Identify</r3d:apiUrl>
+									<r3d:apiDocumentation>https://radar.products.fiz-karlsruhe.de/en/radarfeatures/radar-oai-provider</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://radar.products.fiz-karlsruhe.de/en/radarfeatures/radar-api</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>SPARQL</r3d:apiType>
+				<r3d:apiUrl>https://www.radar-service.eu/sparql</r3d:apiUrl>
+									<r3d:apiDocumentation>https://radar.products.fiz-karlsruhe.de/de/radarabout/radar4memory#sparql-endpunkt</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+													<r3d:aidSystem>ORCID</r3d:aidSystem>
+							<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>DataCite Metadata Schema</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m11</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>schema.org</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m101</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>RADAR4Memory is based on the established data repository RADAR Cloud, which is operated by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure (https://www.re3data.org/repository/r3d100012330). It was developed as part of FIZ Karlsruhe&#039;s participation in the consortium for the the historically working humanities NFDI4Memory (funded by the German Research Foundation (DFG) - 501609550) within the National Research Data Infrastructure (NFDI). RADAR4Memory complements the existing portfolio of repositories for research data on the field of historical humanities and is ideally suited for cross-disciplinary data or datasets with a variety of different data formats.</r3d:remarks>
+		<r3d:entryDate>2024-11-26</r3d:entryDate>
+		<r3d:lastUpdate>2025-04-09</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

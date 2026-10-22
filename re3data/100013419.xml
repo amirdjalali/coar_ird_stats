@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013419</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJMUJ</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">ROCEEH Out of Africa Database</r3d:repositoryName>
+				<r3d:additionalName language="eng">ROAD</r3d:additionalName>
+				<r3d:additionalName language="eng">The Role of Culture in Early Expansions of Humans Out of Africa Database</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.roceeh.uni-tuebingen.de/roadweb/smarty_road_simple_search.php</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.4f6901</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">ROAD is a spatio-temporal database designed to support a systemic understanding of human activities and expansions between 3 million and 20 thousand years ago (3 Ma – 20 ka) across Africa and Eurasia. It contains cultural, anthropological, environmental, and geographical information about archaeological sites and assemblages.
+
+Open access is provided through several tools: the basic web map &#039;Simple Search&#039;, the simplified data query tool &#039;AskROAD&#039;, the &#039;Summary Data Sheets&#039;, which compile all information on a locality in a user-friendly PDF format, and &#039;roadDB&#039;, a package for data retrieval through R. After registration, full access to the database is available via a SQL query interface and the geoinformation system &#039;Map Module&#039;.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@roceeh.net</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>&gt;2.700 sites; &gt;29.000 assemblages</r3d:size>
+						<r3d:startDate>2008</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>111</r3d:subjectId>
+				<r3d:subjectName>Ancient Cultures</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>345</r3d:subjectId>
+				<r3d:subjectName>Geography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>342</r3d:subjectId>
+				<r3d:subjectName>Geology and Palaeontology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11101</r3d:subjectId>
+				<r3d:subjectName>Prehistory and World Archaeology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.hadw-bw.de/roceeh</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>anthropology</r3d:keyword>
+					<r3d:keyword>archaeology</r3d:keyword>
+					<r3d:keyword>chronometric dating</r3d:keyword>
+					<r3d:keyword>fauna</r3d:keyword>
+					<r3d:keyword>geoinformation</r3d:keyword>
+					<r3d:keyword>human remains</r3d:keyword>
+					<r3d:keyword>lithics</r3d:keyword>
+					<r3d:keyword>material culture</r3d:keyword>
+					<r3d:keyword>organic tools</r3d:keyword>
+					<r3d:keyword>paleolithic</r3d:keyword>
+					<r3d:keyword>plant remains</r3d:keyword>
+					<r3d:keyword>stone age</r3d:keyword>
+					<r3d:keyword>symbolic artifacts</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Heidelberg Academy of Sciences and Humanities</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">Heidelberger Akademie der Wissenschaften</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.hadw-bw.de/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02dvf9b44</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2008</r3d:responsibilityStartDate>
+													<r3d:responsibilityEndDate>2027</r3d:responsibilityEndDate>
+							</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data-Use Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.roceeh.uni-tuebingen.de/roadweb/road_resources/ROAD_user_agreement.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>User Agreement</r3d:policyName>
+				<r3d:policyUrl>https://www.roceeh.uni-tuebingen.de/roadweb/road_resources/ROAD_user_agreement.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>http://www.roceeh.uni-tuebingen.de/roadweb/road_resources/ROAD_user_agreement.pdf</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://www.roceeh.uni-tuebingen.de/roadweb/road_resources/ROAD_user_agreement.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+											<r3d:versioning>no</r3d:versioning>
+															<r3d:citationGuidelineUrl>https://www.roceeh.uni-tuebingen.de/roadweb/road_resources/ROAD_user_agreement.pdf</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>ISO 19115</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m22</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2020-09-29</r3d:entryDate>
+		<r3d:lastUpdate>2026-07-08</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

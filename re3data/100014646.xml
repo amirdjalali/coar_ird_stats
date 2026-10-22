@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014646</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNSM</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Columbia Basin Water Hub</r3d:repositoryName>
+				<r3d:repositoryUrl>https://data.cbwaterhub.ca/</r3d:repositoryUrl>
+				<r3d:description language="eng">Given the mounting pressures on fresh water, water data is critical for decision making, not only for human and industrial uses, but also for functioning ecosystems. The Columbia Basin Water Hub makes water data readily available to those who need to access it.
+
+The Water Hub contains numerical and spatial data, reports, photos and other types of information about streams, lakes, wetlands, groundwater, snow, glaciers and climate in the Columbia Basin, both historical and current. The data is accessible for decision makers, researchers, students, professionals and the public.
+
+Data can be submitted by community-based monitoring groups; municipal, regional or First Nations governments; Indigenous knowledge holders; the private sector; or academia. Data can also be linked to existing databases.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>admin@carlsolutions.com</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>cbwaterhub@livinglakescanada.ca</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>paige@livinglakescanada.ca</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>shawn@eggplantstudios.ca</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>433 datasets</r3d:size>
+													<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34601</r3d:subjectId>
+				<r3d:subjectName>Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>346</r3d:subjectId>
+				<r3d:subjectName>Water Research</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://data.cbwaterhub.ca/about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>FAIR</r3d:keyword>
+					<r3d:keyword>climate</r3d:keyword>
+					<r3d:keyword>groundwater</r3d:keyword>
+					<r3d:keyword>hydrometric</r3d:keyword>
+					<r3d:keyword>lakes</r3d:keyword>
+					<r3d:keyword>steams</r3d:keyword>
+					<r3d:keyword>water level</r3d:keyword>
+					<r3d:keyword>water temperature</r3d:keyword>
+					<r3d:keyword>wetlands</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Living Lakes Canada</r3d:institutionName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://livinglakescanada.ca/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Living Lakes Network</r3d:institutionName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://livinglakes.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>Wikidata</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://www.wikidata.org/wiki/Q6659172</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Columbia Basin Water Hub Terms of Use</r3d:policyName>
+				<r3d:policyUrl>https://data.cbwaterhub.ca/ColumbiaBasinWaterHubTermsofUse.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>ODC</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://opendefinition.org/od/2.1/en/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>OGLC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://open.canada.ca/en/open-government-licence-canada</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>CKAN</r3d:software>
+									<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://docs.ckan.org/en/2.10/api/</r3d:apiUrl>
+									<r3d:apiDocumentation>https://docs.ckan.org/en/2.10/api/legacy-api.html</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+																							<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2025-06-19</r3d:entryDate>
+		<r3d:lastUpdate>2025-06-25</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

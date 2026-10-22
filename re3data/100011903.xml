@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011903</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3JS93</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">RepOD</r3d:repositoryName>
+				<r3d:additionalName language="eng">RepOD Repository for Open Data</r3d:additionalName>
+				<r3d:additionalName language="pol">Repozytorium Otwartych Danych RepOD</r3d:additionalName>
+				<r3d:repositoryUrl>https://repod.icm.edu.pl/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.be560c</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>OpenDOAR</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10112</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_014697</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">RepOD is a general-purpose, CoreTrustSeal certified repository for open research data, offering all members of the academic community in Poland the possibility to deposit their work. It is intended for scientific data from all disciplines of knowledge and in all formats. The purpose of RepOD is to create a place where research data can be safely stored and openly shared with others.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>repod@icm.edu.pl</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>repod@icm.edu.pl</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>multidisciplinary</r3d:type>
+						<r3d:size>200+ collections; 4000+ datasets; 54000+ files</r3d:size>
+						<r3d:startDate>2015-10-01</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>pol</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://info.repod.icm.edu.pl/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Poland</r3d:keyword>
+					<r3d:keyword>generalist</r3d:keyword>
+					<r3d:keyword>multidisciplinary</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">University of Warsaw, Interdisciplinary Centre for Mathematical and Computational Modelling</r3d:institutionName>
+									<r3d:institutionAdditionalName language="pol">ICM UW</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="pol">Interdyscyplinarne Centrum Modelowania Matematycznego i Komputerowego Uniwersytetu Warszawskiego</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://icm.edu.pl/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2015-10-01</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Long-term Preservation policy</r3d:policyName>
+				<r3d:policyUrl>https://info.repod.icm.edu.pl/?page_id=567&amp;lang=en</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms of use</r3d:policyName>
+				<r3d:policyUrl>https://repod.icm.edu.pl/terms-of-use-page.xhtml</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Apache License 2.0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>BSD</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://opensource.org/licenses/bsd-3-clause</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/legalcode</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://opendatacommons.org/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://opensource.org/licenses/MIT-license</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.gnu.org/licenses/licenses.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>How to deposit?</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://info.repod.icm.edu.pl/?page_id=534&amp;lang=en</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>Dataverse</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://repod.icm.edu.pl/oai?verb=Identify</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://repod.icm.edu.pl/api</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+							<r3d:citationReference>Data Citation Index</r3d:citationReference>
+							<r3d:metrics>Usage statistics</r3d:metrics>
+							<r3d:citationGuidelineUrl>https://dataverse.org/best-practices/data-citation</r3d:citationGuidelineUrl>
+							<r3d:aidSystem>ISNI</r3d:aidSystem>
+					<r3d:aidSystem>ORCID</r3d:aidSystem>
+							<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+							<r3d:qualityManagement>
+				<r3d:qualityManagementStatus>yes</r3d:qualityManagementStatus>
+								<r3d:qualityManagementMeasure>
+					<r3d:qualityManagementMeasureName>Data verification procedure</r3d:qualityManagementMeasureName>
+					<r3d:qualityManagementMeasureUrl>https://info.repod.icm.edu.pl/?page_id=527&amp;lang=en</r3d:qualityManagementMeasureUrl>
+				</r3d:qualityManagementMeasure>
+							</r3d:qualityManagement>
+							<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2025-05-20</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2028-05-19</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/DM5KNA</r3d:certificateUrl>
+									<r3d:certificateWidget>https://www.coretrustseal.org/wp-content/uploads/2017/06/cropped-CoreTrustSeal-logo-512px.jpg</r3d:certificateWidget>
+							</r3d:certificate>
+									<r3d:metadataStandard>
+				<r3d:metadataStandardName>DDI (Data Documentation Initiative)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m13</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>DataCite Metadata Schema</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m11</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>JSON-LD (JavaScript Object Notation for Linked Data)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m95</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>OAI-ORE (Open Archives Initiative Object Reuse and Exchange)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m26</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>OpenAIRE Guidelines</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m92</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2015-12-22</r3d:entryDate>
+		<r3d:lastUpdate>2026-05-27</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

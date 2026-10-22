@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011552</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3JP79</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Ningaloo Atlas</r3d:repositoryName>
+				<r3d:repositoryUrl>https://ningaloo-atlas.org.au/welcome</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.2fa60d</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">The Ningaloo Atlas was created in response to the need for more comprehensive and accessible information on environmental and socio-economic data on the greater Ningaloo region.  As such, the Ningaloo Atlas is a web portal to not only access and share information, but to celebrate and promote the biodiversity, heritage, value, and way of life of the greater Ningaloo region.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>ningaloo@aims.gov.au</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2013</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>345</r3d:subjectId>
+				<r3d:subjectName>Geography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>213</r3d:subjectId>
+				<r3d:subjectName>Zoology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://ningaloo-atlas.org.au/content/about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_8a7e</r3d:contentTypeId>
+				<r3d:contentTypeName>moving image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_1843</r3d:contentTypeId>
+				<r3d:contentTypeName>other</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/NHD0-W6SY</r3d:contentTypeId>
+				<r3d:contentTypeName>survey data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Australia</r3d:keyword>
+					<r3d:keyword>Ningaloo reef</r3d:keyword>
+					<r3d:keyword>World Heritage</r3d:keyword>
+					<r3d:keyword>biodiversity</r3d:keyword>
+					<r3d:keyword>biology</r3d:keyword>
+					<r3d:keyword>conservation</r3d:keyword>
+					<r3d:keyword>coral reef</r3d:keyword>
+					<r3d:keyword>ecology</r3d:keyword>
+					<r3d:keyword>ecosystems</r3d:keyword>
+					<r3d:keyword>marine environments</r3d:keyword>
+					<r3d:keyword>oceanography</r3d:keyword>
+					<r3d:keyword>socio-economy</r3d:keyword>
+					<r3d:keyword>terrestrial environments</r3d:keyword>
+					<r3d:keyword>whale sharks</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Australian Government, Australian Institute of Marine Science</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">AIMS</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AUS</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.aims.gov.au/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03x57gn41</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">BHP</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Broken Hill Proprietary Company Limited</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AUS</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>commercial</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bhp.com/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04674kj97</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Ningaloo Atlas partners</r3d:institutionName>
+								<r3d:institutionCountry>AUS</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://ningaloo-atlas.org.au/node/213</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Terms of Use</r3d:policyName>
+				<r3d:policyUrl>https://ningaloo-atlas.org.au/content/terms-use</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org.au/learn/licences/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://ningaloo-atlas.org.au/content/terms-use</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Creative Commons licenses</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://creativecommons.org.au/learn/licences/</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.aims.gov.au/cc-attribution</r3d:citationGuidelineUrl>
+																			<r3d:syndication>
+				<r3d:syndicationType>RSS</r3d:syndicationType>
+				<r3d:syndicationUrl>https://ningaloo-atlas.org.au/rss.xml</r3d:syndicationUrl>
+			</r3d:syndication>
+				<r3d:remarks>Partners: https://ningaloo-atlas.org.au/node/213</r3d:remarks>
+		<r3d:entryDate>2015-02-06</r3d:entryDate>
+		<r3d:lastUpdate>2025-08-06</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

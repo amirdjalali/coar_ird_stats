@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010580</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3KG7J</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">International GNSS Service</r3d:repositoryName>
+				<r3d:additionalName language="eng">IGS</r3d:additionalName>
+				<r3d:additionalName language="eng">International GPS Service</r3d:additionalName>
+				<r3d:repositoryUrl>https://igs.org/</r3d:repositoryUrl>
+				<r3d:description language="eng">The IGS global system of satellite tracking stations, Data Centers, and Analysis Centers puts high-quality GPS data and data products on line in near real time to meet the objectives of a wide range of scientific and engineering applications and studies.
+The IGS collects, archives, and distributes GPS observation data sets of sufficient accuracy to satisfy the objectives of a wide range of applications and experimentation. These data sets are used by the IGS to generate the data products mentioned above which are made available to interested users through the Internet. In particular, the accuracies of IGS products are sufficient for the improvement and extension of the International Terrestrial Reference Frame (ITRF), the monitoring of solid Earth deformations, the monitoring of Earth rotation and variations in the liquid Earth (sea level, ice-sheets, etc.), for scientific satellite orbit determinations, ionosphere monitoring, and recovery of precipitable water vapor measurements.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>CB@igs.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://igs.org/contact-us/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>1994</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34302</r3d:subjectId>
+				<r3d:subjectName>Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>343</r3d:subjectId>
+				<r3d:subjectName>Geophysics and Geodesy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://igs.org/about-2/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>GLONASS</r3d:keyword>
+					<r3d:keyword>GPS</r3d:keyword>
+					<r3d:keyword>Galileo</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">California Institute of Technology, Jet Propulsion Laboratory</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">JPL</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.jpl.nasa.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/027k65916</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">IGS Central Bureau Information System</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CBIS</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://igs.org/governance-management/#central-bureau</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">International Association of Geodesy, Global Geodetic Observing System</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">IAG GGOS</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://geodesy.science/ggos/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nasa.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/027ka1x80</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data and Product Disclaimer and Terms of Use</r3d:policyName>
+				<r3d:policyUrl>https://igs.org/wp-content/uploads/2020/09/IGS-Data-and-Product-Disclaimer-and-Terms-of-Use-200805.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>IGS Site Guidelines</r3d:policyName>
+				<r3d:policyUrl>https://igs.org/documents-posters/#guidelines</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://igs.org/wp-content/uploads/2020/09/IGS-Data-and-Product-Disclaimer-and-Terms-of-Use-200805.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+									<r3d:api>
+				<r3d:apiType>FTP</r3d:apiType>
+				<r3d:apiUrl>ftp://igs.ensg.ign.fr/pub/igs/products/</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>FTP</r3d:apiType>
+				<r3d:apiUrl>ftp://garner.ucsd.edu/pub/products/</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>FTP</r3d:apiType>
+				<r3d:apiUrl>ftp://igs.ensg.ign.fr/</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>FTP</r3d:apiType>
+				<r3d:apiUrl>ftp://nfs.kasi.re.kr/</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>FTP</r3d:apiType>
+				<r3d:apiUrl>ftp://igs.gnsswhu.cn/</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>FTP</r3d:apiType>
+				<r3d:apiUrl>ftp://gssc.esa.int/</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://igs.org/documents-posters/#citation</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>no</r3d:enhancedPublication>
+														<r3d:remarks>The IGS is a Network member of ISC World Data System - WDS .
+IGS Product Access has been moved to CDDIS and other Global Data Centers in 2017 . See FTP accesses</r3d:remarks>
+		<r3d:entryDate>2013-01-06</r3d:entryDate>
+		<r3d:lastUpdate>2026-09-03</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

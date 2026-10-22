@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010718</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R33W5K</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="deu">heidICON</r3d:repositoryName>
+				<r3d:additionalName language="deu">Die Heidelberger Bilddatenbank</r3d:additionalName>
+				<r3d:additionalName language="eng">The image and multimedia database</r3d:additionalName>
+				<r3d:repositoryUrl>https://heidicon.ub.uni-heidelberg.de/search</r3d:repositoryUrl>
+				<r3d:description language="eng">heidICON is provided by Heidelberg University Library and is the &quot;Virtual Slide Collection&quot; in progress of organization of Heidelberg University. In addition to record graphic material on current interest for research and teaching, the University departments and institutes can digitize and transfer their already existing slide collections.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.ub.uni-heidelberg.de/helios/digi/heidicon_kontakt.html</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+						<r3d:size>383.303 records in 160 pools and 1 object type</r3d:size>
+						<r3d:startDate>2005</r3d:startDate>
+        									<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22204</r3d:subjectId>
+				<r3d:subjectName>Anatomy and Physiology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>111</r3d:subjectId>
+				<r3d:subjectName>Ancient Cultures</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>113</r3d:subjectId>
+				<r3d:subjectName>Art History, Music, Theatre and Media Studies</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21103</r3d:subjectId>
+				<r3d:subjectName>Cell Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11104</r3d:subjectId>
+				<r3d:subjectName>Classical, Roman, Christian and Islamic Archaeology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11105</r3d:subjectId>
+				<r3d:subjectName>Egyptology and Ancient Near Eastern Studies</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>112</r3d:subjectId>
+				<r3d:subjectName>History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.ub.uni-heidelberg.de/helios/digi/heidicon_teilnehmer.html</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/CQMR-7K63</r3d:contentTypeId>
+				<r3d:contentTypeName>recorded data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Diathek</r3d:keyword>
+					<r3d:keyword>cartoons</r3d:keyword>
+					<r3d:keyword>illustrations</r3d:keyword>
+					<r3d:keyword>images</r3d:keyword>
+					<r3d:keyword>multidisciplinary</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="deu">Gesellschaft der Freunde Universität Heidelberg e.V.</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">Stiftung Universität Heidelberg</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.uni-heidelberg.de/studium/interesse/freunde.html</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Universität Heidelberg, Universitätsbibliothek</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Heidelberg University, Library</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ub.uni-heidelberg.de/de</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Nutzungsbedingungen heidICON</r3d:policyName>
+				<r3d:policyUrl>https://www.ub.uni-heidelberg.de/helios/digi/heidicon_nutzungsbedingungen.html</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.uni-heidelberg.de/de/urheberrecht</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.ub.uni-heidelberg.de/helios/digi/heidicon_nutzungsbedingungen.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>feeRequired</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.ub.uni-heidelberg.de/helios/digi/heidicon_nutzungsbedingungen.html</r3d:citationGuidelineUrl>
+																		<r3d:remarks>Further image sources - amongst others - in the portals: ARTstor, Bildindex der Kunst und Architektur, Prometheus</r3d:remarks>
+		<r3d:entryDate>2013-09-26</r3d:entryDate>
+		<r3d:lastUpdate>2026-08-25</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

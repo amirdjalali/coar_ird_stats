@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014161</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNF5</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">RODBUK Cracow Open Research Data Repository</r3d:repositoryName>
+				<r3d:additionalName language="pol">RODBUK</r3d:additionalName>
+				<r3d:additionalName language="pol">Repozytorium Otwartych Danych Badawczych Uczelni Krakowskich</r3d:additionalName>
+				<r3d:repositoryUrl>https://rodbuk.pl</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>OpenDOAR</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10798</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">RODBUK Cracow Open Research Data Repository is co-created by six Cracow universities: AGH University of Science and Technology, University of Physical Education in Krakow, Cracow University of Technology, Krakow University of Economics, Jagiellonian University in Kraków, University of the National Education Commission, Krakow. The purpose of RODBUK is to collect, develop, archive and make available in open access all types of research data created by researchers, PhD candidates and students in the course of scientific activity. RODBUK aims to implement the Open Science policy by creating a publicly available platform for depositing research datasets enabling: getting acquainted with the research conducted in Cracow&#039;s scientific centers, storage of various types of research data obtaining a permanent Digital Object Identifier (DOI) for each dataset, standardized data citation, choosing a data usage license agreement (Creative Commons or other. RODBUK allows to collect and share open research data from various disciplines and in all file formats. RODBUK applies the FAIR Principles, which means the data is findable, accessible, interoperable, reusable.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>rodbuk@cyfronet.pl</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+						<r3d:size>81 dataverses; 571 datasets; 7.429 files</r3d:size>
+						<r3d:startDate>2023</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>pol</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://rodbuk.pl</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_1843</r3d:contentTypeId>
+				<r3d:contentTypeName>other</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>multidisciplinary</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">AGH University of  Krakow</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">AGH University of Science and Technology</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="pol">Akademia Górniczo-Hutnicza im. Stanisława Staszica</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.agh.edu.pl/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00bas1c41</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Cracow University of Technology</r3d:institutionName>
+									<r3d:institutionAdditionalName language="pol">Politechnika Krakowska im. Tadeusza Kościuszki</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.pk.edu.pl/index.php?lang=en&amp;template=pk18-tpl</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00pdej676</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Jagiellonian University</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Jagiellonian University in Kraków</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="pol">Uniwersytet Jagielloński</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.uj.edu.pl/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03bqmcz70</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_025051</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Krakow University of Economics</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CUE</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Cracow University of Economics</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="pol">Uniwersytet Ekonomiczny w Krakowie</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://uek.krakow.pl/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/0262te083</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Physical Education in Kraków</r3d:institutionName>
+									<r3d:institutionAdditionalName language="pol">AWF</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="pol">Akademia Wychowania Fizycznego w Krakowie</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.awf.krakow.pl/erasmus/incoming</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05vy8np18</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of the National Education Commission, Krakow</r3d:institutionName>
+									<r3d:institutionAdditionalName language="pol">Uniwersytet Komisji Edukacji Narodowej w Krakowie</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">formerly: Pedagogical University of Kraków</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="pol">formerly: Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.uken.krakow.pl/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/030mz2444</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data Preservation Policy</r3d:policyName>
+				<r3d:policyUrl>https://agh.rodbuk.pl/en/data-preservation-policy</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>English version Guidelines for depositing research data</r3d:policyName>
+				<r3d:policyUrl>https://docs.cyfronet.pl/display/RODBUK/English+version+Guidelines+for+depositing+research+data</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms and Conditions</r3d:policyName>
+				<r3d:policyUrl>https://agh.rodbuk.pl/en/terms-of-use</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>closed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://opendatacommons.org/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://en.wikipedia.org/wiki/GNU_General_Public_License</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>Dataverse</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://rodbuk.pl/oai?verb=Identify</r3d:apiUrl>
+									<r3d:apiDocumentation>https://guides.dataverse.org/en/latest/admin/discoverability.html</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://rodbuk.pl/api</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://guides.dataverse.org/en/latest/api/native-api.html</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>SWORD</r3d:apiType>
+				<r3d:apiUrl>https://guides.dataverse.org/en/latest/api/sword.html#</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://dataverse.org/best-practices/data-citation</r3d:citationGuidelineUrl>
+							<r3d:aidSystem>ISNI</r3d:aidSystem>
+					<r3d:aidSystem>ORCID</r3d:aidSystem>
+					<r3d:aidSystem>ResearcherID</r3d:aidSystem>
+							<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+									<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2025-04-24</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2028-04-23</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/BI2NDV</r3d:certificateUrl>
+							</r3d:certificate>
+									<r3d:metadataStandard>
+				<r3d:metadataStandardName>DDI (Data Documentation Initiative)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m13</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>DataCite Metadata Schema</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m11</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>OAI-ORE (Open Archives Initiative Object Reuse and Exchange)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m26</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2023-04-11</r3d:entryDate>
+		<r3d:lastUpdate>2025-06-18</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

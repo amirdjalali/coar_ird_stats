@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013676</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJN1O</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">BORIS Portal</r3d:repositoryName>
+				<r3d:additionalName language="eng">Bern Open Repository and Information System</r3d:additionalName>
+				<r3d:repositoryUrl>https://boris-portal.unibe.ch</r3d:repositoryUrl>
+				<r3d:description language="eng">Institutional repository of the University of Bern. BORIS Portal allows researchers at the University of Bern to archive and manage research data as well as project and funding information, to make it accessible and clearly identifiable.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>borisportal@ub.unibe.ch</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+						<r3d:size>478 datasets</r3d:size>
+						<r3d:startDate>2021-09-13</r3d:startDate>
+        									<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.ub.unibe.ch/services/open_science/boris_portal/index_eng.html</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>FAIR</r3d:keyword>
+					<r3d:keyword>multidisciplinary</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="deu">Universität Bern</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">University of Bern</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CHE</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.unibe.ch/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02k7v4d05</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011608</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>BORIS Portal Factsheet</r3d:policyName>
+				<r3d:policyUrl>https://www.ub.unibe.ch/unibe/portal/unibiblio/content/e6304/e583799/e1094036/e1094040/pane1094042/e1361076/BORISPortal_Factsheet_DE_230222_v1.2_ger.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>BORIS Portal Service Policies</r3d:policyName>
+				<r3d:policyUrl>https://boris-portal.unibe.ch/assets/static/ServicePolicies_BORISPortal.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC0</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://creativecommons.org/publicdomain/zero/1.0/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>closed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Apache License 2.0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>DSpace</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://boris-portal.unibe.ch/server/oai</r3d:apiUrl>
+									<r3d:apiDocumentation>https://www.openarchives.org/OAI/openarchivesprotocol.html</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+					<r3d:pidSystem>hdl</r3d:pidSystem>
+													<r3d:aidSystem>ORCID</r3d:aidSystem>
+							<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2021-11-01</r3d:entryDate>
+		<r3d:lastUpdate>2026-05-05</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

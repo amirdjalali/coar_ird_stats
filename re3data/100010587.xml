@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010587</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3T020</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">EarthScope</r3d:repositoryName>
+				<r3d:repositoryUrl>https://www.earthscope.org/</r3d:repositoryUrl>
+				<r3d:description language="eng">EarthScope was a program of the National Science Foundation (NSF) that has deployed thousands of seismic, GPS, and other geophysical instruments to study the structure and evolution of the North American continent and the processes that cause earthquakes and volcanic eruptions.
+EarthScope was an Earth science program to explore the 4-dimensional structure of the North American continent. The EarthScope Program provides a framework for broad, integrated studies across the Earth sciences, including research on fault properties and the earthquake process, strain transfer, magmatic and hydrous fluids in the crust and mantle, plate boundary processes, large-scale continental deformation, continental structure and evolution, and composition and structure of the deep Earth. In addition, EarthScope offers a centralized forum for Earth science education at all levels and an excellent opportunity to develop cyberinfrastructure to integrate, distribute, and analyze diverse data set.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.earthscope.org/contact-us/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2007</r3d:startDate>
+        							<r3d:relatedRepository>
+				<r3d:relatedRepositoryId>r3d100010872</r3d:relatedRepositoryId>
+				<r3d:relatedRepositoryType>predecessor</r3d:relatedRepositoryType>
+			</r3d:relatedRepository>
+					<r3d:relatedRepository>
+				<r3d:relatedRepositoryId>r3d100010268</r3d:relatedRepositoryId>
+				<r3d:relatedRepositoryType>predecessor</r3d:relatedRepositoryType>
+			</r3d:relatedRepository>
+							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>345</r3d:subjectId>
+				<r3d:subjectName>Geography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>343</r3d:subjectId>
+				<r3d:subjectName>Geophysics and Geodesy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.earthscope.org/about/earthscope/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>environmental data</r3d:keyword>
+					<r3d:keyword>geochemistry</r3d:keyword>
+					<r3d:keyword>geodetic data</r3d:keyword>
+					<r3d:keyword>geomorphology</r3d:keyword>
+					<r3d:keyword>geophysics</r3d:keyword>
+					<r3d:keyword>geoscience</r3d:keyword>
+					<r3d:keyword>hydrologic science</r3d:keyword>
+					<r3d:keyword>marine geophysics</r3d:keyword>
+					<r3d:keyword>seismic data</r3d:keyword>
+					<r3d:keyword>subsurface</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">EarthScope, San Andreas Fault Observatory at Depth</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">SAFOD</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.gfz.de/en/section/geophysics/section/geophysical-imaging/projects/past-projects/safod</r3d:institutionUrl>
+																	<r3d:responsibilityEndDate>2018</r3d:responsibilityEndDate>
+							</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">EarthScope, UNAVCO, Plate Boundary Observatory</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">PBO</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.unavco.org/projects/past-projects/pbo/pbo.html</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">IRIS, USArray</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Incorporated research institutions for seismology</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.usarray.org/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nsf.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/021nxhr62</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_012938</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_inv_1005118</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Alaska Fairbanks, Geophysical Institute, EarthScope National Office</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">UAF, ESNO</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.gi.alaska.edu/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2016</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>EarthScope Code of Conduct</r3d:policyName>
+				<r3d:policyUrl>https://www.earthscope.org/earthscope-code-of-conduct/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms of Service</r3d:policyName>
+				<r3d:policyUrl>https://www.earthscope.org/terms-of-service/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.earthscope.org/terms-of-service/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>none</r3d:pidSystem>
+																								<r3d:remarks>Since 2007, the ESNO has been located at Oregon State University (2007-2011), Arizona State University (2011-2015), and now resides at the University of Alaska, Fairbanks</r3d:remarks>
+		<r3d:entryDate>2014-01-14</r3d:entryDate>
+		<r3d:lastUpdate>2026-09-14</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

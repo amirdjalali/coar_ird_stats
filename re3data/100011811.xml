@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011811</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3F932</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Nordicana D</r3d:repositoryName>
+				<r3d:additionalName language="fra">La collection Nordicana D</r3d:additionalName>
+				<r3d:additionalName language="eng">Nordicana D collection</r3d:additionalName>
+				<r3d:repositoryUrl>https://nordicana.cen.ulaval.ca/</r3d:repositoryUrl>
+				<r3d:description language="eng">Nordicana series D is a formatted, online data report series archived at CEN. It is produced only in electronic  form  and  is  freely  and  openly  accessible  to  CEN  researchers  and  to  other  users.  Each  issue is published in French and in English, and is indexed 
+via an assigned digital object identifier (DOI). An issue may be updated,  for  example  with  new  data,  as  a  new  version  number,  but  will  retain  the  same  DOI.  Each  issue contains data sets and extensive metadata that explain the origin of the data, the format of the data, the history of updates via different version numbers, and the format that should be adopted to cite the data.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://nordicana.cen.ulaval.ca/en/contact-us</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>nordicana@cen.ulaval.ca</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://nordicana.cen.ulaval.ca/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>ADAPT</r3d:keyword>
+					<r3d:keyword>IPY-ArcticWOLVES</r3d:keyword>
+					<r3d:keyword>SILA Network</r3d:keyword>
+					<r3d:keyword>climate warming</r3d:keyword>
+					<r3d:keyword>ecosystems</r3d:keyword>
+					<r3d:keyword>environmental change</r3d:keyword>
+					<r3d:keyword>geosystems</r3d:keyword>
+					<r3d:keyword>northern regions</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Centre for Northern Studies</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">CEN</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Centre d&#039;études nordiques</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.cen.ulaval.ca/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01q8ytn75</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">Université Laval</r3d:institutionName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ulaval.ca/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04sjchr03</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011335</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">Université du Québec à Rimouski</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">UQAR</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Université du Québec Campus Rimouski</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.uqar.ca/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/049jtt335</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Nordicana D and CEN Data Policy</r3d:policyName>
+				<r3d:policyUrl>https://nordicana.cen.ulaval.ca/document/en_datapolicy.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms of use</r3d:policyName>
+				<r3d:policyUrl>https://nordicana.cen.ulaval.ca/en/terms-of-use</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://nordicana.cen.ulaval.ca/document/en_datapolicy.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+											<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>DOI</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://nordicana.cen.ulaval.ca/en/terms-of-use</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>FGDC/CSDGM (Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m17</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>ISO 19115</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m22</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>All data reports published in  Nordicana D will be described in the Polar Data Catalogue to ensure their full availability and dissemination.CEN  researchers also include professors from the Université du Québec à Trois-Rivières, Université de Sherbrooke, 
+Université de Montréal, Université du Québec à Chicoutimi, Université du Québec à Montréal, McGill University and Cégep F-X Garneau. CEN brings together over 200 researchers,  students,  postdoctoral  fellows  and  professionals  from  diverse  disciplines  (biology  and 
+microbiology, geography, geology, engineering, archeology, landscape management).</r3d:remarks>
+		<r3d:entryDate>2015-09-10</r3d:entryDate>
+		<r3d:lastUpdate>2026-04-23</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010887</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3M31S</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">TalkBank</r3d:repositoryName>
+				<r3d:repositoryUrl>https://talkbank.org/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_003242</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>nif-0000-00626</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">TalkBank provides transcripts, audio and video of communicative interactions for research in spoken language communication.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>macw@cmu.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+								<r3d:startDate>1999</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12303</r3d:subjectId>
+				<r3d:subjectName>Communication Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>114</r3d:subjectId>
+				<r3d:subjectName>Linguistics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21304</r3d:subjectId>
+				<r3d:subjectName>Sensory and Behavioural Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>213</r3d:subjectId>
+				<r3d:subjectName>Zoology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.clarin.eu/blog/talkbank-clarin-knowledge-centre</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>aphasia</r3d:keyword>
+					<r3d:keyword>bilingualism</r3d:keyword>
+					<r3d:keyword>child language</r3d:keyword>
+					<r3d:keyword>classroom discourse</r3d:keyword>
+					<r3d:keyword>code switching (linguistics)</r3d:keyword>
+					<r3d:keyword>conversation analysis</r3d:keyword>
+					<r3d:keyword>dementia</r3d:keyword>
+					<r3d:keyword>discourse analysis</r3d:keyword>
+					<r3d:keyword>gesture</r3d:keyword>
+					<r3d:keyword>linguistics</r3d:keyword>
+					<r3d:keyword>right hemisphere disorder</r3d:keyword>
+					<r3d:keyword>stuttering</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">CLARIN ERIC</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure European Research Infrastructure Consortium</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EEC</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.clarin.eu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03wp25384</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Carnegie Mellon University</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.cmu.edu/index.html</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05x2bcf33</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011138</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National ‫Science Foundation</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nsf.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/021nxhr62</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_012938</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>1999</r3d:responsibilityStartDate>
+													<r3d:responsibilityEndDate>2004</r3d:responsibilityEndDate>
+							</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">U.S. Department of Health &amp; Human Services, National Institutes of Health, National Institute on Deafness and Other Communication Disorders</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NIDCD</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nidcd.nih.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04mhx6838</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_012859</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>1984</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>NIH Data Management and Sharing Policy</r3d:policyName>
+				<r3d:policyUrl>https://sharing.nih.gov/data-management-and-sharing-policy</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>OLAC Standards</r3d:policyName>
+				<r3d:policyUrl>https://www.language-archives.org/documents/#Standards</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>TalkBank Code of Ethics</r3d:policyName>
+				<r3d:policyUrl>https://talkbank.org/0share/ethics.html</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>TalkBank Data Preservation</r3d:policyName>
+				<r3d:policyUrl>https://talkbank.org/0share/preservation.html</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>TalkBank Ground Rules</r3d:policyName>
+				<r3d:policyUrl>https://talkbank.org/0share/rules.html</r3d:policyUrl>
+			</r3d:policy>
+							<r3d:fundingInformation>
+				<r3d:funderName>National Science Foundation</r3d:funderName>
+									<r3d:funderIdentifier>
+						<r3d:funderIdentifierType>CrossrefFunderID</r3d:funderIdentifierType>
+						<r3d:funderIdentifierValue>100000001</r3d:funderIdentifierValue>
+					</r3d:funderIdentifier>
+													<r3d:grantIdentifier>SBE RIDIR 1539010</r3d:grantIdentifier>
+									<r3d:grantIdentifier>SBE RIDIR 1539129</r3d:grantIdentifier>
+									<r3d:grantIdentifier>SBE RIDIR 1539133</r3d:grantIdentifier>
+							</r3d:fundingInformation>
+				<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>closed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-nc-sa/3.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Contributing</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://talkbank.org/share/contrib.html</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>hdl</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://talkbank.org/0share/citation.html</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>TalkBank is covered by Thomson Reuters Data Citation Index. In addition to preservation at Carnegie Mellon, all TalkBank materials are included in the Nijmegen Max-Planck archive at mpi.nl and the CLARIN archives. TalkBank is harvested by Online Language Archiving Community (OLAC) http://www.language-archives.org/ OAIS standards are implemented in terms of TalkBank policies for long term preservation, data migration, metadata creation, storage practices, documentation, legal responsibilities, and data access. Metadata regarding each file is constructed in accord with the CMDI standard at https://www.clarin.eu/content/cmdi-component-metadata-infrastructure and is included in each archive
+TalkBank is associated as third party with CLARIN-ERIC and was a certified B and K-Centre until 2024.
+TalkBank was CTS certified until 2024-10-21.</r3d:remarks>
+		<r3d:entryDate>2014-07-02</r3d:entryDate>
+		<r3d:lastUpdate>2026-08-20</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

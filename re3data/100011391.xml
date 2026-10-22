@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011391</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R37W66</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">HSRC Research Output Repository</r3d:repositoryName>
+				<r3d:additionalName language="eng">Human Sciences Research Council</r3d:additionalName>
+				<r3d:repositoryUrl>https://hsrc-repository.figshare.com/</r3d:repositoryUrl>
+				<r3d:description language="eng">The HSRC Research Output Repository is a digital platform for the HSRC&#039;s research output (Data and Publications) in support of evidence based human and social development in South Africa and the broader region. The repository includes all HSRC generated publications as well as quantitative and qualitative data sets. Access to the output in this repository is dependent on copyright, availability of the copy as well as ethical requirements for protecting research participants, legal agreements with the owners, funders or in the case of data owned by the HSRC, the requirements of the depositors of the data.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>datahelp@hsrc.ac.za</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>hbaudin@hsrc.ac.za</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+						<r3d:size>200 datasets</r3d:size>
+						<r3d:startDate>1968</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12402</r3d:subjectId>
+				<r3d:subjectName>Economic Policy, Applied Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12302</r3d:subjectId>
+				<r3d:subjectName>Empirical Social Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12304</r3d:subjectId>
+				<r3d:subjectName>Political Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://hsrc.ac.za/who-we-are/our-mandate/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/NHD0-W6SY</r3d:contentTypeId>
+				<r3d:contentTypeName>survey data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>HIV/AIDS</r3d:keyword>
+					<r3d:keyword>South Africa</r3d:keyword>
+					<r3d:keyword>agrarian reform</r3d:keyword>
+					<r3d:keyword>alcohol prevention</r3d:keyword>
+					<r3d:keyword>census data</r3d:keyword>
+					<r3d:keyword>child maltreatment prevention</r3d:keyword>
+					<r3d:keyword>community survey</r3d:keyword>
+					<r3d:keyword>financial crisis</r3d:keyword>
+					<r3d:keyword>health system</r3d:keyword>
+					<r3d:keyword>mental health</r3d:keyword>
+					<r3d:keyword>microdata</r3d:keyword>
+					<r3d:keyword>poverty</r3d:keyword>
+					<r3d:keyword>qualititative data</r3d:keyword>
+					<r3d:keyword>schools</r3d:keyword>
+					<r3d:keyword>sexuality</r3d:keyword>
+					<r3d:keyword>unemployment</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Human Sciences Research Council</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">HSRC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ZAF</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://hsrc.ac.za/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/056206b04</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Research Ethics and Integrity</r3d:policyName>
+				<r3d:policyUrl>https://hsrc.ac.za/who-we-are/our-standards/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Research Integrity Policy</r3d:policyName>
+				<r3d:policyUrl>https://hsrc.ac.za/wp-content/uploads/2025/05/Research-Integrity-Policy.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms of Use</r3d:policyName>
+				<r3d:policyUrl>https://hsrc.ac.za/terms-of-use/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>closed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://hsrc.ac.za/terms-of-use/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>figshare</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://api.figshare.com/v2/oai?verb=ListIdentifiers&amp;metadataPrefix=oai_dc&amp;set=portal_1093</r3d:apiUrl>
+									<r3d:apiDocumentation>https://docs.figshare.com/#oai_pmh</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://api.figshare.com/v2/articles?query=*</r3d:apiUrl>
+									<r3d:apiDocumentation>https://docs.figshare.com/#figshare_documentation_api_description_feature_list</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://info.figshare.com/user-guide/how-to-share-cite-or-embed-your-items/</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>DDI (Data Documentation Initiative)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m13</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+							<r3d:syndication>
+				<r3d:syndicationType>RSS</r3d:syndicationType>
+				<r3d:syndicationUrl>http://www.hsrc.ac.za/en/research-outputs?rss=1</r3d:syndicationUrl>
+			</r3d:syndication>
+				<r3d:remarks>HSRC Research Data Service is covered by Thomson Reuters Data Citation Index. HSRC applies for DSA certification in 2016</r3d:remarks>
+		<r3d:entryDate>2015-02-18</r3d:entryDate>
+		<r3d:lastUpdate>2026-07-07</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

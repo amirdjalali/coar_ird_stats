@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010877</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3RS5F</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">ROAR Isolate Database</r3d:repositoryName>
+				<r3d:additionalName language="eng">Reservoirs of Antibiotic Resistance Network</r3d:additionalName>
+				<r3d:repositoryUrl>http://www.roarproject.org/ROAR/html/index.htm</r3d:repositoryUrl>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt;  The repository is no longer available. &gt;&gt;&gt;!!!&gt;&gt;&gt;  2019-03-29: no more access to ROAR Isolate Database</r3d:description>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+						<r3d:size>3.774 datasets</r3d:size>
+						<r3d:startDate>2006</r3d:startDate>
+        				<r3d:endDate>
+									<r3d:offline>2019-03-29</r3d:offline>
+					</r3d:endDate>
+        							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22103</r3d:subjectId>
+				<r3d:subjectName>Medical Microbiology and Mycology, Hygiene, Molecular Infection Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>221</r3d:subjectId>
+				<r3d:subjectName>Microbiology, Virology and Immunology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22213</r3d:subjectId>
+				<r3d:subjectName>Pneumology, Thoracic Surgery</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22202</r3d:subjectId>
+				<r3d:subjectName>Public Heatlh, Healthcare Research, Social and Occupational Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22218</r3d:subjectId>
+				<r3d:subjectName>Rheumatology</r3d:subjectName>
+			</r3d:subject>
+											<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>antibiotics</r3d:keyword>
+					<r3d:keyword>bacteria</r3d:keyword>
+					<r3d:keyword>genes</r3d:keyword>
+					<r3d:keyword>genotype-environment interaction</r3d:keyword>
+					<r3d:keyword>immune system</r3d:keyword>
+					<r3d:keyword>medicine</r3d:keyword>
+					<r3d:keyword>pathogenic microorganisms</r3d:keyword>
+					<r3d:keyword>phenotype</r3d:keyword>
+					<r3d:keyword>public health</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Alliance for the Prudent Use of Antibiotics</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">APUA</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://apua.org/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Reservoir of Antibiotic Resistance Network</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ROAR</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl></r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">U.S. Department of Health and Human Services, National Institutes of Health, National Institute of Allergy and Infectious Diseases</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.niaid.nih.gov/</r3d:institutionUrl>
+															</r3d:institution>
+								<r3d:databaseAccess>
+			<r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+							<r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.copyright.gov/fair-use/more-info.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+															<r3d:pidSystem>none</r3d:pidSystem>
+															<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks>Description: The ROAR Isolate Database is a searchable collection of commensal and complimentary pathogen isolate datasets. ROAR allows investigators to identify datasets of interest, submit datasets, or download datasets. ROAR datasets include data depositors&#039; contact information and links to their articles in ROAR Literature Database.</r3d:remarks>
+		<r3d:entryDate>2014-07-30</r3d:entryDate>
+		<r3d:lastUpdate>2024-12-11</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

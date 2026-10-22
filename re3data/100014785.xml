@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014785</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNWH</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">BioTime</r3d:repositoryName>
+				<r3d:repositoryUrl>https://biotime.st-andrews.ac.uk/</r3d:repositoryUrl>
+				<r3d:description language="eng">BioTIME is a comprehensive collection of assemblage time-series in which the abundances of the species that comprise ecological communities have been monitored over time. The database is a free, publicly available, open-access resource.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>biotimeproj@st-andrews.ac.uk</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21303</r3d:subjectId>
+				<r3d:subjectName>Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21202</r3d:subjectId>
+				<r3d:subjectName>Ecology and Biodiversity of Plants and Ecosystems</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>212</r3d:subjectId>
+				<r3d:subjectName>Plant Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>213</r3d:subjectId>
+				<r3d:subjectName>Zoology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://biotime.st-andrews.ac.uk/about.php</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>FAIR</r3d:keyword>
+					<r3d:keyword>biodiversity</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">University of St Andrews</r3d:institutionName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.st-andrews.ac.uk/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02wn5qz54</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>Wikidata</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://www.wikidata.org/wiki/Q216273</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Using BioTIME data</r3d:policyName>
+				<r3d:policyUrl>https://biotime.st-andrews.ac.uk/usageGuidelines.php</r3d:policyUrl>
+			</r3d:policy>
+							<r3d:fundingInformation>
+				<r3d:funderName>European Research Council</r3d:funderName>
+									<r3d:funderIdentifier>
+						<r3d:funderIdentifierType>CrossrefFunderID</r3d:funderIdentifierType>
+						<r3d:funderIdentifierValue>501100000781</r3d:funderIdentifierValue>
+					</r3d:funderIdentifier>
+													<r3d:grantIdentifier>AdG BioTIME 250189</r3d:grantIdentifier>
+									<r3d:grantIdentifier>AdG MetaCHANGE 101098020</r3d:grantIdentifier>
+									<r3d:grantIdentifier>PoC BioCHANGE 727440</r3d:grantIdentifier>
+							</r3d:fundingInformation>
+					<r3d:fundingInformation>
+				<r3d:funderName>Leverhulme Centre for Anthropocene Biodiversity</r3d:funderName>
+													<r3d:grantIdentifier>RC-2018-021</r3d:grantIdentifier>
+							</r3d:fundingInformation>
+				<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://biotime.st-andrews.ac.uk/usageGuidelines.php</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://biotime.st-andrews.ac.uk/usageGuidelines.php</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://biotime.st-andrews.ac.uk/usageGuidelines.php</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Contribution Guidelines</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://biotime.st-andrews.ac.uk/contribute.php</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+									<r3d:versioning>no</r3d:versioning>
+									<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://biotime.st-andrews.ac.uk/usageGuidelines.php</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>no</r3d:enhancedPublication>
+							<r3d:qualityManagement>
+				<r3d:qualityManagementStatus>yes</r3d:qualityManagementStatus>
+								<r3d:qualityManagementMeasure>
+					<r3d:qualityManagementMeasureName>Data formatting and standardisation</r3d:qualityManagementMeasureName>
+					<r3d:qualityManagementMeasureUrl>https://biotime.st-andrews.ac.uk/contribute.php</r3d:qualityManagementMeasureUrl>
+				</r3d:qualityManagementMeasure>
+							</r3d:qualityManagement>
+												<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2026-02-10</r3d:entryDate>
+		<r3d:lastUpdate>2026-02-13</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

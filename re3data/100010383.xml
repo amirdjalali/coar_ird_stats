@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010383</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3CP50</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">The Language Archive</r3d:repositoryName>
+				<r3d:additionalName language="eng">TLA</r3d:additionalName>
+				<r3d:repositoryUrl>https://archive.mpi.nl/tla/</r3d:repositoryUrl>
+				<r3d:description language="eng">The Language Archive at the Max Planck Institute in Nijmegen provides a unique record of how people around the world use language in everyday life. It focuses on collecting spoken and signed language materials in audio and video form along with transcriptions, analyses, annotations and other types of relevant material (e.g. photos, accompanying notes).</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://archive.mpi.nl/tla/contact/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>about 130 Terabyte of well-described resources; about 20.000 hours of digitised audio/video recordings; data on more than 250 different languages from around the world.</r3d:size>
+						<r3d:startDate>2000</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11401</r3d:subjectId>
+				<r3d:subjectName>General and Comparative Linguistics, Experimental Linguistics, Typology, Non-European Languages</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>114</r3d:subjectId>
+				<r3d:subjectName>Linguistics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11601</r3d:subjectId>
+				<r3d:subjectName>Social and Cultural Anthropology and Ethnology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>116</r3d:subjectId>
+				<r3d:subjectName>Social and Cultural Anthropology, Non-European Cultures, Jewish Studies and Religious Studies</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://archive.mpi.nl/tla/mission</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_5ce6</r3d:contentTypeId>
+				<r3d:contentTypeName>software</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>corpora</r3d:keyword>
+					<r3d:keyword>language research</r3d:keyword>
+					<r3d:keyword>psycholinguistics</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">CLARIAH</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Common Lab Research Infrastructure for the Arts and Humanities</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>NLD</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://clariah.nl/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">CLARIN-ERIC</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Insfrastructure - European Research Infrastructure for Language Resources and Technology</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EEC</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.clarin.eu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03wp25384</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Max Planck Institute for Psycholinguistics</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">MPI-PL</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Max-Planck-Institut für Psycholinguistik</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>NLD</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.mpi.nl/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00671me87</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_021706</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Max-Planck-Gesellschaft</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">MPG</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Max Planck Society</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.mpg.de/en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01hhn8329</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011366</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">World Data System</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">formerly: ICSU World Data System</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">formerly: International Council for Science WDS</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://worlddatasystem.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01pwmqe95</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Access Permissions</r3d:policyName>
+				<r3d:policyUrl>https://archive.mpi.nl/tla/access-levels</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Bylaws</r3d:policyName>
+				<r3d:policyUrl>https://worlddatasystem.org/about/bylaws/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Collection Development Policy</r3d:policyName>
+				<r3d:policyUrl>https://archive.mpi.nl/tla/collection-development-policy</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>World Data System Constitution</r3d:policyName>
+				<r3d:policyUrl>https://worlddatasystem.org/about/constitution/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://www.gnu.org/licenses/old-licenses/gpl-2.0.html</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-nc-sa/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://worlddatasystem.org/about/data-sharing-principles/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.kielipankki.fi/support/clarin-eula/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>DOBES Code of Conduct v2</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://dobes.mpi.nl/ethical_legal_aspects/DOBES-coc-v2.pdf</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+					<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Depositor-Archivist Agreement DOBES-DAA-V1</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://dobes.mpi.nl/ethical_legal_aspects/DOBES-daa-v1.pdf</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>Fedora</r3d:software>
+					<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://archive.mpi.nl/oai2?verb=Identify</r3d:apiUrl>
+									<r3d:apiDocumentation>https://www.openarchives.org/OAI/openarchivesprotocol.html</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>hdl</r3d:pidSystem>
+																								<r3d:remarks>TLA uses the CMDI metadata standard and additionally provides Dublin Core and OLAC metadata for harvesting.
+TLA was a certified CLARIN B Centre and CTS certified until 2025-03-22.</r3d:remarks>
+		<r3d:entryDate>2013-03-27</r3d:entryDate>
+		<r3d:lastUpdate>2026-06-18</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

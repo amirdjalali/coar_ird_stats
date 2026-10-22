@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013240</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJMPK</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">UTM-CSIC Data Centre</r3d:repositoryName>
+				<r3d:additionalName language="spa">Centro de Datos de la Unidad de Tecnología Marina</r3d:additionalName>
+				<r3d:additionalName language="eng">Marine Technology Unit Data Centre</r3d:additionalName>
+				<r3d:repositoryUrl>https://data.utm.csic.es/portal/</r3d:repositoryUrl>
+				<r3d:description language="eng">The UTM Data Centre is responsible for managing spatial data acquired during oceanographic cruises on board CSIC research vessels (RV Odón de Buen, RV Sarmiento de Gamboa, RV García del Cid) and RV Hespérides.
+The aim is, on the one hand, to disseminate which data exist and where, how and when they have been acquired. And on the other hand, to provide access to as much of the interoperable data as possible, following the FAIR principles, so that they can be used and reused.
+
+For this purpose, the UTM has a Spatial Data Infrastructure  at a national level that consists of several services:
+
+- Oceanographic Cruise and Data Catalogue:  Including metadata from more than 800 cruises carried out since 1979, with links to documentation associated to the cruise, navigation maps and datasets.
+
+- Geoportal: Geospatial data mapping interface
+
+- Data and Vessel Tracking Viewers.
+
+At an international level, the UTM is a National Oceanographic Data Centre (NODC) of the Distributed European Marine Data Infrastructure SeaDataNet, to which the UTM provides metadata published in the Cruise Summary Report Catalog and in the data catalog Common Data Index Catalog, as well as public data to be shared.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>data@utm.csic.es</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>850 cruises, 1.712 datasets</r3d:size>
+													<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34601</r3d:subjectId>
+				<r3d:subjectName>Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34102</r3d:subjectId>
+				<r3d:subjectName>Oceanography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>346</r3d:subjectId>
+				<r3d:subjectName>Water Research</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.utm.csic.es/en/mision-y-Objetivos</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>multibeam</r3d:keyword>
+					<r3d:keyword>oceanography</r3d:keyword>
+					<r3d:keyword>side scan sonar</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Marine Technology Unit</r3d:institutionName>
+									<r3d:institutionAdditionalName language="spa">UTM-CSIC</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="spa">Unidad de Tecnología Marina</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ESP</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.utm.csic.es/en</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Spanish National Research Council</r3d:institutionName>
+									<r3d:institutionAdditionalName language="spa">CSIC</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="spa">Consejo Superior de Investigaciones Científicas</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ESP</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.csic.es/en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02gfc7t72</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011534</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_156803</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data Policy</r3d:policyName>
+				<r3d:policyUrl>https://data.utm.csic.es/portal/#data-policy</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+					<r3d:software>other</r3d:software>
+					<r3d:software>other</r3d:software>
+							<r3d:versioning>no</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://data.utm.csic.es/geonetwork/srv/api</r3d:apiUrl>
+									<r3d:apiDocumentation>https://data.utm.csic.es/geonetwork/doc/api/index.html</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+					<r3d:pidSystem>URN</r3d:pidSystem>
+															<r3d:enhancedPublication>no</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>DIF (Directory Interchange Format)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m14</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>FGDC/CSDGM (Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m17</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>ISO 19115</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m22</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+							<r3d:syndication>
+				<r3d:syndicationType>RSS</r3d:syndicationType>
+				<r3d:syndicationUrl>https://data.utm.csic.es/geonetwork/srv/eng/rss.search?sortBy=changeDate&amp;georss=simplepoint</r3d:syndicationUrl>
+			</r3d:syndication>
+				<r3d:remarks>is covered by Clarivate Data Citation Index.</r3d:remarks>
+		<r3d:entryDate>2020-02-19</r3d:entryDate>
+		<r3d:lastUpdate>2026-09-02</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

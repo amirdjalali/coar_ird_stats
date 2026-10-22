@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011193</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3132W</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Wittliff Collections - Digital Collections</r3d:repositoryName>
+				<r3d:repositoryUrl>https://dc.library.txstate.edu/</r3d:repositoryUrl>
+				<r3d:description language="eng">The Digital Collections repository is a service that provides free and open access to the scholarship and creative works produced and owned by the Texas State University community. The Wittliff Collections, located on the seventh floor of the Albert B. Alkek Library at Texas State University, was founded by William D. Wittliff in 1987. The Wittliff Collections include 2 collections. 1. The Southwestern Writers Collection: These Collection holds the papers of numerous 20th century writers and the Southwestern &amp; Mexican Photography Collection. The film holdings contain over 500 film and television screenplays as well as complete production archives for several popular films, including the television miniseries Lonesome Dove. The music holdings represent the breadth and scope of popular Texas sounds. 2. Mexican Photography Collection: The Southwestern &amp; Mexican Photography Collection assembles a broad range of photographic work from the Southwestern United States and Mexico, from the 19th-century to the present day.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>Wittliff_Ref@txstate.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.thewittliffcollections.txst.edu/about/contact.html</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>thewittliffcollections@txstate.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>111</r3d:subjectId>
+				<r3d:subjectName>Ancient Cultures</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>113</r3d:subjectId>
+				<r3d:subjectName>Art History, Music, Theatre and Media Studies</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>345</r3d:subjectId>
+				<r3d:subjectName>Geography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.thewittliffcollections.txst.edu/about.html</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_1843</r3d:contentTypeId>
+				<r3d:contentTypeName>other</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Mexico</r3d:keyword>
+					<r3d:keyword>authors</r3d:keyword>
+					<r3d:keyword>literature</r3d:keyword>
+					<r3d:keyword>music</r3d:keyword>
+					<r3d:keyword>photographs</r3d:keyword>
+					<r3d:keyword>southwest of America</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Texas State University, University Library</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.library.txst.edu/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">The Wittliff Collections</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.thewittliffcollections.txst.edu</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Duplication and Publication</r3d:policyName>
+				<r3d:policyUrl>https://www.thewittliffcollections.txst.edu/research/visit/policies/publication.html</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Facility Use Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.thewittliffcollections.txst.edu/about/for-media/facility-use-policy.html</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Policies</r3d:policyName>
+				<r3d:policyUrl>https://www.thewittliffcollections.txst.edu/research/visit/policies.html</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.thewittliffcollections.txst.edu/about/for-media/facility-use-policy.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.copyright.gov/title17/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>DSpace</r3d:software>
+											<r3d:pidSystem>hdl</r3d:pidSystem>
+															<r3d:enhancedPublication>no</r3d:enhancedPublication>
+							<r3d:qualityManagement>
+				<r3d:qualityManagementStatus>yes</r3d:qualityManagementStatus>
+								<r3d:qualityManagementMeasure>
+					<r3d:qualityManagementMeasureName>Digital Preservation Policy</r3d:qualityManagementMeasureName>
+					<r3d:qualityManagementMeasureUrl>https://www.thewittliffcollections.txst.edu/research/visit/policies/dig-pres-policy.html</r3d:qualityManagementMeasureUrl>
+				</r3d:qualityManagementMeasure>
+							</r3d:qualityManagement>
+												<r3d:remarks>see also: https://www.thewittliffcollections.txst.edu</r3d:remarks>
+		<r3d:entryDate>2014-10-22</r3d:entryDate>
+		<r3d:lastUpdate>2026-09-14</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013914</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJN8A</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Canadian Integrated Ocean Observing System Data Catalogue</r3d:repositoryName>
+				<r3d:additionalName language="eng">CIOOS Data Catalogue</r3d:additionalName>
+				<r3d:additionalName language="fra">Catalogue de données du SIOOC</r3d:additionalName>
+				<r3d:additionalName language="fra">Catalogue de données du Système Intégré d&#039;Observation des Oceans du Canada</r3d:additionalName>
+				<r3d:repositoryUrl>https://catalogue.cioos.ca/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.bac679</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">The Canadian Integrated Ocean Observing System (CIOOS) Data Catalogue is an online open-access data catalogue designed for sharing reliable and high-quality.
+CIOOS is a collaboration between institutional, governmental, and non-governmental partners located in the Pacific, the St. Lawrence, and the Atlantic. These Regional Associations (RAs) work closely with local organizations to meet end-user needs and develop place-based solutions for a diverse country.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@cioos.ca</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>2.620 datasets</r3d:size>
+						<r3d:startDate>2018</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34102</r3d:subjectId>
+				<r3d:subjectName>Oceanography</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://catalogue.cioos.ca/about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>FAIR</r3d:keyword>
+					<r3d:keyword>atmosphere</r3d:keyword>
+					<r3d:keyword>coral</r3d:keyword>
+					<r3d:keyword>essential ocean variable (EOV)</r3d:keyword>
+					<r3d:keyword>fish</r3d:keyword>
+					<r3d:keyword>meteorology</r3d:keyword>
+					<r3d:keyword>microbe</r3d:keyword>
+					<r3d:keyword>sea weather</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Canadian Integrated Ocean Observing System</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CIOOS</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">SIOOC</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Système Intégré d&#039;Observation des Oceans du Canada</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://cioos.ca/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>FAQ</r3d:policyName>
+				<r3d:policyUrl>https://cioos.ca/faq/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/share-your-work/public-domain/cc0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>OGLC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://open.canada.ca/en/open-government-licence-canada</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>CKAN</r3d:software>
+																			<r3d:aidSystem>ORCID</r3d:aidSystem>
+															<r3d:metadataStandard>
+				<r3d:metadataStandardName>ISO 19115</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m22</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>Regional associations: Pacific Regional Association, St.Lawrence Regional Association, Atlantic Regional Association
+CIOOS founders: https://cioos.ca/founders/</r3d:remarks>
+		<r3d:entryDate>2022-07-12</r3d:entryDate>
+		<r3d:lastUpdate>2025-07-30</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

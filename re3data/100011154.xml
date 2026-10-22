@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011154</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3M325</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">China Earthquake Data Center</r3d:repositoryName>
+				<r3d:additionalName language="eng">formerly: World Data Center for Seismology, Beijing</r3d:additionalName>
+				<r3d:additionalName language="zho">中国地震数据中心</r3d:additionalName>
+				<r3d:repositoryUrl>https://data.earthquake.cn/index.html</r3d:repositoryUrl>
+				<r3d:description language="eng">China Earthquake Data Center provides Seismic data, geomagnetic data, geoelectric data, terrain data and underground fluid change data. It is only open in the Seismological Bureau.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>datashare@seis.ac.cn</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2006-09-28</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>zho</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>343</r3d:subjectId>
+				<r3d:subjectName>Geophysics and Geodesy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://data.earthquake.cn/gybz/index.html</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>auroral activity</r3d:keyword>
+					<r3d:keyword>geosciences</r3d:keyword>
+					<r3d:keyword>seism</r3d:keyword>
+					<r3d:keyword>seismic monitoring</r3d:keyword>
+					<r3d:keyword>solar activity</r3d:keyword>
+					<r3d:keyword>tremor</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">China Earthquake Administration, China Earthquake Networks Center</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CENC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CHN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://data.earthquake.cn/index.html</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Peoples Republic of China, Ministry of Science and Technology, National Science and Technology Infrastructure Center</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NSTIC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CHN</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://en.most.gov.cn/programmes1/200610/t20061008_36200.htm</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">World Data System</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ICSU-WDS</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://worlddatasystem.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01pwmqe95</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+																	<r3d:responsibilityEndDate>2012</r3d:responsibilityEndDate>
+							</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Standard specifications</r3d:policyName>
+				<r3d:policyUrl>https://data.earthquake.cn/zcfg/index.html</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://data.earthquake.cn/sjgxgz/index.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>none</r3d:pidSystem>
+																								<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2014-10-13</r3d:entryDate>
+		<r3d:lastUpdate>2025-05-16</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

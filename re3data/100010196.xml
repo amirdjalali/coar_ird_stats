@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010196</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R39P40</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">VectorSurv</r3d:repositoryName>
+				<r3d:additionalName language="eng">Vectorborne Disease Surveillance System</r3d:additionalName>
+				<r3d:repositoryUrl>https://vectorsurv.org/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.8fe1d6</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">CalSurv is a comprehensive information on West Nile virus, plague, malaria, Lyme disease, trench fever and other vectorborne diseases in California — where they are, where they’ve been, where they may be headed and what new diseases may be emerging. The CalSurv Web site serves as a portal or a single interface to all surveillance-related Web sites in California.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>help@vectorsurv.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+								<r3d:startDate>2010</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>221</r3d:subjectId>
+				<r3d:subjectName>Microbiology, Virology and Immunology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.mvcac.org/about/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>Anopheles</r3d:keyword>
+					<r3d:keyword>Arbovirus</r3d:keyword>
+					<r3d:keyword>California</r3d:keyword>
+					<r3d:keyword>Malaria</r3d:keyword>
+					<r3d:keyword>Riff-Valley-Fever</r3d:keyword>
+					<r3d:keyword>West Nile virus epidemic</r3d:keyword>
+					<r3d:keyword>control</r3d:keyword>
+					<r3d:keyword>disease</r3d:keyword>
+					<r3d:keyword>fleas</r3d:keyword>
+					<r3d:keyword>lice</r3d:keyword>
+					<r3d:keyword>plaque</r3d:keyword>
+					<r3d:keyword>predictive model</r3d:keyword>
+					<r3d:keyword>prevention</r3d:keyword>
+					<r3d:keyword>protection</r3d:keyword>
+					<r3d:keyword>rodents</r3d:keyword>
+					<r3d:keyword>ticks</r3d:keyword>
+					<r3d:keyword>vectoborne disease surveillance</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">California Department of Public Health</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CDPH</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.cdph.ca.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/011cc8156</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Mosquito and Vector Control Association of California</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">MVCAC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.mvcac.org/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2007</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of California, Center for Vectorborne Diseases</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CVEC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://cvec.vetmed.ucdavis.edu/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data Policy</r3d:policyName>
+				<r3d:policyUrl>https://vectorsurv.org/assets/files/calsurv_data_policy.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://vectorsurv.org/assets/files/calsurv_data_policy.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+									<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://docs.api.vectorsurv.org/</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>none</r3d:pidSystem>
+																							<r3d:metadataStandard>
+				<r3d:metadataStandardName>ABCD (Access to Biological Collection Data)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m1</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>The CalSurv Web site serves as a portal or a single interface to all surveillance-related Web sites in California. Protecting California citizens from these diseases is too broad and complex an undertaking for any one agency. There is a tradition of cooperation among the California Department of Public Health, local mosquito and vector control agencies, and the University of California.</r3d:remarks>
+		<r3d:entryDate>2012-01-25</r3d:entryDate>
+		<r3d:lastUpdate>2026-02-02</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

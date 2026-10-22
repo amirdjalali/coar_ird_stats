@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011434</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3H628</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Atomic Data for Astrophysics</r3d:repositoryName>
+				<r3d:repositoryUrl>https://www.pa.uky.edu/~verner/atom.html</r3d:repositoryUrl>
+				<r3d:description language="eng">The Atomic Data for Astrophysics server provides links to basic atomic data required for calculation of the ionization state of astrophysical plasmas and for quantitative spectroscopy.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>verner@oblako.pa.uky.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>325</r3d:subjectId>
+				<r3d:subjectName>Astrophysics and Astronomy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>323</r3d:subjectId>
+				<r3d:subjectName>Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>324</r3d:subjectId>
+				<r3d:subjectName>Particles, Nuclei and Fields</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>32</r3d:subjectId>
+				<r3d:subjectName>Physics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.pa.uky.edu/~verner/info.html</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Auger process</r3d:keyword>
+					<r3d:keyword>astrophysical plasmas</r3d:keyword>
+					<r3d:keyword>atomic physics</r3d:keyword>
+					<r3d:keyword>autoionization</r3d:keyword>
+					<r3d:keyword>collisional ionization</r3d:keyword>
+					<r3d:keyword>energy level</r3d:keyword>
+					<r3d:keyword>opacities</r3d:keyword>
+					<r3d:keyword>photoionization</r3d:keyword>
+					<r3d:keyword>plasma physics</r3d:keyword>
+					<r3d:keyword>quantitative spectroscopy</r3d:keyword>
+					<r3d:keyword>wavelength</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">National Aeronautics and Space Administration</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NASA</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nasa.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/027ka1x80</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nsf.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/021nxhr62</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_012938</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_inv_1005118</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Kentucky, College of Arts &amp; Sciences, Physics &amp; Astronomy</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">UK, Department of Physics &amp; Astronomy</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">formerly name: University of Kentucky, Department of Physics &amp; Astronomy</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://pa.as.uky.edu/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Federal DMCA Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.copyright.gov/legislation/pl105-304.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>UK’s Copyright Compliance Policy</r3d:policyName>
+				<r3d:policyUrl>https://uky.service-now.com/techhelp?id=kb_article&amp;sysparm_article=KB0012450&amp;sys_kb_id=dbe06268dbc3fb407d4c9ac5db96199f</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>University Regulations</r3d:policyName>
+				<r3d:policyUrl>https://regs.uky.edu/</r3d:policyUrl>
+			</r3d:policy>
+							<r3d:fundingInformation>
+				<r3d:funderName>National Science Foundation</r3d:funderName>
+									<r3d:funderIdentifier>
+						<r3d:funderIdentifierType>CrossrefFunderID</r3d:funderIdentifierType>
+						<r3d:funderIdentifierValue>100000001</r3d:funderIdentifierValue>
+					</r3d:funderIdentifier>
+													<r3d:grantIdentifier>AST 93-19034</r3d:grantIdentifier>
+							</r3d:fundingInformation>
+					<r3d:fundingInformation>
+				<r3d:funderName>NASA</r3d:funderName>
+									<r3d:funderIdentifier>
+						<r3d:funderIdentifierType>CrossrefFunderID</r3d:funderIdentifierType>
+						<r3d:funderIdentifierValue>100000104</r3d:funderIdentifierValue>
+					</r3d:funderIdentifier>
+													<r3d:grantIdentifier>NAGW-3315</r3d:grantIdentifier>
+							</r3d:fundingInformation>
+				<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.uky.edu/copyright/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+							<r3d:versioning>no</r3d:versioning>
+									<r3d:pidSystem>none</r3d:pidSystem>
+																								<r3d:remarks>This work has been supported by the National Science Foundation through grant AST 93-19034 and by NASA through award NAGW-3315.
+Most of these data are utilized in the photoionization code Cloudy https://www.nublado.org/ and other radiative-collisional, photoionization, and coronal plasma codes.</r3d:remarks>
+		<r3d:entryDate>2015-04-13</r3d:entryDate>
+		<r3d:lastUpdate>2025-01-27</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

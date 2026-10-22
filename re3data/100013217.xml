@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013217</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJMOX</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">ESRF Portal</r3d:repositoryName>
+				<r3d:additionalName language="eng">European Synchrotron Radiation Facility Data Repository</r3d:additionalName>
+				<r3d:repositoryUrl>https://data.esrf.fr</r3d:repositoryUrl>
+				<r3d:description language="eng">Explore, search, and download data and metadata from your experiments and from public Open Data.
+The ESRF data repository is intended to store and archive data from photon science experiments done at the ESRF and to store digital material like documents and scientific results which need a DOI and long term preservation. Data are made public after an embargo period of maximum 3 years.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.esrf.eu/FeedbackForm</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+						<r3d:size>2.839 public data collections; 6.398 embargoed data collections</r3d:size>
+													<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>31</r3d:subjectId>
+				<r3d:subjectName>Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34401</r3d:subjectId>
+				<r3d:subjectName>Mineralogy, Petrology and Geochemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>344</r3d:subjectId>
+				<r3d:subjectName>Mineralogy, Petrology and Geochemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>32401</r3d:subjectId>
+				<r3d:subjectName>Nuclear and Elementary Particle Physics, Quantum Mechanics, Relativity, Fields</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>324</r3d:subjectId>
+				<r3d:subjectName>Particles, Nuclei and Fields</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>32</r3d:subjectId>
+				<r3d:subjectName>Physics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22230</r3d:subjectId>
+				<r3d:subjectName>Radiology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21104</r3d:subjectId>
+				<r3d:subjectName>Structural Biology</r3d:subjectName>
+			</r3d:subject>
+									<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/63NG-B465</r3d:contentTypeId>
+				<r3d:contentTypeName>experimental data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>extremely brilliant source</r3d:keyword>
+					<r3d:keyword>nanobeams</r3d:keyword>
+					<r3d:keyword>particle accelerator</r3d:keyword>
+					<r3d:keyword>x-ray</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">European Synchrotron Radiation Facility</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ESRF</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EEC</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.esrf.eu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02550n020</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Disclaimer and privacy policy</r3d:policyName>
+				<r3d:policyUrl>https://www.esrf.eu/home/about/disclaimer-and-privacy-policy.html</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>ESRF Data Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.esrf.eu/datapolicy</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>DOI</r3d:pidSystem>
+													<r3d:aidSystem>ORCID</r3d:aidSystem>
+											<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2023-06-01</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2026-05-31</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/3GXDXF</r3d:certificateUrl>
+							</r3d:certificate>
+										<r3d:remarks>European Synchrotron Radiation Facility is covered by Clarivate Data Citation Index.</r3d:remarks>
+		<r3d:entryDate>2020-01-31</r3d:entryDate>
+		<r3d:lastUpdate>2025-11-06</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014482</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNO2</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Meteorological &amp; Oceanographic Satellite Data Archival Centre</r3d:repositoryName>
+				<r3d:additionalName language="eng">MOSDAC</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.mosdac.gov.in/</r3d:repositoryUrl>
+				<r3d:description language="eng">The Meteorological &amp; Oceanographic Satellite Data Archival Centre (MOSDAC) is a key initiative in India aimed at providing comprehensive access to satellite data related to meteorology and oceanography. Operated by the Indian Space Research Organisation (ISRO), MOSDAC serves as a central repository for a vast array of data collected from various satellite missions, including information on weather patterns, ocean dynamics, and environmental monitoring. Users, including researchers, policymakers, and the general public, can easily access high-quality datasets that support diverse applications such as climate studies, disaster management, and resource planning. The portal not only facilitates data retrieval and analysis but also promotes the use of satellite information to enhance understanding of atmospheric and oceanographic phenomena, ultimately contributing to better decision-making and resilience against climate change and natural disasters.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.mosdac.gov.in/contact-us</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>oprmosdac@mosdac.gov.in</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2006-06</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>hin</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34101</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34102</r3d:subjectId>
+				<r3d:subjectName>Oceanography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>346</r3d:subjectId>
+				<r3d:subjectName>Water Research</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.mosdac.gov.in/about-us</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>climate and environmental studies</r3d:keyword>
+					<r3d:keyword>ground observation data</r3d:keyword>
+					<r3d:keyword>meteorolgy and oceanographic data</r3d:keyword>
+					<r3d:keyword>meteorological satellite data</r3d:keyword>
+					<r3d:keyword>oceanographic satellite data</r3d:keyword>
+					<r3d:keyword>space research</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Government of India</r3d:institutionName>
+								<r3d:institutionCountry>IND</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.india.gov.in/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/036h6g940</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Indian Space Research Organisation, Department of Space</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ISRO</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="hin">भारतीय अंतरिक्ष अनुसंधान संगठन</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>IND</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.isro.gov.in/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00cwrns71</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Meteorological and Oceanographic Satellite Data Archival Centre</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">MOSDAC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>IND</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.mosdac.gov.in/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Space Applications Centre</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">SAC</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="hin">अंतरिक्ष अनुप्रयोग केंद्र</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>IND</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.sac.gov.in/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Indian Space Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.nrsc.gov.in/nrscnew/assets/pdf/Indian%20Space%20Policy%202023.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms and Conditions</r3d:policyName>
+				<r3d:policyUrl>https://www.mosdac.gov.in/terms-conditions</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.mosdac.gov.in/copyright-policy</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.mosdac.gov.in/data-access-policy</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+															<r3d:pidSystem>DOI</r3d:pidSystem>
+																							<r3d:metadataStandard>
+				<r3d:metadataStandardName>WMO Core Metadata Profile</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m84</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+							<r3d:syndication>
+				<r3d:syndicationType>RSS</r3d:syndicationType>
+				<r3d:syndicationUrl>https://www.mosdac.gov.in/rss-feed</r3d:syndicationUrl>
+			</r3d:syndication>
+				<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2024-10-21</r3d:entryDate>
+		<r3d:lastUpdate>2025-09-02</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

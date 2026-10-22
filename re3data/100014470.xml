@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014470</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNNQ</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Open Budgets India</r3d:repositoryName>
+				<r3d:repositoryUrl>https://openbudgetsindia.org/dataset</r3d:repositoryUrl>
+				<r3d:description language="eng">Open Budgets India (OBI) is a comprehensive open data platform, led by the Centre for Budget and Governance Accountability (CBGA), designed to enhance fiscal transparency and public engagement with government budgets. Launched in 2015, OBI provides free and easy access to detailed budgetary data from the Union Government, States, districts, and local levels, addressing gaps in accessible budget information.
+In its second phase, starting in 2020, OBI has expanded its focus to include data analytics for key Central and State schemes, offering tools like the Schemes Dashboard, Sectors Dashboard, District Dashboard, and State Budget Explorers. It also features resources like &quot;Budget Basics&quot; to demystify complex fiscal concepts, along with videos and a discussion forum to foster public discourse on public finance.
+This platform supports more informed public participation, enabling elected representatives and citizens to analyze fiscal data for more effective governance and oversight.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://openbudgetsindia.org/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@openbudgetsindia.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12403</r3d:subjectId>
+				<r3d:subjectName>Accounting und Finance</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12302</r3d:subjectId>
+				<r3d:subjectName>Empirical Social Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://openbudgetsindia.org/about</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Budget Basics</r3d:keyword>
+					<r3d:keyword>municipal corporation budgets</r3d:keyword>
+					<r3d:keyword>state budget</r3d:keyword>
+					<r3d:keyword>union budget</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Open Budgets India</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">OBI</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>IND</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://openbudgetsindia.org/en/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>License</r3d:policyName>
+				<r3d:policyUrl>https://openbudgetsindia.org/pages/license</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/legalcode</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://openbudgetsindia.org/pages/license</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+																									<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>Organisations involved in the development and funders see FAQ https://openbudgetsindia.org/pages/faqs</r3d:remarks>
+		<r3d:entryDate>2024-10-21</r3d:entryDate>
+		<r3d:lastUpdate>2024-10-25</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

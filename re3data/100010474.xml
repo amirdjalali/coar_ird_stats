@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010474</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R36P5F</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">International Food Policy Research Institute Dataverse</r3d:repositoryName>
+				<r3d:additionalName language="eng">IFPRI Dataverse</r3d:additionalName>
+				<r3d:repositoryUrl>https://dataverse.harvard.edu/dataverse/IFPRI</r3d:repositoryUrl>
+				<r3d:description language="eng">The International Food Policy Research Institute (IFPRI) seeks sustainable solutions for ending hunger and poverty.  In collaboration with institutions throughout the world, IFPRI is often involved in the collection of primary data and the compilation and processing of secondary data. The resulting datasets provide a wealth of information at the local (household and community), national, and global levels. IFPRI freely distributes as many of these datasets as possible and encourages their use in research and policy analysis. IFPRI Dataverse contains following dataverses: Agricultural Science and Knowledge Indicators - ASTI, HarvestChoice, Statistics on Public Expenditures for Economic Development - SPEED, International Model for Policy Analysis of Agricultural Commodities and Trade - IMPACT, Africa RISING Dataverse and Food Security Portal Dataverse.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>IFPRI-Data@cgiar.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>IFPRI-Library@cgiar.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+						<r3d:size>8 dataverses; 994 datasets; 19.101 files</r3d:size>
+						<r3d:startDate>2007</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23105</r3d:subjectId>
+				<r3d:subjectName>Agricultural Economics, Agricultural Policy, Agricultural Sociology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>231</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23104</r3d:subjectId>
+				<r3d:subjectName>Ecology of Land Use</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22205</r3d:subjectId>
+				<r3d:subjectName>Nutritional Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23103</r3d:subjectId>
+				<r3d:subjectName>Plant Cultivation, Plant Nutrition, Agricultural Technology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>212</r3d:subjectId>
+				<r3d:subjectName>Plant Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23101</r3d:subjectId>
+				<r3d:subjectName>Soil Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.ifpri.org/about-ifpri/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_1843</r3d:contentTypeId>
+				<r3d:contentTypeName>other</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>agriculture</r3d:keyword>
+					<r3d:keyword>biosafety</r3d:keyword>
+					<r3d:keyword>biotechnology</r3d:keyword>
+					<r3d:keyword>health</r3d:keyword>
+					<r3d:keyword>hunger</r3d:keyword>
+					<r3d:keyword>natural resources management</r3d:keyword>
+					<r3d:keyword>nutrition</r3d:keyword>
+					<r3d:keyword>nutritional improvement</r3d:keyword>
+					<r3d:keyword>poverty</r3d:keyword>
+					<r3d:keyword>social accounting matrix</r3d:keyword>
+					<r3d:keyword>sustainable food security</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Consultative Group on International Agricultural Research</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CGIAR Consortium</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.cgiar.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04c4bm785</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Dataverse Network Project</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">DNV</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://dataverse.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_001997</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nif-0000-00316</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2007</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">IFPRI</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">International Food Policy Research Institute</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ifpri.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03pxz9p87</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2007</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Dataverse Community Norms</r3d:policyName>
+				<r3d:policyUrl>https://dataverse.org/best-practices/dataverse-community-norms</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Dataverse Guides</r3d:policyName>
+				<r3d:policyUrl>https://guides.dataverse.org/en/latest/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>IFPRI open access policy</r3d:policyName>
+				<r3d:policyUrl>https://www.ifpri.org/open-access-policy/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>Apache License 2.0</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.ifpri.org/copyright</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://library.ifpri.info/data/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.ifpri.org/open-access-policy</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>Dataverse</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://dataverse.harvard.edu/oai</r3d:apiUrl>
+									<r3d:apiDocumentation>https://guides.dataverse.org/en/latest/admin/discoverability.html</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>SPARQL</r3d:apiType>
+				<r3d:apiUrl>https://www.ifpri.org/blog/explore-and-create-open-data/</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>SWORD</r3d:apiType>
+				<r3d:apiUrl>https://guides.dataverse.org/en/latest/api/sword.html</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+					<r3d:pidSystem>hdl</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://dataverse.org/best-practices/data-citation</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>DDI (Data Documentation Initiative)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m13</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>DataCite Metadata Schema</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m11</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>OAI-ORE (Open Archives Initiative Object Reuse and Exchange)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m26</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+							<r3d:syndication>
+				<r3d:syndicationType>RSS</r3d:syndicationType>
+				<r3d:syndicationUrl>https://www.ifpri.org/rss</r3d:syndicationUrl>
+			</r3d:syndication>
+				<r3d:remarks>IFPRI Dataverse is covered by Thomson Reuters Data Citation Index. IFPRI is one of 15 centers supported by the Consultative Group on International Agricultural Research (CGIAR), an alliance of 64 governments, private foundations, and international and regional organizations. IFPRI is part of the IQSS Harvard Dataverse Network</r3d:remarks>
+		<r3d:entryDate>2013-06-26</r3d:entryDate>
+		<r3d:lastUpdate>2026-09-03</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

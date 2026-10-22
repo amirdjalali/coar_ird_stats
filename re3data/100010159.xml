@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010159</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3Q30B</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">NASA Socioeconomic Data and Applications Center</r3d:repositoryName>
+				<r3d:additionalName language="eng">SEDAC</r3d:additionalName>
+				<r3d:repositoryUrl>https://search.earthdata.nasa.gov/search?q=CIESIN%20ESDIS</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.4ufVpm</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">SEDAC, the Socioeconomic Data and Applications Center, was one of the Distributed Active Archive Centers (DAACs) in the Earth Observing System Data and Information System (EOSDIS) of the U.S. National Aeronautics and Space Administration (NASA). SEDAC was a regular member of the World Data System and focuses on human interactions in the environment. Its mission was to develop and operate applications that support the integration of socioeconomic and Earth science data and to serve as an &quot;Information Gateway&quot; between the Earth and social sciences.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>ciesin.info@ciesin.columbia.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.earthdata.nasa.gov/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>325 collections</r3d:size>
+						<r3d:startDate>1998</r3d:startDate>
+        				<r3d:endDate>
+						<r3d:closed>2025</r3d:closed>
+								</r3d:endDate>
+        							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>231</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>45</r3d:subjectId>
+				<r3d:subjectName>Construction Engineering and Architecture</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>451</r3d:subjectId>
+				<r3d:subjectName>Construction Engineering and Architecture</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>345</r3d:subjectId>
+				<r3d:subjectName>Geography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>343</r3d:subjectId>
+				<r3d:subjectName>Geophysics and Geodesy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34502</r3d:subjectId>
+				<r3d:subjectName>Human Geography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12304</r3d:subjectId>
+				<r3d:subjectName>Political Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23101</r3d:subjectId>
+				<r3d:subjectName>Soil Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>45102</r3d:subjectId>
+				<r3d:subjectName>Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.earthdata.nasa.gov/news/data-from-sedac-available-again-earthdata-search</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>agriculture</r3d:keyword>
+					<r3d:keyword>climate</r3d:keyword>
+					<r3d:keyword>conservation</r3d:keyword>
+					<r3d:keyword>energy infrastructure</r3d:keyword>
+					<r3d:keyword>environmental assessment</r3d:keyword>
+					<r3d:keyword>environmental health</r3d:keyword>
+					<r3d:keyword>environmental indicators</r3d:keyword>
+					<r3d:keyword>environmental sciences</r3d:keyword>
+					<r3d:keyword>environmental treaties</r3d:keyword>
+					<r3d:keyword>global environment</r3d:keyword>
+					<r3d:keyword>governance</r3d:keyword>
+					<r3d:keyword>hazards</r3d:keyword>
+					<r3d:keyword>health</r3d:keyword>
+					<r3d:keyword>infrastructure</r3d:keyword>
+					<r3d:keyword>land use</r3d:keyword>
+					<r3d:keyword>marine and coastal</r3d:keyword>
+					<r3d:keyword>population</r3d:keyword>
+					<r3d:keyword>poverty</r3d:keyword>
+					<r3d:keyword>remote sensing</r3d:keyword>
+					<r3d:keyword>socioeconomics</r3d:keyword>
+					<r3d:keyword>sustainability</r3d:keyword>
+					<r3d:keyword>water</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Columbia University, Columbia Climate School, Center for Integrated Earth System Information (CIESIN)</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CIESIN</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://ciesin.columbia.edu/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>1997</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Aeronautics and Space Administration, Earth Observing System Data and Information System</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NASA EOSDIS</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">NASA Earth Data</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.earthdata.nasa.gov/about/esdis/eosdis</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>1997</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>NASA web privacy policy</r3d:policyName>
+				<r3d:policyUrl>https://www.nasa.gov/privacy/#privacy-policy</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Open Data, Services, and Software Policies</r3d:policyName>
+				<r3d:policyUrl>https://www.earthdata.nasa.gov/engage/open-data-services-software-policies</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.earthdata.nasa.gov/engage/open-data-services-software-policies/data-information-guidance</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>open</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>Fedora</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>DOI</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.earthdata.nasa.gov/engage/open-data-services-software-policies/data-use-guidance</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+									<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2023-12-08</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2026-12-07</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/9RCIVO</r3d:certificateUrl>
+							</r3d:certificate>
+									<r3d:metadataStandard>
+				<r3d:metadataStandardName>FGDC/CSDGM (Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m17</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>SEDAC is covered by Thomson Reuters Data Citation Index. 
+This record is combined with &#039;NASA Socioeconomic Data and Applications Center&#039;, see https://www.re3data.org/repository/r3d100010160
+ The World Data Center for Human Interactions in the Environment has been superseded by the NASA Socioeconomic Data and Applications Center (SEDAC), which is a regular member of the World Data System (WDS). The International Council for Science (ICSU) replaced the World Data Centers (WDC) with the WDS, which supports the provision of trusted scientific data services by certifying its members to ensure that they maintain the organizational capabilities and infrastructure for managing the data products and services that they offer.</r3d:remarks>
+		<r3d:entryDate>2012-12-09</r3d:entryDate>
+		<r3d:lastUpdate>2026-03-12</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

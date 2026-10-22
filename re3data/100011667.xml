@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011667</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3M34X</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">HyMeX</r3d:repositoryName>
+				<r3d:additionalName language="eng">HYdrological cycle in the Mediterranean EXperiment</r3d:additionalName>
+				<r3d:repositoryUrl>https://mistrals.sedoo.fr/HyMeX/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>ISSN</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>2491-1887</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!This repository is closed: https://www.earthdata.nasa.gov/data/projects/hymex&gt;&gt;&gt;!!!&gt;&gt;&gt;  HYdrological cycle in the Mediterranean EXperiemnt. Considering the science and societal issues motivating HyMeX, the programme aims to : improve our understanding of the water cycle, with emphasis on extreme events, by monitoring and modelling the Mediterranean atmosphere-land-ocean coupled system, its variability from the event to the seasonal and interannual scales, and its characteristics over one decade (2010-2020) in the context of global change, assess the social and economic vulnerability to extreme events and adaptation capacity.The multidisciplinary research and the database developed within HyMeX should contribute to: improve observational and modelling systems, especially for coupled systems, better predict extreme events, simulate the long-term water-cycle more accurately, provide guidelines for adaptation measures, especially in the context of global change.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>databasecontact@hymex.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2010</r3d:startDate>
+        				<r3d:endDate>
+						<r3d:closed>2025-10-15</r3d:closed>
+								</r3d:endDate>
+        					<r3d:relatedRepository>
+				<r3d:relatedRepositoryId>100014758</r3d:relatedRepositoryId>
+				<r3d:relatedRepositoryType>successor</r3d:relatedRepositoryType>
+			</r3d:relatedRepository>
+							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34302</r3d:subjectId>
+				<r3d:subjectName>Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>343</r3d:subjectId>
+				<r3d:subjectName>Geophysics and Geodesy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34102</r3d:subjectId>
+				<r3d:subjectName>Oceanography</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://mistrals.sedoo.fr/HyMeX/Data-Policy/HyMeX_DataPolicy.pdf</r3d:missionStatementUrl>
+									<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>aircraft</r3d:keyword>
+					<r3d:keyword>atmosphere</r3d:keyword>
+					<r3d:keyword>atmosphere-land-ocean coupled system</r3d:keyword>
+					<r3d:keyword>drifters, buoys</r3d:keyword>
+					<r3d:keyword>hydrology</r3d:keyword>
+					<r3d:keyword>hydrometerology</r3d:keyword>
+					<r3d:keyword>mediterranean</r3d:keyword>
+					<r3d:keyword>oceanography</r3d:keyword>
+					<r3d:keyword>temperature</r3d:keyword>
+					<r3d:keyword>water cycle</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="fra">Institut Pierre Simon Laplace, Ensemble de Services Pour la Recherche</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">IPSL, ESPRI</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ipsl.fr/l-ipsl/les-centres-et-services/ensemble-de-services-pour-la-recherche-a-lipsl-espri/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">Observatoire Midi-Pyrénées, Service de Données de l&#039;OMP</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">OMP, Service de Données de l&#039;OMP</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">SEDOO</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.omp.eu/missions/appui-a-la-recherche/bases-donnees-omp/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data Policy</r3d:policyName>
+				<r3d:policyUrl>https://mistrals.sedoo.fr/HyMeX/Data-Policy/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>HYmeX Data and Publicaton Policy</r3d:policyName>
+				<r3d:policyUrl>https://mistrals.sedoo.fr/HyMeX/Data-Policy/HyMeX_DataPolicy.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://mistrals.sedoo.fr/HyMeX/Data-Policy/HyMeX_DataPolicy.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>feeRequired</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>HyMeX data and Publication Policy</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://mistrals.sedoo.fr/HyMeX/Data-Policy/HyMeX_DataPolicy.pdf</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>unknown</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>FTP</r3d:apiType>
+				<r3d:apiUrl>ftp://sedoo.fr/</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>NetCDF</r3d:apiType>
+				<r3d:apiUrl>https://mistrals.sedoo.fr/HyMeX/Provide-data/</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://mistrals.sedoo.fr/HyMeX/Provide-data/</r3d:citationGuidelineUrl>
+																	<r3d:metadataStandard>
+				<r3d:metadataStandardName>CF (Climate and Forecast) Metadata Conventions</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m5</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>HYmeX is part of &quot;Mistrals Database&quot;</r3d:remarks>
+		<r3d:entryDate>2015-09-28</r3d:entryDate>
+		<r3d:lastUpdate>2026-01-13</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

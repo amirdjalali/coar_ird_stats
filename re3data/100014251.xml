@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014251</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNHN</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="spa">Arias Montano</r3d:repositoryName>
+				<r3d:additionalName language="fra">Dépôt Institutionnel de l&#039;Université de Huelva</r3d:additionalName>
+				<r3d:additionalName language="eng">Institutional Repository of the University of Huelva</r3d:additionalName>
+				<r3d:additionalName language="spa">Repositorio Institucional de la Universidad de Huelva</r3d:additionalName>
+				<r3d:additionalName language="por">Repositório Institucional da Universidade de Huelva</r3d:additionalName>
+				<r3d:repositoryUrl>https://ariasmontano.uhu.es</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>ROAR</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>81</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>OpenDOAR</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>1388</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">Arias Montano, Institutional Repository of the University of Huelva is a repository of digital documents, whose aim is to publicize the scientific and teaching production of the University community, and ensure the preservation of their productions in digital format, as well as those institutions with which the University of Huelva has established agreements for this purpose.
+In order to collect the data management plans  of the research projects carried out by the research groups and centers of the University of Huelva, the collection &quot;Research data: complementary information&quot; was created in Arias Montano, Institutional Repository of Investigations https://rabida.uhu.es/dspace/handle/10272/14868</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://ariasmontano.uhu.es/info/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>repositorio@biblio.uhu.es</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+								<r3d:startDate>2008</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>por</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://guiasbuh.uhu.es/AriasMontano/DatosdeInvestigacion</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>multidisciplinary</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="spa">University of Huelva</r3d:institutionName>
+									<r3d:institutionAdditionalName language="spa">Universidad de Huelva</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ESP</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.uhu.es/english/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03a1kt624</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Datos de investigación: Qué son los datos de investigación</r3d:policyName>
+				<r3d:policyUrl>https://guiasbuh.uhu.es/datosinvestigacion</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Repositorio Arias Montano: Políticas de AM</r3d:policyName>
+				<r3d:policyUrl>https://guiasbuh.uhu.es/AriasMontano/Politicas#s-lg-box-wrapper-11810679</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Apache License 2.0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-nc-sa/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-nc-nd/3.0/deed.es</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>DSpace</r3d:software>
+									<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://ariasmontano.uhu.es/rest/oai/request?verb=Identify</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>hdl</r3d:pidSystem>
+																							<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2023-10-05</r3d:entryDate>
+		<r3d:lastUpdate>2025-07-30</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

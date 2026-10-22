@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014737</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNV5</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Cambium</r3d:repositoryName>
+				<r3d:repositoryUrl>https://data.mrc.ox.ac.uk/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.bb5c17</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">A data sharing platform for the MRC CoRE in Restorative Neural Dynamics, and the Brain Network Dynamics Unit. Nuffield Department of Clinical Neurosciences, University of Oxford.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>ben.micklem@bndu.ox.ac.uk</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22305</r3d:subjectId>
+				<r3d:subjectName>Experimental Models for the Understanding of Nervous System Diseases</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22306</r3d:subjectId>
+				<r3d:subjectName>Molecular and Cellular Neurology and Neuropathology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>223</r3d:subjectId>
+				<r3d:subjectName>Neurosciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://data.mrc.ox.ac.uk/about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/CQMR-7K63</r3d:contentTypeId>
+				<r3d:contentTypeName>recorded data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_5ce6</r3d:contentTypeId>
+				<r3d:contentTypeName>software</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/QH80-2R4E</r3d:contentTypeId>
+				<r3d:contentTypeName>source code</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>EEG</r3d:keyword>
+					<r3d:keyword>brain</r3d:keyword>
+					<r3d:keyword>electrophysiology</r3d:keyword>
+					<r3d:keyword>fMRI</r3d:keyword>
+					<r3d:keyword>neuroimaging</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">University of Oxford</r3d:institutionName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ox.ac.uk/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/052gg0110</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data Protection and Terms of Use</r3d:policyName>
+				<r3d:policyUrl>https://data.mrc.ox.ac.uk/data-protection-and-terms-use</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Data Sharing Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.mrcbndu.ox.ac.uk/data-sharing-policy</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-sa/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>DOI</r3d:pidSystem>
+									<r3d:metrics>Usage statistics</r3d:metrics>
+							<r3d:citationGuidelineUrl>https://data.mrc.ox.ac.uk/about</r3d:citationGuidelineUrl>
+																	<r3d:metadataStandard>
+				<r3d:metadataStandardName>DataCite Metadata Schema</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m11</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>JSON-LD (JavaScript Object Notation for Linked Data)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m95</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>For all datasets in Cambium an entry is created in the Oxford Research Archive (https://www.re3data.org/repository/r3d100011230), irrespective of where they are hosted, so that ORA is a complete record of outputs.</r3d:remarks>
+		<r3d:entryDate>2025-12-03</r3d:entryDate>
+		<r3d:lastUpdate>2025-12-06</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

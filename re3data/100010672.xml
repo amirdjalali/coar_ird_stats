@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010672</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3M03H</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">MatrixDB</r3d:repositoryName>
+				<r3d:additionalName language="eng">Extracellular Matrix interactions DataBase</r3d:additionalName>
+				<r3d:repositoryUrl>https://matrixdb.univ-lyon1.fr/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>ISSN</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>2426-6949</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>OMICS_01918</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_001727</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>nif-0000-10226</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">MatrixDB is a freely available database focused on interactions established by extracellular proteins and polysaccharides.
+MatrixDB takes into account the multimetric nature of the extracellular proteins (e.g. collagens, laminins and thrombospondins are multimers). MatrixDB includes interaction data extracted from the literature by manual curation in our lab, and offers access to relevant data involving extracellular proteins provided by our IMEx partner databases through the PSICQUIC webservice, as well as data from the Human Protein Reference Database. MatrixDB is in charge of the curation of papers published in Matrix Biology since January 2009</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://matrixdb.univ-lyon1.fr/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>sylvie.ricard-blum@univ-lyon1.fr</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>242.921 Experimentally Supported Binary Interactions; 390.527 Protein-Protein Interactions; 82.035 Biomolecules</r3d:size>
+						<r3d:startDate>2009</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21101</r3d:subjectId>
+				<r3d:subjectName>Biochemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://matrixdb.univ-lyon1.fr/about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/A8F1-NPV9</r3d:contentTypeId>
+				<r3d:contentTypeName>genomic data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>Polysaccharides</r3d:keyword>
+					<r3d:keyword>biomolecules</r3d:keyword>
+					<r3d:keyword>collagens</r3d:keyword>
+					<r3d:keyword>glycosamoglycan</r3d:keyword>
+					<r3d:keyword>laminins</r3d:keyword>
+					<r3d:keyword>proteins</r3d:keyword>
+					<r3d:keyword>thrombospondins</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Claude Bernard University Lyon 1, Institute of Molecular and Supramolecular Chemistry and Biochemistry</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">ICBMS</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Université de Claude Bernard Lyon 1, Institut de Chimie et de Biochimie Moléculaires et Supramoléculaires</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.icbms.fr/fr/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00gj33s30</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+																	<r3d:responsibilityEndDate>2016</r3d:responsibilityEndDate>
+							</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">European Commission, Research &amp; Innovation, Seventh Framework Programm - FP7</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">FP7</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EEC</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://ec.europa.eu/commission/presscorner/detail/hu/memo_16_146</r3d:institutionUrl>
+																	<r3d:responsibilityEndDate>2015</r3d:responsibilityEndDate>
+							</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">Fondation pour la Recherche Médicale</r3d:institutionName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.frm.org/fr</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04w6kn183</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2016</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">French Institute of bioinformatics</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">Institut Francais de bioinformatique</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">ifb</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ifb-elixir.fr/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/045f7pv37</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2016</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">HUPO Proteomics Standards Initiative</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">HUPO PSI</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.psidev.info/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_003158</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">Institut de Biologie et Chimie des Protéines</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">IBCP</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ibcp.fr/fr/landing-page-fr/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/0019x5d05</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+																	<r3d:responsibilityEndDate>2015</r3d:responsibilityEndDate>
+							</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">International Molecular Exchange Consortium</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">IMEx</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.imexconsortium.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_002805</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">Region Auvergne - Rhone - Alpes</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">La Région Auvergne Rhône Alpes</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Regional Council of Auvergne-Rhône-Alpes</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.auvergnerhonealpes.fr/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00kd6pz94</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+																	<r3d:responsibilityEndDate>2015</r3d:responsibilityEndDate>
+							</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Rhone Alpes Complex Systems Institute</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">IXXI</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Institut Rhône-Alpin des Systèmes Complexes</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ixxi.fr/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00prvqp73</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+																	<r3d:responsibilityEndDate>2015</r3d:responsibilityEndDate>
+							</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>IMEx Curation Rules</r3d:policyName>
+				<r3d:policyUrl>http://www.imexconsortium.org/curation/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/2.5/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>feeRequired</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>IMEx data submission</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>http://www.imexconsortium.org/submit-your-data/</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+									<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://matrixdb.univ-lyon1.fr/about</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>MIBBI (Minimum Information for Biological and Biomedical Investigations)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m23</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>MatrixDB is partner of the International Molcular Exchange Consortium (IMEx)</r3d:remarks>
+		<r3d:entryDate>2014-03-28</r3d:entryDate>
+		<r3d:lastUpdate>2026-05-21</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

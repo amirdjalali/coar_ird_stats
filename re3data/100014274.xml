@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014274</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNIA</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">CLOSER Discovery</r3d:repositoryName>
+				<r3d:additionalName language="eng">Cohort &amp; Longitudinal Studies Enhancement Resources</r3d:additionalName>
+				<r3d:repositoryUrl>https://discovery.closer.ac.uk</r3d:repositoryUrl>
+				<r3d:description language="eng">CLOSER Discovery is a research tool for locating the variables that best suit your research interests and testing their robustness.
+Metadata repository for Longitudinal Population Studies in the United Kingdom</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>closer@ucl.ac.uk</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>multidisciplinary</r3d:type>
+						<r3d:size>600 datasets</r3d:size>
+						<r3d:startDate>2012</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22202</r3d:subjectId>
+				<r3d:subjectName>Public Heatlh, Healthcare Research, Social and Occupational Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://discovery.closer.ac.uk/page/about/1</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/NHD0-W6SY</r3d:contentTypeId>
+				<r3d:contentTypeName>survey data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>family</r3d:keyword>
+					<r3d:keyword>physical health</r3d:keyword>
+					<r3d:keyword>survey</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">CLOSER</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">UCL Social Research Institute</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://closer.ac.uk/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Economic and Social Research Council</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ESRC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ukri.org/councils/esrc/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03n0ht308</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Medical Research Council</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">MRC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ukri.org/councils/mrc/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03x94j517</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2012</r3d:responsibilityStartDate>
+													<r3d:responsibilityEndDate>2017</r3d:responsibilityEndDate>
+							</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>End User Licence Agreement</r3d:policyName>
+				<r3d:policyUrl>https://ukdataservice.ac.uk/app/uploads/cd137-enduserlicence.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Non-Commercial Government Licence for public sector information</r3d:policyName>
+				<r3d:policyUrl>https://www.nationalarchives.gov.uk/doc/non-commercial-government-licence/version/2/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms and conditions</r3d:policyName>
+				<r3d:policyUrl>https://discovery.closer.ac.uk/page/terms/3</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://www.ucl.ac.uk/accessibility/digital-accessibility-statements/closer-discovery-accessibility-statement</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>OGL</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.nationalarchives.gov.uk/doc/non-commercial-government-licence/version/2/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://discovery.closer.ac.uk/oai/request?verb=Identify</r3d:apiUrl>
+									<r3d:apiDocumentation>https://docs.colectica.com/repository/technical/discover-harvest/</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>URN</r3d:pidSystem>
+															<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>DDI (Data Documentation Initiative)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m13</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2023-11-20</r3d:entryDate>
+		<r3d:lastUpdate>2025-07-24</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

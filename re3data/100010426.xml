@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010426</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3QW3D</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="deu">Forschungsdatenzentren der Statistischen Ämter des Bundes und der Länder</r3d:repositoryName>
+				<r3d:additionalName language="deu">FDZ Bund</r3d:additionalName>
+				<r3d:additionalName language="deu">FDZ Land</r3d:additionalName>
+				<r3d:additionalName language="deu">FDZ Länder</r3d:additionalName>
+				<r3d:additionalName language="deu">Forschungsdatenzentrum der Statistischen Ämter der Länder</r3d:additionalName>
+				<r3d:additionalName language="deu">Forschungsdatenzentrum des Statistischen Bundesamts</r3d:additionalName>
+				<r3d:additionalName language="eng">Research Data Centres of the  Federal Statistical Offices and of the Statistical Offices of the Federal States</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.forschungsdatenzentrum.de/en</r3d:repositoryUrl>
+				<r3d:description language="eng">The basic goal of the research data centres of the statistical offices of the Federation and the Länder is to improve the accessibility and usability of microdata of official statistics by setting up various ways of using the data.
+Research data centres of the Federal Statistical Office (FDZ-Bund)  and the statistical offices of the Länder (FDZ-Länder) provide collectively access to selected microdata of official statistics to researchers for scientific purposes.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>forschungsdatenzentrum@destatis.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>forschungsdatenzentrum@it.nrw.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.forschungsdatenzentrum.de/en/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+								<r3d:startDate>2001-09-01</r3d:startDate>
+        									<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12403</r3d:subjectId>
+				<r3d:subjectName>Accounting und Finance</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>231</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>44</r3d:subjectId>
+				<r3d:subjectName>Computer Science, Systems and Electrical Engineering</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12402</r3d:subjectId>
+				<r3d:subjectName>Economic Policy, Applied Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>442</r3d:subjectId>
+				<r3d:subjectName>Electrical Engineering and Information Technology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12302</r3d:subjectId>
+				<r3d:subjectName>Empirical Social Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>44204</r3d:subjectId>
+				<r3d:subjectName>Hardware Systems and Architectures for Information Technology and Artificial Intelligence, Quantum Engineering Systems</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22202</r3d:subjectId>
+				<r3d:subjectName>Public Heatlh, Healthcare Research, Social and Occupational Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12406</r3d:subjectId>
+				<r3d:subjectName>Statistics and Econometrics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.forschungsdatenzentrum.de/en/about-rdc</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/NHD0-W6SY</r3d:contentTypeId>
+				<r3d:contentTypeName>survey data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>agricultural statistics</r3d:keyword>
+					<r3d:keyword>business statistics</r3d:keyword>
+					<r3d:keyword>census data</r3d:keyword>
+					<r3d:keyword>empirical science</r3d:keyword>
+					<r3d:keyword>employment topics</r3d:keyword>
+					<r3d:keyword>energy statistics</r3d:keyword>
+					<r3d:keyword>environmental statistics</r3d:keyword>
+					<r3d:keyword>microdata</r3d:keyword>
+					<r3d:keyword>pension policy</r3d:keyword>
+					<r3d:keyword>social accounting</r3d:keyword>
+					<r3d:keyword>social security system</r3d:keyword>
+					<r3d:keyword>tax statistics</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Federal Ministry of Research, Technology and Space</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">BMFTR</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Bundesministerium für Forschung, Technologie und Raumfahrt</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">formerly: Federal Ministry of Education and Research</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bmftr.bund.de/EN/Home/home_node.html</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04pz7b180</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_005066</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Research Data Centres of the Statistical Offices of the Federal States</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">FDZ - Länder</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Forschungsdatenzentren der Statistischen Ämter der Länder</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.forschungsdatenzentrum.de/en</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Statistisches Bundesamt</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">FDZ - Bund</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">FDZ destatis</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Research data centre of the Federal Statistical Office</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Statistisches Bundesamt, Forschungsdatenzentrum</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.destatis.de/DE/Home/_inhalt.html</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01kratx56</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data Access</r3d:policyName>
+				<r3d:policyUrl>https://www.forschungsdatenzentrum.de/en/access</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>RatSWD and Research Data Infrastructure Status Quo and Quality Management</r3d:policyName>
+				<r3d:policyUrl>https://www.konsortswd.de/wp-content/uploads/RatSWD_Output1.6_QualityMgmt.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>closed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.forschungsdatenzentrum.de/en/imprint</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>DOI</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.forschungsdatenzentrum.de/en/citation-doi</r3d:citationGuidelineUrl>
+													<r3d:certificate>
+				<r3d:certificateName>RatSWD</r3d:certificateName>
+									<r3d:certificateStartDate>2001</r3d:certificateStartDate>
+												<r3d:certificateUrl>https://www.konsortswd.de/en/services/research/all-datacentres/fdz-bund/</r3d:certificateUrl>
+							</r3d:certificate>
+										<r3d:remarks>Research Data Centres of the Federal Statistical Office and the statistical offices of the Federal States is a member of the RatSWD research data infrastructure; some pages inform only: The English-language information supplied on the internet is specifically aimed at foreign scientists. A complete documentation of the data and services offered is provided on the German website.</r3d:remarks>
+		<r3d:entryDate>2013-07-04</r3d:entryDate>
+		<r3d:lastUpdate>2026-04-28</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

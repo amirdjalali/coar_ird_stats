@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010207</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31605</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Center for Integrated Earth System Information</r3d:repositoryName>
+				<r3d:additionalName language="eng">CIESIN</r3d:additionalName>
+				<r3d:repositoryUrl>https://ciesin.columbia.edu/content/data</r3d:repositoryUrl>
+				<r3d:description language="eng">CIESIN&#039;s mission is to harness cutting edge geospatial technologies to support integrated analysis of the human-environment system and to empower decision-making through collaborative research, teaching, and data production, stewardship and dissemination.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>ciesin.info@ciesin.columbia.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://ciesin.columbia.edu/people</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>The archive has 6 TB of data</r3d:size>
+						<r3d:startDate>1998</r3d:startDate>
+        							<r3d:relatedRepository>
+				<r3d:relatedRepositoryId>r3d100010051</r3d:relatedRepositoryId>
+				<r3d:relatedRepositoryType>successor</r3d:relatedRepositoryType>
+			</r3d:relatedRepository>
+							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23105</r3d:subjectId>
+				<r3d:subjectName>Agricultural Economics, Agricultural Policy, Agricultural Sociology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>231</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12303</r3d:subjectId>
+				<r3d:subjectName>Communication Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>443</r3d:subjectId>
+				<r3d:subjectName>Computer Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>44</r3d:subjectId>
+				<r3d:subjectName>Computer Science, Systems and Electrical Engineering</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>45</r3d:subjectId>
+				<r3d:subjectName>Construction Engineering and Architecture</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>451</r3d:subjectId>
+				<r3d:subjectName>Construction Engineering and Architecture</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12302</r3d:subjectId>
+				<r3d:subjectName>Empirical Social Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>345</r3d:subjectId>
+				<r3d:subjectName>Geography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34502</r3d:subjectId>
+				<r3d:subjectName>Human Geography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12304</r3d:subjectId>
+				<r3d:subjectName>Political Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>44303</r3d:subjectId>
+				<r3d:subjectName>Security and Dependability, Operating, Communication and Distributed Systems</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23101</r3d:subjectId>
+				<r3d:subjectName>Soil Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>45102</r3d:subjectId>
+				<r3d:subjectName>Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://ciesin.columbia.edu/content/about-us</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/ACF7-8YT9</r3d:contentTypeId>
+				<r3d:contentTypeName>aggregated data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>GIS</r3d:keyword>
+					<r3d:keyword>census data</r3d:keyword>
+					<r3d:keyword>climate change</r3d:keyword>
+					<r3d:keyword>database design</r3d:keyword>
+					<r3d:keyword>digital archiving</r3d:keyword>
+					<r3d:keyword>ecology</r3d:keyword>
+					<r3d:keyword>environmental assessment</r3d:keyword>
+					<r3d:keyword>environmental health</r3d:keyword>
+					<r3d:keyword>environmental indicators</r3d:keyword>
+					<r3d:keyword>environmental treaties</r3d:keyword>
+					<r3d:keyword>global environmental change</r3d:keyword>
+					<r3d:keyword>informal settlements</r3d:keyword>
+					<r3d:keyword>land use</r3d:keyword>
+					<r3d:keyword>metadata management</r3d:keyword>
+					<r3d:keyword>natural hazards</r3d:keyword>
+					<r3d:keyword>natural hazards</r3d:keyword>
+					<r3d:keyword>population</r3d:keyword>
+					<r3d:keyword>poverty</r3d:keyword>
+					<r3d:keyword>remote sensing</r3d:keyword>
+					<r3d:keyword>urban areas</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Columbia Climate School, Columbia University</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.climate.columbia.edu/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>1998</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Open Data Policy</r3d:policyName>
+				<r3d:policyUrl>https://ciesin.columbia.edu/sites/ciesin.columbia.edu/files/content/CIESINDataPolicy20240918.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://ciesin.columbia.edu/sites/ciesin.columbia.edu/files/content/CIESINDataInfoMgtPolicy20240918.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://ciesin.columbia.edu/sites/ciesin.columbia.edu/files/content/CIESINDataPolicy20240918.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+											<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>DOI</r3d:pidSystem>
+															<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>FGDC/CSDGM (Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m17</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>The CIESIN archive is managed by the CAFE collection team at the Harvard Dataverse (https://dataverse.harvard.edu/dataverse/CIESIN)</r3d:remarks>
+		<r3d:entryDate>2012-02-11</r3d:entryDate>
+		<r3d:lastUpdate>2026-03-12</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

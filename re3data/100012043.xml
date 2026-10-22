@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012043</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3NH17</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Statistics Canada Data Tables</r3d:repositoryName>
+				<r3d:additionalName language="eng">Statcan Data Tables</r3d:additionalName>
+				<r3d:additionalName language="eng">Statistics Canada’s main socioeconomic time series database</r3d:additionalName>
+				<r3d:additionalName language="eng">formerly: CANSIM</r3d:additionalName>
+				<r3d:additionalName language="eng">formerly: Canadian Socio-economic Information Management System</r3d:additionalName>
+				<r3d:repositoryUrl>https://www150.statcan.gc.ca/n1/en/type/data</r3d:repositoryUrl>
+				<r3d:description language="eng">CANSIM is Statistics Canada&#039;s key socioeconomic database. Updated daily, CANSIM provides fast and easy access to a large range of the latest statistics available in Canada.
+Before June 2018, the Data Tables collection was called CANSIM. That name was retired, but the content is still available. CANSIM tables have been given new numbers, but you can still search the Data Tables using the old CANSIM table and vector numbers (or use this Concordance to look up the new table number).</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.statcan.gc.ca/en/reference/refcentre/index?MM=1</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>infostats@statcan.gc.ca</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12302</r3d:subjectId>
+				<r3d:subjectName>Empirical Social Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12406</r3d:subjectId>
+				<r3d:subjectName>Statistics and Econometrics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.statcan.gc.ca/en/about/website-help</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>CHASS</r3d:keyword>
+					<r3d:keyword>My StatCan</r3d:keyword>
+					<r3d:keyword>census</r3d:keyword>
+					<r3d:keyword>economic data</r3d:keyword>
+					<r3d:keyword>household survey</r3d:keyword>
+					<r3d:keyword>social data</r3d:keyword>
+					<r3d:keyword>time series</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Government of Canada, Statistics Canada</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">Gouvernement du Canada, Statistique Canada</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.statcan.gc.ca/en/start</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05k71ja87</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Statistics Act</r3d:policyName>
+				<r3d:policyUrl>https://laws-lois.justice.gc.ca/eng/acts/S-19/FullText.html</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Statistics Canada Open Licence</r3d:policyName>
+				<r3d:policyUrl>https://www.statcan.gc.ca/en/reference/licence</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Statistics Canada Open Licence Agreement - FAQ</r3d:policyName>
+				<r3d:policyUrl>https://www.statcan.gc.ca/en/reference/licence-faq</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms and conditions</r3d:policyName>
+				<r3d:policyUrl>https://www.statcan.gc.ca/en/reference/terms-conditions</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.statcan.gc.ca/eng/reference/copyright</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>OGLC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.statcan.gc.ca/en/reference/copyright</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+											<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www150.statcan.gc.ca/n1/en/catalogue/12-591-X</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks>Other resources to help you find Statistics Canada data and information (https://www.statcan.gc.ca/en/about/statcan):  Summary tables, Census Profile, Census Data, Canadian International Merchandise Trade Database, NHS Profile, National Household Survey Data</r3d:remarks>
+		<r3d:entryDate>2016-06-21</r3d:entryDate>
+		<r3d:lastUpdate>2024-05-22</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

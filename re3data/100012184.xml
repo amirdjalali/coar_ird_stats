@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012184</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3H942</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">KIT Whole-Body Human Motion Database</r3d:repositoryName>
+				<r3d:repositoryUrl>https://motion-database.humanoids.kit.edu/</r3d:repositoryUrl>
+				<r3d:description language="eng">With the KIT Whole-Body Human Motion Database, we aim to provide a simple way of sharing high-quality motion capture recordings of human whole-body motion. In addition, with the Motion Annotation Tool (https://motion-annotation.humanoids.kit.edu/ ), we aim to collect a comprehensive set of whole-body motions along with natural language descriptions of these motions (https://motion-annotation.humanoids.kit.edu/dataset/).</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://motion-database.humanoids.kit.edu/contact/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>motiondatabase@lists.kit.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>2.972 motion experiments; 238 subjects; 162 objects</r3d:size>
+													<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22204</r3d:subjectId>
+				<r3d:subjectName>Anatomy and Physiology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>443</r3d:subjectId>
+				<r3d:subjectName>Computer Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>44</r3d:subjectId>
+				<r3d:subjectName>Computer Science, Systems and Electrical Engineering</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://h2t.iar.kit.edu/1040.php</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_8a7e</r3d:contentTypeId>
+				<r3d:contentTypeName>moving image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_1843</r3d:contentTypeId>
+				<r3d:contentTypeName>other</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Motion Annotation Tool</r3d:keyword>
+					<r3d:keyword>Motion Description Tree (MDT)</r3d:keyword>
+					<r3d:keyword>anthropometric</r3d:keyword>
+					<r3d:keyword>whole-body motions</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Karlsruhe Institute of Technology</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">KIT</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Karlsruher Institut für Technologie</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.kit.edu/english/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04t3en479</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_001552</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Karlsruhe Institute of Technology, Department of Informatics, Institute for Anthropomatics and Robotics, High Performance Humanoid Technologies</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">KIT, IAR, H²T</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Karlsruher Institut für Technologie, Fakultät für Informatik, Institut für Anthropomatik und Robotik, Hochperformante Humanoide Technologien</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://h2t.iar.kit.edu/index.php</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>KIT policy</r3d:policyName>
+				<r3d:policyUrl>https://www.rdm.kit.edu/downloads/KIT-RDM-Policy.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Legals</r3d:policyName>
+				<r3d:policyUrl>https://www.informatik.kit.edu/english/impressum.php</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://motion-database.humanoids.kit.edu/faq/#register</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.sle.kit.edu/downloads/AmtlicheBekanntmachungen/2014_AB_056.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+											<r3d:versioning>no</r3d:versioning>
+									<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://motion-database.humanoids.kit.edu/faq/#cite</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>no</r3d:enhancedPublication>
+							<r3d:qualityManagement>
+				<r3d:qualityManagementStatus>yes</r3d:qualityManagementStatus>
+								<r3d:qualityManagementMeasure>
+					<r3d:qualityManagementMeasureName>Standardized Data Description Framework</r3d:qualityManagementMeasureName>
+					<r3d:qualityManagementMeasureUrl>https://motion-database.humanoids.kit.edu/faq/#data_types</r3d:qualityManagementMeasureUrl>
+				</r3d:qualityManagementMeasure>
+							</r3d:qualityManagement>
+									<r3d:profile>
+				<r3d:profileName>Helmholtz Association</r3d:profileName>
+				<r3d:profileUrl>https://os.helmholtz.de/open-research-data/forschungsdatenrepositorien/</r3d:profileUrl>
+			</r3d:profile>
+							<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>The KIT Whole-Body Human Motion Database is used within the European projects KoroiBot (grant agreement no. 611909), WALK-MAN (grant agreement no. 611832), Xperience (grant agreement no. 270273) funded by the European Union Seventh Framework Programme, SecondHands (grant agreement no. 643950), TimeStorm (grant agreement no. 641100), I-SUPPORT (grant agreement no. 643666) funded by the European Union H2020 Programme, PACO-PLUS (grant agreement no. 027657) funded by the European Union Sixth Framework Programme, and the Collaborative Research Project on Humanoid Robots (SFB 588) funded by the German Research Foundation (DFG).</r3d:remarks>
+		<r3d:entryDate>2016-10-17</r3d:entryDate>
+		<r3d:lastUpdate>2025-12-01</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

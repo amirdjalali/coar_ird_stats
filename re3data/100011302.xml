@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011302</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31K9C</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">The Polinsky Language Sciences Lab Dataverse</r3d:repositoryName>
+				<r3d:repositoryUrl>https://dataverse.harvard.edu/dataverse/polinsky</r3d:repositoryUrl>
+				<r3d:description language="eng">The Polinsky Language Sciences Lab at Harvard University is a linguistics lab that examines questions of language structure and its effect on the ways in which people use and process language in real time. We engage in linguistic and interdisciplinary research projects ourselves; offer linguistic research capabilities for undergraduate and graduate students, faculty, and visitors; and build relationships with the linguistic communities in which we do our research.
+We are interested in a broad range of issues pertaining to syntax, interfaces, and cross-linguistic variation. We place a particular emphasis on novel experimental evidence that facilitates the construction of linguistic theory. We have a strong cross-linguistic focus, drawing upon English, Russian, Chinese, Korean, Mayan languages, Basque, Austronesian languages, languages of the Caucasus, and others. We believe that challenging existing theories with data from as broad a range of languages as possible is a crucial component of the successful development of linguistic theory.
+We investigate both fluent speakers and heritage speakers—those who grew up hearing or speaking a particular language but who are now more fluent in a different, societally dominant language. Heritage languages, a novel field of linguistic inquiry, are important because they provide new insights into processes of linguistic development and attrition in general, thus increasing our understanding of the human capacity to maintain and acquire language. Understanding language use and processing in real time and how children acquire language helps us improve language study and pedagogy, which in turn improves communication across the globe. Although our lab does not specialize in language acquisition, we have conducted some studies of acquisition of lesser-studied languages and heritage languages, with the purpose of comparing heritage speakers to adults.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>kplaster@fas.harvard.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+						<r3d:size>16 datasets; 1.156 files</r3d:size>
+						<r3d:startDate>2013</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>114</r3d:subjectId>
+				<r3d:subjectName>Linguistics</r3d:subjectName>
+			</r3d:subject>
+									<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>cross-linguistic</r3d:keyword>
+					<r3d:keyword>fluent speakers</r3d:keyword>
+					<r3d:keyword>heritage speakers</r3d:keyword>
+					<r3d:keyword>social sciences</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Harvard Dataverse</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://dataverse.harvard.edu/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Harvard University, Institute for Quantitative Social Science</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">IQSS</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.iq.harvard.edu/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">The Dataverse  Project</r3d:institutionName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://dataverse.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_001997</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Community-norms</r3d:policyName>
+				<r3d:policyUrl>https://dataverse.org/best-practices/dataverse-community-norms</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Dataverse Documentation</r3d:policyName>
+				<r3d:policyUrl>https://guides.dataverse.org/en/latest/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Harvard Dataverse General Terms of Use</r3d:policyName>
+				<r3d:policyUrl>https://support.dataverse.harvard.edu/harvard-dataverse-general-terms-use</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Harvard Dataverse Repository Policies</r3d:policyName>
+				<r3d:policyUrl>https://support.dataverse.harvard.edu/policies</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC0</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>closed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://support.dataverse.harvard.edu/policies</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Data Deposit Terms</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://dataverse.org/best-practices/harvard-dataverse-general-terms-use</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>Dataverse</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://dataverse.harvard.edu/oai?verb=Identify</r3d:apiUrl>
+									<r3d:apiDocumentation>https://guides.dataverse.org/en/latest/admin/discoverability.html</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://guides.dataverse.org/en/latest/api/native-api.html</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>SWORD</r3d:apiType>
+				<r3d:apiUrl>https://guides.dataverse.org/en/latest/api/sword.html</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+					<r3d:pidSystem>hdl</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://dataverse.org/best-practices/data-citation</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>DDI (Data Documentation Initiative)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m13</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>DataCite Metadata Schema</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m11</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>JSON-LD (JavaScript Object Notation for Linked Data)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m95</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>OAI-ORE (Open Archives Initiative Object Reuse and Exchange)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m26</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>OpenAIRE Guidelines</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m92</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>schema.org</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m101</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>Polinsky Language Sciences Lab is covered by Thomson Reuters Data Citation Index. And uses Data Documentation Initiative (DDI) metadata specification.</r3d:remarks>
+		<r3d:entryDate>2014-11-28</r3d:entryDate>
+		<r3d:lastUpdate>2025-06-25</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

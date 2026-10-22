@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012870</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3WN6P</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">EarthWorks</r3d:repositoryName>
+				<r3d:repositoryUrl>https://earthworks.stanford.edu/</r3d:repositoryUrl>
+				<r3d:description language="eng">EarthWorks is a discovery tool for geospatial (a.k.a. GIS) data. It allows users to search and browse the GIS collections owned by Stanford University Libraries, as well as data collections from many other institutions. Data can be searched spatially, by manipulating a map; by keyword search; by selecting search limiting facets (e.g., limit to a given format type); or by combining these options.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://earthworks.stanford.edu/feedback</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>other</r3d:type>
+						<r3d:size>over 70.000 resources;  from more than 20 institutions</r3d:size>
+						<r3d:startDate>2015</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>231</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21303</r3d:subjectId>
+				<r3d:subjectName>Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>213</r3d:subjectId>
+				<r3d:subjectName>Zoology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>http://library.stanford.edu/blogs/digital-library-blog/2015/04/introducing-earthworks-stanfords-new-gis-data-discovery</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>California</r3d:keyword>
+					<r3d:keyword>census</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Stanford Libraries</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Stanford University Libraries</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://library.stanford.edu/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Terms of use</r3d:policyName>
+				<r3d:policyUrl>https://www.stanford.edu/site/terms/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>closed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-sa/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://earthworks.stanford.edu/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+									<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://geowebservices.stanford.edu/geoserver/wms</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://geowebservices.stanford.edu/geoserver/wfs</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>PURL</r3d:pidSystem>
+					<r3d:pidSystem>other</r3d:pidSystem>
+															<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>ISO 19115</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m22</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2018-09-28</r3d:entryDate>
+		<r3d:lastUpdate>2023-04-04</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

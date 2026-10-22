@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011298</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3JK8N</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Nuclear Receptor Signaling Atlas</r3d:repositoryName>
+				<r3d:additionalName language="eng">NURSA Hub</r3d:additionalName>
+				<r3d:repositoryUrl>http://www.nursa.org/nursa/index.jsf</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.vszknv</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_003287</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>nif-0000-03208</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; the repository is offline &gt;&gt;&gt;!!!&gt;&gt;&gt;
+More information see: https://dknet.org/about/NURSA_Archive
+All NURSA-biocurated transcriptomic datasets have been preserved for data mining in SPP through an enhanced and expanded version of Transcriptomine named Ominer. To access these datasets, dkNET provides users with the information of 527 transcriptomic datasets that contain data related to nuclear receptors and nuclear receptor coregulators in the NURSA Datasets table view and redirects users to the current SPP dataset page. Once users find the specific dataset of research interest, users can download the dataset by clicking DOI and then clicking the Download Dataset button at the Signaling Pathways Project webpage.  See https://www.re3data.org/repository/r3d100013650</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>support@nursa.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2002</r3d:startDate>
+        				<r3d:endDate>
+									<r3d:offline>2019</r3d:offline>
+					</r3d:endDate>
+        					<r3d:relatedRepository>
+				<r3d:relatedRepositoryId>r3d100013650</r3d:relatedRepositoryId>
+				<r3d:relatedRepositoryType>successor</r3d:relatedRepositoryType>
+			</r3d:relatedRepository>
+							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+											<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>house mouse</r3d:keyword>
+					<r3d:keyword>human</r3d:keyword>
+					<r3d:keyword>life sciences</r3d:keyword>
+					<r3d:keyword>molecules</r3d:keyword>
+					<r3d:keyword>norway rat</r3d:keyword>
+					<r3d:keyword>nuclear receptor signaling</r3d:keyword>
+					<r3d:keyword>reagents</r3d:keyword>
+					<r3d:keyword>transcriptomine</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Baylor College of Medicine</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">BCM</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bcm.edu/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Institutes of Health, Eunice Kennedy Shriver National Institute of Child Health and Development</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NICHD</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nichd.nih.gov/Pages/index.aspx</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Institutes of Health, National Institute of Diabetes, Digestive and Kidney Diseases</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NIDDK</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.niddk.nih.gov/Pages/default.aspx</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>NIH Funding Opportunities and Notices</r3d:policyName>
+				<r3d:policyUrl>http://grants.nih.gov/grants/guide/index.html</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>closed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/3.0/us/legalcode</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>feeRequired</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+											<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>DOI</r3d:pidSystem>
+															<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks>description: NURSA began in 2002 with the objective to accrue, develop and communicate information about the nuclear receptor superfamily. Over the last ten years, NURSA has developed a website that has developed into a comprehensive source of information about nuclear receptors, and their co-regulators, ligands, and downstream targets. Through a series of integrated &#039;omics-scale and informatic approaches projects, NURSA has fostered a systems biology understanding of nuclear receptor function, physiology and regulation of target gene networks in vivo.
+Nuclear Receptor Signaling Atlas is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+		<r3d:entryDate>2014-11-26</r3d:entryDate>
+		<r3d:lastUpdate>2024-12-10</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

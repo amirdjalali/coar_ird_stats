@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010730</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3TC82</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Canadensys repository</r3d:repositoryName>
+				<r3d:additionalName language="eng">Database of Vascular Plants of Canada</r3d:additionalName>
+				<r3d:additionalName language="eng">VASCAN</r3d:additionalName>
+				<r3d:repositoryUrl>https://data.canadensys.net/ipt/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.v2sjcy</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">Biological collections are replete with taxonomic, geographic, temporal, numerical, and historical information. This information is crucial for understanding and properly managing biodiversity and ecosystems, but is often difficult to access. Canadensys, operated from the Université de Montréal Biodiversity Centre, is a Canada-wide effort to unlock the biodiversity information held in biological collections.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>canadensys.network@gmail.com</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+						<r3d:size>142 resource(s) currently available</r3d:size>
+						<r3d:startDate>2011</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21202</r3d:subjectId>
+				<r3d:subjectName>Ecology and Biodiversity of Plants and Ecosystems</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>212</r3d:subjectId>
+				<r3d:subjectName>Plant Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.canadensys.net/about/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>biodiversity</r3d:keyword>
+					<r3d:keyword>biological collections</r3d:keyword>
+					<r3d:keyword>digitalization</r3d:keyword>
+					<r3d:keyword>ecosystems</r3d:keyword>
+					<r3d:keyword>hybrids</r3d:keyword>
+					<r3d:keyword>insects</r3d:keyword>
+					<r3d:keyword>plants</r3d:keyword>
+					<r3d:keyword>synonymy</r3d:keyword>
+					<r3d:keyword>taxonomy</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Canada Foundation for Innovation</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CFI</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Fondation Canadienne pour L&#039;Innovation</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.innovation.ca/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/000az4664</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_005054</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_144042</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Global Biodiversity Informaton Facility</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">GBIF</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Système mondial d&#039;information sur la biodiversité</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DNK</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.gbif.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05fjyn938</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_005904</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_149475</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Université de Montréal Biodiversity Centre</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">Université de Montréal, Centre sur la biodiversité</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://irbv.umontreal.ca/institute/infrastructure/biodiversity-centre/?lang=en</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>How to publish data</r3d:policyName>
+				<r3d:policyUrl>https://www.canadensys.net/publish/introduction/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>Apache License 2.0</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/3.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.gbif.org/terms/data-user</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>7-step-guide to data publication</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://www.canadensys.net/publish/7-step-guide/</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://www.canadensys.net/tools/tools-api/</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+					<r3d:pidSystem>PURL</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.canadensys.net/publish/7-step-guide/#citation</r3d:citationGuidelineUrl>
+																	<r3d:metadataStandard>
+				<r3d:metadataStandardName>Darwin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m9</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+							<r3d:syndication>
+				<r3d:syndicationType>RSS</r3d:syndicationType>
+				<r3d:syndicationUrl>https://data.canadensys.net/ipt/rss.do</r3d:syndicationUrl>
+			</r3d:syndication>
+				<r3d:remarks>Canadensys aims to digitize, publish and georeference 3 million specimens (20%) in our initial five years, via a network of distributed databases, compatible with the Canadian Biodiversity Information Facility (CBIF) and the Global Biodiversity Information Facility (GBIF). Collection managers will publish their data as Darwin Core, an internationally-accepted biodiversity information standard. A central web portal will allow access to the network’s specimen data (including images and geospatial information) in combination with other data such as names from the Database of Canadian Vascular Plants (VASCAN) and the Catalogue of Life.</r3d:remarks>
+		<r3d:entryDate>2013-10-18</r3d:entryDate>
+		<r3d:lastUpdate>2026-07-06</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

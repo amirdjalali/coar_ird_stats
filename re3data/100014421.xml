@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014421</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNMD</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">opendata.swiss portal</r3d:repositoryName>
+				<r3d:repositoryUrl>https://opendata.swiss</r3d:repositoryUrl>
+				<r3d:description language="eng">The opendata.swiss portal is a joint project of the Confederation, cantons, communes and other organizations with a mandate from the state. It makes open government data available to the general public in a central catalogue. opendata.swiss is operated by the Federal Statistical Office.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://opendata.swiss/de/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>opendata@bfs.admin.ch</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+								<r3d:startDate>2019</r3d:startDate>
+        									<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>ita</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21303</r3d:subjectId>
+				<r3d:subjectName>Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>213</r3d:subjectId>
+				<r3d:subjectName>Zoology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://opendata.swiss/de/about</r3d:missionStatementUrl>
+									<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>open government data</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Federal Statistical Office</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">BFS</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Bundesamt für Statistik</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CHE</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bfs.admin.ch/bfs/de/home.html</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/027h8t796</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2019</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Terms of Use</r3d:policyName>
+				<r3d:policyUrl>https://opendata.swiss/de/terms-of-use</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://opendata.swiss/en/terms-of-use</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>CKAN</r3d:software>
+									<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html</r3d:apiUrl>
+							</r3d:api>
+																	<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+														<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2024-09-05</r3d:entryDate>
+		<r3d:lastUpdate>2024-09-08</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

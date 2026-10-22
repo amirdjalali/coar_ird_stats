@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014444</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNN0</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">German Portal for Medical Research Data</r3d:repositoryName>
+				<r3d:additionalName language="deu">Deutsches Forschungsdatenportal für Gesundheit</r3d:additionalName>
+				<r3d:additionalName language="deu">FDPG</r3d:additionalName>
+				<r3d:repositoryUrl>https://forschen-fuer-gesundheit.de/</r3d:repositoryUrl>
+				<r3d:description language="eng">The German Portal for Medical Research Data (FDPG) is the central point of administration for scientists conducting research projects with routine medical data from German universities. 
+The Medical Informatics Initiative (MII), which is funded by the Federal Ministry of Education and Research (BMBF), collects patient data and biosamples taken during routine care for medical research and processes them at data integration centres based in university hospitals. The data are then made available in accordance with data protection regulations.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@forschen-fuer-gesundheit.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+				<r3d:type>project-related</r3d:type>
+						<r3d:size>&gt; 10 Mio. patients</r3d:size>
+						<r3d:startDate>2023-05-16</r3d:startDate>
+        									<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>223</r3d:subjectId>
+				<r3d:subjectName>Neurosciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.medizininformatik-initiative.de/en/start</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/ACF7-8YT9</r3d:contentTypeId>
+				<r3d:contentTypeName>aggregated data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_cb28</r3d:contentTypeId>
+				<r3d:contentTypeName>clinical trial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_1843</r3d:contentTypeId>
+				<r3d:contentTypeName>other</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>Core data set</r3d:keyword>
+					<r3d:keyword>DataSHIELD</r3d:keyword>
+					<r3d:keyword>FHIR</r3d:keyword>
+					<r3d:keyword>data integration center</r3d:keyword>
+					<r3d:keyword>distributed analysis</r3d:keyword>
+					<r3d:keyword>medical routine data</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Federal Ministry  of Research, Technology and Space</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">BMFTR</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Bundesministerium für Forschung, Technologie und Raumfahrt</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">formerly: Federal Ministry of Education and Research</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bmbf.de/EN/Home/home_node.html</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04pz7b180</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_005066</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Medical Informatics initiative Germany</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">MII</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Medizininformatik-Initiative</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.medizininformatik-initiative.de/en/start</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Technologie- und Methodenplattform für vernetzte medizinische Forschung e.V.</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">TMF</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Technology, Methods, and Infrastructure for Networked Medical Research</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.tmf-ev.de/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_004993</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Standardised use and access rules</r3d:policyName>
+				<r3d:policyUrl>https://www.medizininformatik-initiative.de/en/standardised-use-and-access-rules</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.medizininformatik-initiative.de/sites/default/files/2022-09/MII_Faltflyer_A4_FDPG_digital.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.medizininformatik-initiative.de/sites/default/files/2021-01/MII_NutzV_v1.3_MII_Web.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+							</r3d:dataUpload>
+																																	<r3d:metadataStandard>
+				<r3d:metadataStandardName>FHIR (Fast Healthcare Interoperability Resources)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m103</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2024-10-07</r3d:entryDate>
+		<r3d:lastUpdate>2025-07-15</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

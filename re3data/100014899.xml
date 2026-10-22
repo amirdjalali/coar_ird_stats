@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014899</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNZN</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">ArchaeoVault</r3d:repositoryName>
+				<r3d:repositoryUrl>https://archaeo-vault.cz/</r3d:repositoryUrl>
+				<r3d:description language="eng">ArchaeoVault is a national repository for analytical archaeological data from the Czech environment and Czech archaeology. It mainly stores geospatial data, the results of laboratory analyses, anthropological data, 3D data, and databases. The repository is complementary to the Archaeological Information System of the Czech Republic and ensures FAIR principles: clear metadata, standardization, persistent identifiers, and connection to industry repositories. Data is curated for quality, long-term retention, and ease of reuse. The aim is to make research results available to experts, students, and institutions in one place.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>digitalia@phil.muni.cz</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2026-01-01</r3d:startDate>
+        									<r3d:repositoryLanguage>ces</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>111</r3d:subjectId>
+				<r3d:subjectName>Ancient Cultures</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11101</r3d:subjectId>
+				<r3d:subjectName>Prehistory and World Archaeology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://archaeo-vault.cz/en/about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>FAIR</r3d:keyword>
+					<r3d:keyword>archaeology</r3d:keyword>
+					<r3d:keyword>non-field archaeological data</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Masaryk University</r3d:institutionName>
+									<r3d:institutionAdditionalName language="ces">Masarykova univerzita</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CZE</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.muni.cz/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02j46qs45</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2026</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Terms of service</r3d:policyName>
+				<r3d:policyUrl>https://digitalia.phil.muni.cz/en/about-us/terms-of-service</r3d:policyUrl>
+			</r3d:policy>
+							<r3d:fundingInformation>
+				<r3d:funderName>Ministry of Education, Youth and Sports (Czech Republic)</r3d:funderName>
+									<r3d:funderIdentifier>
+						<r3d:funderIdentifierType>CrossrefFunderID</r3d:funderIdentifierType>
+						<r3d:funderIdentifierValue>501100001823</r3d:funderIdentifierValue>
+					</r3d:funderIdentifier>
+													<r3d:grantIdentifier>CZ.02.01.01/00/23_014/0008787</r3d:grantIdentifier>
+							</r3d:fundingInformation>
+				<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://archaeo-vault.cz/oai/request?verb=Identify</r3d:apiUrl>
+									<r3d:apiDocumentation>https://archaeo-vault.cz/en/oai</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+													<r3d:aidSystem>ORCID</r3d:aidSystem>
+							<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>DataCite Metadata Schema</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m11</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2026-07-16</r3d:entryDate>
+		<r3d:lastUpdate>2026-07-19</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

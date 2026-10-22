@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012366</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3GT0D</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Comparative RNA Web</r3d:repositoryName>
+				<r3d:additionalName language="eng">CRW</r3d:additionalName>
+				<r3d:repositoryUrl>https://crw-site.chemistry.gatech.edu/</r3d:repositoryUrl>
+				<r3d:description language="eng">The Comparative RNA Web (CRW) Site disseminates information about RNA structure and evolution that has been determined using comparative sequence analysis. We present both raw (sequences, structure models, metadata) and processed (analyses, evolution, accuracy) data, organized into four main sections.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>robin.gutell@austin.utexas.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2000</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>31</r3d:subjectId>
+				<r3d:subjectName>Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>311</r3d:subjectId>
+				<r3d:subjectName>Molecular Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://crw-site.chemistry.gatech.edu/AI/site_overview</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>RNA evolution</r3d:keyword>
+					<r3d:keyword>RNA function</r3d:keyword>
+					<r3d:keyword>RNA sequences</r3d:keyword>
+					<r3d:keyword>RNA structure</r3d:keyword>
+					<r3d:keyword>biological cell</r3d:keyword>
+					<r3d:keyword>molecular biology</r3d:keyword>
+					<r3d:keyword>protein biosynthesis</r3d:keyword>
+					<r3d:keyword>transcription</r3d:keyword>
+					<r3d:keyword>translation</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Georgia Tech, Williams Lab</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://williams.chemistry.gatech.edu/group/index.html</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Ionis Pharmaceuticals</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">formerly: Isis Pharmaceuticals</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.ionispharma.com/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Microsoft Research</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.microsoft.com/en-us/research/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00d0nc645</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Institutes of Health</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nih.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01cwqze88</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nsf.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/021nxhr62</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">The Welch Foundation</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.welch1.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00np6vq88</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Texas at Austin, Center for Computational Biology and Bioinformatics</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CCBB</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://ccbb.biosci.utexas.edu/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Texas at Austin, Department of Integrative Biology, College of Natural Sciences</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://integrativebio.utexas.edu/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Texas at Austin, Gutell Laboratory</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://mbp.ices.utexas.edu/index.php/faculty-gutell/</r3d:institutionUrl>
+																	<r3d:responsibilityEndDate>2020</r3d:responsibilityEndDate>
+							</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Texas at Austin, Institute for Computational and Engineering Sciences</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ICES</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ices.utexas.edu/about/welcome/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Guidelines for Data Usage</r3d:policyName>
+				<r3d:policyUrl>https://crw-site.chemistry.gatech.edu/AI/General/aup</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://crw-site.chemistry.gatech.edu/AI/General/aup</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>MySQL</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+															<r3d:citationGuidelineUrl>https://crw-site.chemistry.gatech.edu/AI/General/aup</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+														<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2017-05-10</r3d:entryDate>
+		<r3d:lastUpdate>2022-12-12</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

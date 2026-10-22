@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011977</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R36S77</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Babylonian Diaries</r3d:repositoryName>
+				<r3d:additionalName language="eng">BDIA</r3d:additionalName>
+				<r3d:repositoryUrl>http://repository.edition-topoi.org/collection/BDIA</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>DOI</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.17171/1-3</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">The Babylonian astronomical diaries comprise a group of cuneiform texts which record natural events in time spans from months to a whole year</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>gerd.grasshoff@hu-berlin.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>michael.meyer@fu-berlin.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>360 Research Objects</r3d:size>
+						<r3d:startDate>2015-03-01</r3d:startDate>
+        				<r3d:endDate>
+									<r3d:offline>2019</r3d:offline>
+					</r3d:endDate>
+        							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>111</r3d:subjectId>
+				<r3d:subjectName>Ancient Cultures</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>112</r3d:subjectId>
+				<r3d:subjectName>History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11204</r3d:subjectId>
+				<r3d:subjectName>History of Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>http://repository.edition-topoi.org/collection/BDIA/overview</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Babylon</r3d:keyword>
+					<r3d:keyword>ancient astronomy</r3d:keyword>
+					<r3d:keyword>cuneiform texts</r3d:keyword>
+					<r3d:keyword>meterology</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="deu">Humboldt-Universität zu Berlin</r3d:institutionName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.hu-berlin.de</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01hcx6992</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_005626</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_41554</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">TOPOI Excellence Cluster</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">The Formation and Transformation of Space and
+Knowledge in Ancient Civilizations</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.topoi.org/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">edition|topoi Collections</r3d:institutionName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.edition-topoi.org/publishing_with_us/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Conditions for Use</r3d:policyName>
+				<r3d:policyUrl>http://repository.edition-topoi.org/collection/BDIA/metadata#conditions_for_use</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Envisioning the Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities</r3d:policyName>
+				<r3d:policyUrl>https://www.topoi.org/wp-content/uploads/2016/04/20160428_Edition-Topoi_-Mission-Statement.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://creativecommons.org/licenses/by-nc-sa/3.0/de/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://www.edition-topoi.org/publishing_with_us/imprint</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-nc-sa/3.0/de/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>DOI</r3d:pidSystem>
+																							<r3d:metadataStandard>
+				<r3d:metadataStandardName>DataCite Metadata Schema</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m11</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2016-05-03</r3d:entryDate>
+		<r3d:lastUpdate>2026-02-04</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

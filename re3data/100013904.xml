@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013904</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJN80</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="por">Arca Dados</r3d:repositoryName>
+				<r3d:additionalName language="eng">Arca Data</r3d:additionalName>
+				<r3d:additionalName language="spa">Arca de datos</r3d:additionalName>
+				<r3d:repositoryUrl>https://arcadados.fiocruz.br/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>DOI</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.35078</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">Arca Data is Fiocruz&#039;s official repository for archiving, publishing, disseminating, preserving and sharing digital research data produced by the Fiocruz community or in partnership with other research institutes or bodies, with the aim of promoting new research, ensuring the reproducibility or replicability of existing research and promoting an Open and Citizen Science. Its objective is to stimulate the wide circulation of scientific knowledge, strengthening the institutional commitment to Open Science and free access to health information, in addition to providing transparency and fostering collaboration between researchers, educators, academics, managers and graduate students, to the advancement of knowledge and the creation of solutions that meet the demands of society.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>dadosabertos@fiocruz.br</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>dadosabertos@fiocruz.br</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>repositorio.arcadados@fiocruz.br</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+						<r3d:size>91 dataverses; 756 datasets; 194.852 files</r3d:size>
+						<r3d:startDate>2020</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>por</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://portal.fiocruz.br/ciencia-aberta</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_5ce6</r3d:contentTypeId>
+				<r3d:contentTypeName>software</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>biodiversity</r3d:keyword>
+					<r3d:keyword>bioengineering</r3d:keyword>
+					<r3d:keyword>biomedicine</r3d:keyword>
+					<r3d:keyword>clinical studies</r3d:keyword>
+					<r3d:keyword>ecology</r3d:keyword>
+					<r3d:keyword>environmental science</r3d:keyword>
+					<r3d:keyword>epidemiology</r3d:keyword>
+					<r3d:keyword>health care</r3d:keyword>
+					<r3d:keyword>health education</r3d:keyword>
+					<r3d:keyword>history</r3d:keyword>
+					<r3d:keyword>human rights</r3d:keyword>
+					<r3d:keyword>innovation</r3d:keyword>
+					<r3d:keyword>microbiology</r3d:keyword>
+					<r3d:keyword>multidisciplinary</r3d:keyword>
+					<r3d:keyword>public health</r3d:keyword>
+					<r3d:keyword>social inequalities</r3d:keyword>
+					<r3d:keyword>unified health system (SUS)</r3d:keyword>
+					<r3d:keyword>vaccines</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Dataverse Project</r3d:institutionName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://dataverse.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_001997</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="por">Fundação Oswaldo Cruz</r3d:institutionName>
+									<r3d:institutionAdditionalName language="por">Fiocruz</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="spa">Fundación Oswaldo Cruz</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Oswaldo Cruz Foundation</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>BRA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://portal.fiocruz.br/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04jhswv08</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Dataverse Community Norms</r3d:policyName>
+				<r3d:policyUrl>https://dataverse.org/best-practices/dataverse-community-norms</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Policy on management, sharing and opening of research data: principles and guidelines</r3d:policyName>
+				<r3d:policyUrl>https://www.arca.fiocruz.br/handle/icict/46408</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Projeto de Implantação do Repositório Institucional de Dados de Pesquisa da Fiocruz</r3d:policyName>
+				<r3d:policyUrl>https://doi.org/10.35078/RAWVFZ</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-nc/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>Dataverse</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://arcadados.fiocruz.br/oai?verb=Identify</r3d:apiUrl>
+									<r3d:apiDocumentation>https://guides.dataverse.org/en/latest/admin/discoverability.html</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://guides.dataverse.org/en/5.10.1/api/native-api.html</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>SWORD</r3d:apiType>
+				<r3d:apiUrl>https://guides.dataverse.org/en/5.10.1/api/sword.html</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+									<r3d:metrics>Usage statistics</r3d:metrics>
+							<r3d:citationGuidelineUrl>https://dataverse.org/best-practices/data-citation</r3d:citationGuidelineUrl>
+							<r3d:aidSystem>ORCID</r3d:aidSystem>
+							<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+									<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2024-09-12</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2027-09-12</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/BSELBC</r3d:certificateUrl>
+							</r3d:certificate>
+									<r3d:metadataStandard>
+				<r3d:metadataStandardName>DDI (Data Documentation Initiative)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m13</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>DataCite Metadata Schema</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m11</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>JSON-LD (JavaScript Object Notation for Linked Data)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m95</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>OAI-ORE (Open Archives Initiative Object Reuse and Exchange)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m26</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>OpenAIRE Guidelines</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m92</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>schema.org</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m101</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2022-07-08</r3d:entryDate>
+		<r3d:lastUpdate>2025-09-02</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

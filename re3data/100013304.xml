@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013304</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJMRC</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">European Centre for Disease Prevention and Control</r3d:repositoryName>
+				<r3d:repositoryUrl>https://www.ecdc.europa.eu/en</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.7ceb60</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">ECDC is an EU agency aimed at strengthening Europe&#039;s defences against infectious diseases. The core functions cover a wide spectrum of activities: surveillance, epidemic intelligence, response, scientific advice, microbiology, preparedness, public health training, international relations, health communication, and the scientific journal Eurosurveillance.
+Within the field of its mission, the Centre shall:  search for, collect, collate, evaluate and disseminate relevant scientific and technical data; provide scientific opinions and scientific and technical assistance including training; provide timely information to the Commission, the Member States, Community agencies and international organisations active within the field of public health; coordinate the European networking of bodies operating in the fields within the Centre&#039;s mission, including networks that emerge from public health activities supported by the Commission and operating the dedicated surveillance networks; exchange information, expertise and best practices, and facilitate the development and implementation of joint actions.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>ecdc.info@ecdc.europa.eu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.ecdc.europa.eu/en/about-us/contact-ecdc</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+								<r3d:startDate>2005</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22201</r3d:subjectId>
+				<r3d:subjectName>Epidemiology and Medical Biometry/Statistics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>221</r3d:subjectId>
+				<r3d:subjectName>Microbiology, Virology and Immunology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22202</r3d:subjectId>
+				<r3d:subjectName>Public Heatlh, Healthcare Research, Social and Occupational Medicine</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.ecdc.europa.eu/en/about-ecdc</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>COVID-19</r3d:keyword>
+					<r3d:keyword>HIV</r3d:keyword>
+					<r3d:keyword>antimicrobial resistanc</r3d:keyword>
+					<r3d:keyword>emerging and vector-borne diseases</r3d:keyword>
+					<r3d:keyword>food- and waterborne diseases</r3d:keyword>
+					<r3d:keyword>healthcare-associated infections</r3d:keyword>
+					<r3d:keyword>infectious diseases</r3d:keyword>
+					<r3d:keyword>influenza</r3d:keyword>
+					<r3d:keyword>respiratory viruses</r3d:keyword>
+					<r3d:keyword>sexually transmitted infections</r3d:keyword>
+					<r3d:keyword>tuberculosis</r3d:keyword>
+					<r3d:keyword>vaccine-preventable diseases</r3d:keyword>
+					<r3d:keyword>viral hepatitis</r3d:keyword>
+					<r3d:keyword>zoonoses</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">European Centre for Disease Prevention and Control</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ECDC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EEC</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ecdc.europa.eu/en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00s9v1h75</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Legal notice</r3d:policyName>
+				<r3d:policyUrl>https://www.ecdc.europa.eu/en/legal-notice</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Our guiding principles</r3d:policyName>
+				<r3d:policyUrl>https://www.ecdc.europa.eu/en/about-ecdc/who-we-are/our-guiding-principles</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>The European Surveillance System (TESSy)</r3d:policyName>
+				<r3d:policyUrl>https://www.ecdc.europa.eu/en/publications-data/european-surveillance-system-tessy</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://www.ecdc.europa.eu/en/copyright</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.ecdc.europa.eu/en/copyright</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+																									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+							<r3d:syndication>
+				<r3d:syndicationType>RSS</r3d:syndicationType>
+				<r3d:syndicationUrl>https://www.ecdc.europa.eu/en/rss-feeds</r3d:syndicationUrl>
+			</r3d:syndication>
+				<r3d:remarks>GitHub: https://github.com/EU-ECDC</r3d:remarks>
+		<r3d:entryDate>2020-04-24</r3d:entryDate>
+		<r3d:lastUpdate>2024-05-21</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012201</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R39M0S</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Historical Atlas of Sydney</r3d:repositoryName>
+				<r3d:additionalName language="eng">City of Sydney - Archives &amp; History Ressources</r3d:additionalName>
+				<r3d:repositoryUrl>https://archives.cityofsydney.nsw.gov.au/pages/historicalatlas</r3d:repositoryUrl>
+				<r3d:description language="eng">The Historical Atlas of Sydney contains digital versions of maps and associated documents.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>archives@cityofsydney.nsw.gov.au</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://archives.cityofsydney.nsw.gov.au/pages/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>45101</r3d:subjectId>
+				<r3d:subjectName>Architecture, Building and Construction History, Construction Research, Sustainable Building Technology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>451</r3d:subjectId>
+				<r3d:subjectName>Construction Engineering and Architecture</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>45</r3d:subjectId>
+				<r3d:subjectName>Construction Engineering and Architecture</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>45102</r3d:subjectId>
+				<r3d:subjectName>Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.cityofsydney.nsw.gov.au/history-archive-collections/archives</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Sydney</r3d:keyword>
+					<r3d:keyword>atlas</r3d:keyword>
+					<r3d:keyword>history</r3d:keyword>
+					<r3d:keyword>plan</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">City of Sydney</r3d:institutionName>
+								<r3d:institutionCountry>AUS</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.cityofsydney.nsw.gov.au/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Archives Collection Management Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.cityofsydney.nsw.gov.au/policies/archives-collection-management-policy</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Conditions of access</r3d:policyName>
+				<r3d:policyUrl>https://www.cityofsydney.nsw.gov.au/terms-conditions</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Open access information</r3d:policyName>
+				<r3d:policyUrl>https://www.cityofsydney.nsw.gov.au/council-governance-administration/open-access-information</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Policies</r3d:policyName>
+				<r3d:policyUrl>https://www.cityofsydney.nsw.gov.au/policies</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://legislation.nsw.gov.au/view/html/inforce/current/act-2009-052</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+																					<r3d:citationGuidelineUrl>https://archives.cityofsydney.nsw.gov.au/pages/copyright</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>no</r3d:enhancedPublication>
+														<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2016-10-28</r3d:entryDate>
+		<r3d:lastUpdate>2023-11-28</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

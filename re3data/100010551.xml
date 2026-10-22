@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010551</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3XW38</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Nucleic Acid Database</r3d:repositoryName>
+				<r3d:additionalName language="eng">A Portal for Three-dimensional Structural Information about Nucleic Acids</r3d:additionalName>
+				<r3d:additionalName language="eng">NDB</r3d:additionalName>
+				<r3d:repositoryUrl>http://ndbserver.rutgers.edu/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.bh0k78</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_003255</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>nif-0000-03184</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt;This repository is offline&gt;&gt;&gt;!!!&gt;&gt;&gt; The NDB is a resource for nucleic acid research and education. The NDB assembles and distributes information about the three-dimensional structures of nucleic acids through a variety of resources, including a searchable database, Atlas, and software.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>ndbadmin@ndbserver.rutgers.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>12.237 structures</r3d:size>
+						<r3d:startDate>1992</r3d:startDate>
+        				<r3d:endDate>
+									<r3d:offline>2023</r3d:offline>
+					</r3d:endDate>
+        					<r3d:relatedRepository>
+				<r3d:relatedRepositoryId>r3d100014509</r3d:relatedRepositoryId>
+				<r3d:relatedRepositoryType>successor</r3d:relatedRepositoryType>
+			</r3d:relatedRepository>
+							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>315</r3d:subjectId>
+				<r3d:subjectName>Biological Chemistry and Food Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>31</r3d:subjectId>
+				<r3d:subjectName>Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22203</r3d:subjectId>
+				<r3d:subjectName>Human Genetics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>221</r3d:subjectId>
+				<r3d:subjectName>Microbiology, Virology and Immunology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>313</r3d:subjectId>
+				<r3d:subjectName>Physical Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>31301</r3d:subjectId>
+				<r3d:subjectName>Physical Chemistry of Molecules, Liquids and Interfaces, Biophysical Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21205</r3d:subjectId>
+				<r3d:subjectName>Plant Biochemistry and Biophysics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>212</r3d:subjectId>
+				<r3d:subjectName>Plant Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>http://ndbserver.rutgers.edu/ndbmodule/about_ndb/about.html</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>DNA</r3d:keyword>
+					<r3d:keyword>RNA</r3d:keyword>
+					<r3d:keyword>bioinformatics</r3d:keyword>
+					<r3d:keyword>nucleid acids</r3d:keyword>
+					<r3d:keyword>nucleotides</r3d:keyword>
+					<r3d:keyword>nuclopeptides</r3d:keyword>
+					<r3d:keyword>nucloproteins</r3d:keyword>
+					<r3d:keyword>proteins</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">ENERGY.GOV</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">U.S. Department of Energy</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://energy.gov/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Institutes of Health</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nih.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01cwqze88</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nsf.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/021nxhr62</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Rutgers University, Department of Chemistry</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">The State Univesity of New Jersey</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://chem.rutgers.edu/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Information Technology Policies</r3d:policyName>
+				<r3d:policyUrl>https://it.rutgers.edu/policies/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://it.rutgers.edu/policies/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+									<r3d:api>
+				<r3d:apiType>FTP</r3d:apiType>
+				<r3d:apiUrl>http://ndbserver.rutgers.edu/ndbmodule/download_data/downloadIndex.html</r3d:apiUrl>
+							</r3d:api>
+													<r3d:citationGuidelineUrl>http://ndbserver.rutgers.edu/ndbmodule/about_ndb/about.html</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks>Nucleic Acid Database is covered by Thomson Reuters Data Citation Index. The NDB follows the dictionaries and formats used by the Worldwide Protein Data Bank. Please see http://www.wwpdb.org/ for format announcements and documentation.</r3d:remarks>
+		<r3d:entryDate>2013-11-21</r3d:entryDate>
+		<r3d:lastUpdate>2026-04-21</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

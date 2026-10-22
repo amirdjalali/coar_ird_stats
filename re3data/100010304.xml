@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010304</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3S893</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">BASS2000</r3d:repositoryName>
+				<r3d:additionalName language="fra">BAse de données Solaire Sol</r3d:additionalName>
+				<r3d:additionalName language="eng">Solar Survey Archive</r3d:additionalName>
+				<r3d:additionalName language="eng">WDC - Solar Activity</r3d:additionalName>
+				<r3d:repositoryUrl>https://bass2000.obspm.fr/home.php</r3d:repositoryUrl>
+				<r3d:description language="eng">BASS2000 archives ground-based solar survey data, and a long term data from France&#039;s observatories. The database contains spectroheliographs, radioheliographs, coronographs, and synoptic maps. BASS2000 provides data as GIF, PNG, JPEG, MPEG, PS, and Compressed Files.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>bass2000.contact@obspm.fr</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://bass2000.obspm.fr/sitemap.php</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2002</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>32501</r3d:subjectId>
+				<r3d:subjectName>Astrophysics and Astronomy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>325</r3d:subjectId>
+				<r3d:subjectName>Astrophysics and Astronomy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>32</r3d:subjectId>
+				<r3d:subjectName>Physics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://bass2000.obspm.fr/sitemap.php</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Meudon</r3d:keyword>
+					<r3d:keyword>Nancay</r3d:keyword>
+					<r3d:keyword>Pic du Midi</r3d:keyword>
+					<r3d:keyword>Solar activity</r3d:keyword>
+					<r3d:keyword>THEMIS telescop</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="fra">LESIA - Observatoire de Paris</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Laboratoire d&#039;études spatiales et d&#039;instrumentation en astrophysique -  Observatoire de Paris</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://lesia.obspm.fr/?lang=fr</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02eptjh02</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2002</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>WDS Data Sharing Principles</r3d:policyName>
+				<r3d:policyUrl>https://worlddatasystem.org/about/data-sharing-principles/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://bass2000.obspm.fr/sitemap.php</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://worlddatasystem.org/about/data-sharing-principles/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+									<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://bass2000.obspm.fr/software.php?what=mzl</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>none</r3d:pidSystem>
+																								<r3d:remarks>Regular Member of World Data System https://worlddatasystem.org/members/</r3d:remarks>
+		<r3d:entryDate>2013-05-16</r3d:entryDate>
+		<r3d:lastUpdate>2026-02-17</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

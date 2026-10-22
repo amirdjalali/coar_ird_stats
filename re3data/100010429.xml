@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010429</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3GC8Z</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="deu">Forschungsdatenzentrum des Deutschen Zentrums für Altersfragen</r3d:repositoryName>
+				<r3d:additionalName language="deu">FDZ-DZA</r3d:additionalName>
+				<r3d:additionalName language="eng">Research Data Centre of the DZA</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.dza.de/en/research/fdz</r3d:repositoryUrl>
+				<r3d:description language="eng">The FDZ-DZA (Forschungsdatenzentrum DZA) is a facility of the German Centre of Gerontology (Deutsches Zentrum für Altersfragen, DZA) and has received accreditation as research data center DZA by the German Data Forum (RatSWD). Its main task is to make data of the German Ageing Survey DEAS and the German Survey on Volunteering (FWS) accessible to researchers by providing user-friendly Scientific Use Files (SUF), documentation of the contents and instruments as well support for scholars using the data.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>dza-berlin@dza.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.dza.de/en/contact-information</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+															<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12402</r3d:subjectId>
+				<r3d:subjectName>Economic Policy, Applied Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12302</r3d:subjectId>
+				<r3d:subjectName>Empirical Social Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22202</r3d:subjectId>
+				<r3d:subjectName>Public Heatlh, Healthcare Research, Social and Occupational Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.dza.de/en/about-us/about-the-dza</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/NHD0-W6SY</r3d:contentTypeId>
+				<r3d:contentTypeName>survey data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Deutscher Alterssurvey - DEAS</r3d:keyword>
+					<r3d:keyword>Deutscher Freiwilligensurvey - FWS</r3d:keyword>
+					<r3d:keyword>PREFER I-Studie - Personal Resources of Elderly People with Multimorbidity: Fortification of Effective Health Behaviour</r3d:keyword>
+					<r3d:keyword>ageing</r3d:keyword>
+					<r3d:keyword>behavioural aging research</r3d:keyword>
+					<r3d:keyword>census</r3d:keyword>
+					<r3d:keyword>economy of old age</r3d:keyword>
+					<r3d:keyword>family</r3d:keyword>
+					<r3d:keyword>gerontology</r3d:keyword>
+					<r3d:keyword>health</r3d:keyword>
+					<r3d:keyword>microdata</r3d:keyword>
+					<r3d:keyword>retirement</r3d:keyword>
+					<r3d:keyword>social care</r3d:keyword>
+					<r3d:keyword>social relations</r3d:keyword>
+					<r3d:keyword>social research</r3d:keyword>
+					<r3d:keyword>societal participation</r3d:keyword>
+					<r3d:keyword>volunteering</r3d:keyword>
+					<r3d:keyword>work</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Arbeitsgemeinschaft der Ressortforschungseinrichtungen</r3d:institutionName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://ressortforschung.de/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Federal Ministry for Education, Family Affairs, Senior Citizens, Women and Youth</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">BMBFSFJ</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bmbfsfj.bund.de/bmbfsfj/meta/en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/056ja1h98</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">German Centre of Gerontology</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">DZA</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Deutsches Zentrum für Altersfragen</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.dza.de/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00we5be91</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_014714</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">German Data Forum</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">Rat für Sozial- und WirtschaftsDaten</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">RatSWD</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.konsortswd.de/en/services/research/all-datacentres/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/059ze4t74</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Access to Data</r3d:policyName>
+				<r3d:policyUrl>https://www.dza.de/en/research/fdz/access-to-data</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>RatSWD and Research Data Infrastructure: Status Quo and Quality Management</r3d:policyName>
+				<r3d:policyUrl>https://www.konsortswd.de/wp-content/uploads/RatSWD_Output1.6_QualityMgmt.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.dza.de/en/research/fdz/access-to-data</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>DOI</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.dza.de/en/research/fdz/access-to-data</r3d:citationGuidelineUrl>
+													<r3d:certificate>
+				<r3d:certificateName>RatSWD</r3d:certificateName>
+									<r3d:certificateStartDate>2010</r3d:certificateStartDate>
+												<r3d:certificateUrl>https://www.konsortswd.de/en/services/research/all-datacentres/fdz-dza/</r3d:certificateUrl>
+							</r3d:certificate>
+										<r3d:remarks>DZA is covered by Thomson Reuters Data Citation Index. dza is a certified member of the RatSWD - research data - infrastructure; dza is a member of &#039;Arbeitsgemeinschaft der Ressortforschungseinrichtungen&#039; and is consulting BMFSFJ</r3d:remarks>
+		<r3d:entryDate>2013-07-09</r3d:entryDate>
+		<r3d:lastUpdate>2026-04-28</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

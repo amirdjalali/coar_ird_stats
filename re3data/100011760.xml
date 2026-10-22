@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011760</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3T34S</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">NCEP/NCAR Reanalysis Project</r3d:repositoryName>
+				<r3d:repositoryUrl>https://psl.noaa.gov/data/reanalysis/reanalysis.shtml</r3d:repositoryUrl>
+				<r3d:description language="eng">The NCEP/NCAR Reanalysis Project is a joint project between the National Centers for Environmental Prediction (NCEP, formerly &quot;NMC&quot;) and the National Center for Atmospheric Research (NCAR). The goal of this joint effort is to produce new atmospheric analyses using historical data (1948 onwards) and as well to produce analyses of the current atmospheric state (Climate Data Assimilation System, CDAS).</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>psl.data@noaa.gov</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>343</r3d:subjectId>
+				<r3d:subjectName>Geophysics and Geodesy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://psl.noaa.gov/about/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>atmosphere</r3d:keyword>
+					<r3d:keyword>climate</r3d:keyword>
+					<r3d:keyword>earth</r3d:keyword>
+					<r3d:keyword>meteorology</r3d:keyword>
+					<r3d:keyword>precipitation</r3d:keyword>
+					<r3d:keyword>temperature</r3d:keyword>
+					<r3d:keyword>weather</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">National Center for Atmospheric Research</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NCAR</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://ncar.ucar.edu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05cvfcr44</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Oceanic &amp; Atmospheric Administration,  Earth System Research  Laboratory, Physical Sciences Division</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NOAA, ESRL, PSD</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://psl.noaa.gov/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Weather Service, National Centers for Environmental Prediction</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NCEP</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.weather.gov/ncep/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00ndyev54</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">U.S. Department of Commerce, National Oceanic &amp; Atmospheric Administration, Oceanic &amp; Atmospheric Research</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NOAA,  Research</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://research.noaa.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02kgve346</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Disclaimer</r3d:policyName>
+				<r3d:policyUrl>https://psl.noaa.gov/disclaimer/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>NOAA Freedom of Information Act (FOIA)</r3d:policyName>
+				<r3d:policyUrl>https://www.noaa.gov/information-technology/foia</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://psl.noaa.gov/disclaimer/#datause</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://psl.noaa.gov/disclaimer/#datause</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+									<r3d:api>
+				<r3d:apiType>FTP</r3d:apiType>
+				<r3d:apiUrl>https://psl.noaa.gov/data/gridded_help/howtoftp.html</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>NetCDF</r3d:apiType>
+				<r3d:apiUrl>https://psl.noaa.gov/data/gridded/whatsnetCDF.html</r3d:apiUrl>
+							</r3d:api>
+													<r3d:citationGuidelineUrl>https://psl.noaa.gov/data/gridded/help.html#cite</r3d:citationGuidelineUrl>
+																		<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2016-02-09</r3d:entryDate>
+		<r3d:lastUpdate>2025-12-04</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

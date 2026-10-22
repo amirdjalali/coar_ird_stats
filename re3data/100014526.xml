@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014526</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNPA</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Open Universiteit research portal</r3d:repositoryName>
+				<r3d:repositoryUrl>https://research.ou.nl/en/datasets/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>OpenDOAR</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>11034</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">Welcome to the research portal of the Open Universiteit. This portal contains the publications, talks, activities and datasets of our scientific staff, and their profiles. Our research is rooted within six faculties: Educational sciences, Humanities, Law, Management, Psychology and Science. In addition to the disciplinary research programs in eight academic fields, the Open Universiteit has defined a multidisciplinary research program: Innovating for Resilience, to which all faculties contribute. This portal also functions as our institutional repository and as such it provides access to the full text files of much OU output.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://research.ou.nl/en/contact/index/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>pure-support@ou.nl</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+						<r3d:size>57 datasets</r3d:size>
+													<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>121</r3d:subjectId>
+				<r3d:subjectName>Educational Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>122</r3d:subjectId>
+				<r3d:subjectName>Psychology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://research.ou.nl/en/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_1843</r3d:contentTypeId>
+				<r3d:contentTypeName>other</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>academic distance education</r3d:keyword>
+					<r3d:keyword>broad sustainability</r3d:keyword>
+					<r3d:keyword>criminal law</r3d:keyword>
+					<r3d:keyword>digital learning</r3d:keyword>
+					<r3d:keyword>digital transformation</r3d:keyword>
+					<r3d:keyword>educational sciences</r3d:keyword>
+					<r3d:keyword>inequalities in vulnerable areas</r3d:keyword>
+					<r3d:keyword>innovation in education</r3d:keyword>
+					<r3d:keyword>learning and innovation in resilient systems</r3d:keyword>
+					<r3d:keyword>learning, resilience and innovation</r3d:keyword>
+					<r3d:keyword>management sciences</r3d:keyword>
+					<r3d:keyword>multidisciplinary</r3d:keyword>
+					<r3d:keyword>open education</r3d:keyword>
+					<r3d:keyword>open societies</r3d:keyword>
+					<r3d:keyword>open university</r3d:keyword>
+					<r3d:keyword>psychology</r3d:keyword>
+					<r3d:keyword>safety and resiliency in urban environments</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Open University of the Netherlands</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">OU</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="nld">OUNL</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="nld">Open Universiteit Nederland</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>NLD</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ou.nl/en/home</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/018dfmf50</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Open Universiteit Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.ou.nl/en/open-access-publiceren</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.ou.nl/en/disclaimer</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+									<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://research.ou.nl/ws/oai</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+															<r3d:enhancedPublication>no</r3d:enhancedPublication>
+														<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2024-12-12</r3d:entryDate>
+		<r3d:lastUpdate>2025-01-21</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

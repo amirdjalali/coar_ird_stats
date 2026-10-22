@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012523</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3K78H</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">ARCHE</r3d:repositoryName>
+				<r3d:additionalName language="eng">A Resource Centre for the HumanitiEs</r3d:additionalName>
+				<r3d:additionalName language="eng">OeAW Repository ARCHE</r3d:additionalName>
+				<r3d:additionalName language="deu">ÖAW Repositorium ARCHE</r3d:additionalName>
+				<r3d:repositoryUrl>https://arche.acdh.oeaw.ac.at/browser/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.b48da6</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>OpenDOAR</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>9675</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>Wikidata</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>Q126588727</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">ARCHE (A Resource Centre for the HumanitiEs) is a service by the Austrian Centre for Digital Humanities ACDH) of the Austrian Academy of Sciences (OeAW) aimed at offering stable and persistent hosting as well as dissemination of digital research data and resources for the Austrian humanities community. ARCHE welcomes data from all humanities fields.
+ARCHE is the successor of the Language Resources Portal (LRP) and acts as Austria’s connection point to the European network of CLARIN Centres for language resources.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>arche@oeaw.ac.at</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>arche@oeaw.ac.at</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.oeaw.ac.at/de/acdh/institut/helpdesk-consulting</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>multidisciplinary</r3d:type>
+						<r3d:size>2026-07-03: 55 Collections with 18TB. And further growing.</r3d:size>
+											<r3d:relatedRepository>
+				<r3d:relatedRepositoryId>r3d100011333</r3d:relatedRepositoryId>
+				<r3d:relatedRepositoryType>successor</r3d:relatedRepositoryType>
+			</r3d:relatedRepository>
+							<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>111</r3d:subjectId>
+				<r3d:subjectName>Ancient Cultures</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>113</r3d:subjectId>
+				<r3d:subjectName>Art History, Music, Theatre and Media Studies</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>112</r3d:subjectId>
+				<r3d:subjectName>History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11604</r3d:subjectId>
+				<r3d:subjectName>Islamic Studies, Arabian Studies, Semitic Studies</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>114</r3d:subjectId>
+				<r3d:subjectName>Linguistics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>115</r3d:subjectId>
+				<r3d:subjectName>Literary Studies</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>118</r3d:subjectId>
+				<r3d:subjectName>Philosophy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>116</r3d:subjectId>
+				<r3d:subjectName>Social and Cultural Anthropology, Non-European Cultures, Jewish Studies and Religious Studies</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>117</r3d:subjectId>
+				<r3d:subjectName>Theology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://arche.acdh.oeaw.ac.at/browser/about-arche</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_8a7e</r3d:contentTypeId>
+				<r3d:contentTypeName>moving image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/CQMR-7K63</r3d:contentTypeId>
+				<r3d:contentTypeName>recorded data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ecc8</r3d:contentTypeId>
+				<r3d:contentTypeName>still image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Austria</r3d:keyword>
+					<r3d:keyword>FAIR</r3d:keyword>
+					<r3d:keyword>archaeology</r3d:keyword>
+					<r3d:keyword>corpora</r3d:keyword>
+					<r3d:keyword>humanities</r3d:keyword>
+					<r3d:keyword>linguistics</r3d:keyword>
+					<r3d:keyword>musicology</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Austrian Centre for Digital Humanities</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ACDH</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AUT</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.oeaw.ac.at/acdh</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/028bsh698</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">CLARIAH-AT</r3d:institutionName>
+								<r3d:institutionCountry>AUT</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://clariah.at/de/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">CLARIN ERIC</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure European Research Infrastructure Consortium</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EEC</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.clarin.eu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03wp25384</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Österreichische Akademie der Wissenschaften</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Austrian Academy of Sciences</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">ÖAW</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AUT</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.oeaw.ac.at/oesterreichische-akademie-der-wissenschaften/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03anc3s24</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_000953</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>ACDH Data Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.oeaw.ac.at/acdh/what-we-offer/data-policy</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Collection policy</r3d:policyName>
+				<r3d:policyUrl>https://arche.acdh.oeaw.ac.at/browser/collection-policy</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>FAIR Data principles</r3d:policyName>
+				<r3d:policyUrl>https://force11.org/info/the-fair-data-principles/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>OeAWI Guidelines for Good Scientific Practice</r3d:policyName>
+				<r3d:policyUrl>https://oeawi.at/en/guidelines/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Preservation Policy</r3d:policyName>
+				<r3d:policyUrl>https://arche.acdh.oeaw.ac.at/browser/preservation-policy</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms of use</r3d:policyName>
+				<r3d:policyUrl>https://arche.acdh.oeaw.ac.at/browser/terms-of-use</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>ÖAW Research data Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.oeaw.ac.at/fileadmin/NEWS/2022/PDF/Forschungsdatenpolicy_OeAW.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC0</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://arche.acdh.oeaw.ac.at/browser/deposition-agreement</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://vocabs.acdh.oeaw.ac.at/arche_licenses/en/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>open</r3d:dataUploadType>
+							</r3d:dataUpload>
+					<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>feeRequired</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Deposit Resources</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://arche.acdh.oeaw.ac.at/browser/deposition-process</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+					<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Deposition agreement</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://arche.acdh.oeaw.ac.at/browser/deposition-agreement</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://arche.acdh.oeaw.ac.at/oaipmh/?verb=Identify</r3d:apiUrl>
+									<r3d:apiDocumentation>https://www.openarchives.org/OAI/openarchivesprotocol.html</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://arche.acdh.oeaw.ac.at/browser/api-access</r3d:apiUrl>
+									<r3d:apiDocumentation>https://arche.acdh.oeaw.ac.at/browser/api-access</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>hdl</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://arche.acdh.oeaw.ac.at/browser/terms-of-use</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+							<r3d:qualityManagement>
+				<r3d:qualityManagementStatus>yes</r3d:qualityManagementStatus>
+								<r3d:qualityManagementMeasure>
+					<r3d:qualityManagementMeasureName>Preservation Policy</r3d:qualityManagementMeasureName>
+					<r3d:qualityManagementMeasureUrl>https://arche.acdh.oeaw.ac.at/browser/preservation-policy</r3d:qualityManagementMeasureUrl>
+				</r3d:qualityManagementMeasure>
+							</r3d:qualityManagement>
+							<r3d:certificate>
+				<r3d:certificateName>CLARIN certificate B</r3d:certificateName>
+									<r3d:certificateStartDate>2025-12-05</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2028-12-04</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34733/doc-105</r3d:certificateUrl>
+							</r3d:certificate>
+					<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2025-12-04</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2028-12-03</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/SNEQ7T</r3d:certificateUrl>
+							</r3d:certificate>
+									<r3d:metadataStandard>
+				<r3d:metadataStandardName>CMDI (Component Metadata Infrastructure)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m122</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>DataCite Metadata Schema</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m11</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>TEI (Text Encoding Initiative) Guidelines</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m99</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>schema.org</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m101</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>ARCHE is the successor of a repository project established in 2014 as CLARIN Centre Vienna / Language Resources Portal (CCV/LRP). The mission of CCV/LRP was to provide depositing services and easy and sustainable access to digital language resources created in Austria. ARCHE replaces CCV/LRP and extends its mission by offering an advanced and reliable data management and depositing service open to a broader range of humanities fields in Austria.</r3d:remarks>
+		<r3d:entryDate>2017-11-06</r3d:entryDate>
+		<r3d:lastUpdate>2026-07-23</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

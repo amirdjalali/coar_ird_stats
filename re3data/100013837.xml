@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013837</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJN65</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">HilData</r3d:repositoryName>
+				<r3d:additionalName language="eng">HILDEonline</r3d:additionalName>
+				<r3d:repositoryUrl>https://hildata.uni-hildesheim.de/</r3d:repositoryUrl>
+				<r3d:description language="deu">HilData is registered by Hildesheim University Library, 
+The access is via registration to the data and to the repository. Research data is with regards to educational science. Research data are sensitive and cannot be made fully open. HILDE Online is integrated in HilData: https://www.uni-hildesheim.de/celeb/projekte/fallarchiv-hilde/hildeonline-streaming-server/ HilData is working on its metadata (exposing metadata via interfaces) w.r.t. the FAIR principles and data citation. HilData and HILDE Online provide long-term storage and access to research data. 
+The research data repository provides restricted access to its data. 
+The research data repository uses DOI to make its provided data persistent, unique and citable.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>hildata@uni-hildesheim.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>hilde@uni-hildesheim.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+								<r3d:startDate>2017</r3d:startDate>
+        									<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>113</r3d:subjectId>
+				<r3d:subjectName>Art History, Music, Theatre and Media Studies</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>443</r3d:subjectId>
+				<r3d:subjectName>Computer Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>44</r3d:subjectId>
+				<r3d:subjectName>Computer Science, Systems and Electrical Engineering</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>121</r3d:subjectId>
+				<r3d:subjectName>Educational Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>118</r3d:subjectId>
+				<r3d:subjectName>Philosophy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>122</r3d:subjectId>
+				<r3d:subjectName>Psychology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.programmfabrik.de/wp-content/uploads/2020/08/2020-06-19-easydb-Fallstudie-Universit%C3%A4t-Hildesheim-HilData.pdf</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>FAIR</r3d:keyword>
+					<r3d:keyword>culture</r3d:keyword>
+					<r3d:keyword>data analytics</r3d:keyword>
+					<r3d:keyword>information management</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Universtity of Hildesheim, Library</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Universitätsbibliothek Hildesheim</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.uni-hildesheim.de/en/bibliothek/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Leitlinien zum Umgang mit Forschungsdaten an der Stiftung Universität Hildesheim</r3d:policyName>
+				<r3d:policyUrl>https://www.uni-hildesheim.de/bibliothek/forschen-publizieren/forschungsdatenmanagement/leitlinien-zum-umgang-mit-forschungsdaten/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+							<r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.uni-hildesheim.de/bibliothek/datenschutz</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+											<r3d:pidSystem>DOI</r3d:pidSystem>
+															<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2022-05-20</r3d:entryDate>
+		<r3d:lastUpdate>2022-05-25</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100000046</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3W88N</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">European Environment Agency, Datasets</r3d:repositoryName>
+				<r3d:additionalName language="eng">EEA</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.eea.europa.eu/en/analysis</r3d:repositoryUrl>
+				<r3d:description language="eng">The European Environment Agency (EEA) is an agency of the European Union. Our task is to provide sound, independent information on the environment. We are a major information source for those involved in developing, adopting, implementing and evaluating environmental policy, and also the general public. Currently, the EEA has 33 member countries.
+EEA&#039;s mandate is: To help the Community and member countries make informed decisions about improving the environment, integrating environmental considerations into economic policies and moving towards sustainability
+To coordinate the European environment information and observation network (Eionet)</r3d:description>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+								<r3d:startDate>1996</r3d:startDate>
+        									<r3d:repositoryLanguage>ces</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>dan</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>ell</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>est</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fin</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>hun</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>isl</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>ita</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>lav</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>lit</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>mlt</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>nor</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>pol</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>por</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>ron</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>slk</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>slv</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>swe</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>tur</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>346</r3d:subjectId>
+				<r3d:subjectName>Water Research</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.eea.europa.eu/en/about/who-we-are</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/DD58-GFSX</r3d:contentTypeId>
+				<r3d:contentTypeName>measurement and test data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Air pollution</r3d:keyword>
+					<r3d:keyword>Air quality</r3d:keyword>
+					<r3d:keyword>Biodiversity</r3d:keyword>
+					<r3d:keyword>Climate change</r3d:keyword>
+					<r3d:keyword>Coasts and seas</r3d:keyword>
+					<r3d:keyword>Energy</r3d:keyword>
+					<r3d:keyword>Green economy</r3d:keyword>
+					<r3d:keyword>Industry</r3d:keyword>
+					<r3d:keyword>Land use</r3d:keyword>
+					<r3d:keyword>Natural resources</r3d:keyword>
+					<r3d:keyword>Policy instruments</r3d:keyword>
+					<r3d:keyword>Soil</r3d:keyword>
+					<r3d:keyword>Urban environment</r3d:keyword>
+					<r3d:keyword>environmental data</r3d:keyword>
+					<r3d:keyword>environmental policy</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">The European Environment Agency</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">EEA</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EEC</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.eea.europa.eu/en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02k4b9v70</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>EEA data policy</r3d:policyName>
+				<r3d:policyUrl>https://www.eea.europa.eu/en/datahub/eea-data-policy</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://creativecommons.org/licenses/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.eea.europa.eu/en/legal-notice#copyright-notice</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>DOI</r3d:pidSystem>
+																							<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+							<r3d:syndication>
+				<r3d:syndicationType>RSS</r3d:syndicationType>
+				<r3d:syndicationUrl>https://www.eea.europa.eu/subscription/news-feeds</r3d:syndicationUrl>
+			</r3d:syndication>
+				<r3d:remarks>The EEA now has 32 member countries and six cooperating countries</r3d:remarks>
+		<r3d:entryDate>2013-01-17</r3d:entryDate>
+		<r3d:lastUpdate>2026-01-19</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014632</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNS8</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Health Data Nexus</r3d:repositoryName>
+				<r3d:repositoryUrl>https://healthdatanexus.ai/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_026576</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">The Temerty Centre for Artificial Intelligence Research and Education in Medicine (T-CAIREM) at the University of Toronto is the nexus for healthcare of the future. We provide world-class educational programs in AI in medicine and fund research opportunities that bring together experts from a range of disciplines. We have also created the secure Health Data Nexus platform to house datasets for applied AI learning and research. This safe, scalable and secure data environment provides a foundation for innovative AI applications of the future.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>contact@healthdatanexus.ai</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+						<r3d:size>9 datasets</r3d:size>
+						<r3d:startDate>2022-04-05</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22201</r3d:subjectId>
+				<r3d:subjectName>Epidemiology and Medical Biometry/Statistics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22207</r3d:subjectId>
+				<r3d:subjectName>Medical Informatics and Medical Bioinformatics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22202</r3d:subjectId>
+				<r3d:subjectName>Public Heatlh, Healthcare Research, Social and Occupational Medicine</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://healthdatanexus.ai/about/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>AI</r3d:keyword>
+					<r3d:keyword>health</r3d:keyword>
+					<r3d:keyword>health data sharing</r3d:keyword>
+					<r3d:keyword>medical research data</r3d:keyword>
+					<r3d:keyword>medicine</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">University of Toronto</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">U of T</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.utoronto.ca/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03dbr7087</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011733</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2020</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Toronto, Temerty Faculty of Medicine, Temerty Centre for AI Research and Education in Medicine</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">T-CAIREM</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://tcairem.utoronto.ca/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data Governance</r3d:policyName>
+				<r3d:policyUrl>https://healthdatanexus.ai/about/governance/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Using and Sharing Data</r3d:policyName>
+				<r3d:policyUrl>https://healthdatanexus.ai/about/governance/#using_and_sharing_data</r3d:policyUrl>
+			</r3d:policy>
+							<r3d:fundingInformation>
+				<r3d:funderName>Temerty Foundation</r3d:funderName>
+											</r3d:fundingInformation>
+				<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://healthdatanexus.ai/content/b2ai-voice/view-license/1.0/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://healthdatanexus.ai/content/sleeplab/view-license/1.0/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://www.statcan.gc.ca/en/reference/licence</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://healthdatanexus.ai/content/sleeplab/view-license/1.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Submission Guidelines</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://healthdatanexus.ai/about/publish/#submission_guidelines</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+									<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>DOI</r3d:pidSystem>
+															<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2025-06-11</r3d:entryDate>
+		<r3d:lastUpdate>2025-06-14</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

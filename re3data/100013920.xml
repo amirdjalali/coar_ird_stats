@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013920</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJN8G</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Satellog</r3d:repositoryName>
+				<r3d:repositoryUrl>http://satellog.bcgsc.ca/index.php</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.fa9ccb</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">Satellog is a database to identify and dynamically prioritize repeats by using various characteristics, for example, repeat unit, repeat length percentile rank, class, period, total length, genomic coordinates, UniGene polymorphism profile, proximity to or presence within gene regions, such as CDS, UTR, location upstream.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>http://satellog.bcgsc.ca/contactus.php</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>satellog@bcgsc.ca</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2004</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21103</r3d:subjectId>
+				<r3d:subjectName>Cell Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21105</r3d:subjectId>
+				<r3d:subjectName>General Genetics and Functional Genome Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>http://satellog.bcgsc.ca/documentation.php</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Gene Normal Tissue Expression</r3d:keyword>
+					<r3d:keyword>GeneNote</r3d:keyword>
+					<r3d:keyword>disease</r3d:keyword>
+					<r3d:keyword>gene</r3d:keyword>
+					<r3d:keyword>gene cluster</r3d:keyword>
+					<r3d:keyword>genome</r3d:keyword>
+					<r3d:keyword>polymorphism</r3d:keyword>
+					<r3d:keyword>transcript</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Canada&#039;s Michael Smith Genome Sciences Centre</r3d:institutionName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bcgsc.ca/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/0333j0897</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of British Columbia, Graduate Program in Bioinformatics</r3d:institutionName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bioinformatics.ubc.ca/</r3d:institutionUrl>
+															</r3d:institution>
+								<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.bcgsc.ca/resources/software/satellog</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+																									<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+														<r3d:remarks>Acknowledgements: http://satellog.bcgsc.ca/ack.php</r3d:remarks>
+		<r3d:entryDate>2022-07-14</r3d:entryDate>
+		<r3d:lastUpdate>2022-07-20</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

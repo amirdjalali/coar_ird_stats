@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010930</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R39G8F</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">TB Database</r3d:repositoryName>
+				<r3d:additionalName language="eng">TBDB</r3d:additionalName>
+				<r3d:additionalName language="eng">TBDatabase</r3d:additionalName>
+				<r3d:additionalName language="eng">Tuberculosis Database</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.tbdb.org/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>other</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>OMICS_03220</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_006619</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>nif-0000-03537</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; The repository is no longer available. 2018-08-29: no more access to TB Database &gt;&gt;&gt;!!!&lt;&lt;&lt;</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.tbdb.org/contact-us/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+								<r3d:startDate>2007</r3d:startDate>
+        				<r3d:endDate>
+									<r3d:offline>2024</r3d:offline>
+					</r3d:endDate>
+        							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21105</r3d:subjectId>
+				<r3d:subjectName>General Genetics and Functional Genome Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>221</r3d:subjectId>
+				<r3d:subjectName>Microbiology, Virology and Immunology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>http://www.tbdb.org/tbdbPages/projectInfo_tbdb.shtml</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>gene expression</r3d:keyword>
+					<r3d:keyword>genes</r3d:keyword>
+					<r3d:keyword>genomes</r3d:keyword>
+					<r3d:keyword>proteins</r3d:keyword>
+					<r3d:keyword>systems biology</r3d:keyword>
+					<r3d:keyword>tuberculosis</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">BROAD Institute</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Eli and Edythe L. Broad Institute of Harvard and MIT</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.broadinstitute.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_007073</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nif-0000-31438</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Bill &amp; Melinda Gates foundation</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.gatesfoundation.org/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Boston University</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">BU</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.bu.edu/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Stanford University School of Medicine</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Stanford Medicine</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://med.stanford.edu/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Access Policies</r3d:policyName>
+				<r3d:policyUrl>http://www.tbdb.org/tbdbPages/policies.shtml</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://www.tbdb.org/tbdbPages/policies.shtml</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>feeRequired</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Access Policies - Private Data</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>http://www.tbdb.org/tbdbPages/policies.shtml</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+													<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>http://www.tbdb.org/tbdbPages/about.shtml</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks>description: TBDatabase (Tuberculosis Database) provides resources and tools from the Stanford Microarray Database and the Broad Institute consisting of gene expression, genomic, and protein data. Data is browsable by attribute and searchable via BLAST.
+TBDatabase is a multi-institutional collaboration makes available the tools and resources available at the Stanford Microarray Database and the Broad Institute. In addition, TBDB takes advantage of data produced by Tuberculist,  BioHealthBase, and BioCyc.</r3d:remarks>
+		<r3d:entryDate>2014-08-21</r3d:entryDate>
+		<r3d:lastUpdate>2024-12-11</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

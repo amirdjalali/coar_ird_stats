@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010648</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3FG8P</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Expressed Sequence Tags database</r3d:repositoryName>
+				<r3d:additionalName language="eng">NCBI EST</r3d:additionalName>
+				<r3d:additionalName language="eng">dbEST</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.ncbi.nlm.nih.gov/genbank/dbest/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>MIR</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>00000159</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.v9fya8</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_016578</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">dbEST is a division of GenBank that contains sequence data and other information on &quot;single-pass&quot; cDNA sequences, or &quot;Expressed Sequence Tags&quot;, from a number of organisms.  Expressed Sequence Tags (ESTs) are short (usually about 300-500 bp), single-pass sequence reads from mRNA (cDNA). Typically they are produced in large batches. They represent a snapshot of genes expressed in a given tissue and/or at a given developmental stage. They are tags (some coding, others not) of expression for a given cDNA library.
+Most EST projects develop large numbers of sequences. These are commonly submitted to GenBank and dbEST as batches of dozens to thousands of entries, with a great deal of redundancy in the citation, submitter and library information. To improve the efficiency of the submission process for this type of data, we have designed a special streamlined submission process and data format.
+dbEST also includes sequences that are longer than the traditional ESTs, or are produced as single sequences or in small batches. Among these sequences are products of differential display experiments and RACE experiments. The thing that these sequences have in common with traditional ESTs, regardless of length, quality, or quantity, is that there is little information that can be annotated in the record.
+If a sequence is later characterized and annotated with biological features such as a coding region, 5&#039;UTR, or 3&#039;UTR, it should be submitted through the regular GenBank submissions procedure (via BankIt or Sequin), even if part of the sequence is already in dbEST.
+dbEST is reserved for single-pass reads. Assembled sequences should not be submitted to dbEST. GenBank will accept assembled EST submissions for the forthcoming TSA (Transcriptome Shotgun Assembly) division.  The individual reads which make up the assembly should be submitted to dbEST, the Trace archive or the Short Read Archive (SRA) prior to the submission of the assemblies.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>gb-admin@ncbi.nlm.nih.gov</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.ncbi.nlm.nih.gov/home/about/contact/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@ncbi.nlm.nih.gov</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>485.518.083 public entries</r3d:size>
+						<r3d:startDate>1995</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21107</r3d:subjectId>
+				<r3d:subjectName>Bioinformatics and Theoretical Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21306</r3d:subjectId>
+				<r3d:subjectName>Evolutionary Cell and Developmental Biology (Zoology)</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21105</r3d:subjectId>
+				<r3d:subjectName>General Genetics and Functional Genome Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22203</r3d:subjectId>
+				<r3d:subjectName>Human Genetics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21207</r3d:subjectId>
+				<r3d:subjectName>Plant Genetics and Genomics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>212</r3d:subjectId>
+				<r3d:subjectName>Plant Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>213</r3d:subjectId>
+				<r3d:subjectName>Zoology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.ncbi.nlm.nih.gov/genbank/dbest/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>DNA</r3d:keyword>
+					<r3d:keyword>RNA</r3d:keyword>
+					<r3d:keyword>animals</r3d:keyword>
+					<r3d:keyword>fruits</r3d:keyword>
+					<r3d:keyword>genome</r3d:keyword>
+					<r3d:keyword>human</r3d:keyword>
+					<r3d:keyword>microorganisms</r3d:keyword>
+					<r3d:keyword>nucleotide</r3d:keyword>
+					<r3d:keyword>plants</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">National Institutes of Health, National Library of Medicine, National Center for Biotechnology Information</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NIH, NLM, NCBI</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ncbi.nlm.nih.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02meqm098</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_006472</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nif-0000-00139</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>NCBI Website and Data Usage Policies and Disclaimers</r3d:policyName>
+				<r3d:policyUrl>https://www.ncbi.nlm.nih.gov/home/about/policies/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.copyright.gov/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://opendatacommons.org/licenses/pddl/1-0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.nlm.nih.gov/web_policies.html#copyright</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>About ESTs - How to submit data</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://www.ncbi.nlm.nih.gov/genbank/dbest/</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>unknown</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>FTP</r3d:apiType>
+				<r3d:apiUrl>ftp://ftp.ncbi.nih.gov/repository/dbEST/</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>other</r3d:pidSystem>
+																								<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2014-03-10</r3d:entryDate>
+		<r3d:lastUpdate>2025-09-24</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

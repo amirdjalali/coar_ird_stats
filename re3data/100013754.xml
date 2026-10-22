@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013754</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJN3U</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">National Cryosphere Desert Data Center</r3d:repositoryName>
+				<r3d:additionalName language="eng">NCDC</r3d:additionalName>
+				<r3d:additionalName language="zho">国家冰川冻土沙漠科学数据中心</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.ncdc.ac.cn/portal/</r3d:repositoryUrl>
+				<r3d:description language="eng">The National Cryosphere Desert Data Center (hereinafter referred to as NCDC) is supported by the Institute of environment and Engineering in the cold and dry areas of the Chinese Academy of Sciences, in cooperation with Xinjiang Institute of ecology and geography of the Chinese Academy of Sciences, Chengdu Institute of mountain land disaster and environment of the Ministry of water resources of the Chinese Academy of Sciences, Qinghai Salt Lake Research Institute of the Chinese Academy of Sciences and Qinghai Gao of the Chinese Academy of Sciences The Institute of protobiology and other units were jointly established. The supporting units of glacier permafrost desert data center have formed a scientific research and support system of seven research laboratories and three research systems, highlighting the research characteristics of glacier, permafrost, desert, atmosphere, water and soil, ecology, environment, resources, engineering and sustainable development in the dry areas of cold regions.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>kangjf@lzb.ac.cn</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>2.498 items; data size: 23.8 TB</r3d:size>
+													<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>zho</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.ncdc.ac.cn/portal/about/platform</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Antarctica</r3d:keyword>
+					<r3d:keyword>Gansu Province</r3d:keyword>
+					<r3d:keyword>Great Wall Station</r3d:keyword>
+					<r3d:keyword>engineering geology</r3d:keyword>
+					<r3d:keyword>glacier</r3d:keyword>
+					<r3d:keyword>meteorology</r3d:keyword>
+					<r3d:keyword>physical geography</r3d:keyword>
+					<r3d:keyword>wind speed</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Chinese Academy of Sciences, Institute of Mountain Hazards and Environment</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">IMHE</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="zho">中国科学院水利部成都山地灾害与环境研究所</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CHN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://english.imde.cas.cn/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02z0nsb22</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Chinese Academy of Sciences, Northwest Institute of Eco-Environment and Resources</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NIEER</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="zho">中国科学院西北生态环境资源研究院</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CHN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://english.nieer.cas.cn/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01jz1e142</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Chinese Academy of Sciences, Qinghai Salt Lake Research Institute</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ISL</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="zho">中国科学院青海盐湖研究所</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CHN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://english.isl.cas.cn/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Chinese Academy of Sciences, Xinjiang Institute of Ecology and Geography</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">XIEG</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="zho">中国科学院新疆生态与地理研究所</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CHN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://english.egi.cas.cn/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01a8ev928</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Operation Guide</r3d:policyName>
+				<r3d:policyUrl>https://www.ncdc.ac.cn/portal/about/guide</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Data Submission</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://www.ncdc.ac.cn/portal/collect</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+									<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>FTP</r3d:apiType>
+				<r3d:apiUrl>http://ftp.ncdc.ac.cn</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>CSTR</r3d:pidSystem>
+					<r3d:pidSystem>DOI</r3d:pidSystem>
+															<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+									<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2026-07-31</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2029-07-30</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/FIJLNT</r3d:certificateUrl>
+							</r3d:certificate>
+										<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2022-02-22</r3d:entryDate>
+		<r3d:lastUpdate>2026-08-10</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

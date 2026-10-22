@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011855</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R39S6S</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Work Histories Italian Panel</r3d:repositoryName>
+				<r3d:additionalName language="eng">WHIP</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.laboratoriorevelli.it/whip/whip_datahouse.php</r3d:repositoryUrl>
+				<r3d:description language="eng">WHIP is a database of individual work histories, based on Inps administrative archives.
+The reference population is made up by all the people – Italian and foreign – who have worked in Italy even only for only a part of their working career. A large representative sample has been extracted from this population: in the standard file the sampling coefficient is about 1: 180, for a dynamic population of about 370,000 people (figures will be doubled in the full edition).
+For each of these people the main episodes of their working careers are observed. The complete list of observations includes: private employee working contracts, atypical contracts, self-employment activities as artisan, trader and some activities as freelancer, retirement spells, as well as non-working spells in which the individual received social benefits, like unemployment subsidies or mobility benefits. The workers for whom activity is not observed in WHIP are those who worked in the public sector or as freelancers (lawyers or notaries) – who have an autonomous security fund.
+The WHIP section concerning employee contracts is a Linked Employer Employee Database: in addition to the data about the contract, thanks to a linkage with the Inps Firm Observatory, data concerning the firm in which the worker is employed is also available.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>whip@laboratoriorevelli.it</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>1985</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>ita</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12406</r3d:subjectId>
+				<r3d:subjectName>Statistics and Econometrics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.laboratoriorevelli.it/whip/whip_datahouse.php?lingua=eng&amp;pagina=documentazione</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>apprentice training</r3d:keyword>
+					<r3d:keyword>labour market</r3d:keyword>
+					<r3d:keyword>policies</r3d:keyword>
+					<r3d:keyword>temporary work</r3d:keyword>
+					<r3d:keyword>wage distribution</r3d:keyword>
+					<r3d:keyword>work contracts</r3d:keyword>
+					<r3d:keyword>worker mobility</r3d:keyword>
+					<r3d:keyword>working careers</r3d:keyword>
+					<r3d:keyword>working hours at age</r3d:keyword>
+					<r3d:keyword>working time</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">National Social Security Institute</r3d:institutionName>
+									<r3d:institutionAdditionalName language="ita">INPS</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="ita">Istituto Nazionale Previdenza Sociale</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.inps.it/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/052s0am34</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Turin, LABORatorio Riccardo Revelli</r3d:institutionName>
+									<r3d:institutionAdditionalName language="ita">LABORatorio R. Revelli</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.laboratoriorevelli.it/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Codice di deontologia e di buona condotta per i trattamenti di dati personali per scopi statistici e scientifici</r3d:policyName>
+				<r3d:policyUrl>https://www.privacy.it/archivio/garanteprovv20040616.html</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+							<r3d:databaseAccessRestriction>other</r3d:databaseAccessRestriction>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://www.privacy.it/archivio/garanteprovv20040616.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+																	<r3d:citationGuidelineUrl>https://www.laboratoriorevelli.it/whip/documentazione.php?lingua=eng&amp;sottopagina=faq#Generale9</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks>Work Histories Italian Panel  is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+		<r3d:entryDate>2016-03-02</r3d:entryDate>
+		<r3d:lastUpdate>2021-12-13</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

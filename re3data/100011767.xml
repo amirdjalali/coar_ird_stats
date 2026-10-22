@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011767</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R35D27</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Open Tree of Life</r3d:repositoryName>
+				<r3d:additionalName language="eng">Tree of Life - Evolution</r3d:additionalName>
+				<r3d:repositoryUrl>https://tree.opentreeoflife.org/opentree/argus/opentree15.1@ott93302</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_024603</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">The tree of life links all biodiversity through a shared evolutionary history. This project will produce the first online, comprehensive first-draft tree of all 1.8 million named species, accessible to both the public and scientific communities. Assembly of the tree will incorporate previously-published results, with strong collaborations between computational and empirical biologists to develop, test and improve methods of data synthesis. This initial tree of life will not be static; instead, we will develop tools for scientists to update and revise the tree as new data come in. Early release of the tree and tools will motivate data sharing and facilitate ongoing synthesis of knowledge.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://tree.opentreeoflife.org/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2012</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21201</r3d:subjectId>
+				<r3d:subjectName>Evolution and Systematics of Plants and Fungi</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21302</r3d:subjectId>
+				<r3d:subjectName>Evolution, Anthropology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>221</r3d:subjectId>
+				<r3d:subjectName>Microbiology, Virology and Immunology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>212</r3d:subjectId>
+				<r3d:subjectName>Plant Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>213</r3d:subjectId>
+				<r3d:subjectName>Zoology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://tree.opentreeoflife.org/about/open-tree-of-life</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>amoebae</r3d:keyword>
+					<r3d:keyword>animals</r3d:keyword>
+					<r3d:keyword>bacteria</r3d:keyword>
+					<r3d:keyword>biodiversity</r3d:keyword>
+					<r3d:keyword>birds</r3d:keyword>
+					<r3d:keyword>bloodline</r3d:keyword>
+					<r3d:keyword>funghi</r3d:keyword>
+					<r3d:keyword>insects</r3d:keyword>
+					<r3d:keyword>mammals</r3d:keyword>
+					<r3d:keyword>pedigree</r3d:keyword>
+					<r3d:keyword>phylogenies</r3d:keyword>
+					<r3d:keyword>plants</r3d:keyword>
+					<r3d:keyword>taxonomic catalogue</r3d:keyword>
+					<r3d:keyword>vertebrates</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">GitHub</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://github.com/OpenTreeOfLife</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2012</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Science Foundation</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NSF</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nsf.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/021nxhr62</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_012938</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Open Tree of Life Project</r3d:institutionName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://tree.opentreeoflife.org/about/open-tree-of-life</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Sharing data with Open tree of Life</r3d:policyName>
+				<r3d:policyUrl>https://blog.opentreeoflife.org/data-sharing/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>BSD</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://tree.opentreeoflife.org/about/licenses</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/3.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://github.com/OpenTreeOfLife/germinator/wiki/Open-Tree-of-Life-Web-APIs</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>none</r3d:pidSystem>
+									<r3d:metrics>Usage statistics</r3d:metrics>
+							<r3d:citationGuidelineUrl>https://tree.opentreeoflife.org/about/open-tree-of-life</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks>You need a (free) GitHub account to participate. Using GitHub allows us to track the history and changes of all data. Once you&#039;ve created a GitHub account, just login and give access to OpenTree.
+
+Funding is from NSF AVAToL #1208809.</r3d:remarks>
+		<r3d:entryDate>2016-02-17</r3d:entryDate>
+		<r3d:lastUpdate>2025-12-05</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

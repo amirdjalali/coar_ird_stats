@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011207</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3KW5X</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">GloPAD</r3d:repositoryName>
+				<r3d:additionalName language="deu">Datenbank der globalen darstellenden Künste</r3d:additionalName>
+				<r3d:additionalName language="eng">Global Performing Arts Database</r3d:additionalName>
+				<r3d:repositoryUrl>https://hdl.handle.net/1813/113796</r3d:repositoryUrl>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; GloPAD is now available through eCommons: Cornell&#039;s Digital Repository https://www.re3data.org/repository/r3d100012322 &gt;&gt;&gt;!!!&gt;&gt;&gt;
+GloPAD is a multimedia, multilingual, web-accessible database containing digital images, texts, video clips, sound recordings, and complex media objects (such as 3-D images) related to the performing arts from around the world. 
+GloPAD (Global Performing Arts Database) records include authoritative, detailed, multilingual descriptions of digital images, texts, video clips, sound recordings, and complex media objects related to the performing arts around the world, plus information about related pieces, productions, performers, and creators.
+GloPAC is an international organization of institutions and individuals committed to using innovative digital technologies to create easily accessible, multimedia, and multilingual information resources for the study and preservation of the performing arts.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>glopac@cornell.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>4.500 objects</r3d:size>
+						<r3d:startDate>2002</r3d:startDate>
+        				<r3d:endDate>
+						<r3d:closed>2023</r3d:closed>
+								</r3d:endDate>
+        					<r3d:relatedRepository>
+				<r3d:relatedRepositoryId>r3d100012322</r3d:relatedRepositoryId>
+				<r3d:relatedRepositoryType>successor</r3d:relatedRepositoryType>
+			</r3d:relatedRepository>
+							<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>jpn</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>rus</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>zho</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>113</r3d:subjectId>
+				<r3d:subjectName>Art History, Music, Theatre and Media Studies</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://web.archive.org/web/20221212132108/http://glopad.org/pi/en/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_8a7e</r3d:contentTypeId>
+				<r3d:contentTypeName>moving image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_1843</r3d:contentTypeId>
+				<r3d:contentTypeName>other</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>GloPAC</r3d:keyword>
+					<r3d:keyword>PARCs</r3d:keyword>
+					<r3d:keyword>Performing Arts</r3d:keyword>
+					<r3d:keyword>Performing Arts Resource Centers</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Cornell University Library</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.library.cornell.edu/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2002-10</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Global Performing Arts Consortium</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://hdl.handle.net/1813/2239</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>1997</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Institute of Museum and Library Services</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">IMSL</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.imls.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/030prv062</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011316</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2002-10</r3d:responsibilityStartDate>
+													<r3d:responsibilityEndDate>2005-09</r3d:responsibilityEndDate>
+							</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>eCommons: Cornell&#039;s Digital Repository: Terms of Use</r3d:policyName>
+				<r3d:policyUrl>https://guides.library.cornell.edu/ecommons/terms</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://guides.library.cornell.edu/ecommons/copyright</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>DSpace</r3d:software>
+											<r3d:pidSystem>hdl</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://guides.library.cornell.edu/ecommons/cite</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>no</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>Archived GloPAD website https://web.archive.org/web/20221211082115/https:/www.glopac.org/</r3d:remarks>
+		<r3d:entryDate>2014-10-27</r3d:entryDate>
+		<r3d:lastUpdate>2026-09-16</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010216</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3VG6N</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">4TU.ResearchData | science.engineering.design</r3d:repositoryName>
+				<r3d:additionalName language="eng">formerly: 4TU.Centre for Research Data</r3d:additionalName>
+				<r3d:repositoryUrl>https://data.4tu.nl</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>ROR</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>02d887280</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.zcveaz</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_006295</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>nlx_151952</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">4TU.ResearchData, previously known as 4TU.Centre for Research Data, is a research data repository dedicated to the science, engineering and design disciplines. It offers the knowledge, experience and the tools to manage, publish and find scientific research data in a standardized, secure and well-documented manner. 4TU.ResearchData provides the research community with:
+Customised advice and support on research data management;
+A long-term repository for scientific research data;
+Support for current research projects;
+Tools to enhance reuse of research data.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://data.4tu.nl/info/about-4turesearchdata/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>researchdata@4tu.nl</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+						<r3d:size>10.045 datasets</r3d:size>
+						<r3d:startDate>2013</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21107</r3d:subjectId>
+				<r3d:subjectName>Bioinformatics and Theoretical Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>451</r3d:subjectId>
+				<r3d:subjectName>Construction Engineering and Architecture</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>45</r3d:subjectId>
+				<r3d:subjectName>Construction Engineering and Architecture</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34601</r3d:subjectId>
+				<r3d:subjectName>Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>45102</r3d:subjectId>
+				<r3d:subjectName>Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>346</r3d:subjectId>
+				<r3d:subjectName>Water Research</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://data.4tu.nl/info/about-4turesearchdata/organisation</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_5ce6</r3d:contentTypeId>
+				<r3d:contentTypeName>software</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>FAIR</r3d:keyword>
+					<r3d:keyword>Planing Urban</r3d:keyword>
+					<r3d:keyword>civil engineering</r3d:keyword>
+					<r3d:keyword>design</r3d:keyword>
+					<r3d:keyword>earth sciences</r3d:keyword>
+					<r3d:keyword>hydrology</r3d:keyword>
+					<r3d:keyword>technical sciences</r3d:keyword>
+					<r3d:keyword>technology and construction</r3d:keyword>
+					<r3d:keyword>urban area</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">4TU.Federation</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">4TU</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>NLD</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.4tu.nl/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03rsncr94</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2007</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">TU Delft Library</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Delft University of Technology Library</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>NLD</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.tudelft.nl/en/library/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2008</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="nld">Technische Universiteit Eindhoven</r3d:institutionName>
+									<r3d:institutionAdditionalName language="nld">TU/e</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="nld">Technische Universiteit Eindhoven</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">University of Techhnology Eindhoven</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>NLD</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.tue.nl/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02c2kyt77</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_003354</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_151954</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2008</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="nld">Universiteit Twente, Servicecentrum Bibliotheek &amp; Archief</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">University of Twente, Library &amp; Archive Service Centre</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>NLD</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.utwente.nl/en/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2008</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Wageningen University &amp; Research</r3d:institutionName>
+								<r3d:institutionCountry>NLD</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.wur.nl/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04qw24q55</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011771</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_151588</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data Collection Policy</r3d:policyName>
+				<r3d:policyUrl>https://data.4tu.nl/s/docs/data-collection-policy.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>closed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Apache License 2.0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://data.4tu.nl/info/about-4turesearchdata/policies-guidelines</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/publicdomain/zero/1.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://opensource.org/licenses/MIT</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.gnu.org/licenses/gpl-3.0</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Deposit Agreement</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>NetCDF</r3d:apiType>
+				<r3d:apiUrl>https://data.4tu.nl/info/about-your-data/netcdf-and-opendap</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>OpenDAP</r3d:apiType>
+				<r3d:apiUrl>https://opendap.4tu.nl/thredds/catalog/catalog.html</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://data.4tu.nl/s/docs/data-collection-policy.pdf</r3d:citationGuidelineUrl>
+							<r3d:aidSystem>ORCID</r3d:aidSystem>
+							<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+									<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2025-11-04</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2028-11-03</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/7YRYGP</r3d:certificateUrl>
+							</r3d:certificate>
+									<r3d:metadataStandard>
+				<r3d:metadataStandardName>CF (Climate and Forecast) Metadata Conventions</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m5</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>DataCite Metadata Schema</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m11</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>4TU.ResearchData is covered by Clarivate Data Citation Index. 
+All metadata are provided under CC0 License. 
+From 27 May 2016, Wageningen University &amp; Research Centre joined the partnership of the three universities of technology in the Netherlands (3TU.Federation). From this date the partnership is known as 4TU and the cooperation on education and research was extended further. 4TU.ResearchData was an initiative of the libraries of the three Dutch Technical Universities (TU Delft, TU Eindhoven and University of Twente).
+All data sets stored in 4TU.ResearchData are accessible via the Netherlands Research Portal on OpenAIRE CONNECT. Netherlands Research Portal is the gateway to scholarly information in The Netherlands. The link between Netherlands Research Portal and 4TU.ResearchData ensures that the research datasets may now be more easily found.</r3d:remarks>
+		<r3d:entryDate>2013-02-25</r3d:entryDate>
+		<r3d:lastUpdate>2025-11-21</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

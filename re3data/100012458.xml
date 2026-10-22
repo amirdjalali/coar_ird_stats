@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012458</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3XF5J</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">GiardiaDB</r3d:repositoryName>
+				<r3d:repositoryUrl>https://giardiadb.org/giardiadb/app</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>MIR</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>00000151</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.e7skwg</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>other</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>OMICS_03161</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_013377</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>nif-0000-02908</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">Giardia lamblia is a significant, environmentally transmitted, human pathogen and an amitochondriate protist. It is a major contributor to the enormous worldwide burden of human diarrheal diseases, yet the basic biology of this parasite is not well understood. No virulence factor has been identified. The Giardia lamblia genome contains only 12 million base pairs distributed onto five chromosomes. Its analysis promises to provide insights about the origins of nuclear genome organization, the metabolic pathways used by parasitic protists, and the cellular biology of host interaction and avoidance of host immune systems.
+Since the divergence of Giardia lamblia lies close to the transition between eukaryotes and prokaryotes in universal ribosomal RNA phylogenies, it is a valuable, if not unique, model for gaining basic insights into genetic innovations that led to formation of eukaryotic cells. In evolutionary terms, the divergence of this organism is at least twice as ancient as the common ancestor for yeast and man. A detailed study of its genome will provide insights into an early evolutionary stage of eukaryotic chromosome organization as well as other aspects of the prokaryotic / eukaryotic divergence.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://giardiadb.org/giardiadb/app/contact-us</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2007</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22103</r3d:subjectId>
+				<r3d:subjectName>Medical Microbiology and Mycology, Hygiene, Molecular Infection Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>221</r3d:subjectId>
+				<r3d:subjectName>Microbiology, Virology and Immunology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://giardiadb.org/giardiadb/app/static-content/about.html</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>FAIR</r3d:keyword>
+					<r3d:keyword>Giardia lamblia</r3d:keyword>
+					<r3d:keyword>Trichomonas vaginalis</r3d:keyword>
+					<r3d:keyword>diarrhea</r3d:keyword>
+					<r3d:keyword>gene ontology</r3d:keyword>
+					<r3d:keyword>genomics</r3d:keyword>
+					<r3d:keyword>metabolic pathway</r3d:keyword>
+					<r3d:keyword>parasites</r3d:keyword>
+					<r3d:keyword>pathogene</r3d:keyword>
+					<r3d:keyword>sequences</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">National Institutes of Health, National Institute of Allergy and Infectious Diseases, Bioinformatics Resource Centers</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">BRC</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">NIAID</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.niaid.nih.gov/research/bioinformatics-resource-centers</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Georgia</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.uga.edu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02bjhwk41</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_004954</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Pennsylvania</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.upenn.edu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00b30xv10</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_004275</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>NIAID Data Sharing and Release Guidelines</r3d:policyName>
+				<r3d:policyUrl>https://www.niaid.nih.gov/research/data-sharing-and-release-guidelines</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>NIH Genomic Data Sharing</r3d:policyName>
+				<r3d:policyUrl>https://osp.od.nih.gov/scientific-sharing/genomic-data-sharing/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://giardiadb.org/giardiadb/app/static-content/about.html#about_use</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Data Submission and Release on EuPathDB Databases</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>http://giardiadb.org/EuPathDB_datasubm_SOP.pdf</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>CKAN</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://veupathdb.org/veupathdb/app/static-content/content/VEuPathDB/webServices.html</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://giardiadb.org/giardiadb/app/static-content/about.html#about_citing</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>GiardiaDB is a member of pathogen-databases that are housed under the NIAID-funded EuPathDB Bioinformatics Resource Center (BRC) umbrella.</r3d:remarks>
+		<r3d:entryDate>2017-09-05</r3d:entryDate>
+		<r3d:lastUpdate>2023-10-06</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014401</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNLT</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Italian National Database of Monovarietal Extra Virgin Olive Oils</r3d:repositoryName>
+				<r3d:repositoryUrl>https://www.olimonovarietali.it/en/</r3d:repositoryUrl>
+				<r3d:description language="eng">The abundance of indigenous Italian olive germplasm, numbering over 800 cultivars andrising, guarantees the ongoing production of high quality extra virgin olive oils, thus contributing to the preservation of much of the ancient genetic biodiversity of the olive.
+The Olea Europea species has maintained much of its genetic diversity as a result of limited genetic erosion. This is due to breeding programs of this species having begun relatively recently compared to those of other fruit species.
+Knowledge and development of the characteristics of Italian monovarietal extra virgin olive oils will also lead to an improvement in knowledge of the areas where these oils are produced, in turn developing tourism, a crucial sector for the Italian economy.
+In Italy, new regulation was recently introduced forcing virgin and extra virgin olive oil producers to indicate the location of both olive harvest and oil production. More recently the European Commission has established compulsory standards for the labelling of origin for extra virgin and virgin olive oils (Reg EC n.182/2009). The significant increase in demand for extra virgin olive oils is due not only to the health benefits it offers, but also to its organoleptic properties; the large number of Italian olive cultivars allows for the production of different monovarietal oils marked out by a wide range of pleasant flavours.
+As the genotype of origin affects the chemical and sensory characteristics of extra virginolive oil deeply, the preservation and characterization of authocthonous cultivars and clones play a key role in the marketing of high quality olive oils.
+Conservation of genetic resources for olives has important implications for both adaptationof the cultivars to their local environment and their agronomical performance under specific conditions. This also implies that every initiative to promote olive cultivation ought to take into consideration the local varieties and also that every region should preserve its own plant material to safeguard olive adaptation and productivity and to maintain the intrinsic characteristics of its olive oil 
+which represent a deep connection with the territory of origin.
+Italian olive cultivation is marked out by its extremely rich and varied varietal heritage. Animportant objective being pursued by every region is the protection and preservation of autochthonous Italian olive cultivars. This can be seen in the spread of regional varietal catalogs and also in the ongoing rise in the number of monovarietal olive oils taking part in the Italian National Review of Monovarietal olive oils as organized by AMAP Marche.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.olimonovarietali.it/contatti</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+									<r3d:missionStatementUrl>https://www.olimonovarietali.it/en/database/the-italian-olive-oil-typologies/</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>anicient genetic biodiversity</r3d:keyword>
+					<r3d:keyword>italian olive oil typologies</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="ita">Agenzia per l&#039;Innovazione nel Settore Agroalimentare e della Pesca &quot;Marche Agricoltura Pesca&quot; -</r3d:institutionName>
+									<r3d:institutionAdditionalName language="ita">AMAP</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.amap.marche.it/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="ita">Institute of BioEconomy</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">IBE</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="ita">Istituto per la BioEconomia</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ibe.cnr.it</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Research Council</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CNR</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="ita">Consiglio Nazionale delle Ricerche</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.cnr.it</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04zaypm56</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Privacy Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.olimonovarietali.it/privacy-policy/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://creativecommons.org/licenses/by-sa/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+																									<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+														<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2024-08-08</r3d:entryDate>
+		<r3d:lastUpdate>2024-08-14</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011117</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3K61H</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">TerraSAR-X TOR</r3d:repositoryName>
+				<r3d:additionalName language="eng">TSX Tracking Occultation and Ranging</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.dlr.de/de/forschung-und-transfer/projekte-und-missionen/terrasar-x</r3d:repositoryUrl>
+				<r3d:description language="eng">TerraSAR-X is a German satellite for Earth Observation, which was launched on July 14, 2007. The mission duration was foreseen to be 5 years. TerraSAR-X carries an innovative high resolution x-band sensor for imaging with resolution up to 1 m.
+TerraSAR-X carries as secondary payload an IGOR GPS receiver with GPS RO capability. GFZ provided the IGOR and is responsible for the related TOR experiment (Tracking, Occultation and Ranging). TerraSAR-X provides continuously atmospheric GPS data in near-real time. These data from GFZ are continuously assimilated in parallel with those from GRACE-A by the world-leading weather centers to improve their global forecasts. TerraSAR-X, together with TanDEM-X also forms a twin-satellite constellation for atmosphere sounding and generates an unique data set for the evaluation of the accuracy of the GPS-RO technique.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>jens.wickert@gfz.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+								<r3d:startDate>2007</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34302</r3d:subjectId>
+				<r3d:subjectName>Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>343</r3d:subjectId>
+				<r3d:subjectName>Geophysics and Geodesy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://research-infrastructure.gfz.de/de/infrastrukturen?filter_options=47</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>GPS flight receiver</r3d:keyword>
+					<r3d:keyword>SAR data</r3d:keyword>
+					<r3d:keyword>geologic hazards</r3d:keyword>
+					<r3d:keyword>glacier dynamics</r3d:keyword>
+					<r3d:keyword>ice sheet impact</r3d:keyword>
+					<r3d:keyword>radar mission</r3d:keyword>
+					<r3d:keyword>x-band</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">GFZ Helmholtz Centre for Geosciences</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">GFZ</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">GFZ Helmholtz-Zentrum für Geoforschung</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.gfz.de/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04z8jg394</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">German Aerospace Center</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">DLR</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Deutsches Zentrum für Luft- und Raumfahrt (DLR)</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.dlr.de/en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04bwf3e34</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">German Aerospace Center,  Terra SAR Science Service System</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">TerraSAR-X Science Service System</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://sss.terrasar-x.dlr.de/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Texas Center for Space Research</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CSR</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://csr.utexas.edu/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Grundsätze zum Umgang mit Forschungsdaten</r3d:policyName>
+				<r3d:policyUrl>https://media.gfz.de/gfz/wv/doc/16/GFZ_Daten_Grundsaetze+Erg_de.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+							<r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.dlr.de/en/service/imprint</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>none</r3d:pidSystem>
+																					<r3d:profile>
+				<r3d:profileName>Helmholtz Association</r3d:profileName>
+				<r3d:profileUrl>https://os.helmholtz.de/open-research-data/forschungsdatenrepositorien/</r3d:profileUrl>
+			</r3d:profile>
+					<r3d:profile>
+				<r3d:profileName>NFDI</r3d:profileName>
+				<r3d:profileUrl>https://www.nfdi.de/nfdi-repository/</r3d:profileUrl>
+			</r3d:profile>
+								<r3d:remarks>The DLR Microwaves and Radar Institute (DLR-Institut für Hochfrequenztechnik und Radarsysteme), the DLR Remote Sensing Technology Institute (DLR-Institut für Methodik der Fernerkundung) and the German Remote Sensing Data Center (Deutsches Fernerkundungsdatenzentrum; DFD) of DLR cooperate closely in the &#039;SAR Center of Excellence&#039;. The partner institutions complement each other by covering all relevant fields, from sensor technology and mission design to high-precision operational processing and value-added end-user products. Together with DLR&#039;s German Space Operations Center (Deutsches Raumfahrt-Kontrollzentrum), these institutes are also responsible for building the TerraSAR-X ground segment as well as operating the satellite over a period of five years.</r3d:remarks>
+		<r3d:entryDate>2014-08-19</r3d:entryDate>
+		<r3d:lastUpdate>2026-09-15</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

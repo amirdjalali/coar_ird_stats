@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014256</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNHS</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">UFS Figshare</r3d:repositoryName>
+				<r3d:additionalName language="eng">University of the Free State Figshare</r3d:additionalName>
+				<r3d:repositoryUrl>https://ufs.figshare.com/</r3d:repositoryUrl>
+				<r3d:description language="eng">figshare is the RDM system at the University. It is a cloud-based data repository that supports multiple file formats. Research data in the form of datasets, code, audio, images and more can be disseminated via the University&#039;s figshare. Citations can be traced for datasets (not just the final research output/article) and analytics will show who is looking at our research data around the world.
+figshare enables researchers to store research data in a secure way. The system is user-friendly, with easy access, and shareable with colleagues and collaborators on research projects. Where appropriate it enables researchers to make research data openly accessible.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>ManqolaNN@ufs.ac.za</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>openaccess@ufs.ac.za</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>56 datasets</r3d:size>
+													<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://ufs.libguides.com/rdm/figshare</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/NHD0-W6SY</r3d:contentTypeId>
+				<r3d:contentTypeName>survey data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>agriculture</r3d:keyword>
+					<r3d:keyword>artificial intelligence</r3d:keyword>
+					<r3d:keyword>earth sciences</r3d:keyword>
+					<r3d:keyword>ecology</r3d:keyword>
+					<r3d:keyword>economics</r3d:keyword>
+					<r3d:keyword>food sciences</r3d:keyword>
+					<r3d:keyword>veterinary</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">University of the Free State</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">UFS</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ZAF</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ufs.ac.za/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/009xwd568</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Guidelines to RDM</r3d:policyName>
+				<r3d:policyUrl>https://ufs.libguides.com/c.php?g=977378&amp;p=7067119</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Research Data Management Policy</r3d:policyName>
+				<r3d:policyUrl>https://ufs.libguides.com/c.php?g=977378&amp;p=7067107#s-lg-box-wrapper-26331554</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>figshare</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://api.figshare.com/v2/oai?verb=ListIdentifiers&amp;metadataPrefix=oai_dc&amp;set=portal_874</r3d:apiUrl>
+									<r3d:apiDocumentation>https://docs.figshare.com/#oai_pmh</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://api.figshare.com/v2/articles?institution=874</r3d:apiUrl>
+									<r3d:apiDocumentation>https://docs.figshare.com/#figshare_documentation_api_description_feature_list</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+									<r3d:metrics>Usage statistics</r3d:metrics>
+							<r3d:citationGuidelineUrl>https://help.figshare.com/article/how-to-share-cite-or-embed-your-items</r3d:citationGuidelineUrl>
+							<r3d:aidSystem>ORCID</r3d:aidSystem>
+							<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>DataCite Metadata Schema</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m11</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+							<r3d:syndication>
+				<r3d:syndicationType>RSS</r3d:syndicationType>
+				<r3d:syndicationUrl>https://ufs.figshare.com/rss/portal/ufs</r3d:syndicationUrl>
+			</r3d:syndication>
+				<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2023-10-25</r3d:entryDate>
+		<r3d:lastUpdate>2025-07-29</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

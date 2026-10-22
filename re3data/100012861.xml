@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012861</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3R80C</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="deu">Virtuelles Skriptorium St. Matthias</r3d:repositoryName>
+				<r3d:repositoryUrl>https://stmatthias.uni-trier.de/</r3d:repositoryUrl>
+				<r3d:description language="eng">This repository contains about 500 medieval codices and manuscripts (dated from 8th to 18th century), which were a part of the BMBF-funded project eCodicology. The collection and database contains descriptional data about the manuscripts in TEI conformant XML format as well as digitized images of every codex page.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>kompetenzzentrum@uni-trier.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>526 codices, 3.936 objects</r3d:size>
+													<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>111</r3d:subjectId>
+				<r3d:subjectName>Ancient Cultures</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11103</r3d:subjectId>
+				<r3d:subjectName>Ancient History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11501</r3d:subjectId>
+				<r3d:subjectName>German Medieval Studies (Medieval German Literature)</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>115</r3d:subjectId>
+				<r3d:subjectName>Literary Studies</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://stmatthias.uni-trier.de/index.php?l=n&amp;s=projekt</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>Abbey St. Matthias</r3d:keyword>
+					<r3d:keyword>Trier</r3d:keyword>
+					<r3d:keyword>codex</r3d:keyword>
+					<r3d:keyword>liturgical manuscript</r3d:keyword>
+					<r3d:keyword>medieval manuscript</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="deu">Deutsche Forschungsgemeinschaft</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">DFG</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.dfg.de/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_012420</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_144062</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Karlsruhe Institute of Technology</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">KIT</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Karlsruher Institut für Technologie</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.kit.edu/english/index.php</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04t3en479</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_001552</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Technische Universität Darmstadt</r3d:institutionName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.tu-darmstadt.de/index.en.jsp</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05n911h24</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Universität Trier, HKFZ</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Communication and information services for historical research</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Historisch-Kulturwissenschaftliches Forschungszentrum</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.hsozkult.de/project/id/fp-950?language=en#mtAc_event-157</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Universität Trier, Trier Center for Digital Humanities</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">Kompetenzzentrum für elektronische Erschließungs- und Publikationsverfahren in den Geisteswissenschaften</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://tcdh.uni-trier.de/en</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Universität Trier, Zentrum für Informations-, Medien- und Kommunikationstechnologie</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ZIMK</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.uni-trier.de/index.php?id=61144</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Nutzungsbedingungen für Digitalisate von Handschriften der Trierer Dombibliothek</r3d:policyName>
+				<r3d:policyUrl>https://stmatthias.uni-trier.de/index.php?l=n&amp;s=nutzung_db</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Nutzungsbedingungen für die Digitalisate aus Stadtbibliothek/Stadtarchiv Trier</r3d:policyName>
+				<r3d:policyUrl>https://stmatthias.uni-trier.de/index.php?l=n&amp;s=nutzung_sb</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://creativecommons.org/licenses/by-nc/3.0/de/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://stmatthias.uni-trier.de/index.php?l=n&amp;s=nutzung_db</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://stmatthias.uni-trier.de/index.php?l=n&amp;s=nutzung_sb</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+											<r3d:versioning>no</r3d:versioning>
+									<r3d:pidSystem>none</r3d:pidSystem>
+															<r3d:enhancedPublication>no</r3d:enhancedPublication>
+											<r3d:profile>
+				<r3d:profileName>Helmholtz Association</r3d:profileName>
+				<r3d:profileUrl>https://os.helmholtz.de/open-research-data/forschungsdatenrepositorien/</r3d:profileUrl>
+			</r3d:profile>
+							<r3d:metadataStandard>
+				<r3d:metadataStandardName>TEI (Text Encoding Initiative) Guidelines</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m99</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2018-09-04</r3d:entryDate>
+		<r3d:lastUpdate>2025-12-05</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

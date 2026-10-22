@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014483</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNO3</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Bhoonidhi</r3d:repositoryName>
+				<r3d:additionalName language="eng">ISRO&#039;s EO Data Hub</r3d:additionalName>
+				<r3d:repositoryUrl>https://bhoonidhi.nrsc.gov.in/bhoonidhi/home.html</r3d:repositoryUrl>
+				<r3d:description language="eng">BHOONIDHI is an innovative web-based portal developed by the Indian Government to provide comprehensive access to land records and geological data across India. Designed to enhance transparency and improve land management practices, BHOONIDHI allows users, including government officials, researchers, and the general public, to view, download, and analyze spatial data related to land use, land cover, and soil characteristics. The portal enables access to an extensive archive of Remote Sensing data from 44 satellites, including Indian and foreign Remote Sensing sensors acquired since 1986. Additionally, BHOONIDHI facilitates the regional distribution of Sentinel and LandSat (8 &amp; 9) data in India. By integrating various datasets, the portal empowers users to make informed decisions regarding land development, agriculture, and environmental conservation. Ultimately, BHOONIDHI aims to promote sustainable land use practices and support effective policy-making in the realm of land resource management.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>bhoonidhi@nrsc.gov.in</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://bhoonidhi.nrsc.gov.in/bhoonidhi/home.html#contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.isro.gov.in/Vision-Mission-Objectives.html</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>climate change monitoring</r3d:keyword>
+					<r3d:keyword>disaster management</r3d:keyword>
+					<r3d:keyword>earth observation data</r3d:keyword>
+					<r3d:keyword>high-quality images</r3d:keyword>
+					<r3d:keyword>high-resolution imaging</r3d:keyword>
+					<r3d:keyword>land resource monitoring</r3d:keyword>
+					<r3d:keyword>satellite data</r3d:keyword>
+					<r3d:keyword>water resource monitoring</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Government of India</r3d:institutionName>
+									<r3d:institutionAdditionalName language="hin">राष्ट्रीय सुदूर संवेदन केन्द्र</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>IND</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.india.gov.in/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/036h6g940</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Indian Space Research Organisation</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ISRO</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="hin">भारतीय अंतरिक्ष अनुसंधान संगठन</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>IND</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.isro.gov.in/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00cwrns71</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Remote Sensing Centre</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NRSC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>IND</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nrsc.gov.in/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/0491y3t26</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Bhoonidhi End User License Agreement</r3d:policyName>
+				<r3d:policyUrl>https://bhoonidhi.nrsc.gov.in/bhoonidhi/htmls/TnC.html</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Bhoonidhi Help Documents</r3d:policyName>
+				<r3d:policyUrl>https://bhoonidhi.nrsc.gov.in/bhoonidhi/help/helpdocs/helpDocs.html</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Bhoonidhi Open Data  Tutorials  Upload and Download</r3d:policyName>
+				<r3d:policyUrl>https://bhoonidhi.nrsc.gov.in/bhoonidhi/help/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Bhoonidhi User Manual</r3d:policyName>
+				<r3d:policyUrl>https://bhoonidhi.nrsc.gov.in/bhoonidhi_resources/help/docs/Bhoonidhi_ISROEOHub_UserManual_V2.0.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Indian Space Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.isro.gov.in/media_isro/pdf/IndianSpacePolicy2023.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms of Use</r3d:policyName>
+				<r3d:policyUrl>https://www.isro.gov.in/TermsofUse.html</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.isro.gov.in/Copyright_Policy.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://bhoonidhi.nrsc.gov.in/bhoonidhi/htmls/TnC.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+															<r3d:pidSystem>DOI</r3d:pidSystem>
+															<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+														<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2024-10-21</r3d:entryDate>
+		<r3d:lastUpdate>2024-10-25</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

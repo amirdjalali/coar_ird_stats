@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013639</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJN0N</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Buildings Data Platform</r3d:repositoryName>
+				<r3d:additionalName language="eng">Benchmark Datasets of Building Environmental Conditions and Occupancy Parameters</r3d:additionalName>
+				<r3d:repositoryUrl>https://bbd.labworks.org/</r3d:repositoryUrl>
+				<r3d:description language="eng">The Buildings Data Platform mission is to collect and curate high-resolution, well-calibrated time series of building operational and indoor/outdoor environmental data, which are crucial to understanding and optimizing building energy efficiency performance and demand flexibility capabilities as well as benchmarking energy algorithms.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>bbdteam@pnnl.gov</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>12 files; 3.19 GB; 6 datasets</r3d:size>
+						<r3d:startDate>2020-10-1</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>45101</r3d:subjectId>
+				<r3d:subjectName>Architecture, Building and Construction History, Construction Research, Sustainable Building Technology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>44</r3d:subjectId>
+				<r3d:subjectName>Computer Science, Systems and Electrical Engineering</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>451</r3d:subjectId>
+				<r3d:subjectName>Construction Engineering and Architecture</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>45</r3d:subjectId>
+				<r3d:subjectName>Construction Engineering and Architecture</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>442</r3d:subjectId>
+				<r3d:subjectName>Electrical Engineering and Information Technology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>44204</r3d:subjectId>
+				<r3d:subjectName>Hardware Systems and Architectures for Information Technology and Artificial Intelligence, Quantum Engineering Systems</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>45104</r3d:subjectId>
+				<r3d:subjectName>Structural Engineering, Building Informatics and Construction Operation</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://bbd.labworks.org/</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>HVAC</r3d:keyword>
+					<r3d:keyword>Net-Zero Energy Residential Test Facility</r3d:keyword>
+					<r3d:keyword>bbd</r3d:keyword>
+					<r3d:keyword>building automation system</r3d:keyword>
+					<r3d:keyword>building energy</r3d:keyword>
+					<r3d:keyword>buildings benchmarking datasets</r3d:keyword>
+					<r3d:keyword>built environment</r3d:keyword>
+					<r3d:keyword>commercial</r3d:keyword>
+					<r3d:keyword>electricity</r3d:keyword>
+					<r3d:keyword>energy consumption</r3d:keyword>
+					<r3d:keyword>energy use</r3d:keyword>
+					<r3d:keyword>human-building interaction</r3d:keyword>
+					<r3d:keyword>lighting</r3d:keyword>
+					<r3d:keyword>occupancy</r3d:keyword>
+					<r3d:keyword>office</r3d:keyword>
+					<r3d:keyword>power</r3d:keyword>
+					<r3d:keyword>power consumption</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Office</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">DOE EERE BTO</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.energy.gov/eere/buildings/building-technologies-office</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>FAQs</r3d:policyName>
+				<r3d:policyUrl>https://bbd.labworks.org/faq</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Web Policies</r3d:policyName>
+				<r3d:policyUrl>https://www.energy.gov/about-us/web-policies</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>other</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+					<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>DOI</r3d:pidSystem>
+													<r3d:aidSystem>ORCID</r3d:aidSystem>
+							<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2021-08-17</r3d:entryDate>
+		<r3d:lastUpdate>2021-08-30</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

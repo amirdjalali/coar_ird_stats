@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010056</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3V88B</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">CoRIS</r3d:repositoryName>
+				<r3d:additionalName language="eng">Coral Reef Information System</r3d:additionalName>
+				<r3d:repositoryUrl>https://coralreef.noaa.gov/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.ed5b45</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">NOAA&#039;s Coral Reef Information System (CoRIS) is a web-based information portal that provides access to NOAA coral reef information and data products with emphasis on the U.S. states, territories and remote island areas. NOAA Coral Reef activities include coral reef mapping, monitoring and assessment; natural and socioeconomic research and modeling; outreach and education; and management and stewardship.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>coralreef@noaa.gov</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://coralreef.noaa.gov/contact-us</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2002</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34102</r3d:subjectId>
+				<r3d:subjectName>Oceanography</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://coralreef.noaa.gov/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>animalia</r3d:keyword>
+					<r3d:keyword>artificial intelligence</r3d:keyword>
+					<r3d:keyword>atmosphere</r3d:keyword>
+					<r3d:keyword>biological survey</r3d:keyword>
+					<r3d:keyword>climatology</r3d:keyword>
+					<r3d:keyword>coastal change</r3d:keyword>
+					<r3d:keyword>coral reef mapping; natural research</r3d:keyword>
+					<r3d:keyword>coral reefs</r3d:keyword>
+					<r3d:keyword>ecology</r3d:keyword>
+					<r3d:keyword>ecosystem</r3d:keyword>
+					<r3d:keyword>fungi</r3d:keyword>
+					<r3d:keyword>geographic information systems</r3d:keyword>
+					<r3d:keyword>glacier</r3d:keyword>
+					<r3d:keyword>marine systems</r3d:keyword>
+					<r3d:keyword>monera</r3d:keyword>
+					<r3d:keyword>natural research</r3d:keyword>
+					<r3d:keyword>ocean</r3d:keyword>
+					<r3d:keyword>oceanographic equipment</r3d:keyword>
+					<r3d:keyword>oceanography</r3d:keyword>
+					<r3d:keyword>plankton</r3d:keyword>
+					<r3d:keyword>plantae</r3d:keyword>
+					<r3d:keyword>protista</r3d:keyword>
+					<r3d:keyword>sensor arrays</r3d:keyword>
+					<r3d:keyword>socioeconomic research</r3d:keyword>
+					<r3d:keyword>water quality monitoring</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">National Oceanic and Atmospheric Administration, Coral Reef Conservation Program</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CRCP</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">NOAA</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://coralreef.noaa.gov/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>1961</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>FOIA</r3d:policyName>
+				<r3d:policyUrl>https://www.noaa.gov/information-technology/foia</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Privacy Policy</r3d:policyName>
+				<r3d:policyUrl>https://coast.noaa.gov/PrivacyPolicy/privacypolicy.html</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.noaa.gov/information-technology/foia</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>none</r3d:pidSystem>
+																	<r3d:qualityManagement>
+				<r3d:qualityManagementStatus>yes</r3d:qualityManagementStatus>
+								<r3d:qualityManagementMeasure>
+					<r3d:qualityManagementMeasureName>Information Quality</r3d:qualityManagementMeasureName>
+					<r3d:qualityManagementMeasureUrl>https://www.noaa.gov/organization/information-technology/policy-oversight/information-quality</r3d:qualityManagementMeasureUrl>
+				</r3d:qualityManagementMeasure>
+							</r3d:qualityManagement>
+											<r3d:metadataStandard>
+				<r3d:metadataStandardName>FGDC/CSDGM (Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m17</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2012-11-19</r3d:entryDate>
+		<r3d:lastUpdate>2026-03-03</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012060</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3F07G</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Wilson Center Digital Archive</r3d:repositoryName>
+				<r3d:repositoryUrl>https://digitalarchive.wilsoncenter.org/</r3d:repositoryUrl>
+				<r3d:description language="eng">The Wilson Center Digital Archive contains once-secret documents from governments all across the globe, uncovering new sources and providing fresh insights into the history of international relations and diplomacy. It contains newly declassified historical materials from archives around the world—much of it in translation and including diplomatic cables, high level correspondence, meeting minutes and more. It collects the research of three Wilson Center projects which focus on the interrelated histories of the Cold War, Korea, and Nuclear Proliferation.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>laura.deal@wilsoncenter.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12407</r3d:subjectId>
+				<r3d:subjectName>Economic and Social History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>112</r3d:subjectId>
+				<r3d:subjectName>History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11203</r3d:subjectId>
+				<r3d:subjectName>Modern and Contemporary History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12304</r3d:subjectId>
+				<r3d:subjectName>Political Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://digitalarchive.wilsoncenter.org/about-us</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>CWIHP</r3d:keyword>
+					<r3d:keyword>NKIDP</r3d:keyword>
+					<r3d:keyword>NPIHP</r3d:keyword>
+					<r3d:keyword>cold war</r3d:keyword>
+					<r3d:keyword>communism</r3d:keyword>
+					<r3d:keyword>diplomacy</r3d:keyword>
+					<r3d:keyword>foreign relations</r3d:keyword>
+					<r3d:keyword>international history</r3d:keyword>
+					<r3d:keyword>nuclear proliferation</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Woodrow Wilson International Center for Scholars</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Wilson Center</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.wilsoncenter.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00whzh260</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>About us</r3d:policyName>
+				<r3d:policyUrl>https://digitalarchive.wilsoncenter.org/about-us</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://digitalarchive.wilsoncenter.org/about-us</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+									<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://digitalarchive.readthedocs.io/en/latest/api.html#digitalarchive.models.Document</r3d:apiUrl>
+									<r3d:apiDocumentation>https://digitalarchive.readthedocs.io/en/latest/</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>none</r3d:pidSystem>
+																							<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2016-07-07</r3d:entryDate>
+		<r3d:lastUpdate>2025-04-25</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

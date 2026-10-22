@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014522</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNP6</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">The Cologne Database for Molecular Spectroscopy</r3d:repositoryName>
+				<r3d:additionalName language="eng">CDMS</r3d:additionalName>
+				<r3d:repositoryUrl>https://cdms.astro.uni-koeln.de/classic/entries/</r3d:repositoryUrl>
+				<r3d:description language="eng">The Cologne Database for Molecular Spectroscopy, CDMS, was founded 1998 to provide in its catalog section line lists of mostly molecular species which are or may be observed in various astronomical sources (usually) by radio astronomical means.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://cdms.astro.uni-koeln.de/classic/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>schlemmer@ph1.uni-koeln.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>1998</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>32501</r3d:subjectId>
+				<r3d:subjectName>Astrophysics and Astronomy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>325</r3d:subjectId>
+				<r3d:subjectName>Astrophysics and Astronomy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>31</r3d:subjectId>
+				<r3d:subjectName>Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>32</r3d:subjectId>
+				<r3d:subjectName>Physics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://cdms.astro.uni-koeln.de/classic/about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_1843</r3d:contentTypeId>
+				<r3d:contentTypeName>other</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>astrophysics</r3d:keyword>
+					<r3d:keyword>atoms</r3d:keyword>
+					<r3d:keyword>cologne spectroscopy data</r3d:keyword>
+					<r3d:keyword>molecular spectroscopy</r3d:keyword>
+					<r3d:keyword>molecules</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">University of Cologne</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Universität zu Köln</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.uni-koeln.de/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00rcxh774</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_002903</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Cologne, Institute of Physics</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">Mathematisch-Naturwissenschaftliche Fakultät, Astrophysik I.Physik</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Physikalisches Institut  Universität zu Köln</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://astro.uni-koeln.de/</r3d:institutionUrl>
+															</r3d:institution>
+								<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-sa/4.0/deed.en</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+																							<r3d:citationGuidelineUrl>https://cdms.astro.uni-koeln.de/classic/new</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+															<r3d:syndication>
+				<r3d:syndicationType>RSS</r3d:syndicationType>
+				<r3d:syndicationUrl>https://cdms.astro.uni-koeln.de/classic/feed.php</r3d:syndicationUrl>
+			</r3d:syndication>
+				<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2024-12-06</r3d:entryDate>
+		<r3d:lastUpdate>2025-01-21</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

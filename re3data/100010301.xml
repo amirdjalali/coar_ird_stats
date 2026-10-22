@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010301</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31S4J</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">World Data Centre for Geomagnetism, Copenhagen</r3d:repositoryName>
+				<r3d:additionalName language="eng">WDC - Geomagnetism, Copenhagen</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.space.dtu.dk/english/research/scientific_data_and_models/world_data_center_for_geomagnetism</r3d:repositoryUrl>
+				<r3d:description language="eng">The WDC has a FTP-server to distribute the PCN index derived from the geomagnetic observatory Qaanaaq (THL) and the Kp-index data products derived at the geomagnetic observatory Niemegk (NGK).
+The WDC is also holding extensive archives of magnetograms and other geomagnetic observatory data products that predate the introduction of digital data recording. The material is in analogue form such as film or microfiche.  
+The Polar Cap index (abbreviation PC index) consists of the Polar Cap North (PCN) and the Polar Cap South (PCS) index, which are derived from magnetic measurements taken at the geomagnetic observatories Qaanaaq (THL, Greenland, +85o magnetic latitude) and Vostok (VOS, Antarctica, -83o magnetic latitude), respectively.
+The idea behind these indices is to estimate the intensity of anti-sunward plasma convection in the polar caps. This convection is associated with electric Hall currents and consequent magnetic field variations perpendicular to the antisunward plasma flow (and related Hall current) which can be monitored at the Qaanaaq and Vostok magnetic observatories.
+PC aims at monitoring the energy input from solar wind to the magnetosphere (loading activity). The index is constructed in such a way that it has a linear relationship with the merging Electric Field at the magnetopause; consequently PC is given in units of mV/m as for the electric field.
+In August 2013, the International Association of Geomagnetism and Aeronomy (IAGA) endorsed the PC index. The endorsed PC index is accessible at pcindex.org or through WDC Copenhagen.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>anna@space.dtu.dk</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.space.dtu.dk/english/about-us/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2010</r3d:startDate>
+        									<r3d:repositoryLanguage>dan</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>325</r3d:subjectId>
+				<r3d:subjectName>Astrophysics and Astronomy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>343</r3d:subjectId>
+				<r3d:subjectName>Geophysics and Geodesy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>32</r3d:subjectId>
+				<r3d:subjectName>Physics</r3d:subjectName>
+			</r3d:subject>
+									<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Kp-index</r3d:keyword>
+					<r3d:keyword>Northern PC Index</r3d:keyword>
+					<r3d:keyword>geomagnetism</r3d:keyword>
+					<r3d:keyword>magnetograms</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">GFZ Helmholtz Centre for Geosciences</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">GFZ</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">GFZ Helmholtz-Zentrum für Geoforschung</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.gfz.de/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04z8jg394</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Technical University of Denmark, DTU Space -National Space Institute</r3d:institutionName>
+									<r3d:institutionAdditionalName language="dan">DTU</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="dan">Danmarks Tekniske Universitet, DTU Space - Institut for Rumforskning og-teknologi</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DNK</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.space.dtu.dk/english</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">World Data System</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ISC WDS</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">ISC World Data System</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://worlddatasystem.org</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01pwmqe95</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data Sharing Principles</r3d:policyName>
+				<r3d:policyUrl>https://worlddatasystem.org/about/data-sharing-principles/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>ISC World Data System Constitution</r3d:policyName>
+				<r3d:policyUrl>https://worlddatasystem.org/about/constitution/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://worlddatasystem.org/about/data-sharing-principles/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>FTP</r3d:apiType>
+				<r3d:apiUrl>ftp://ftp.space.dtu.dk/WDC/</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>none</r3d:pidSystem>
+																					<r3d:profile>
+				<r3d:profileName>Helmholtz Association</r3d:profileName>
+				<r3d:profileUrl>https://os.helmholtz.de/open-research-data/forschungsdatenrepositorien/</r3d:profileUrl>
+			</r3d:profile>
+					<r3d:profile>
+				<r3d:profileName>NFDI</r3d:profileName>
+				<r3d:profileUrl>https://www.nfdi.de/nfdi-repository/</r3d:profileUrl>
+			</r3d:profile>
+							<r3d:metadataStandard>
+				<r3d:metadataStandardName>ISO 19115</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m22</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>The WDC Copenhagen was established for the International Geophysical Year in 1957 at the Danish Meteorological Institute. The Geomagnetic Data Master Catalogue of hourly and 1-minute means of the geomagnetic observatories was developed at WDC Copenhagen and moved to WDC Edinburgh at BGS  in 2007.
+The WDC Copenhagen is maintained by DTU Space from 2010 onwards. The WDC Copenagen is accredited by ICSU World Data System (ICSU-WDS).
+Data Sharing Principles read more: https://worlddatasystem.org/about/data-sharing-principles/</r3d:remarks>
+		<r3d:entryDate>2013-05-16</r3d:entryDate>
+		<r3d:lastUpdate>2026-09-15</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014404</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNLW</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">BioMemory</r3d:repositoryName>
+				<r3d:repositoryUrl>https://biomemory.cnr.it/</r3d:repositoryUrl>
+				<r3d:description language="eng">BioMemory is the network of biological collections of the Department of Biology, Agriculture and Food Sciences (DiSBA) of the National Research Council of Italy (CNR) for bio-monitoring, biodiversity conservation, agri-food and environmental sustainability, and human well-being. The project is aimed to create a network of biobanks (i.e., scientific research collections) where data and metadata associated to biological samples of different nature are collected and stored in a systematic and well-organized way. Maintaining the existing collections will allow their future use for a number of purposes, from the genetic improvement of organisms to face environmental changes (climate-ready organisms) to the fight against epidemics and pandemics affecting humans, animals and plants.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>gabriele.bucci@cnr.it</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>giovannigiuseppe.vendramin@cnr.it</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>segreteria.disba@cnr.it</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+						<r3d:size>56 collections</r3d:size>
+						<r3d:startDate>2020</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21305</r3d:subjectId>
+				<r3d:subjectName>Animal Physiology and Biochemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22101</r3d:subjectId>
+				<r3d:subjectName>Metabolism, Biochemistry and Genetics of Microorganisms</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>221</r3d:subjectId>
+				<r3d:subjectName>Microbiology, Virology and Immunology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21203</r3d:subjectId>
+				<r3d:subjectName>Organismic Interactions, Chemical Ecology and Microbiomes of Plant Systems</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21207</r3d:subjectId>
+				<r3d:subjectName>Plant Genetics and Genomics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>212</r3d:subjectId>
+				<r3d:subjectName>Plant Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>213</r3d:subjectId>
+				<r3d:subjectName>Zoology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://biomemory.cnr.it/contents/project/</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>agriculture</r3d:keyword>
+					<r3d:keyword>biocontrol</r3d:keyword>
+					<r3d:keyword>biofuels</r3d:keyword>
+					<r3d:keyword>bioremediation</r3d:keyword>
+					<r3d:keyword>food</r3d:keyword>
+					<r3d:keyword>forestry</r3d:keyword>
+					<r3d:keyword>health</r3d:keyword>
+					<r3d:keyword>pharma</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Department of Bio-Agri-Food Sciences</r3d:institutionName>
+									<r3d:institutionAdditionalName language="ita">DISBA</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="ita">Dipartimento di Scienze Bio-Agro-alimentari</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.disba.cnr.it/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2020</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Institute for Agricultural and Forest Systems in the Mediterranean</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ISAFOM</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Istituto per i Sistemi Agricoli e Forestali del Mediterraneo</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.isafom.cnr.it/index.php/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02the9q75</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2020</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Institute for Animal Production Systems in Mediterranean Environment</r3d:institutionName>
+									<r3d:institutionAdditionalName language="ita">ISPAAM</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="ita">Istituto per il Sistema Produzione Animale in Ambiente Mediterraneo</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ispaam.cnr.it/?lang=en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01wqae691</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2020</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Institute for Sustainable Plant Protection</r3d:institutionName>
+									<r3d:institutionAdditionalName language="ita">IPSP</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Istituto per la Protezione Sostenibile delle Piante</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.ipsp.cnr.it/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/008fjbg42</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2020</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Institute of Agriculture Biology and Biotechnology</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">IBBA</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="ita">Istituto di Biologia e Biotecnologia Agraria</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://ibba.cnr.it/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02e5sbe24</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2020</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Institute of BioEconomy</r3d:institutionName>
+									<r3d:institutionAdditionalName language="ita">IBE</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="ita">Istituto per la Bioeconomia</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ibe.cnr.it/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2020</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Institute of Biological Systems</r3d:institutionName>
+									<r3d:institutionAdditionalName language="ita">ISB</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="ita">Istituto per i Sistemi Biologici</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.isb.cnr.it/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>other</r3d:institutionIdentifierType>
+																	<r3d:institutionIdentifierUrl>other:https://ror.org/05w88pj86</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2020</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Institute of Biosciences and Bioresources</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">IBBR</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="ita">Istituto di Bioscienze e Biorisorse</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://ibbr.cnr.it/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01gtsa866</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2020</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Institute of Food Sciences</r3d:institutionName>
+									<r3d:institutionAdditionalName language="ita">ISA</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Istituto di Scienze per l&#039;Alimentazione</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.isa.cnr.it/web/?lang=en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/0013zhk30</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2020</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Institute of Sciences of Food Production</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ISPA</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="ita">Istituto di Scienze della Produzione Alimentare</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ispacnr.it/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03x7xkr71</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2020</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Research Council</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CNR</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Conseil National de la Recherche</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Consiglio Nazionale delle Ricerche</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.cnr.it</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04zaypm56</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Privacy and Data Protection</r3d:policyName>
+				<r3d:policyUrl>http://www.ipsp.cnr.it/en/privacy-and-data-protection/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>Apache License 2.0</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>http://creativecommons.org/licenses/by-nc/4.0/legalcode</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://creativecommons.org/licenses/by-nc/4.0/legalcode</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>feeRequired</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>MySQL</r3d:software>
+											<r3d:pidSystem>DOI</r3d:pidSystem>
+													<r3d:aidSystem>AuthorClaim</r3d:aidSystem>
+							<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Darwin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m9</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>all Project Institutions: https://biomemory.cnr.it/browse/institutions/</r3d:remarks>
+		<r3d:entryDate>2024-08-08</r3d:entryDate>
+		<r3d:lastUpdate>2024-08-14</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

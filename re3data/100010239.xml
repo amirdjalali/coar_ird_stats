@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010239</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31304</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Forestry Images</r3d:repositoryName>
+				<r3d:additionalName language="eng">Forestryimages</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.forestryimages.org/</r3d:repositoryUrl>
+				<r3d:description language="eng">Forestry Images provides an accessible and easy to use archive of high quality images related to forest health and silviculture</r3d:description>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>324.960 images; 28.852 subjects; 2.655 photographers ;</r3d:size>
+						<r3d:startDate>2001</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>231</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23106</r3d:subjectId>
+				<r3d:subjectName>Forestry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>212</r3d:subjectId>
+				<r3d:subjectName>Plant Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>213</r3d:subjectId>
+				<r3d:subjectName>Zoology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.forestryimages.org/about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>birds</r3d:keyword>
+					<r3d:keyword>diseases</r3d:keyword>
+					<r3d:keyword>forest pests</r3d:keyword>
+					<r3d:keyword>insects</r3d:keyword>
+					<r3d:keyword>mammals</r3d:keyword>
+					<r3d:keyword>plants</r3d:keyword>
+					<r3d:keyword>reptiles &amp; amphibians</r3d:keyword>
+					<r3d:keyword>silvicultural pratices</r3d:keyword>
+					<r3d:keyword>trees</r3d:keyword>
+					<r3d:keyword>urban Forestry</r3d:keyword>
+					<r3d:keyword>wildlife</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">International Society of Arboriculture</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ISA</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.isa-arbor.com/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">United States Department of Agriculture,  Forest Service</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">U.S. Forest service</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">USDA Forest service</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.fs.usda.gov/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Georgia, Center for Invasive Species and Ecosysteme Health</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Bugwood</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bugwood.org/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Georgia, College of Agricultural and Evironmental Sciences</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CAES</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.caes.uga.edu/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Georgia, Warnell School of Forestry and Natural Resources</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Warnell</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://warnell.uga.edu/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Accessibility Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.forestryimages.org/about/accessibility-policy</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Privacy Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.forestryimages.org/about/privacy-policy</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-nc/3.0/us/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/3.0/us/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.forestryimages.org/about/image-usage</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>contribute materials</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://bugwood.atlassian.net/servicedesk/customer/portal/2/article/460914689</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.forestryimages.org/about/image-usage</r3d:citationGuidelineUrl>
+																		<r3d:remarks>Forestry Images is a joint project of the Center for Invasive Species and Ecosystem Health, USDA Forest Service and International Society of Arboriculture.
+The University of Georgia - Warnell School of Forestry and Natural Resources and
+College of Agricultural and Environmental Sciences. ForestryImages is a part of BugwoodImages. BugwoodImages (bugwood network) r3d100010194  is made up of four major website interfaces. These are ForestryImages, IPMImages, InsectImages, weed Images and Invasive.org.</r3d:remarks>
+		<r3d:entryDate>2013-04-16</r3d:entryDate>
+		<r3d:lastUpdate>2026-06-12</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

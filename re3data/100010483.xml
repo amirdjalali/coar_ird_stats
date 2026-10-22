@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010483</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R39G72</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">AUSSDA - Austrian Social Science Data Archive</r3d:repositoryName>
+				<r3d:repositoryUrl>https://data.aussda.at/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.RJ3PDJ</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">AUSSDA - The Austrian Social Science Data Archive is a certified, national research infrastructure for the social science community. We offer sustainable and easy-to-use services in the field of digital archiving and preservation. The main beneficiaries are researchers, students, educational institutions and media professionals.
+We implement international standards to make research data findable, accessible, interoperable and reusable according to the FAIR principles. AUSSDA supports the open science movement to maximize the potential for data reuse. We stand for integrity in archiving and advocate for compliance with data protection and ethical principles in research data management.
+AUSSDA represents Austria as a national service provider in CESSDA ERIC, has locations at the University of Vienna and the WU Wien and at the universities of Graz, Linz, Innsbruck, Krems, Klagenfurt and Salzburg as well as at the OeAW (Austrian Academy of Sciences) and works within a network of national and international partners.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@aussda.at</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>25 dataverses; 1.602 datasets</r3d:size>
+						<r3d:startDate>2016-11</r3d:startDate>
+        									<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12407</r3d:subjectId>
+				<r3d:subjectName>Economic and Social History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>121</r3d:subjectId>
+				<r3d:subjectName>Educational Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>345</r3d:subjectId>
+				<r3d:subjectName>Geography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34502</r3d:subjectId>
+				<r3d:subjectName>Human Geography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>125</r3d:subjectId>
+				<r3d:subjectName>Jurisprudence</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12304</r3d:subjectId>
+				<r3d:subjectName>Political Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>122</r3d:subjectId>
+				<r3d:subjectName>Psychology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://aussda.at/en/about-aussda/mission/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ecc8</r3d:contentTypeId>
+				<r3d:contentTypeName>still image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/NHD0-W6SY</r3d:contentTypeId>
+				<r3d:contentTypeName>survey data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>CESSDA</r3d:keyword>
+					<r3d:keyword>EOSC</r3d:keyword>
+					<r3d:keyword>European Union</r3d:keyword>
+					<r3d:keyword>FAIR</r3d:keyword>
+					<r3d:keyword>economic policy</r3d:keyword>
+					<r3d:keyword>education</r3d:keyword>
+					<r3d:keyword>elections</r3d:keyword>
+					<r3d:keyword>mass media use</r3d:keyword>
+					<r3d:keyword>microdata</r3d:keyword>
+					<r3d:keyword>national identity</r3d:keyword>
+					<r3d:keyword>politial parties</r3d:keyword>
+					<r3d:keyword>political efficacy</r3d:keyword>
+					<r3d:keyword>social inequality</r3d:keyword>
+					<r3d:keyword>voting behaviour</r3d:keyword>
+					<r3d:keyword>voting intention</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Austrian Academy of Sciences</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">ÖAW</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Österreichische Akademie der Wissenschaften</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AUT</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.oeaw.ac.at/en/oeaw-home/austrian-academy-of-sciences</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ISNI</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://isni.org/isni/0000000121693852</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03anc3s24</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>Wikidata</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://www.wikidata.org/wiki/Q299015</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_000953</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>GRID</r3d:institutionIdentifierType>
+																	<r3d:institutionIdentifierUrl>GRID:grid.4299.6</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Johannes Kepler University of Linz</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">Johannes Kepler Universität Linz</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AUT</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.jku.at/en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ISNI</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://isni.org/isni/0000000119415140</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/052r2xn60</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>Wikidata</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://www.wikidata.org/wiki/Q682739</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011333</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>GRID</r3d:institutionIdentifierType>
+																	<r3d:institutionIdentifierUrl>GRID:grid.9970.7</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University for Continuing Education Krems</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">Universität für Weiterbildung Krems</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AUT</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.donau-uni.ac.at/en.html</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ISNI</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://isni.org/isni/0000000121085830</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03ef4a036</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>Wikidata</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://www.wikidata.org/wiki/Q508048</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>GRID</r3d:institutionIdentifierType>
+																	<r3d:institutionIdentifierUrl>GRID:grid.15462.34</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Graz</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">Universität Graz</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AUT</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.uni-graz.at/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ISNI</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://isni.org/isni/0000000121539003</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01faaaf77</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>Wikidata</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://www.wikidata.org/wiki/Q622683</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>GRID</r3d:institutionIdentifierType>
+																	<r3d:institutionIdentifierUrl>GRID:grid.5110.5</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Innsbruck</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">Universität Innsbruck</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AUT</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.uibk.ac.at/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ISNI</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://isni.org/isni/0000000121518122</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/054pv6659</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>Wikidata</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://www.wikidata.org/wiki/Q875788</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>GRID</r3d:institutionIdentifierType>
+																	<r3d:institutionIdentifierUrl>GRID:grid.5771.4</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Salzburg</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">Paris Lodron Universität Salzburg</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AUT</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.plus.ac.at/?lang=en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ISNI</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://isni.org/isni/0000000110156330</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05gs8cd61</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>Wikidata</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://www.wikidata.org/wiki/Q27265</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>GRID</r3d:institutionIdentifierType>
+																	<r3d:institutionIdentifierUrl>GRID:grid.7039.d</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Vienna</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">Universität Wien</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AUT</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.univie.ac.at/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ISNI</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://isni.org/isni/0000000122861424</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03prydq77</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>Wikidata</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://www.wikidata.org/wiki/Q165980</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011741</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>GRID</r3d:institutionIdentifierType>
+																	<r3d:institutionIdentifierUrl>GRID:grid.10420.37</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Vienna University of Economics and Business</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">Wirtschaftsuniversität Wien</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AUT</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.wu.ac.at/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ISNI</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://isni.org/isni/0000000111774763</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03yn8s215</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>Wikidata</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://www.wikidata.org/wiki/Q278044</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>GRID</r3d:institutionIdentifierType>
+																	<r3d:institutionIdentifierUrl>GRID:grid.15788.33</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>AUSSDA Terms of Service</r3d:policyName>
+				<r3d:policyUrl>https://aussda.at/en/terms-of-service/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Contracts and Licenses</r3d:policyName>
+				<r3d:policyUrl>https://aussda.at/en/contracts-and-licenses/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Data Collection Policy</r3d:policyName>
+				<r3d:policyUrl>https://aussda.at/fileadmin/user_upload/p_aussda/Documents/AUSSDA_Data_Collection_Policy.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://aussda.at/en/contracts-and-licenses/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/deed.en</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://aussda.at/en/contracts-and-licenses/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Transfer and License Agreement for the scientific use of the archive materials</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://aussda.at/fileadmin/user_upload/p_aussda/Documents/AUSSDA_Transfer_and_licence_agreement_SU_v1_6_en.pdf</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+					<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Transfer and License Agreement for the use of the archive materials under the Creative Commons Attribution 4.0 International Public License (CC BY)</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://aussda.at/fileadmin/user_upload/p_aussda/Documents/AUSSDA_Transfer_and_licence_agreement_OA_v1_3_en.pdf</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>Dataverse</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://data.aussda.at/oai?verb=Identify</r3d:apiUrl>
+									<r3d:apiDocumentation>https://guides.dataverse.org/en/latest/admin/discoverability.html</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+									<r3d:metrics>Usage statistics</r3d:metrics>
+							<r3d:citationGuidelineUrl>https://dataverse.org/best-practices/data-citation</r3d:citationGuidelineUrl>
+							<r3d:aidSystem>ORCID</r3d:aidSystem>
+							<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+							<r3d:qualityManagement>
+				<r3d:qualityManagementStatus>yes</r3d:qualityManagementStatus>
+								<r3d:qualityManagementMeasure>
+					<r3d:qualityManagementMeasureName>Data Quality and Description Requirements</r3d:qualityManagementMeasureName>
+					<r3d:qualityManagementMeasureUrl>https://aussda.at/fileadmin/user_upload/p_aussda/Documents/Data-Deposit-Guideline_SUF_v2_0.pdf</r3d:qualityManagementMeasureUrl>
+				</r3d:qualityManagementMeasure>
+							</r3d:qualityManagement>
+							<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2023-11-09</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2026-11-08</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/38CDSD</r3d:certificateUrl>
+							</r3d:certificate>
+									<r3d:metadataStandard>
+				<r3d:metadataStandardName>DDI (Data Documentation Initiative)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m13</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>DataCite Metadata Schema</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m11</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>OAI-ORE (Open Archives Initiative Object Reuse and Exchange)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m26</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>AUSSDA represents Austria as a national service provider in CESSDA ERIC (Council of European Social Science Data Archives): https://www.cessda.eu/
+We implement international standards to make research data findable, accessible, interoperable and reusable according to the FAIR principles.</r3d:remarks>
+		<r3d:entryDate>2013-08-14</r3d:entryDate>
+		<r3d:lastUpdate>2026-01-22</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

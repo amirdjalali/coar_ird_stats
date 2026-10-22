@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011562</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3864V</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Kinetic models of biological systems</r3d:repositoryName>
+				<r3d:additionalName language="eng">KiMoSys</r3d:additionalName>
+				<r3d:repositoryUrl>https://kimosys.org/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.6erywc</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_017423</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">KiMoSys, a web application for quantitative KInetic MOdels of biological SYStems. Kinetic models, with the aim to understand and subsequently design the metabolism of organism of interest are constructed iteratively and require accurate experimental data for both the generation and verification of hypotheses. Therefore, there is a growing requirement for exchanging experimental data and models between the systems biology community, and to automate as much as possible the kinetic model building, editing, simulation and analysis steps.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.kimosys.org/documentation/contact#</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>80 entries</r3d:size>
+													<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21107</r3d:subjectId>
+				<r3d:subjectName>Bioinformatics and Theoretical Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.kimosys.org/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/63NG-B465</r3d:contentTypeId>
+				<r3d:contentTypeName>experimental data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/A8F1-NPV9</r3d:contentTypeId>
+				<r3d:contentTypeName>genomic data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>accessible dynamic data</r3d:keyword>
+					<r3d:keyword>biotechnology</r3d:keyword>
+					<r3d:keyword>dynamic modeling</r3d:keyword>
+					<r3d:keyword>enzyme measurements</r3d:keyword>
+					<r3d:keyword>flux data</r3d:keyword>
+					<r3d:keyword>kinetic models</r3d:keyword>
+					<r3d:keyword>metabolite concentrations</r3d:keyword>
+					<r3d:keyword>metabolomics</r3d:keyword>
+					<r3d:keyword>reaction data</r3d:keyword>
+					<r3d:keyword>systems biology</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">European Commission, BacHBERRY Seventh Framework Programme - FP7</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">BAcHBerry FP7</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EEC</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://cordis.europa.eu/project/rcn/110644_en.html</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2013-11-01</r3d:responsibilityStartDate>
+													<r3d:responsibilityEndDate>2016-10-31</r3d:responsibilityEndDate>
+							</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="por">Fundação para a Ciência e a Tecnologia</r3d:institutionName>
+									<r3d:institutionAdditionalName language="por">FCT</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>PRT</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.fct.pt/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00snfqn58</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="por">Instituto de Engenharia de Sistemas e Computadores, Investigação e Desenvolvimento em Lisboa</r3d:institutionName>
+									<r3d:institutionAdditionalName language="por">INESC-ID</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>PRT</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.inesc-id.pt/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04mqy3p58</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Terms and Condition of use</r3d:policyName>
+				<r3d:policyUrl>https://www.kimosys.org/documentation#17</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>other</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://www.gnu.org/licenses/old-licenses/gpl-2.0.html</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>closed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.kimosys.org/documentation#17</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>MySQL</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.kimosys.org/documentation#cite2</r3d:citationGuidelineUrl>
+							<r3d:aidSystem>ORCID</r3d:aidSystem>
+							<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks>KiMoSys is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+		<r3d:entryDate>2015-02-23</r3d:entryDate>
+		<r3d:lastUpdate>2025-08-22</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

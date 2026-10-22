@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010212</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3CG69</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Constrained Local UniversE Simulations</r3d:repositoryName>
+				<r3d:additionalName language="eng">CLUES</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.clues-project.org/</r3d:repositoryUrl>
+				<r3d:description language="eng">The main goal of the CLUES-project is to provide constrained simulations of the local universe designed to be used as a numerical laboratory of the current paradigm. The simulations will be used for unprecedented analysis of the complex dark matter and gasdynamical processes which govern the formation of galaxies. The predictions of these experiments can be easily compared with the detailed observations of our galactic neighborhood.
+Some of the CLUES data is now publicly available via the CosmoSim database (https://www.cosmosim.org/). This includes AHF halo catalogues from the Box 64, WMAP3 resimulations of the Local Group with 40963 particle resolution.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>henke@aip.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>86 analysis and simulation data sets</r3d:size>
+						<r3d:startDate>2009</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>325</r3d:subjectId>
+				<r3d:subjectName>Astrophysics and Astronomy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>32</r3d:subjectId>
+				<r3d:subjectName>Physics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.clues-project.org/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/W2XT-7017</r3d:contentTypeId>
+				<r3d:contentTypeName>simulation data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>Andromeda Galaxy</r3d:keyword>
+					<r3d:keyword>Fermi satellite</r3d:keyword>
+					<r3d:keyword>Milky Way</r3d:keyword>
+					<r3d:keyword>cosmology</r3d:keyword>
+					<r3d:keyword>galaxies</r3d:keyword>
+					<r3d:keyword>simulations</r3d:keyword>
+					<r3d:keyword>warm dark matter</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="spa">Centro Nacional de Supercomputacion</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Barcelona Supercomputing Center</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ESP</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bsc.es/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05sd8tv96</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Forschungszentrum Jülich</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">FZJ</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Jülich Research Centre</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.fz-juelich.de/de</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02nv7yv05</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Leibniz-Institut für Astrophysik Potsdam</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">API</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.aip.de/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03mrbr458</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Leibniz-Rechenzentrum</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">LRZ</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.lrz.de/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">The Hebrew University of Jerusalem, The Racah Institute of Physics</r3d:institutionName>
+								<r3d:institutionCountry>ISR</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://phys.huji.ac.il/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">The New Mexico State University, College of Arts and Sciences, Department of Astronomy</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NMSU Astronomy</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>MEX</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://astro.nmsu.edu/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="spa">Universidad Autonomica de Madrid, Grupo de Astrofisica</r3d:institutionName>
+									<r3d:institutionAdditionalName language="spa">UAM</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ESP</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://astro.ft.uam.es/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2009</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>AIP imprint</r3d:policyName>
+				<r3d:policyUrl>https://www.aip.de/de/impressum/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Imprint &amp; Data Protection Statement</r3d:policyName>
+				<r3d:policyUrl>https://www.cosmosim.org/imprint/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Usage policies</r3d:policyName>
+				<r3d:policyUrl>https://www.aip.de/en/infrastructure/it-services/policies/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://www.aip.de/de/impressum/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.clues-project.org/cms/images-and-movies/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.aip.de/en/infrastructure/it-services/policies/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>other</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.cosmosim.org/cms/credits/</r3d:citationGuidelineUrl>
+															<r3d:profile>
+				<r3d:profileName>Helmholtz Association</r3d:profileName>
+				<r3d:profileUrl>https://os.helmholtz.de/open-research-data/forschungsdatenrepositorien/</r3d:profileUrl>
+			</r3d:profile>
+								<r3d:remarks>Part of the data are located on Erebos, the data storage machine of the AIP. simulations are performed within the international CLUES project at supercomputing centers in Jülich, Munich and Barcelona.</r3d:remarks>
+		<r3d:entryDate>2013-05-13</r3d:entryDate>
+		<r3d:lastUpdate>2026-05-12</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

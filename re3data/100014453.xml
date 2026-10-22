@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014453</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNN9</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">United Nations Population Divison Data</r3d:repositoryName>
+				<r3d:repositoryUrl>https://www.un.org/development/desa/pd/data-landing-page</r3d:repositoryUrl>
+				<r3d:description language="eng">The Division was established in 1946 to serve as the secretariat of the Population Commission. Over the years, it has contributed to, and supported, the global dialogue on population and development at the United Nations, producing regularly updated demographic estimates and projections for all countries as well as providing data which are essential for monitoring the status of implementation of internationally agreed development goals in the area of population, including those contained in the Sustainable Development Goals (SDGs).
+The Division prepares population estimates and projections as well as estimates of the international migrant stock for all countries in the world on a regular basis.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.un.org/development/desa/pd/content/contact-us-0</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>population@un.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.un.org/development/desa/pd/content/about-the-un</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>Family Planning Indicators</r3d:keyword>
+					<r3d:keyword>Household Size and Composition</r3d:keyword>
+					<r3d:keyword>International Migrant Stock</r3d:keyword>
+					<r3d:keyword>International Migration Flows</r3d:keyword>
+					<r3d:keyword>Living Arrangements of Older Persons</r3d:keyword>
+					<r3d:keyword>Model Life Tables</r3d:keyword>
+					<r3d:keyword>SDG Indicator</r3d:keyword>
+					<r3d:keyword>World Contraceptive Use</r3d:keyword>
+					<r3d:keyword>World Fertility Data</r3d:keyword>
+					<r3d:keyword>World Marriage Data</r3d:keyword>
+					<r3d:keyword>World Population Policies</r3d:keyword>
+					<r3d:keyword>World PopulationProspects</r3d:keyword>
+					<r3d:keyword>World Urbanization Prospects</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">United Nations</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">UN</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.un.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/006kxhp52</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">United Nations, Department of Economic and Social Affairs, Population Division</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://population.un.org/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Terms of Use</r3d:policyName>
+				<r3d:policyUrl>https://www.un.org/en/about-us/terms-of-use</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/3.0/igo/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.un.org/en/about-us/copyright</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+																									<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+														<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2024-10-17</r3d:entryDate>
+		<r3d:lastUpdate>2024-10-24</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

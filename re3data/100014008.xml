@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014008</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNAW</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Kadi4Mat</r3d:repositoryName>
+				<r3d:additionalName language="eng">Kadi4Mat instance KIT+</r3d:additionalName>
+				<r3d:additionalName language="eng">Karlsruhe Data Infrastructure for Materials Sciences</r3d:additionalName>
+				<r3d:repositoryUrl>https://kadi.iam.kit.edu/</r3d:repositoryUrl>
+				<r3d:description language="eng">Kadi4Mat instance for use at the Karlsruhe Institute of Technology (KIT) and for cooperations, including the Cluster of Competence for Solid-state Batteries (FestBatt), the Battery Competence Cluster Analytics/Quality Assurance (AQua), and more.
+ Kadi4Mat is the Karlsruhe Data Infrastructure for Materials Science, an open source software for managing research data. It is being developed as part of several research projects at the Institute for Applied Materials - Microstructure Modelling and Simulation (IAM-MMS) of the Karlsruhe Institute of Technology (KIT).
+The goal of this project is to combine the ability to manage and exchange data, the repository , with the possibility to analyze, visualize and transform said data, the electronic lab notebook (ELN). Kadi4Mat supports a close cooperation between experimenters, theorists and simulators, especially in materials science, to enable the acquisition of new knowledge and the development of novel materials. This is made possible by employing a modular and generic architecture, which allows to cover the specific needs of different scientists, each utilizing unique workflows. At the same time, this opens up the possibility of covering other research disciplines as well.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>feedback-kadi4mat@lists.kit.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://kadi.iam.kit.edu/#contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>michael.selzer@kit.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+						<r3d:size>120 results</r3d:size>
+						<r3d:startDate>2020</r3d:startDate>
+        									<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>43</r3d:subjectId>
+				<r3d:subjectName>Materials Science and Engineering</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://kadi.iam.kit.edu/#about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/QH80-2R4E</r3d:contentTypeId>
+				<r3d:contentTypeName>source code</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>FAIR</r3d:keyword>
+					<r3d:keyword>electronic lab notebook</r3d:keyword>
+					<r3d:keyword>high perfomance computing</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Bundesministerium für Forschung, Technologie und Raumfahrt</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">BMFTR</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Federal Ministry  of Research, Technology and Space</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">formerly: Bundesministerium für Bildung und Forschung</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bmftr.bund.de/EN/Home/home_node.html</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04pz7b180</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_005066</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Deutsche Forschungsgemeinschaft</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">DFG</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">German Research Foundation</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.dfg.de/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/018mejw64</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_012420</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Karlsruhe Institute of Technology</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">KIT</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Karlsruher Institut für Technologie</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.kit.edu/english/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04t3en479</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_001552</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Karlsruhe Institute of Technology, Microstructure Modelling and Simulation</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">IAM-MMS</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Karlsruher Institut für Technologie, Mikrostruktur-Modellierung und Simulation</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.iam.kit.edu/mms/english/index.php</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">MWK</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Ministry of Science, Research and Arts  of Baden-Württemberg</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://mwk.baden-wuerttemberg.de/en/home</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01hc18p32</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Legal notice</r3d:policyName>
+				<r3d:policyUrl>https://kadi.iam.kit.edu/legal-notice</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+							<r3d:databaseAccessRestriction>registration</r3d:databaseAccessRestriction>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://kadi.iam.kit.edu/legal-notice</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>ODC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://opendefinition.org/licenses/odc-by/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://kadi.iam.kit.edu/api/v1/records</r3d:apiUrl>
+									<r3d:apiDocumentation>https://kadi4mat.readthedocs.io/en/stable/httpapi/intro.html#</r3d:apiDocumentation>
+							</r3d:api>
+																	<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+											<r3d:profile>
+				<r3d:profileName>Helmholtz Association</r3d:profileName>
+				<r3d:profileUrl>https://os.helmholtz.de/open-research-data/forschungsdatenrepositorien/</r3d:profileUrl>
+			</r3d:profile>
+								<r3d:remarks>Source code: https://gitlab.com/iam-cms/kadi</r3d:remarks>
+		<r3d:entryDate>2022-11-04</r3d:entryDate>
+		<r3d:lastUpdate>2025-11-26</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

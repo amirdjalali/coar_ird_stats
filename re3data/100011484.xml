@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011484</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3RF4M</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">GERDA</r3d:repositoryName>
+				<r3d:additionalName language="dan">GEofysisk Relationel DAtabase</r3d:additionalName>
+				<r3d:additionalName language="eng">GEophysical Relational DAtabase</r3d:additionalName>
+				<r3d:additionalName language="eng">National Geophysical Database</r3d:additionalName>
+				<r3d:additionalName language="dan">National geofysisk database</r3d:additionalName>
+				<r3d:repositoryUrl>https://eng.geus.dk/products-services-facilities/data-and-maps/national-geophysical-database-gerda/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>biodbcore</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>001625</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.893fc2</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">The geophysical database, GERDA, is a strong tool for data storage, handling and QC. Data are uploaded to and downloaded from the GERDA database through this website. GERDA is the Danish national database on shallow geophysical data. Since its establishment in 1998-2000, the database has been continuously developed. The database is hosted by the Geological Survey of Denmark and Greenland (GEUS).</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>mh@geus.dk</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>1999</r3d:startDate>
+        									<r3d:repositoryLanguage>dan</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>342</r3d:subjectId>
+				<r3d:subjectName>Geology and Palaeontology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>343</r3d:subjectId>
+				<r3d:subjectName>Geophysics and Geodesy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>344</r3d:subjectId>
+				<r3d:subjectName>Mineralogy, Petrology and Geochemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+											<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>borehole log</r3d:keyword>
+					<r3d:keyword>drilling</r3d:keyword>
+					<r3d:keyword>drinking water quality</r3d:keyword>
+					<r3d:keyword>electromagnetic</r3d:keyword>
+					<r3d:keyword>energy</r3d:keyword>
+					<r3d:keyword>environment</r3d:keyword>
+					<r3d:keyword>geoelectrical profiles</r3d:keyword>
+					<r3d:keyword>geoelectrical sounding</r3d:keyword>
+					<r3d:keyword>groundwater</r3d:keyword>
+					<r3d:keyword>minerals</r3d:keyword>
+					<r3d:keyword>seismic</r3d:keyword>
+					<r3d:keyword>water resources</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Aarhus University, Department of Geoscience</r3d:institutionName>
+									<r3d:institutionAdditionalName language="dan">Aarhus Universitet, Institut for Geoscience</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DNK</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://geo.au.dk/en/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Geological Survey of Denmark and Greenland</r3d:institutionName>
+									<r3d:institutionAdditionalName language="dan">De Nationale Geologiske Undersøgelser for Danmark og Grønland</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="dan">GEUS</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DNK</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://eng.geus.dk/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01b40r146</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Terms of use</r3d:policyName>
+				<r3d:policyUrl>http://data.geus.dk/geusmap/terms_20140620.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://data.geus.dk/geusmap/terms_20140620.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+									<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://data.geus.dk/geusmap/ows/help/?mapname=gerda&amp;epsg=25832</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>none</r3d:pidSystem>
+															<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2015-05-20</r3d:entryDate>
+		<r3d:lastUpdate>2024-03-25</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

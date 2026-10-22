@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010226</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3K303</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Alternative Fuels Data Center</r3d:repositoryName>
+				<r3d:additionalName language="eng">AFDC</r3d:additionalName>
+				<r3d:additionalName language="eng">EERE Alternative Fuels Data Center</r3d:additionalName>
+				<r3d:repositoryUrl>https://afdc.energy.gov/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.eef384</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">The Alternative Fuels Data Center (AFDC) is a comprehensive clearinghouse of information about advanced transportation technologies. The AFDC offers transportation decision makers unbiased information, data, and tools related to the deployment of alternative fuels and advanced vehicles.
+The AFDC launched in 1991 in response to the Alternative Motor Fuels Act of 1988 and the Clean Air Act Amendments of 1990. It originally served as a repository for alternative fuel performance data. The AFDC has since evolved to offer a broad array of information resources that support efforts to reduce petroleum use in transportation.
+The AFDC serves Clean Cities stakeholders, fleets regulated by the Energy Policy Act, businesses, policymakers, government agencies, and the general public.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://afdc.energy.gov/contacts</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>1991-01-01</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>44</r3d:subjectId>
+				<r3d:subjectName>Computer Science, Systems and Electrical Engineering</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12402</r3d:subjectId>
+				<r3d:subjectName>Economic Policy, Applied Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>442</r3d:subjectId>
+				<r3d:subjectName>Electrical Engineering and Information Technology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>44204</r3d:subjectId>
+				<r3d:subjectName>Hardware Systems and Architectures for Information Technology and Artificial Intelligence, Quantum Engineering Systems</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>125</r3d:subjectId>
+				<r3d:subjectName>Jurisprudence</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>344</r3d:subjectId>
+				<r3d:subjectName>Mineralogy, Petrology and Geochemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34401</r3d:subjectId>
+				<r3d:subjectName>Mineralogy, Petrology and Geochemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>421</r3d:subjectId>
+				<r3d:subjectName>Process Engineering, Technical Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12503</r3d:subjectId>
+				<r3d:subjectName>Public Law</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>441</r3d:subjectId>
+				<r3d:subjectName>Systems Engineering</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>42</r3d:subjectId>
+				<r3d:subjectName>Thermal Engineering/Process Engineering</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>44104</r3d:subjectId>
+				<r3d:subjectName>Traffic and Transport Systems, Intelligent and Automated Traffic</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://afdc.energy.gov/about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FXF3-D3G7</r3d:contentTypeId>
+				<r3d:contentTypeName>compiled data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>biodiesel</r3d:keyword>
+					<r3d:keyword>electricity</r3d:keyword>
+					<r3d:keyword>emerging fuels</r3d:keyword>
+					<r3d:keyword>ethanol</r3d:keyword>
+					<r3d:keyword>fuel prices</r3d:keyword>
+					<r3d:keyword>fuels</r3d:keyword>
+					<r3d:keyword>hydrogen</r3d:keyword>
+					<r3d:keyword>natural gas</r3d:keyword>
+					<r3d:keyword>petroleum consumption</r3d:keyword>
+					<r3d:keyword>propane</r3d:keyword>
+					<r3d:keyword>renewable energy</r3d:keyword>
+					<r3d:keyword>transportation</r3d:keyword>
+					<r3d:keyword>vehicles</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">National Renewable Energy Laboratory, Clean Cities program</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NREL</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nlr.gov/state-local-tribal/clean-cities</r3d:institutionUrl>
+																	<r3d:responsibilityEndDate>2026</r3d:responsibilityEndDate>
+							</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Office of Critical Minerals and Energy Innovation</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">formerly: Office of Energy Efficiency and Renewable Energy (EERE)</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.energy.gov/cmei/office-critical-minerals-and-energy-innovation</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02xznz413</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">U.S. Department of Energy</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">DOE</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">ENERGY.GOV</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.energy.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01bj3aw27</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_012841</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">U.S. Department of Transportation, Federal Highway Administration</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">FHWA</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://highways.dot.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/0473rr271</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Web Site Policies</r3d:policyName>
+				<r3d:policyUrl>https://www.energy.gov/web-policies</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.energy.gov/about-us/web-policies</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+									<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://developer.nrel.gov/docs/transportation/transportation-incentives-laws-v1/</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.energy.gov/cio/doe-records-disposition-schedules-0</r3d:citationGuidelineUrl>
+																		<r3d:remarks>The AFDC is a resource of the U.S. Department of Energy&#039;s Clean Cities program.</r3d:remarks>
+		<r3d:entryDate>2013-05-06</r3d:entryDate>
+		<r3d:lastUpdate>2026-02-05</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

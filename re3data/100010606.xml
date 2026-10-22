@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010606</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3M90G</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Tropical Ecology Assessment and Monitoring Network</r3d:repositoryName>
+				<r3d:additionalName language="eng">Early Warning System for Nature</r3d:additionalName>
+				<r3d:additionalName language="eng">TEAM</r3d:additionalName>
+				<r3d:repositoryUrl>http://www.teamnetwork.org/</r3d:repositoryUrl>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt;  The TEAM Network moved to Wildlife Insights.
+TEAM Network and the Wildlife Picture Index Analytics system migrate to Wildlife Insights.  
+https://www.wildlifeinsights.org/ &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>help@teamnetwork.org.</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>http://www.teamnetwork.org/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>over 3.4 million images</r3d:size>
+								<r3d:endDate>
+									<r3d:offline>2024</r3d:offline>
+					</r3d:endDate>
+        							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21305</r3d:subjectId>
+				<r3d:subjectName>Animal Physiology and Biochemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21102</r3d:subjectId>
+				<r3d:subjectName>Biophysics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21302</r3d:subjectId>
+				<r3d:subjectName>Evolution, Anthropology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>213</r3d:subjectId>
+				<r3d:subjectName>Zoology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>http://www.teamnetwork.org/about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>biodiversity</r3d:keyword>
+					<r3d:keyword>ecological system</r3d:keyword>
+					<r3d:keyword>ecology</r3d:keyword>
+					<r3d:keyword>ecosystem</r3d:keyword>
+					<r3d:keyword>nature</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Conservation International, Center for Applied Biodiversity Science, Tropical Ecology, Assessment and Monitoring Initiative</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CABS, TEAM</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.teamnetwork.org/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Gordon and Betty Moore Foundation</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Moore Foundation</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.moore.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/006wxqw41</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of California, San Diego, San Diego Supercomputer Center</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">UCSD, SDSC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.sdsc.edu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04mg3nk07</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data Use Terms and conditions</r3d:policyName>
+				<r3d:policyUrl>http://www.teamnetwork.org/data/use</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>http://www.teamnetwork.org/legal/terms-of-use</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>closed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://www.teamnetwork.org/data/use</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>http://www.teamnetwork.org/data/use</r3d:citationGuidelineUrl>
+																		<r3d:remarks>Description:
+&quot;TEAM is devoted to monitoring long-term trends in biodiversity, land cover change, climate and ecosystem services in tropical forests. Tropical forests received first billing because of their overwhelming significance to the global biosphere (e.g., their disproportionately large role in global carbon and energy cycles) and because of the extraordinary threats they face. About 50 percent of the species described on Earth, and an even larger proportion of species not yet described, occur in tropical forests. TEAM aims to measure and compare plants, terrestrial mammals, ground-dwelling birds and climate using a standard methodology in a range of tropical forests, from relatively pristine places to those most affected by people. TEAM currently operates in sixteen tropical forest sites across Africa, Asia and Latin America supporting a network of scientists committed to standardized methods of data collection to quantify how plants and animals respond to pressures such as climate change and human encroachment.&quot;
+
+Previously certified by the WDS Scientific Committee as Regular Members, but have regretfully resign their membership due to severe staff limitations. TEAM was a regular member of the ICSU World Data System.</r3d:remarks>
+		<r3d:entryDate>2014-02-12</r3d:entryDate>
+		<r3d:lastUpdate>2026-04-24</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

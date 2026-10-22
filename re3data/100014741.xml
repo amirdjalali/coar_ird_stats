@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014741</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNV9</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">GRANTS Data</r3d:repositoryName>
+				<r3d:repositoryUrl>https://grantsdata.jst.go.jp/</r3d:repositoryUrl>
+				<r3d:description language="eng">GRANTS Data is a data repository operated by the Japan Science and Technology Agency (JST). GRANTS Data is a platform that securely stores and publishes data for researchers who wish to share the findings of their publicly funded research with the public. The purpose of this service is to promote the publication and utilization of research data, and ultimately to contribute to the promotion and advancement of science and technology.
+
+Data Published through GRANTS Data will automatically be assigned a DOI and will be distributed worldwide as open access* data, which means that the data can be cited, shared, reused, and otherwise used under the conditions set by the copyright holder.
+
+*Open access: Anyone can access it for free, and the scope of permitted secondary use is clearly stated.
+
+Note: Please be aware that some of the data included in GRANTS Data is not linked to any research paper, meaning that it has not been academically evaluated or verified by researchers.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>grantsdata-contact@jst.go.jp</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://support-grantsdata.jst.go.jp/en/contact/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+								<r3d:startDate>2025-11-27</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>jpn</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://support-grantsdata.jst.go.jp/en/about/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>public funds</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Japan Science and Technology Agency</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">JST</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="jpn">科学技術振興機構</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>JPN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.jst.go.jp/EN/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00097mb19</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011327</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>GRANTS Data Privacy Policy (Japanese)</r3d:policyName>
+				<r3d:policyUrl>https://support-grantsdata.jst.go.jp/jp/files/GRANTS-Data_Privacy_Policy_jp_v1.02.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>GRANTS Data Terms and Condition for Use</r3d:policyName>
+				<r3d:policyUrl>https://support-grantsdata.jst.go.jp/en/files/GRANTS-Data_Terms_and_Condition_for_Using_v1.00.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>GRANTS Data Terms and Conditions for Viewing</r3d:policyName>
+				<r3d:policyUrl>https://support-grantsdata.jst.go.jp/en/files/GRANTS-Data_Terms_and_Conditions_for_Viewing_v1.00.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Apache License 2.0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/publicdomain/zero/1.0/deed.en</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+									<r3d:dataUploadRestriction>storageLimit</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>figshare</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://api.figshare.com/v2/oai?verb=ListIdentifiers&amp;metadataPrefix=oai_dc&amp;set=portal_1169</r3d:apiUrl>
+									<r3d:apiDocumentation>https://docs.figshare.com/#oai_pmh</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+									<r3d:metrics>Usage statistics</r3d:metrics>
+											<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>DataCite Metadata Schema</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m11</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+							<r3d:syndication>
+				<r3d:syndicationType>RSS</r3d:syndicationType>
+				<r3d:syndicationUrl>https://grantsdata.jst.go.jp/rss/portal/grantsdata</r3d:syndicationUrl>
+			</r3d:syndication>
+				<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2025-12-11</r3d:entryDate>
+		<r3d:lastUpdate>2026-07-14</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

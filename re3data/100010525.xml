@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010525</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3SC8R</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">NASA/IPAC Extragalactic Database</r3d:repositoryName>
+				<r3d:additionalName language="eng">NED</r3d:additionalName>
+				<r3d:repositoryUrl>https://ned.ipac.caltech.edu/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.b952rv</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>DOI</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.26132/NED1</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">NED is a comprehensive database of multiwavelength data for extragalactic objects, providing a systematic, ongoing fusion of information integrated from hundreds of large sky surveys and tens of thousands of research publications. The contents and services span the entire observed spectrum from gamma rays through radio frequencies. As new observations are published, they are cross- identified or statistically associated with previous data and integrated into a unified database to simplify queries and retrieval. Seamless connectivity is also provided to data in NASA astrophysics mission archives (IRSA, HEASARC, MAST), to the astrophysics literature via ADS, and to other data centers around the world.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://ned.ipac.caltech.edu/contact/NED</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@ipac.caltech.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>1.107.251.569 Distinct Objects; 1.523.601.388 Multiwavelength Cross-IDs; 1.413.568 Object Associations; 130.896 Distinct References; 91.679 Publication Abstracts; 55.834.116 Object Links to References;13.959.802.837 Photometric Data Points; 609.019.942 Diameters; 15.728.513 Redshifts; 8.992.795 Objects with Redshifts; 252.954 Redshift-Independent Distances; 152.723 Objects with Redshift-Independent Distances; 502.105 Detailed Classifications; 229.792 Objects with Detailed Classifications; 76.185 Detailed Object Notes; 2.531.,071 Images; 1.818.259 Spectra</r3d:size>
+						<r3d:startDate>1983</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>325</r3d:subjectId>
+				<r3d:subjectName>Astrophysics and Astronomy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>32</r3d:subjectId>
+				<r3d:subjectName>Physics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://ned.ipac.caltech.edu/Documents/Overview</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>astronomy</r3d:keyword>
+					<r3d:keyword>astrophysics</r3d:keyword>
+					<r3d:keyword>digitized Sky Survey DSS</r3d:keyword>
+					<r3d:keyword>extragalactic objects</r3d:keyword>
+					<r3d:keyword>glaxies</r3d:keyword>
+					<r3d:keyword>measurement</r3d:keyword>
+					<r3d:keyword>object classification</r3d:keyword>
+					<r3d:keyword>photometry</r3d:keyword>
+					<r3d:keyword>physics</r3d:keyword>
+					<r3d:keyword>redshift data</r3d:keyword>
+					<r3d:keyword>spectroscopy</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">California Institute of Technology,  Jet Propulsion Laboratory,  Infrared Processing and Analysis Center</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">IPAC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ipac.caltech.edu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05q79g396</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">NASA</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">National Aeronautics and Space Administration</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nasa.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/027ka1x80</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+								<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.ipac.caltech.edu/page/image-use-policy</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+											<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://ned.ipac.caltech.edu/NED::API/OverviewOfObject?TARGET=m31</r3d:apiUrl>
+									<r3d:apiDocumentation>https://ned.ipac.caltech.edu/Docs::API/</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://ned.ipac.caltech.edu/Documents/Guides/BestPractices</r3d:citationGuidelineUrl>
+																		<r3d:remarks>is covered by Elsevier. NED&#039;s data and references are being continually updated, with revised versions being put on-line every 4-6 months.
+NED contains &quot;Level 5&quot; a knowledgebase for extragalactic astronomy and cosmology</r3d:remarks>
+		<r3d:entryDate>2013-11-05</r3d:entryDate>
+		<r3d:lastUpdate>2026-06-22</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

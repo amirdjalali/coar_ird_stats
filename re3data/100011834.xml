@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011834</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3MP89</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">InCHIANTI</r3d:repositoryName>
+				<r3d:additionalName language="ita">Invecchiare nel Chianti</r3d:additionalName>
+				<r3d:additionalName language="eng">The InCHIANTI Study</r3d:additionalName>
+				<r3d:repositoryUrl>http://inchiantistudy.net/wp/</r3d:repositoryUrl>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; This repository is no longer available. &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>http://inchiantistudy.net/wp/contatti/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>1998</r3d:startDate>
+        				<r3d:endDate>
+									<r3d:offline>2021</r3d:offline>
+					</r3d:endDate>
+        							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22201</r3d:subjectId>
+				<r3d:subjectName>Epidemiology and Medical Biometry/Statistics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>223</r3d:subjectId>
+				<r3d:subjectName>Neurosciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>http://inchiantistudy.net/wp/lo-studio/</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>central nervous system</r3d:keyword>
+					<r3d:keyword>cognitive impairment</r3d:keyword>
+					<r3d:keyword>epidemiology</r3d:keyword>
+					<r3d:keyword>geriatrics</r3d:keyword>
+					<r3d:keyword>insulin resistance</r3d:keyword>
+					<r3d:keyword>physiology</r3d:keyword>
+					<r3d:keyword>subcortical features</r3d:keyword>
+					<r3d:keyword>walk</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Italian Health Ministry</r3d:institutionName>
+									<r3d:institutionAdditionalName language="ita">Ministero della Salute</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.salute.gov.it/portale/home.html</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00789fa95</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Institute on Research and Care of the Elderly</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">INRCA</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="ita">Istituto Nazionale di Riposo e Cura per Anziani</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.inrca.it/inrca/home.asp?ling=en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/057aq1y25</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Institutes of Health, National Institute on Aging</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NIA</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">NIH</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nia.nih.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/049v75w11</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Tuscany Regional Health Agency</r3d:institutionName>
+									<r3d:institutionAdditionalName language="ita">ARS</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="ita">L&#039;Agenzia regionale di sanità della Toscana</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ITA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ars.toscana.it/it/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/059vkfm47</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>InCHIANTI dataset</r3d:policyName>
+				<r3d:policyUrl>http://inchiantistudy.net/wp/inchianti-dataset/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+							<r3d:databaseAccessRestriction>feeRequired</r3d:databaseAccessRestriction>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://inchiantistudy.net/wp/wp-content/uploads/2014/02/modulo_richiesta_dati.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>feeRequired</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>http://inchiantistudy.net/wp/inchianti-dataset/</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+															<r3d:syndication>
+				<r3d:syndicationType>RSS</r3d:syndicationType>
+				<r3d:syndicationUrl>http://inchiantistudy.net/wp/feed/</r3d:syndicationUrl>
+			</r3d:syndication>
+				<r3d:remarks>Description: &quot;Older persons are often referred to physicians because of complaints of progressive difficulties in walking. The diagnostic and therapeutic approach to these patients is complex. Multiple physiologic subsystems may influence the ability to walk and no standard criteria are currently available to establish whether these subsystems are functioning within the “normal” range.
+To address lack of knowledge Dr. Luigi Ferrucci and Dr. Stefania Bandinelli conducted InCHIANTI, a representative population-based study of older persons living in the Chianti geographic area (Tuscany, Italy).
+The data collection started in September 1998 and was completed in March 2000. 3 and 6-year follow-up assessment of the InCHIANTI study population were performed in the years 2001-2003 and 2004-2006. A nine-year follow-up is already planned and funded through an NIA grant.
+The InCHIANTI Biobank is a collection of biological samples of the study population.&quot;
+InChianti is covered by Thomson Reuters Data Citation Index.
+InChanti includes 3 projects: Farseeing, FRAILOMIC, MooDFOOD
+Partnerships:  http://inchiantistudy.net/wp/chi-siamo/</r3d:remarks>
+		<r3d:entryDate>2016-01-29</r3d:entryDate>
+		<r3d:lastUpdate>2024-12-10</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

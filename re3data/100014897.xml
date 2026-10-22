@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014897</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNZL</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Scientific Data Center of CAS Data Repository</r3d:repositoryName>
+				<r3d:additionalName language="zho">中国科学院科学数据总中心数据存储库</r3d:additionalName>
+				<r3d:repositoryUrl>https://instdb.casdc.cn/home</r3d:repositoryUrl>
+				<r3d:description language="eng">The Scientific Data Center of CAS Data Repository is a research data repository for the Scientific Data Center of the Chinese Academy of Sciences. It supports the discovery, publication, access, and reuse of scientific data resources from CAS-related research activities and scientific data center workflows.
+
+The repository provides resource search, metadata description, data access and download services, topic-based data collections, usage statistics, dataset-level licensing information, and persistent identifiers such as DOI and CSTR. It is powered by InstDB v3.0.1, an institutional data repository platform developed by the Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS).</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>ddwang@cnic.cn</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>luchangfa@cnic.cn</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>scientificdatacenter@cnic.cn</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+						<r3d:size>1.304 resources; 5.029 TB total storage</r3d:size>
+													<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>zho</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>323</r3d:subjectId>
+				<r3d:subjectName>Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>32</r3d:subjectId>
+				<r3d:subjectName>Physics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://instdb.casdc.cn/about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_1843</r3d:contentTypeId>
+				<r3d:contentTypeName>other</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c950</r3d:contentTypeId>
+				<r3d:contentTypeName>research software</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>CNIC</r3d:keyword>
+					<r3d:keyword>CSTR</r3d:keyword>
+					<r3d:keyword>FAIR</r3d:keyword>
+					<r3d:keyword>InstDB</r3d:keyword>
+					<r3d:keyword>communications technology</r3d:keyword>
+					<r3d:keyword>laser physics</r3d:keyword>
+					<r3d:keyword>materials science</r3d:keyword>
+					<r3d:keyword>scientific data</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Computer Network Information Center, Chinese Academy of Sciences</r3d:institutionName>
+									<r3d:institutionAdditionalName language="zho">中国科学院计算机网络信息中心</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CHN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://english.cnic.cas.cn/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01s0wyf50</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Terms of Use</r3d:policyName>
+				<r3d:policyUrl>https://instdb.casdc.cn/terms</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>User Submission</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://instdb.casdc.cn/terms</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>CSTR</r3d:pidSystem>
+					<r3d:pidSystem>DOI</r3d:pidSystem>
+									<r3d:metrics>Usage statistics</r3d:metrics>
+											<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+							<r3d:qualityManagement>
+				<r3d:qualityManagementStatus>yes</r3d:qualityManagementStatus>
+								<r3d:qualityManagementMeasure>
+					<r3d:qualityManagementMeasureName>Project data submission, review, and quality control workflow</r3d:qualityManagementMeasureName>
+					<r3d:qualityManagementMeasureUrl>https://instdb.casdc.cn/delivery</r3d:qualityManagementMeasureUrl>
+				</r3d:qualityManagementMeasure>
+							</r3d:qualityManagement>
+											<r3d:metadataStandard>
+				<r3d:metadataStandardName>JSON-LD (JavaScript Object Notation for Linked Data)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m95</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>The repository is powered by InstDB v3.0.1, which supports OpenAPI-based integration and customizable metadata templates for different domains and data types, based on CAS scientific data center metadata requirements. Dataset-level licenses are displayed on individual resource pages, including Creative Commons licenses such as CC BY 4.0 and CC BY-NC 4.0 where applicable.</r3d:remarks>
+		<r3d:entryDate>2026-07-15</r3d:entryDate>
+		<r3d:lastUpdate>2026-07-19</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012252</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3QH1V</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="deu">Forschungsdaten- und Servicezentrum der Bundesbank</r3d:repositoryName>
+				<r3d:additionalName language="deu">FDSZ Bundesbank</r3d:additionalName>
+				<r3d:additionalName language="eng">RDSC Deutsche Bundesbank</r3d:additionalName>
+				<r3d:additionalName language="eng">Research Data and Service Centre Deutsche Bundesbank</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.bundesbank.de/de/bundesbank/forschung/fdsz</r3d:repositoryUrl>
+				<r3d:description language="eng">The RDSC provides researchers access to selected microdata from the Bundesbank&#039;s data records for independent and non-commercial scientific research projects on basis of the legal requirements. The RDSC is the mediator between the Bundesbank’s wide range of different micro data in various departments and – on the other side – researchers or analysts. In connection with this, the RDSC is responsible for the methodological improvement, the access of and the comprehensive documentation of the high-quality microdata. It also offers additional consultancy and support services to existing and prospective data users and satisfies data protection requirements.
+English version see: https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data-and-service-centre-rdsc--869492</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>fdsz-data@bundesbank.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.bundesbank.de/en/homepage/contact/757932-757932?ccid=617946</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12403</r3d:subjectId>
+				<r3d:subjectName>Accounting und Finance</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12406</r3d:subjectId>
+				<r3d:subjectName>Statistics and Econometrics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.bundesbank.de/en/bundesbank/research</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>MFI interest rate statistics - ZISTA</r3d:keyword>
+					<r3d:keyword>Panel on Household Finances - PHF</r3d:keyword>
+					<r3d:keyword>balance sheet statistics - BISTA</r3d:keyword>
+					<r3d:keyword>banks</r3d:keyword>
+					<r3d:keyword>corporate balances sheets - Ustan</r3d:keyword>
+					<r3d:keyword>enterprises</r3d:keyword>
+					<r3d:keyword>external position of banks - AUSTA</r3d:keyword>
+					<r3d:keyword>households</r3d:keyword>
+					<r3d:keyword>microdata</r3d:keyword>
+					<r3d:keyword>microdatabase direct investment - MiDi</r3d:keyword>
+					<r3d:keyword>quarterly borrowers statistics - VJKRE</r3d:keyword>
+					<r3d:keyword>securities</r3d:keyword>
+					<r3d:keyword>securities holdings statistics - SHS-base</r3d:keyword>
+					<r3d:keyword>statistics of the banks profit and loss account - GuV</r3d:keyword>
+					<r3d:keyword>statistics on inernational trad in services - SITS</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="deu">Deutsche Bundesbank</r3d:institutionName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bundesbank.de/en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03jvfq589</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data Access</r3d:policyName>
+				<r3d:policyUrl>https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data-and-service-centre-rdsc--869492</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>restricted</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data-and-service-centre-rdsc--869492</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+																					<r3d:citationGuidelineUrl>https://www.bundesbank.de/en/bundesbank/research/rdsc/research-data-and-service-centre-rdsc--869492</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+									<r3d:certificate>
+				<r3d:certificateName>RatSWD</r3d:certificateName>
+									<r3d:certificateStartDate>2015</r3d:certificateStartDate>
+												<r3d:certificateUrl>https://www.konsortswd.de/en/services/research/all-datacentres/rdsc-bundesbank/</r3d:certificateUrl>
+							</r3d:certificate>
+										<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2016-11-25</r3d:entryDate>
+		<r3d:lastUpdate>2025-07-09</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

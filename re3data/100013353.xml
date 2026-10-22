@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013353</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJMSP</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">TIB Digital Long-Term Archive</r3d:repositoryName>
+				<r3d:additionalName language="eng">Digital Preservation at TIB</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.tib.eu/en/publishing-archiving/digital-preservation</r3d:repositoryUrl>
+				<r3d:description language="eng">TIB’s core task is to provide science and industry with both elementary and highly technical specialist and researchinformation. TIB has globally unique collections in the subject areas of science and technology, as well as architecture,chemistry, computer science, mathematics and physics. Besides textual materials, the library’s collections also includeknowledge objects such as research data, 3D models and audiovisual media.
+The TIB has assumed responsibility for the long-term preservation and availability of the digital materials it collects and documents, as well as their interpretability for use by different target groups. To this end, it has created the necessary infrastructure and guarantees the permanent provision of both material and human resources.
+Search for research data search at: https://www.tib.eu/en/search-discover/research-data</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.tib.eu/en/publishing-archiving/digital-preservation#c1751</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>thomas.baehr@tib.eu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+															<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.tib.eu/en/tib/policies/preservation-policy</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_1843</r3d:contentTypeId>
+				<r3d:contentTypeName>other</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>multidisciplinary</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="deu">Technische Informationsbibliothek</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">German National Library of Science and Technology</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Leibniz Information Centre for Science and Technology - University Library</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Leibniz-Informationszentrum Technik und Naturwissenschaften - Universitätsbibliothek</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">TIB</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.tib.eu/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04aj4c181</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Terms of Use</r3d:policyName>
+				<r3d:policyUrl>https://www.tib.eu/en/terms-of-use</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>closed</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>Public Domain</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://creativecommons.org/publicdomain/zero/1.0/deed.en</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>closed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.tib.eu/fileadmin/extern/knm/regular_agreement.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Open Access License Agreement</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://www.tib.eu/fileadmin/extern/knm/OpenAccess-License-NTM.pdf</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://www.tib.eu/oai/public/repository/open?verb=Identify</r3d:apiUrl>
+									<r3d:apiDocumentation>https://www.tib.eu/en/services/open-data</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+																	<r3d:qualityManagement>
+				<r3d:qualityManagementStatus>yes</r3d:qualityManagementStatus>
+								<r3d:qualityManagementMeasure>
+					<r3d:qualityManagementMeasureName>Preservation Policy of the three National German Libraries</r3d:qualityManagementMeasureName>
+					<r3d:qualityManagementMeasureUrl>https://www.tib.eu/en/tib/policies/preservation-policy-of-the-three-german-national-subject-libraries</r3d:qualityManagementMeasureUrl>
+				</r3d:qualityManagementMeasure>
+								<r3d:qualityManagementMeasure>
+					<r3d:qualityManagementMeasureName>TIB Digital Preservation Policy</r3d:qualityManagementMeasureName>
+					<r3d:qualityManagementMeasureUrl>https://www.tib.eu/en/tib/policies/preservation-policy</r3d:qualityManagementMeasureUrl>
+				</r3d:qualityManagementMeasure>
+							</r3d:qualityManagement>
+							<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2025-10-02</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2028-10-01</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/FF9BJD</r3d:certificateUrl>
+							</r3d:certificate>
+					<r3d:certificate>
+				<r3d:certificateName>other</r3d:certificateName>
+									<r3d:certificateStartDate>2022-12-21</r3d:certificateStartDate>
+												<r3d:certificateUrl>https://www.langzeitarchivierung.de/Webs/nestor/SharedDocs/Downloads/DE/Zertifizierung/pruefbericht_TIB2022.html?nn=182192</r3d:certificateUrl>
+							</r3d:certificate>
+									<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>EAD (Encoded Archival Description)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m96</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>PREMIS</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m31</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2020-06-09</r3d:entryDate>
+		<r3d:lastUpdate>2026-02-05</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

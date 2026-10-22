@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010260</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3TC7P</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">National Archive of Criminal Justice Data</r3d:repositoryName>
+				<r3d:additionalName language="eng">NACJD</r3d:additionalName>
+				<r3d:additionalName language="eng">The source for data on crime and justice</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.icpsr.umich.edu/sites/nacjd/home</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.4wjhCf</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">The central mission of the NACJD is to facilitate and encourage research in the criminal justice field by sharing data resources. Specific goals include providing computer-readable data for the quantitative study of crime and the criminal justice system through the development of a central data archive, supplying technical assistance in the selection of data collections and computer hardware and software for data analysis, and training in quantitative methods of social science research to facilitate secondary analysis of criminal justice data</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.icpsr.umich.edu/web/pages/NACJD/contact.html</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>icpsr-help@umich.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2010</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12505</r3d:subjectId>
+				<r3d:subjectName>Criminology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>125</r3d:subjectId>
+				<r3d:subjectName>Jurisprudence</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.icpsr.umich.edu/sites/nacjd/about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/ACF7-8YT9</r3d:contentTypeId>
+				<r3d:contentTypeName>aggregated data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>adult and juvenile corrections</r3d:keyword>
+					<r3d:keyword>attitude surveys</r3d:keyword>
+					<r3d:keyword>community studies</r3d:keyword>
+					<r3d:keyword>court case processing</r3d:keyword>
+					<r3d:keyword>crime and delinquency</r3d:keyword>
+					<r3d:keyword>criminal justice system</r3d:keyword>
+					<r3d:keyword>drug use</r3d:keyword>
+					<r3d:keyword>illegal corporate behavior</r3d:keyword>
+					<r3d:keyword>police</r3d:keyword>
+					<r3d:keyword>terrorism</r3d:keyword>
+					<r3d:keyword>victimization</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Bureau of Justice Statistics</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">BJS</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://bjs.ojp.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/0006s4z66</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Institute of Justice</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NIJ</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://nij.ojp.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00v8p7w89</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Office of Juvenile Justice and Delinquency Prevention</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">OJJDP</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://ojjdp.ojp.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05335sh79</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Michigan, Inter-University Consortium for Political and Social Research</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ICPSR</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.icpsr.umich.edu/sites/icpsr/home</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02q7mkh03</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_003194</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>ICPSR Access Policy Framework</r3d:policyName>
+				<r3d:policyUrl>https://www.icpsr.umich.edu/sites/icpsr/about/policies/access-policy-framework</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>ICPSR Authentication and Authorization Rules</r3d:policyName>
+				<r3d:policyUrl>https://www.icpsr.umich.edu/files/datamanagement/preservation/policies/authrules.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>closed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.icpsr.umich.edu/web/pages/datamanagement/preservation/policies/access-policy-framework.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.icpsr.umich.edu/files/NACJD/pdf/ProtectingCon.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.icpsr.umich.edu/files/datamanagement/preservation/policies/authrules.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>feeRequired</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Data Submission Requirements</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://www.icpsr.umich.edu/sites/icpsr/manage-data/dmps-grants/data-submission-requirements</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>DOI</r3d:pidSystem>
+									<r3d:metrics>Usage statistics</r3d:metrics>
+							<r3d:citationGuidelineUrl>https://www.icpsr.umich.edu/sites/icpsr/posts/shared/why-and-how-should-i-cite-data</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>DDI (Data Documentation Initiative)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m13</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>NACJD is one of the members of Inter-University Consortium for Political and Social Research (ICPSR)re3data100010255. NACJD is home to web sites for two separately maintained programs: the Project for Human Development in Chicago Neighborhoods (PHDCN) and the Terrorism and Preparedness Data Resource Center (TPDRC).</r3d:remarks>
+		<r3d:entryDate>2013-04-24</r3d:entryDate>
+		<r3d:lastUpdate>2026-04-24</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

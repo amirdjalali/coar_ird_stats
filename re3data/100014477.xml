@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014477</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNNX</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Corporate Data Management</r3d:repositoryName>
+				<r3d:additionalName language="eng">CDM</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.mcacdm.nic.in/index1.php</r3d:repositoryUrl>
+				<r3d:description language="eng">The Corporate Data Management (CDM) portal is an initiative by the Ministry of Corporate Affairs (MCA), aimed at enhancing data dissemination and transparency in governance by enabling stakeholders and the public to access government-owned corporate data. Approved under the National Data Sharing and Accessibility Policy (NDSAP) of 2012, the CDM portal facilitates informed decision-making by providing structured access to a vast repository of financial and corporate data collected from registered companies in India. The portal leverages data mining and business intelligence tools, transforming the existing MCA21 transactional system into a data warehouse that enables real-time analytics and customized reporting. By establishing a robust data dissemination framework, the CDM portal not only supports data-driven decision-making within the MCA but also fosters collaboration among government agencies, corporates, and research institutions, ultimately contributing to a more transparent and efficient corporate sector in India.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.mcacdm.nic.in/contact.php</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.mcacdm.nic.in/about-us.php</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>companies</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Ministry of Corporate Affairs</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">MCA</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>IND</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.mca.gov.in/content/mca/global/en/home.html</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Terms &amp; Conditions of Usage</r3d:policyName>
+				<r3d:policyUrl>https://www.mcacdm.nic.in/docs/tnc.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.mcacdm.nic.in/docs/tnc.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+																									<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+														<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2024-10-21</r3d:entryDate>
+		<r3d:lastUpdate>2024-10-24</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

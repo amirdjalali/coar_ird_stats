@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012862</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3QZ33</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Carbohydrate Structure Database</r3d:repositoryName>
+				<r3d:additionalName language="eng">CSDB</r3d:additionalName>
+				<r3d:repositoryUrl>https://csdb.glycoscience.ru/database/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.dkbt9j</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>other</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>OMICS_09727</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_018684</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">This is CSDB version 1 merged from Bacterial (BCSDB) and Plant&amp;Fungal (PFCSDB) databases. This database aims at provision of structural, bibliographic, taxonomic, NMR spectroscopic and other information on glycan and glycoconjugate structures of prokaryotic, plant and fungal origin. It has been merged from the Bacterial and Plant&amp;Fungal Carbohydrate Structure Databases (BCSDB+PFCSDB). The key points of this service are:
+ High coverage. The coverage for bacteria (up to 2016) and archaea (up to 2016) is above 80%. Similar coverage for plants and fungi is expected in the future. The database is close to complete up to 1998 for plants, and up to 2006 for fungi.
+Data quality. High data quality is achieved by manual curation using original publications which is assisted by multiple automatic procedures for error control. Errors present in publications are reported and corrected, when possible. Data from other databases are verified on import.
+Detailed annotations. Structural data are supplied with extended bibliography, assigned NMR spectra, taxon identification including strains and serogroups, and other information if available in the original publication.
+Services. CSDB serves as a platform for a number of computational services tuned for glycobiology, such as NMR simulation, automated structure elucidation, taxon clustering, 3D molecular modeling, statistical processing of data etc.
+Integration. CSDB is cross-linked to other glycoinformatics projects and NCBI databases. The data are exportable in various formats, including most widespread encoding schemes and records using GlycoRDF ontology.
+Free web access. Users can access the database for free via its web interface (see Help). 
+The main source of data is retrospective literature analysis. About 20% of data were imported from CCSD (Carbbank, University of Georgia, Athens; structures published before 1996) with subsequent manual curation and approval. The current coverage is displayed in red on the top of the left menu. The time lag between the publication of new data and their deposition into CSDB is ca. 1 year.
+In the scope of bacterial carbohydrates, CSDB covers nearly all structures of this origin published up to 2016. Prokaryotic, plant and fungal means that a glycan was found in the organism(s) belonging to these taxonomic domains or was obtained by modification of those found in them. Carbohydrate means a structure composed of any residues linked by glycosidic, ester, amidic, ketal, phospho- or sulpho-diester bonds in which at least one residue is a sugar or its derivative.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://glycoscience.ru/Knirel/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://toukach.ru/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>12.853 publications; 33.450 compounds; 16.579 organisms</r3d:size>
+													<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21107</r3d:subjectId>
+				<r3d:subjectName>Bioinformatics and Theoretical Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22101</r3d:subjectId>
+				<r3d:subjectName>Metabolism, Biochemistry and Genetics of Microorganisms</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>221</r3d:subjectId>
+				<r3d:subjectName>Microbiology, Virology and Immunology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21104</r3d:subjectId>
+				<r3d:subjectName>Structural Biology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://csdb.glycoscience.ru/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>carbohydrates</r3d:keyword>
+					<r3d:keyword>fungi</r3d:keyword>
+					<r3d:keyword>glycobiology</r3d:keyword>
+					<r3d:keyword>glycoinformatics</r3d:keyword>
+					<r3d:keyword>glycomics</r3d:keyword>
+					<r3d:keyword>plants</r3d:keyword>
+					<r3d:keyword>prokaryotes</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Russian Academy of Sciences, N.D. Zelinsky Institute of Organic Chemistry</r3d:institutionName>
+									<r3d:institutionAdditionalName language="rus">ИОХ РАН</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="rus">Институт органической химии им. Н.Д.Зелинского Российской академии наук</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>RUS</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://zioc.ru/?lang=en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/007phxq15</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>CSDB usage: basic operations</r3d:policyName>
+				<r3d:policyUrl>https://csdb.glycoscience.ru/database/index.html</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://csdb.glycoscience.ru/database/index.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+									<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>http://csdb.glycoscience.ru/database/core/help.php?db=database&amp;topic=extras#rdf</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>http://csdb.glycoscience.ru/database/index.html?help=credits#citations</r3d:citationGuidelineUrl>
+																	<r3d:metadataStandard>
+				<r3d:metadataStandardName>RDF Data Cube Vocabulary</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m35</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>Carbohydrate structure datatabase is covered by Clarivate Data Citation Index.</r3d:remarks>
+		<r3d:entryDate>2018-09-11</r3d:entryDate>
+		<r3d:lastUpdate>2025-09-19</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

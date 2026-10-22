@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012222</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R37Q06</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">EPOS-FRANCE Seismological Data Center</r3d:repositoryName>
+				<r3d:additionalName language="fra">Centre de données sismologique Epos-France</r3d:additionalName>
+				<r3d:additionalName language="eng">formerly: RESIF</r3d:additionalName>
+				<r3d:repositoryUrl>https://seismology.epos-france.fr/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.3a9142</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">The EPOS-FRANCE Seismological Data Center hosts and distributes seismological data from permanent and temporary seismic networks operated all over the world by French research institutions and international partners, to support research on source processes and imaging of the Earth&#039;s interior at all scales. EPOS-FRANCE is a French national research infrastructure for the observation and understanding of the solid Earth.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://seismology.epos-france.fr/contact/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>sdc@epos-france.fr</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>sismo-help@epos-france.fr</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34301</r3d:subjectId>
+				<r3d:subjectName>Geophysics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>343</r3d:subjectId>
+				<r3d:subjectName>Geophysics and Geodesy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://seismology.epos-france.fr/resif-information-system/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>GEOSCOPE</r3d:keyword>
+					<r3d:keyword>LDG</r3d:keyword>
+					<r3d:keyword>OBS</r3d:keyword>
+					<r3d:keyword>RAP</r3d:keyword>
+					<r3d:keyword>RLBP</r3d:keyword>
+					<r3d:keyword>SISMOB</r3d:keyword>
+					<r3d:keyword>VOLCANO</r3d:keyword>
+					<r3d:keyword>earthquake</r3d:keyword>
+					<r3d:keyword>environmental data</r3d:keyword>
+					<r3d:keyword>field experimentation</r3d:keyword>
+					<r3d:keyword>geodetic</r3d:keyword>
+					<r3d:keyword>ocean bottom seismometer</r3d:keyword>
+					<r3d:keyword>seismology</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="fra">Centre National de la Recherche Scientifique</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">CNRS</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">French National Center for Scientific Research</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.cnrs.fr/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02feahw73</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011247</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_98477</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">Institut National des Sciences de l&#039;Univers</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">INSU</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">National Institute for Earth Sciences and Astronomy</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.insu.cnrs.fr/fr</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04kdfz702</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">Ministère de l&#039;Enseignement supérieur et de la Recherche</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">MESR</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.enseignementsup-recherche.gouv.fr/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03sjk9a61</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_005532</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_143604</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">Ministère de la Transition Écologique</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Ministry of Ecological Transition</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">formerly: Ministry of environment, energy and sea</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ecologie.gouv.fr/#</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00g8rx069</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data and usage policy</r3d:policyName>
+				<r3d:policyUrl>https://seismology.epos-france.fr/data-policy/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Epos-France data description</r3d:policyName>
+				<r3d:policyUrl>https://seismology.epos-france.fr/type-of-data/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+							<r3d:versioning>no</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://seisdata.epos-france.fr/fdsnws/station/1/</r3d:apiUrl>
+									<r3d:apiDocumentation>https://www.fdsn.org/webservices/fdsnws-station-1.1.pdf</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://seisdata.epos-france.fr/fdsnws/dataselect/1/</r3d:apiUrl>
+									<r3d:apiDocumentation>https://www.fdsn.org/webservices/fdsnws-dataselect-1.1.pdf</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://seisdata.epos-france.fr/fdsnws/availability/1/</r3d:apiUrl>
+									<r3d:apiDocumentation>https://www.fdsn.org/webservices/fdsnws-availability-1.0.pdf</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://seisdata.epos-france.fr/eidaws/wfcatalog/1/</r3d:apiUrl>
+									<r3d:apiDocumentation>https://www.orfeus-eu.org/documents/WFCatalog_Specification-v0.22.pdf</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+									<r3d:metrics>Usage statistics</r3d:metrics>
+							<r3d:citationGuidelineUrl>https://seismology.epos-france.fr/citation-guidelines/</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>no</r3d:enhancedPublication>
+							<r3d:qualityManagement>
+				<r3d:qualityManagementStatus>yes</r3d:qualityManagementStatus>
+								<r3d:qualityManagementMeasure>
+					<r3d:qualityManagementMeasureName>Data Validation</r3d:qualityManagementMeasureName>
+					<r3d:qualityManagementMeasureUrl>https://seismology.epos-france.fr/type-of-data/</r3d:qualityManagementMeasureUrl>
+				</r3d:qualityManagementMeasure>
+							</r3d:qualityManagement>
+							<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2024-03-11</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2027-03-11</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/8GKO7B</r3d:certificateUrl>
+							</r3d:certificate>
+									<r3d:metadataStandard>
+				<r3d:metadataStandardName>DataCite Metadata Schema</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m11</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>JSON-LD (JavaScript Object Notation for Linked Data)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m95</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>EPOS-FRANCE Seismological Data Portal was previously hosted at https://seismology.resif.fr/ which is the domain attached to the Core Trust Seal certificate valid until 2027-03-11. As of April 2026, both the resif.fr domain and the new epos-france.fr domain are being serviced, with plans to move completely to the epos-france.fr domain by the end of 2026.
+
+The seismological data portal of Epos-France offers access to data from permanent and mobile seismic networks operated by French research institutions and partners. The user can obtain access to the data via different data services  (near-real time data server, sychronisation server, web services tools) presented on this portal. Epos-France data are also accessible through the european EIDA portal.</r3d:remarks>
+		<r3d:entryDate>2016-11-17</r3d:entryDate>
+		<r3d:lastUpdate>2026-06-30</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013215</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJMOV</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">eData: the STFC Research Data Repository</r3d:repositoryName>
+				<r3d:repositoryUrl>https://edata.stfc.ac.uk/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>OpenDOAR</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10037</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">eData is an institutional repository where STFC staff can deposit data and software that underpin journal articles and other published research.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>edata@stfc.ac.uk</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+						<r3d:size>938 datasets</r3d:size>
+													<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>325</r3d:subjectId>
+				<r3d:subjectName>Astrophysics and Astronomy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>323</r3d:subjectId>
+				<r3d:subjectName>Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>324</r3d:subjectId>
+				<r3d:subjectName>Particles, Nuclei and Fields</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>32</r3d:subjectId>
+				<r3d:subjectName>Physics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.ukri.org/who-we-are/stfc/</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Disordered Materials Database</r3d:keyword>
+					<r3d:keyword>INS database</r3d:keyword>
+					<r3d:keyword>ISIS</r3d:keyword>
+					<r3d:keyword>TOSCA</r3d:keyword>
+					<r3d:keyword>TXFA</r3d:keyword>
+					<r3d:keyword>biotechnology</r3d:keyword>
+					<r3d:keyword>electromagnetic pulse</r3d:keyword>
+					<r3d:keyword>energy</r3d:keyword>
+					<r3d:keyword>geometry spectrometer</r3d:keyword>
+					<r3d:keyword>information technology</r3d:keyword>
+					<r3d:keyword>laser-plasma</r3d:keyword>
+					<r3d:keyword>materials development</r3d:keyword>
+					<r3d:keyword>nuclear physics</r3d:keyword>
+					<r3d:keyword>synthetic data</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Science and Technology Facilities Council</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">STFC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ukri.org/councils/stfc/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/057g20z61</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_016713</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>STFC scientific data policy</r3d:policyName>
+				<r3d:policyUrl>https://www.ukri.org/publications/stfc-scientific-data-policy/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Summary of Policies</r3d:policyName>
+				<r3d:policyUrl>https://edata.stfc.ac.uk/info/end-user-agreement</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>UKRI Making your research data open</r3d:policyName>
+				<r3d:policyUrl>https://www.ukri.org/manage-your-award/publishing-your-research-findings/making-your-research-data-open/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Summary of Policies, Deposit</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://edata.stfc.ac.uk/info/end-user-agreement</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>DSpace</r3d:software>
+							<r3d:versioning>no</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://edata.stfc.ac.uk/oai/request</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+					<r3d:pidSystem>PURL</r3d:pidSystem>
+					<r3d:pidSystem>hdl</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://edata.stfc.ac.uk/info/end-user-agreement</r3d:citationGuidelineUrl>
+							<r3d:aidSystem>ORCID</r3d:aidSystem>
+							<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>eData is indexed by the Clarivate Data Citation Index, re3data, Google and other search engines</r3d:remarks>
+		<r3d:entryDate>2020-01-23</r3d:entryDate>
+		<r3d:lastUpdate>2024-03-20</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011831</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3734H</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">GerManC project</r3d:repositoryName>
+				<r3d:additionalName language="eng">A representative historical corpus of German 1650-1800</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.alc.manchester.ac.uk/modern-languages/research/german-studies/germanc/</r3d:repositoryUrl>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; This repository is no longer available. &gt;&gt;&gt;!!!&gt;&gt;&gt;
+see https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=7021#!/details and
+https://ota.bodleian.ox.ac.uk/repository/xmlui/discover?query=germanc&amp;submit=Search&amp;filtertype_1=title&amp;filter_relational_operator_1=contains&amp;filter_1=&amp;query=germanc</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>Anita.Auer@unil.ch</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>martin.durrell@manchester.ac.uk</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>336 German-language texts from the period 1650-1800,  comprising approximately 800.000  words</r3d:size>
+						<r3d:startDate>2006-03-01</r3d:startDate>
+        				<r3d:endDate>
+									<r3d:offline>2011-08-31</r3d:offline>
+					</r3d:endDate>
+        							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11401</r3d:subjectId>
+				<r3d:subjectName>General and Comparative Linguistics, Experimental Linguistics, Typology, Non-European Languages</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>114</r3d:subjectId>
+				<r3d:subjectName>Linguistics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.alc.manchester.ac.uk/modern-languages/research/german-studies/germanc/</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>corpora</r3d:keyword>
+					<r3d:keyword>cultural history</r3d:keyword>
+					<r3d:keyword>drama</r3d:keyword>
+					<r3d:keyword>grammar</r3d:keyword>
+					<r3d:keyword>legal history</r3d:keyword>
+					<r3d:keyword>legal texts</r3d:keyword>
+					<r3d:keyword>narrative prose</r3d:keyword>
+					<r3d:keyword>newspapers</r3d:keyword>
+					<r3d:keyword>scholarly writing</r3d:keyword>
+					<r3d:keyword>semantics</r3d:keyword>
+					<r3d:keyword>sermons</r3d:keyword>
+					<r3d:keyword>vocabulary</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Arts and Humanities Research Council</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">AHRC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://ahrc.ukri.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/0505m1554</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2008</r3d:responsibilityStartDate>
+													<r3d:responsibilityEndDate>2012-08-31</r3d:responsibilityEndDate>
+							</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Economic and Social Data Service Data Archive</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">UK Data Service</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://discover.ukdataservice.ac.uk/catalogue?sn=7021</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Economic and Social Research Council</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ESRC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://esrc.ukri.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03n0ht308</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2006-03-01</r3d:responsibilityStartDate>
+													<r3d:responsibilityEndDate>2012-08-31</r3d:responsibilityEndDate>
+							</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Manchester, School of Arts, Languages and Cultures</r3d:institutionName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.alc.manchester.ac.uk/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2006-03-01</r3d:responsibilityStartDate>
+													<r3d:responsibilityEndDate>2011-08-31</r3d:responsibilityEndDate>
+							</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Oxford Text Archive</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">OTA</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://ota.bodleian.ox.ac.uk/repository/xmlui/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Copyrights</r3d:policyName>
+				<r3d:policyUrl>https://www.manchester.ac.uk/copyright/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>OGL</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.ukdataservice.ac.uk/get-data/how-to-access/conditions</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+											<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>http://doc.ukdataservice.ac.uk/doc/7021/mrdoc/UKDA/UKDA_Study_7021_Information.htm</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks>Description: &quot;The aim of the project was to compile a representative computerized corpus of German for the period 1650-1800. This is the first such corpus of early modern German and it is intended as a primary research resource in a number of disciplines. Its structure deliberately parallels that of extant historical corpora of English in order to facilitate systematic comparative studies. The regional dimension which was an essential feature of the projects also provides information about the link between language and changes in the relative cultural and political areas within Germany.&quot;
+GerManC project is covered by Thomson Reuters Data Citation Index. The corpus  can be downloaded from the Economic and Social Data Service Data Archive (https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=7021) and the Oxford Text Archive  (https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/2544) The corpus is part of &quot;Historisches Korpus&quot; (https://www1.ids-mannheim.de/lexik/abgeschlosseneprojekte/historischeskorpus/historisches-korpus.html) available via COSMASS II (http://www.ids-mannheim.de/cosmas2/)</r3d:remarks>
+		<r3d:entryDate>2016-03-15</r3d:entryDate>
+		<r3d:lastUpdate>2024-12-10</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

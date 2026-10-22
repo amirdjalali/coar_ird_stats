@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012638</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R36J52</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">IndiaVotes</r3d:repositoryName>
+				<r3d:additionalName language="eng">India Votes</r3d:additionalName>
+				<r3d:additionalName language="eng">India&#039;s Largest Election Database</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.indiavotes.com/</r3d:repositoryUrl>
+				<r3d:description language="eng">India Votes is India&#039;s largest public elections resource. It covers all Lok Sabha elections since 1952 and all State elections since 1977. IndiaVotes already has data on over 200 national as well as state elections and will be enriched with inputs from users.
+Even though election data is available online, it is not easily searchable or cannot be consumed in structured formats necessary for analysis. IndiaVotes aims to become the open-source equivalent and Wikipedia of election information in India.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>contact@indiavotes.com</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2012-11</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12302</r3d:subjectId>
+				<r3d:subjectName>Empirical Social Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12304</r3d:subjectId>
+				<r3d:subjectName>Political Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.indiavotes.com/home/about_us</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>Assembly Constituencies elections</r3d:keyword>
+					<r3d:keyword>Lok Sabha election</r3d:keyword>
+					<r3d:keyword>Parliamentary Constituencies elections</r3d:keyword>
+					<r3d:keyword>election analysis</r3d:keyword>
+					<r3d:keyword>map</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Election Commission of India</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ECI</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>IND</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://eci.gov.in</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Niti Digital</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">New Initiatives for Transforming India Digital</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>IND</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.indiavotes.com/home/disclaimer</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Disclaimer</r3d:policyName>
+				<r3d:policyUrl>https://www.indiavotes.com/home/about_user</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.indiavotes.com/home/disclaimer</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+															<r3d:pidSystem>none</r3d:pidSystem>
+															<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+														<r3d:remarks>This Site is owned and operated by Niti Digital and contains material which is derived in whole or in part from material supplied by the Company, Election Commission of India website, and is protected by international copyright and trademark laws.</r3d:remarks>
+		<r3d:entryDate>2018-04-08</r3d:entryDate>
+		<r3d:lastUpdate>2024-06-17</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011263</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3PG8V</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Canadian Opinion Research Archive</r3d:repositoryName>
+				<r3d:additionalName language="eng">CORA</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.queensu.ca/cora/</r3d:repositoryUrl>
+				<r3d:description language="eng">The Canadian Opinion Research Archive at Queen&#039;s University makes available commercial and independent surveys to the academic, research and journalistic communities. Founded in 1992, CORA contains hundreds of surveys including thousands of discrete items collected by major commercial Canadian firms dating back to the 1970s.
+CORA is continually adding new surveys and is always soliciting new data from commercial research firms, independent think tanks, research institutes, NGOs, and academic researchers. This website also includes readily accessible results from these surveys, tracking Canadian opinion over time on frequently asked survey questions, as well as tabular results from recent Canadian surveys, and more general information on polling. This material is made available as a public service by CORA and its partners.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>cora@queensu.ca</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>1992</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12302</r3d:subjectId>
+				<r3d:subjectName>Empirical Social Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12304</r3d:subjectId>
+				<r3d:subjectName>Political Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.queensu.ca/cora/about</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/NHD0-W6SY</r3d:contentTypeId>
+				<r3d:contentTypeName>survey data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>Canadian election study</r3d:keyword>
+					<r3d:keyword>aboriginal issues</r3d:keyword>
+					<r3d:keyword>census</r3d:keyword>
+					<r3d:keyword>economics</r3d:keyword>
+					<r3d:keyword>education</r3d:keyword>
+					<r3d:keyword>employment</r3d:keyword>
+					<r3d:keyword>family</r3d:keyword>
+					<r3d:keyword>housing</r3d:keyword>
+					<r3d:keyword>medicine</r3d:keyword>
+					<r3d:keyword>poverty</r3d:keyword>
+					<r3d:keyword>public health</r3d:keyword>
+					<r3d:keyword>social insurance</r3d:keyword>
+					<r3d:keyword>social sciences</r3d:keyword>
+					<r3d:keyword>transportation</r3d:keyword>
+					<r3d:keyword>welfare</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">McGill University, Department of Political Science</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">QUL</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.mcgill.ca/politicalscience/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Queens University, School of Policy Studies</r3d:institutionName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.queensu.ca/sps/home</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Queens University, University Libary</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">QUL</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://library.queensu.ca/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>public service by CORA</r3d:policyName>
+				<r3d:policyUrl>https://www.queensu.ca/cora/access</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.queensu.ca/cora/about</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.statcan.gc.ca/eng/reference/licence</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>Nesstar</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>none</r3d:pidSystem>
+															<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>DDI (Data Documentation Initiative)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m13</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>Canadian Opinion Research Archive is covered by Thomson Reuters Data Citation Index. In addition CORA holdings can be accessed at &lt;odesi&gt; scholarsportal. CORA uses Data Documentation Inititative DDI metadata standards. Analysis of CORA holdings is available at the website, individual-level data cannot be downloaded, but all data can be accessed and analysed here.</r3d:remarks>
+		<r3d:entryDate>2014-11-13</r3d:entryDate>
+		<r3d:lastUpdate>2025-06-16</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

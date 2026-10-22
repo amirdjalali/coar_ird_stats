@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013766</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJN46</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">The Plastics-Active Enzymes Database</r3d:repositoryName>
+				<r3d:additionalName language="eng">PAZy</r3d:additionalName>
+				<r3d:repositoryUrl>https://pazy.eu/doku.php</r3d:repositoryUrl>
+				<r3d:description language="eng">Plastics are widely used in our economy and each year, at least 350-400 million tons are being produced at a global level. Due to poor recycling and low circular use, tens of millions of tons accumulate annually in marine and terrestrial environments. While it has become obvious that micro and macroplastics contaminate our environments recent research has identified few bacteria and fungi actively degrading plastics by enzymatic reactions. In general these are promiscuous enzymes (hydrolases) acting on low crystaline and mostly low density polymers of PET, ester-based PUR and oligomers of PA. Notably today, no enzymes have been characterized on a biochemical level for polymeric and crystaline PE, ether-based PUR, PS, PVC, PP. While many publications report on plastic degradation often, no convincing biochemical data have been published. Therefore the PAZy database lists exclusively biochemically characterized plastic-active enzymes. Predicted and putative enzymes that were not characterized on a biochemical, functional or structural level are not included in the PAZy database. The entries are manually curated.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>juergen.pleiss@itb.uni-stuttgart.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>wolfgang.streit@uni-hamburg.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2022</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21101</r3d:subjectId>
+				<r3d:subjectName>Biochemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>31</r3d:subjectId>
+				<r3d:subjectName>Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>316</r3d:subjectId>
+				<r3d:subjectName>Polymer Research</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://pazy.eu/doku.php?id=start</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>polyamide</r3d:keyword>
+					<r3d:keyword>polyethylene</r3d:keyword>
+					<r3d:keyword>polypropylene</r3d:keyword>
+					<r3d:keyword>polystyrene</r3d:keyword>
+					<r3d:keyword>polyurethane</r3d:keyword>
+					<r3d:keyword>polyvinylchloride</r3d:keyword>
+					<r3d:keyword>pynthetic rubber</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Federal Ministry  of Research, Technology and Space</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">BMFTR</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Bundesministerium für Forschung, Technologie und Raumfahrt</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">formerly: Federal Ministry of Education and Research</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bmbf.de/EN/Home/home_node.html</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04pz7b180</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_005066</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Hamburg, Department of Microbiology and Biotechnology</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Universität Hamburg, Mikrobiologie &amp; Biotechnologie</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.biologie.uni-hamburg.de/en/forschung/mikrobiologie-und-infektionsbiologie.html</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Stuttgart, Institute of Biochemistry and Technical Biochemistry</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">Universität Stuttgart, Abteilung Technische Biochemie</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ibc.uni-stuttgart.de/en/tbc/</r3d:institutionUrl>
+															</r3d:institution>
+								<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://creativecommons.org/licenses/by-sa/4.0/deed.en</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-sa/4.0/deed.en</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+															<r3d:citationGuidelineUrl>https://pazy.eu/doku.php?id=start</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks>Protein sequences were downloaded from the Plastics Microbial Biodegradation Database (PMBD, http://pmbd.genome-mining.cn/home/) and NCBI GenBank.</r3d:remarks>
+		<r3d:entryDate>2022-03-04</r3d:entryDate>
+		<r3d:lastUpdate>2025-07-18</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

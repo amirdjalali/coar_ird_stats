@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014488</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNO8</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="spa">Repositorio Digital Institucional Universidad Nacional del Comahue</r3d:repositoryName>
+				<r3d:additionalName language="spa">RDI UNCo</r3d:additionalName>
+				<r3d:repositoryUrl>https://rdi.uncoma.edu.ar/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>OpenDOAR</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>7108</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="spa">The RDI UNCo, is constituted as a Portal for the dissemination of information and knowledge at the Universidad Nacional del Comahue, created by Ord. No. 0173/2014, with the aim of gathering and providing free and open access to scientific and academic information, product of research, teaching and institutional management activities, in order to ensure free availability and open access to scientific knowledge.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://rdi.uncoma.edu.ar/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>rdi@biblioteca.uncoma.edu.ar</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>212</r3d:subjectId>
+				<r3d:subjectName>Plant Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>213</r3d:subjectId>
+				<r3d:subjectName>Zoology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://bibliocentral.uncoma.edu.ar/index.php/objeivo_y_marco_legal/</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>multidisciplinary</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">National University of Comahue</r3d:institutionName>
+									<r3d:institutionAdditionalName language="spa">UNCo</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="spa">Universidad Nacional del Comahue</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>ARG</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.uncoma.edu.ar/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02zvkba47</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Objectives - Legal Framework</r3d:policyName>
+				<r3d:policyUrl>https://bibliocentral.uncoma.edu.ar/index.php/objeivo_y_marco_legal/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Operating Policies</r3d:policyName>
+				<r3d:policyUrl>https://rdi.uncoma.edu.ar/handle/uncomaid/6825?locale-attribute=en</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://creativecommons.org/licenses/by-nc-sa/4.0/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-nc-sa/2.5/ar/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+															<r3d:pidSystem>hdl</r3d:pidSystem>
+															<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+							<r3d:syndication>
+				<r3d:syndicationType>ATOM</r3d:syndicationType>
+				<r3d:syndicationUrl>https://rdi.uncoma.edu.ar/feed/atom_1.0/site</r3d:syndicationUrl>
+			</r3d:syndication>
+				<r3d:remarks>RDI&#039;s research data can also be consulted in Argentina&#039;s National System of Digital Repositories (SNRD): https://repositoriosdigitales.mincyt.gob.ar/vufind/Search/Results?filter%5B%5D=%7Eformat%3A%22dataSet%22&amp;filter%5B%5D=reponame_str%3A%22Repositorio+Digital+Institutional+%28UNCo%29%22&amp;join=AND&amp;bool0%5B%5D=AND&amp;lookfor0%5B%5D=&amp;type0%5B%5D=AllFields</r3d:remarks>
+		<r3d:entryDate>2024-10-24</r3d:entryDate>
+		<r3d:lastUpdate>2024-10-27</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

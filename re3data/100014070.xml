@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014070</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNCM</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">NORMAN Substance Database</r3d:repositoryName>
+				<r3d:additionalName language="eng">NORMAN SusDat</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.norman-network.com/nds/susdat/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.9ATgeT</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">NORMAN SusDat is a &quot;living database&quot; compiling information provided by NORMAN network members and external contributors via the NORMAN Suspect List Exchange (NORMAN-SLE). NORMAN SusDat merges the many chemical lists on the SLE into a common format and includes all data suitable for screening purposes, along with selected identifiers and predicted values as a service for NORMAN members and beyond. SusDat is undergoing constant development and improvement to expand the coverage, together with contributors and cheminformatics experts. The original lists on the NORMAN-SLE should be consulted to verify chemical information if necessary.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>suspects@normandata.eu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2015</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>314</r3d:subjectId>
+				<r3d:subjectName>Analytical Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>31</r3d:subjectId>
+				<r3d:subjectName>Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.norman-network.com/nds/SLE/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>biocides</r3d:keyword>
+					<r3d:keyword>chemicals</r3d:keyword>
+					<r3d:keyword>drugs</r3d:keyword>
+					<r3d:keyword>food additives</r3d:keyword>
+					<r3d:keyword>human metabolites</r3d:keyword>
+					<r3d:keyword>human neurotoxis</r3d:keyword>
+					<r3d:keyword>metals</r3d:keyword>
+					<r3d:keyword>smoke</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Environmental Institute</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">EI</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>SVK</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ei.sk/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00n893e13</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">NORMAN</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NORMAN network</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Network of reference laboratories, research centres and related organisations for monitoring of emerging environmental substances</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.norman-network.com/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>General information on data processing</r3d:policyName>
+				<r3d:policyUrl>https://www.normandata.eu/?q=privacy-policy</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.normandata.eu/?q=privacy-policy</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>feeRequired</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+																																		<r3d:remarks>NORMAN Network members: https://www.norman-network.com/?q=NORMAN%20Network
+Current members: https://www.normandata.eu/?q=node/199</r3d:remarks>
+		<r3d:entryDate>2022-11-23</r3d:entryDate>
+		<r3d:lastUpdate>2025-05-16</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010826</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3762S</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Berman Jewish Data Bank</r3d:repositoryName>
+				<r3d:repositoryUrl>https://www.jewishdatabank.org/databank</r3d:repositoryUrl>
+				<r3d:description language="eng">The Berman Jewish Databank @ The Jewish Federations of North America  is the central online address for quantitative studies of North American Jews and Jewish communities. Archives and makes available electronically questionnaires, reports and data files from the National Jewish Population Surveys (NJPS) of 1971, 1990 and 2000-01. It provides access to other national Jewish population reports, Jewish population statistics and approximately 200 local Jewish community studies from the major Jewish communities in North America.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.jewishdatabank.org/databank/about/contact.html</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@jewishdatabank.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>1986</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>111</r3d:subjectId>
+				<r3d:subjectName>Ancient Cultures</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>112</r3d:subjectId>
+				<r3d:subjectName>History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11605</r3d:subjectId>
+				<r3d:subjectName>Religious Studies and Jewish Studies</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>116</r3d:subjectId>
+				<r3d:subjectName>Social and Cultural Anthropology, Non-European Cultures, Jewish Studies and Religious Studies</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.jewishdatabank.org/databank/about/about.html</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/NHD0-W6SY</r3d:contentTypeId>
+				<r3d:contentTypeName>survey data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>demography</r3d:keyword>
+					<r3d:keyword>jews</r3d:keyword>
+					<r3d:keyword>judaism in the United States</r3d:keyword>
+					<r3d:keyword>sociology</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Jewish Federations of North America</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">JFNA</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.jewishfederations.org/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Mandell L. and Madeleine H. Berman Foundation</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.jewishdatabank.org/databank/about/berman-foundation.html</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Stanford Graduate School of Education, Berman Archive</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">BJPA</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Berman Jewish Policy Archive</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">NYUs Robert F. Wagner Graduate School of Public, Berman Jewish Policy Archive</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://bermanarchive.stanford.edu/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Connecticut, Center for Judaic Studies and Contemporary Jewish Life</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Center for Judaic Studies and Contemporary Jewish Life</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">UCONN Center for Judaic Studies and Contemporary Jewish Life</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://judaicstudies.uconn.edu/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>DataBank Operating Policies</r3d:policyName>
+				<r3d:policyUrl>https://www.jewishdatabank.org/databank/about/operating-policies.html</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>DataBank Terms Of Use</r3d:policyName>
+				<r3d:policyUrl>https://www.jewishdatabank.org/databank/about/terms-of-use.html</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.jewishdatabank.org/databank/about/terms-of-use.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.jewishdatabank.org/databank/about/operating-policies.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.jewishdatabank.org/databank/about/terms-of-use.html</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+							<r3d:qualityManagement>
+				<r3d:qualityManagementStatus>yes</r3d:qualityManagementStatus>
+								<r3d:qualityManagementMeasure>
+					<r3d:qualityManagementMeasureName>Digital Preservation</r3d:qualityManagementMeasureName>
+					<r3d:qualityManagementMeasureUrl>https://www.jewishdatabank.org/databank/about/operating-policies.html</r3d:qualityManagementMeasureUrl>
+				</r3d:qualityManagementMeasure>
+							</r3d:qualityManagement>
+												<r3d:remarks>The Berman Jewish DataBank was founded as the North American Jewish Data Bank until June 2013.</r3d:remarks>
+		<r3d:entryDate>2014-06-27</r3d:entryDate>
+		<r3d:lastUpdate>2026-07-10</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

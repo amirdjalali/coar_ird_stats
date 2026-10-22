@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011752</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R34069</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">European Soil Data Centre</r3d:repositoryName>
+				<r3d:additionalName language="eng">ESDAC</r3d:additionalName>
+				<r3d:additionalName language="eng">European Soil Data Centre Portal</r3d:additionalName>
+				<r3d:repositoryUrl>https://esdac.jrc.ec.europa.eu/</r3d:repositoryUrl>
+				<r3d:description language="eng">The European Soil Data Centre (ESDAC) is the thematic centre for soil related data in Europe. Its ambition is to be the single reference point for and to host all relevant soil data and information at European level. It contains a number of resources that are organized and presented in various ways: datasets, services/applications, maps, documents, events, projects and external links.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>ec-esdac@ec.europa.eu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23105</r3d:subjectId>
+				<r3d:subjectName>Agricultural Economics, Agricultural Policy, Agricultural Sociology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>231</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23104</r3d:subjectId>
+				<r3d:subjectName>Ecology of Land Use</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>345</r3d:subjectId>
+				<r3d:subjectName>Geography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>344</r3d:subjectId>
+				<r3d:subjectName>Mineralogy, Petrology and Geochemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23101</r3d:subjectId>
+				<r3d:subjectName>Soil Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>346</r3d:subjectId>
+				<r3d:subjectName>Water Research</r3d:subjectName>
+			</r3d:subject>
+									<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>ESDB</r3d:keyword>
+					<r3d:keyword>European Soil Database</r3d:keyword>
+					<r3d:keyword>LUCAS</r3d:keyword>
+					<r3d:keyword>SPADE</r3d:keyword>
+					<r3d:keyword>compaction</r3d:keyword>
+					<r3d:keyword>contaminated Sites</r3d:keyword>
+					<r3d:keyword>erosion</r3d:keyword>
+					<r3d:keyword>landslides</r3d:keyword>
+					<r3d:keyword>salinization</r3d:keyword>
+					<r3d:keyword>soil biodiversity</r3d:keyword>
+					<r3d:keyword>soil organic carmvon</r3d:keyword>
+					<r3d:keyword>soil sealing</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">European Commission, Joint Research Centre</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">EC, JRC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EEC</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://joint-research-centre.ec.europa.eu/index_en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02qezmz13</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>disclaimer, copyright notice</r3d:policyName>
+				<r3d:policyUrl>https://commission.europa.eu/legal-notice_en</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://commission.europa.eu/legal-notice_en#copyright-notice</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+															<r3d:pidSystem>none</r3d:pidSystem>
+															<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>ISO 19115</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m22</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>The activities of ESDAC are institutional and are planned and executed under the JRC Work Programme.</r3d:remarks>
+		<r3d:entryDate>2016-04-27</r3d:entryDate>
+		<r3d:lastUpdate>2025-11-21</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

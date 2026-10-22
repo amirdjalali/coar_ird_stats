@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010384</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3801N</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">CLARIND-UdS: Language Resources Repository at UdS</r3d:repositoryName>
+				<r3d:additionalName language="deu">CLARIND-UdS, Repositorium für Sprachressourcen an der Universität des Saarlandes</r3d:additionalName>
+				<r3d:repositoryUrl>https://fedora.clarin-d.uni-saarland.de/index.en.html</r3d:repositoryUrl>
+				<r3d:description language="eng">In collaboration with other centres in the Text+ consortium and in the CLARIN infrastructure, the CLARIND-UdS enables eHumanities by providing a service for hosting and processing language resources (notably corpora) for members of the research community. CLARIND-UdS centre thus contributes of lifting the fragmentation of language resources by assisting members of the research community in preparing language materials in such a way that easy discovery is ensured, interchange is facilitated and preservation is enabled by enriching such materials with meta-information, transforming them into sustainable formats and hosting them. We have an explicit mission to archive language resources especially multilingual corpora (parallel, comparable) and corpora including specific registers, both collected by associated researchers as well as researchers who are not affiliated with us.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>j.knappen@mx.uni-saarland.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>133 main entries</r3d:size>
+						<r3d:startDate>2011</r3d:startDate>
+        									<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>114</r3d:subjectId>
+				<r3d:subjectName>Linguistics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://fedora.clarin-d.uni-saarland.de/termsofuse.en.html</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>NFDI</r3d:keyword>
+					<r3d:keyword>Text+</r3d:keyword>
+					<r3d:keyword>archive</r3d:keyword>
+					<r3d:keyword>comparable corpora</r3d:keyword>
+					<r3d:keyword>computational linguistics</r3d:keyword>
+					<r3d:keyword>database of voices</r3d:keyword>
+					<r3d:keyword>humanitites</r3d:keyword>
+					<r3d:keyword>language research tool</r3d:keyword>
+					<r3d:keyword>language resources</r3d:keyword>
+					<r3d:keyword>linguistic data</r3d:keyword>
+					<r3d:keyword>machine translation</r3d:keyword>
+					<r3d:keyword>multilingual corpora</r3d:keyword>
+					<r3d:keyword>parallel corpora</r3d:keyword>
+					<r3d:keyword>psycholinguistics</r3d:keyword>
+					<r3d:keyword>social sciences</r3d:keyword>
+					<r3d:keyword>standards</r3d:keyword>
+					<r3d:keyword>syntactic annotation</r3d:keyword>
+					<r3d:keyword>text copora</r3d:keyword>
+					<r3d:keyword>translation</r3d:keyword>
+					<r3d:keyword>written corpora</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="deu">Bundesministerium für Forschung, Technologie und Raumfahrt</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">BMFTR</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Federal Ministry of Research, Technology and Space</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">formerly: Bundesministerium für Bildung und Forschung</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bmftr.bund.de/DE/Home/home_node.html</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04pz7b180</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_005066</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+													<r3d:responsibilityEndDate>2020</r3d:responsibilityEndDate>
+							</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">CLARIN ERIC</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure European Research Infrastructure Consortium</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EEC</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.clarin.eu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03wp25384</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Clarin-D</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">Common Language Resources and Technology Infrastructure - D</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://clarin-d.net/de/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2011</r3d:responsibilityStartDate>
+													<r3d:responsibilityEndDate>2020</r3d:responsibilityEndDate>
+							</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Deutsche Forschungsgemeinschaft</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">DFG</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">German Research Foundation</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.dfg.de/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/018mejw64</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_012420</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2021</r3d:responsibilityStartDate>
+													<r3d:responsibilityEndDate>2025</r3d:responsibilityEndDate>
+							</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Text+</r3d:institutionName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://text-plus.org/en/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2021</r3d:responsibilityStartDate>
+													<r3d:responsibilityEndDate>2025</r3d:responsibilityEndDate>
+							</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Universität des Saarlandes</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Saarland University</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">UdS</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.uni-saarland.de/start.html</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01jdpyv68</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011510</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>CLARIN Template for Data User Agreements</r3d:policyName>
+				<r3d:policyUrl>https://repos.ids-mannheim.de/resources/DataUserAgreement.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms of Use</r3d:policyName>
+				<r3d:policyUrl>https://fedora.clarin-d.uni-saarland.de/termsofuse.en.html</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://creativecommons.org/licenses/by-sa/3.0/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://fedora.clarin-d.uni-saarland.de/termsofuse.en.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Clarin Template for Depositor Agreements</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://repos.ids-mannheim.de/resources/DepositorsAgreement.pdf</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>Fedora</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://fedora.clarin-d.uni-saarland.de/oaiprovider/?verb=Identify</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://vlo.clarin.eu/data/clarin/results/cmdi/UdS_CLARIN_D_Repository/</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>hdl</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://fedora.clarin-d.uni-saarland.de/termsofuse.en.html</r3d:citationGuidelineUrl>
+													<r3d:certificate>
+				<r3d:certificateName>CLARIN certificate B</r3d:certificateName>
+									<r3d:certificateStartDate>2024-06-13</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2027-06-13</r3d:certificateEndDate>
+								<r3d:certificateUrl>http://hdl.handle.net/11372/DOC-92</r3d:certificateUrl>
+							</r3d:certificate>
+					<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2024-06-13</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2027-06-13</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/IPHZZE</r3d:certificateUrl>
+							</r3d:certificate>
+									<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>You can search the content of the UdS CLARIN-D centre repository using two interfaces:
+The recommended search interface is the facetted search provided by the Virtual Langauge Observatory (VLO) https://vlo.clarin.eu. It provides a user-friendly interface to the resources. It also provides search over a large number of repositories all over the world. There is also a very succinct native Fedora Commons search interface. It provides a facetted search over all metadata fields Fedora Commons maintains.</r3d:remarks>
+		<r3d:entryDate>2013-04-03</r3d:entryDate>
+		<r3d:lastUpdate>2026-03-20</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

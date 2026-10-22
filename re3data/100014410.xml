@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014410</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNM2</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="pol">eCUDO.pl</r3d:repositoryName>
+				<r3d:additionalName language="pol">Elektroniczne Centrum Udostępniania Danych Oceanograficznych</r3d:additionalName>
+				<r3d:additionalName language="eng">Oceanographic Data and Information System</r3d:additionalName>
+				<r3d:repositoryUrl>https://odis.ecudo.pl</r3d:repositoryUrl>
+				<r3d:description language="eng">The eCUDO system is carried out by a consortium of partners that involves various research units, scientific institutes, and universities, which are brought together by a common field of scientific interest – the study of the seas and oceans.
+System publish oceanographic data as Open Access to a wider range of recipients, both in the research and the industrial sector, but also to regular citizens interested in the subject. The database prepared by the condortium covers the widest possible spectrum of information on the environment of the Baltic Sea and other marine areas. This database, along with dedicated tools for data exploration, contributes to the development of environmental awareness, economy, and sustainable exploitation of marine resources.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://odis.ecudo.pl/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>kontakt@ecudo.pl</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>7.213.020 datasets in Open Access</r3d:size>
+						<r3d:startDate>2023</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>pol</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34102</r3d:subjectId>
+				<r3d:subjectName>Oceanography</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://ecudo.pl/english</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>coastal management</r3d:keyword>
+					<r3d:keyword>marine biology</r3d:keyword>
+					<r3d:keyword>marine chemistry</r3d:keyword>
+					<r3d:keyword>marine geology</r3d:keyword>
+					<r3d:keyword>marine physics</r3d:keyword>
+					<r3d:keyword>oceanography</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Digital Poland Projekt Center</r3d:institutionName>
+									<r3d:institutionAdditionalName language="pol">Centrum Projektów Polska Cyfrowa</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.gov.pl/web/cppc</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Gdynia Maritime University, Maritime Institute</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">GMU, MI</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Maritime Institute in Gdańsk</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="pol">Uniwersytet Morski w Gdyni, Instytut Morski</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://im.umg.edu.pl</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Institute of Oceanology Polish Academy of Sciences</r3d:institutionName>
+									<r3d:institutionAdditionalName language="pol">IO PAN</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Institute of Oceanology PAN</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="pol">Instytut Oceanologii Polskiej Akademii Nauk</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.iopan.pl</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03mp6cc45</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Marine Fisheries, Research Institute</r3d:institutionName>
+									<r3d:institutionAdditionalName language="pol">Morski Instytut Rybacki, Państwowy Instytut Badawczy</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://mir.gdynia.pl</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03x3g5758</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Polish Geological Institute - National Research Institute</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">PGI - NRI</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="pol">PIG - PIB</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="pol">Państwowy Instytut Geologiczny - Państwowy Instytut Badawczy</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://pgi.gov.pl</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04vcn6p23</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Pomeranian University in Słupsk</r3d:institutionName>
+									<r3d:institutionAdditionalName language="pol">Uniwersytet Pomorski s Słupsku</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.upsl.edu.pl/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00h8nar58</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Gdansk</r3d:institutionName>
+									<r3d:institutionAdditionalName language="pol">UG</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="pol">Uniwersytet Gdański</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://ug.edu.pl</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/011dv8m48</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Szczecin</r3d:institutionName>
+									<r3d:institutionAdditionalName language="pol">Uniwersytet Szczeciński</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://usz.edu.pl</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05vmz5070</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data Policy</r3d:policyName>
+				<r3d:policyUrl>https://ecudo.pl/data-policy,256,en</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://ecudo.pl/data-policy,256,en</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://ecudo.pl/data-policy,256,en</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+													<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://odis.ecudo.pl/api-documentation</r3d:apiUrl>
+							</r3d:api>
+													<r3d:citationGuidelineUrl>https://ecudo.pl/project-citation,61,en</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>ISO 19115</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m22</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2024-08-28</r3d:entryDate>
+		<r3d:lastUpdate>2024-08-31</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

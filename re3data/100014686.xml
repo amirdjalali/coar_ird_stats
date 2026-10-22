@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014686</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNTQ</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">University of Opole Knowledge Base</r3d:repositoryName>
+				<r3d:additionalName language="pol">Baza Wiedzy Uniwersytetu Opolskiego</r3d:additionalName>
+				<r3d:repositoryUrl>https://repo.uni.opole.pl/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>OpenDOAR</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10125</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">The University of Opole Knowledge Base is the central institutional system for recording, archiving, and disseminating the scholarly, artistic, and educational outputs of the University of Opole community. It includes a repository that stores publications, doctoral theses, patents, artistic works, and — upon author request — open research data. Deposited content is made available under Creative Commons licenses (CC BY-NC), unless restrictions apply due to licensing, patents, or grant conditions.
+
+The repository supports the FAIR principles of research data management and is indexed in OpenAIRE, ensuring international visibility and interoperability. It is also registered in the EOSC Resource Hub and in OpenDOAR, and provides persistent identifiers (DOI) via DataCite.
+
+Repository content:
+- Scholarly publications (articles, monographs, book chapters)
+- Doctoral theses (mandatory deposit)
+- Patents and artistic works
+- Open research data (raw and processed), with metadata, abstracts, and keywords in Polish and English</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>bazawiedzy@uni.opole.pl</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>dwierzbicka@uni.opole.pl</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>episarek@uni.opole.pl</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>wojtek@uni.opole.pl</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+						<r3d:size>4 research datasets</r3d:size>
+						<r3d:startDate>2016</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>pol</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://repo.uni.opole.pl/about/site.seam?lang=pl&amp;cid=4316558</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_1843</r3d:contentTypeId>
+				<r3d:contentTypeName>other</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>Academic publications</r3d:keyword>
+					<r3d:keyword>Bibliometrics</r3d:keyword>
+					<r3d:keyword>Data citation</r3d:keyword>
+					<r3d:keyword>Doctoral theses</r3d:keyword>
+					<r3d:keyword>EOSC</r3d:keyword>
+					<r3d:keyword>FAIR principles</r3d:keyword>
+					<r3d:keyword>Institutional repository</r3d:keyword>
+					<r3d:keyword>Interoperability</r3d:keyword>
+					<r3d:keyword>Metadata management</r3d:keyword>
+					<r3d:keyword>Open access</r3d:keyword>
+					<r3d:keyword>Open research data</r3d:keyword>
+					<r3d:keyword>OpenAIRE</r3d:keyword>
+					<r3d:keyword>OpenDOAR</r3d:keyword>
+					<r3d:keyword>Persistent identifiers (DOI, ORCID)</r3d:keyword>
+					<r3d:keyword>Research data repository</r3d:keyword>
+					<r3d:keyword>Scholarly communication</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">University of Opole</r3d:institutionName>
+									<r3d:institutionAdditionalName language="pol">Uniwersytet Opolski</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>POL</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://uni.opole.pl/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04gbpnx96</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2016</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Rector’s Ordinance No. 04/2021 of 11 January 2021 on the Rules of Functioning of the University of Opole Knowledge Base.</r3d:policyName>
+				<r3d:policyUrl>https://monitor.uni.opole.pl/wp-content/uploads/Zasady-funkcjonowania-bazy-wiedzy-UO.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Research Data Deposit Rules – University of Opole Knowledge Base</r3d:policyName>
+				<r3d:policyUrl>https://bg.uni.opole.pl/wp-content/uploads/sites/131/Zasady-deponowania-otwartych-danych-badawczych-w-Bazie-Wiedzy-Uniwersytetu-Opolskiego.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://bg.uni.opole.pl/wp-content/uploads/sites/131/Zasady-deponowania-otwartych-danych-badawczych-w-Bazie-Wiedzy-Uniwersytetu-Opolskiego.pdf</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://www.creativecommons.org</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+									<r3d:dataUploadRestriction>storageLimit</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Open Research Data Submission Form</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://bg.uni.opole.pl/wp-content/uploads/sites/131/Zal.-nr-8_karta_zgloszenia-otwartych-danych-badawczych_4_11_2020.docx</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://repo.uni.opole.pl/oai?verb=Identify</r3d:apiUrl>
+									<r3d:apiDocumentation>https://www.openarchives.org/OAI/openarchivesprotocol.html</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>URN</r3d:pidSystem>
+							<r3d:citationReference>SCOPUS</r3d:citationReference>
+							<r3d:metrics>Usage statistics</r3d:metrics>
+									<r3d:aidSystem>ORCID</r3d:aidSystem>
+							<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+							<r3d:qualityManagement>
+				<r3d:qualityManagementStatus>yes</r3d:qualityManagementStatus>
+								<r3d:qualityManagementMeasure>
+					<r3d:qualityManagementMeasureName>Rector’s Ordinance No. 04/2021 of 11 January 2021 on the Rules of Functioning of the University of Opole Knowledge Base.</r3d:qualityManagementMeasureName>
+					<r3d:qualityManagementMeasureUrl>https://monitor.uni.opole.pl/wp-content/uploads/Zasady-funkcjonowania-bazy-wiedzy-UO.pdf</r3d:qualityManagementMeasureUrl>
+				</r3d:qualityManagementMeasure>
+							</r3d:qualityManagement>
+											<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>The University of Opole Knowledge Base is built on the OMEGA-PSIR platform, an open-source system widely used by Polish universities for institutional repositories and research information management. The system enables integration of publication records, research data, and institutional reporting, ensuring interoperability with national and international infrastructures.Deposited datasets undergo a formal verification process based on the Open Research Data Submission Form (Annex to Rector’s Ordinance No. 04/2021). Authors provide metadata in Polish and English and confirm authorship and rights clearance. The Knowledge Base editors at the University of Opole Library check metadata completeness and consistency. Metadata is also validated through integration with OpenAIRE, ensuring compliance with FAIR principles.</r3d:remarks>
+		<r3d:entryDate>2025-08-25</r3d:entryDate>
+		<r3d:lastUpdate>2025-08-27</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

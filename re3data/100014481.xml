@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014481</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNO1</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">DAKSH High Court Data Portal</r3d:repositoryName>
+				<r3d:repositoryUrl>https://www.dakshindia.org/daksh-high-court-data/</r3d:repositoryUrl>
+				<r3d:description language="eng">The DAKSH High Court Data Portal is a pioneering initiative designed to enhance public understanding of judicial processes within India&#039;s High Courts. Launched to provide free access to case and hearing records, the portal offers a comprehensive dataset gathered from the eCourts mobile application, covering 23 out of 25 High Courts. This resource allows users to delve into detailed information about writ petitions and related cases, which constitute a significant portion of High Court litigation. By making judicial data easily analysable, DAKSH aims to promote transparency, support research, and empower citizens to engage meaningfully with the judicial system. The portal also facilitates real-time data sharing and encourages the development of models based on the datasets provided. Overall, DAKSH represents a vital step towards leveraging open data to drive innovation and improve the functioning of judicial institutions in India, making it an invaluable tool for researchers, advocates, and the general public alike.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>database@dakshindia.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.dakshindia.org/contact-us-2/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>125</r3d:subjectId>
+				<r3d:subjectName>Jurisprudence</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.dakshindia.org/algorithmic-accountability-in-the-judiciary/</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>case and hearing records</r3d:keyword>
+					<r3d:keyword>case and hearing records</r3d:keyword>
+					<r3d:keyword>civil and criminal mapping of case types</r3d:keyword>
+					<r3d:keyword>high courts</r3d:keyword>
+					<r3d:keyword>judical data analysis</r3d:keyword>
+					<r3d:keyword>jurisprudence</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Daksh</r3d:institutionName>
+								<r3d:institutionCountry>IND</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.dakshindia.org/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Case Flow Management Rules in India</r3d:policyName>
+				<r3d:policyUrl>https://www.dakshindia.org/case-flow-management-rules-in-india/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Code Book for DAKSH High Court Database</r3d:policyName>
+				<r3d:policyUrl>https://www.dropbox.com/scl/fo/cryvgk4hilq4ghwwus60g/AHdSAf5Q466OmX1If1JM8K4?dl=0&amp;e=1&amp;preview=Codebook_DAKSH_HighCourt_2023.pdf&amp;rlkey=kd82rnpf1lznyk61632k62ptf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Judicial Data Regulation</r3d:policyName>
+				<r3d:policyUrl>https://www.dakshindia.org/judicial-data-regulation/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-nc/4.0/legalcode</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.dakshindia.org/daksh-high-court-data/#</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+															<r3d:pidSystem>none</r3d:pidSystem>
+															<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+														<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2024-10-21</r3d:entryDate>
+		<r3d:lastUpdate>2024-10-24</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

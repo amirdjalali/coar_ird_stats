@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010145</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3HG6J</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">World Data Centre for Rockets, Satellite and Rotation of the Earth</r3d:repositoryName>
+				<r3d:additionalName language="eng">WDC RSER</r3d:additionalName>
+				<r3d:additionalName language="eng">WDC Rockets</r3d:additionalName>
+				<r3d:repositoryUrl>http://meteo.ru/mcd/ewdcroc</r3d:repositoryUrl>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; December 2015: The All-Russia Research Institute of Hydrometeorological Information – World Data Centre (RIHMI-WDC) has closed down WDC – Rockets, Satellites and Earth Rotation (WDC – RSER) since the topics are no longer its priorities &gt;&gt;&gt;!!!&gt;&gt;&gt;. However, the WDS-SC is extremely pleased to learn that the data holdings of WDC – RSER have now become part of the collection of WDC – Meteorology, Obninsk (WDS Regular Member). The World Data Centre for Rockets, Satellite and Rotation of the Earth is located in Obninsk in the All-Russian Research Institute of Hydrometeorological Information  World Data Centre (RIHMI-WDC). The task of the Centre is to collect and disseminate meteorological data and products worldwide and especially in Russia. Data are available from RIHMI-WDC site</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>webmaster@meteo.ru</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>1998</r3d:startDate>
+        				<r3d:endDate>
+									<r3d:offline>2015-12</r3d:offline>
+					</r3d:endDate>
+        							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>rus</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34101</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34301</r3d:subjectId>
+				<r3d:subjectName>Geophysics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>343</r3d:subjectId>
+				<r3d:subjectName>Geophysics and Geodesy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+											<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>aerology</r3d:keyword>
+					<r3d:keyword>air pollution</r3d:keyword>
+					<r3d:keyword>glaciology</r3d:keyword>
+					<r3d:keyword>satellites</r3d:keyword>
+					<r3d:keyword>space sciences</r3d:keyword>
+					<r3d:keyword>upper atmopshere</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">All-Russian Research Institute of Hydrometeorological Information - World Data Center</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">RIHMI-WDC</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="rus">ВНИИГМИ-МЦД</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="rus">Всероссийского научно-исследовательского института гидрометеорологической информации - Мировой центр данных</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>RUS</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://meteo.ru/english/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/038s1hq41</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">World Data System, Russian-Ukrainian Segment</r3d:institutionName>
+									<r3d:institutionAdditionalName language="rus">Российско-Украинский сегмент Мировой системы данных</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>RUS</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.wdcb.ru/</r3d:institutionUrl>
+															</r3d:institution>
+								<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.worlddatasystem.org/services/data-sharing-principles</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>none</r3d:pidSystem>
+																								<r3d:remarks>In 2008 World Data Centers in Russia and Ukraine have united in the Russian-Ukrainian segment of the World Data System. WDCs provide a free access of scientific organizations and scientists to data of planetary geophysics and sustainable development. Details of the WDCs in Russia and Ukraine are given on their Web-sites.  Three WDCs in Russia carry out the activity, being a part of the All-Russian Research Institute of Hydrometeorological Information - World Data Center (RIHMI-WDC). All these Centers are situated in Obninsk: WDC for Meteorology WDC for Oceanography WDC for Rockets, Satellites and Rotation of the Earth</r3d:remarks>
+		<r3d:entryDate>2013-09-04</r3d:entryDate>
+		<r3d:lastUpdate>2024-12-13</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

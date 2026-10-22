@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010097</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R32P4T</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Mansfeld&#039;s World Database of Agriculture and Horticultural Crops</r3d:repositoryName>
+				<r3d:additionalName language="deu">Mansfeld-Datenbank für landwirtschaftliche und gärtnerische Kulturpflanzen</r3d:additionalName>
+				<r3d:repositoryUrl>https://mansfeld.ipk-gatersleben.de/</r3d:repositoryUrl>
+				<r3d:description language="eng">The Mansfeld&#039;s World Database of Agriculture and Horticultural Crops is an online database. As a contribution to the project &quot;Federal Information System on Genetic Resources&quot; (BIG, http://www.big-flora.de/). It reflects the contents of &quot;Mansfeld&#039;s Encyclopedia of Agricultural and Horticultural Crops&quot; (Hanelt and IPK 2001) and contains information on 6,100 crop plant species, excluding forestry and ornamental plants. Each species entry provides nomenclature and synonymy, common names in different languages, spontaneous distribution and regions of cultivation, uses, images, references, but also the ancestral species and notes on the phylogeny, variation and history.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.ipk-gatersleben.de/en/imprint</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+						<r3d:size>6.100 crop plant species</r3d:size>
+						<r3d:startDate>1998</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>231</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23104</r3d:subjectId>
+				<r3d:subjectName>Ecology of Land Use</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23102</r3d:subjectId>
+				<r3d:subjectName>Plant Breeding and Plant Pathology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23103</r3d:subjectId>
+				<r3d:subjectName>Plant Cultivation, Plant Nutrition, Agricultural Technology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>212</r3d:subjectId>
+				<r3d:subjectName>Plant Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23101</r3d:subjectId>
+				<r3d:subjectName>Soil Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://mansfeld.ipk-gatersleben.de/apex/f?p=257:19:8796897485261:::::</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>agricultural crops</r3d:keyword>
+					<r3d:keyword>horticultural crops</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="deu">BundesInformationssystem Genetische Ressourcen</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">BIG</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ble.de/DE/Themen/Landwirtschaft/Biologische-Vielfalt/Nationales-Fachprogramm-Pflanzen/nationales-fachprogramm-pflanzen_node.html</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>1998</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Bundesministerium für Forschung, Technologie und Raumfahrt</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">BMFTR</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Federal Ministry  of Research, Technology and Space</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">formerly: Bundesministerium für Bildung und Forschung</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bmftr.bund.de/EN/Home/home_node.html</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04pz7b180</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_005066</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>1998</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Leibniz Institute of Plant Genetics and Crop Plant Research</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">IPK</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ipk-gatersleben.de/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02skbsp27</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011341</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>1998</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Disclaimer</r3d:policyName>
+				<r3d:policyUrl>https://www.ipk-gatersleben.de/en/imprint</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://www.ipk-gatersleben.de/en/imprint</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.ipk-gatersleben.de/en/imprint</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>none</r3d:pidSystem>
+																								<r3d:remarks>Parallel to the book edition a database version available in the Internet is being developed. For this purpose the electronic text files of the submitted manuscripts are structured and converted into tables, so that they can be imported into a database.The information in this database is mainly based on &quot;Hanelt, P. &amp; Institute of Plant Genetics and Crop Plant Research 2001: Mansfeld&#039;s Encyclopedia of Agricultural and Horticultural Crops&quot;, published by Springer. © of the electronic version: IPK Gatersleben.</r3d:remarks>
+		<r3d:entryDate>2012-11-23</r3d:entryDate>
+		<r3d:lastUpdate>2026-01-28</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

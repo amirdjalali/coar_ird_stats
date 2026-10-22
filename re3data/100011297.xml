@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011297</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3PD2W</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Nord-Trondelag Health Study</r3d:repositoryName>
+				<r3d:additionalName language="eng">HUNT Databank</r3d:additionalName>
+				<r3d:additionalName language="eng">HUNT Study</r3d:additionalName>
+				<r3d:additionalName language="nor">Helseundersokelsen i Nord-Trondelag</r3d:additionalName>
+				<r3d:repositoryUrl>https://hunt-db.medisin.ntnu.no/hunt-db/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_010626</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>nlx_57833</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">The Trøndelag Health Study (The HUNT Study) is one of the largest health studies ever performed. It is a unique database of questionnaire data, clinical measurements and samples from a county’s inhabitants from 1984 onwards.
+The HUNT Study is well-known in the county of Trøndelag, and its inhabitants have a generally positive attitude to participation and health research resulting from the study. HUNT has high participation rates, providing a good base for further health surveys in the county and an excellent research environment.
+Today, HUNT Research Centre has a database with information on 230,000 people. Approximately 300 national and international research projects are currently using the samples and data from HUNTs collection.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.ntnu.edu/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>kontakt@hunt.ntnu.no</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>data from roughly 250.000 participants</r3d:size>
+						<r3d:startDate>1984</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>nor</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22202</r3d:subjectId>
+				<r3d:subjectName>Public Heatlh, Healthcare Research, Social and Occupational Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.ntnu.edu/hunt/hunt-surveys</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/ACF7-8YT9</r3d:contentTypeId>
+				<r3d:contentTypeName>aggregated data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_cb28</r3d:contentTypeId>
+				<r3d:contentTypeName>clinical trial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/NHD0-W6SY</r3d:contentTypeId>
+				<r3d:contentTypeName>survey data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>HUNT South</r3d:keyword>
+					<r3d:keyword>HUNT1</r3d:keyword>
+					<r3d:keyword>HUNT2</r3d:keyword>
+					<r3d:keyword>HUNT3</r3d:keyword>
+					<r3d:keyword>HUNT4</r3d:keyword>
+					<r3d:keyword>Young-HUNT</r3d:keyword>
+					<r3d:keyword>social sciences</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Norwegian University of Science and Technology, HUNT Research Centre</r3d:institutionName>
+									<r3d:institutionAdditionalName language="nor">NTNU HUNT Forskningssenter</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>NOR</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ntnu.edu/hunt</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data access information</r3d:policyName>
+				<r3d:policyUrl>https://www.ntnu.edu/hunt/data</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Guidelines for administration and use of research data from the HUNT study</r3d:policyName>
+				<r3d:policyUrl>https://www.ntnu.edu/documents/140075/1295407221/20190801_Guidelines_for_the_use_of_HUNT_data.pdf/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Guidelines for publication of research results using HUNT-data</r3d:policyName>
+				<r3d:policyUrl>https://www.ntnu.no/documents/10304/1300106453/Guidelines+for+publication+of+research+results+using+HUNT-data_2024.pdf/9e9888e5-cdd0-6382-8581-fd8a59a17c4e?t=1734440008600</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.ntnu.edu/documents/140075/1295407221/20190801_Guidelines_for_the_use_of_HUNT_data.pdf/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+															<r3d:pidSystem>none</r3d:pidSystem>
+															<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks>Nord-Trondelag Health Study is covered by Thomson Reuters Data Citation Index. Associated is the HUNT biobank with an commercial branck.</r3d:remarks>
+		<r3d:entryDate>2014-11-26</r3d:entryDate>
+		<r3d:lastUpdate>2026-08-27</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

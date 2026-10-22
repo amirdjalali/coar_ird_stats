@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011037</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3HK8B</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">SureChEMBL</r3d:repositoryName>
+				<r3d:additionalName language="eng">Open Patent Data</r3d:additionalName>
+				<r3d:additionalName language="eng">SureChEMBL 2.0</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.surechembl.org/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.q2n5wk</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">SureChEMBL is a publicly available large-scale resource containing compounds extracted from the full text, images and attachments of patent documents. The data are extracted from the patent literature according to an automated text and image-mining pipeline on a daily basis. SureChEMBL provides access to a previously unavailable, open and timely set of annotated compound-patent associations, complemented with sophisticated combined structure and keyword-based search capabilities against the compound repository and patent document corpus. Additionally, SureChEMBL makes use of a dictionary-based approach to automatically annotate genes and diseases in the patent text. Given the wealth of knowledge hidden in patent documents, analysis of SureChEMBL data has immediate applications in drug discovery, medicinal chemistry and other commercial areas of chemical science.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>surechembl-help@ebi.ac.uk</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>28.5 million compounds extracted from 28 million patent documents</r3d:size>
+						<r3d:startDate>2013</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>31</r3d:subjectId>
+				<r3d:subjectName>Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://chembl.gitbook.io/surechembl</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>chemical structures</r3d:keyword>
+					<r3d:keyword>chemoinformatics</r3d:keyword>
+					<r3d:keyword>drugs</r3d:keyword>
+					<r3d:keyword>metallorganic compounds</r3d:keyword>
+					<r3d:keyword>molecular data</r3d:keyword>
+					<r3d:keyword>organic chemistry</r3d:keyword>
+					<r3d:keyword>patents</r3d:keyword>
+					<r3d:keyword>polymers</r3d:keyword>
+					<r3d:keyword>structure formula</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">EMBL-EBI</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>EEC</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ebi.ac.uk/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02catss52</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_004727</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_72386</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2013</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>EMBL-EBI terms of use</r3d:policyName>
+				<r3d:policyUrl>https://www.ebi.ac.uk/about/terms-of-use</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Licensing of EMBL-EBI data resources</r3d:policyName>
+				<r3d:policyUrl>https://www.ebi.ac.uk/licencing</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/deed.en</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+							<r3d:versioning>no</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://www.surechembl.org/api/swagger-ui/index.html#/</r3d:apiUrl>
+									<r3d:apiDocumentation>https://chembl.gitbook.io/surechembl/api/api-documentation</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>other</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://chembl.gitbook.io/surechembl/faq#how-to-cite-surechembl</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>no</r3d:enhancedPublication>
+														<r3d:remarks>11th December 2013 - The SureChem patent website has been acquired by the European Bioinformatics Institute (EMBL-EBI) and is being rebranded as SureChEMBL. 
+The data is updated regularly, with releases approximately every 3-4 months.</r3d:remarks>
+		<r3d:entryDate>2014-03-25</r3d:entryDate>
+		<r3d:lastUpdate>2026-07-24</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

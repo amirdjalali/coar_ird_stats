@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014119</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNDZ</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Regionaal Archief Alkmaar</r3d:repositoryName>
+				<r3d:additionalName language="eng">Regional Archive Alkmaar</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.regionaalarchiefalkmaar.nl/</r3d:repositoryUrl>
+				<r3d:description language="eng">Regionaal Archief Alkmaar (RAA) is a joint arrangement that operates within a large region in the province of
+Noord-Holland. The first purpose of this arrangement is to fulfill the function of a regional knowledge and information center through the acquisition and preservation of a broad collection of historical sources. The second purpose is to make these sources actively available. It does so according to the Dutch Public Records Act (Archiefwet 1995).
+At the time of writing, the joint arrangement services include 9 municipalities, namely: Alkmaar, Bergen, Castricum, Den Helder, Heiloo, Hollands Kroon, Schagen, Dijk en Waard and Texel. The arrangement also includes other joint arrangements. These are the GGD Hollands Noorden and Veiligheidsregio Noord-Holland Noord. Also, the RAA keeps the archives of the water authority Hoogheemraadschap Hollands Noorderkwartier and its predecessors. This is being done on the basis of a service agreement.
+Finally many archives of families, persons of interest, companies and non-governmental organizations are being collected and managed. This is a secondary task of the RAA, but these archives are also being managed on the ground of the Dutch Public Records Act.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.regionaalarchiefalkmaar.nl/over-ons/contact</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@archiefalkmaar.nl</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+						<r3d:size>111.792 image results; 1.406 archive results; 911 regional collection results;
+2.965.600person results; 38.963 historical cadastre results; 44.760 library results; 15.841 address books results; 778.782 newspaper results; 747.749 magazine results</r3d:size>
+						<r3d:startDate>2019</r3d:startDate>
+        									<r3d:repositoryLanguage>nld</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.regionaalarchiefalkmaar.nl/over-ons/organisatie</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>transcriptions</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Picturae Holding B.V.</r3d:institutionName>
+								<r3d:institutionCountry>NLD</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://picturae.com/services/entomology-digitization/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Regionaal Archief Alkmaar</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Regional Archive Alkmaar</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>NLD</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.regionaalarchiefalkmaar.nl/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Help with research</r3d:policyName>
+				<r3d:policyUrl>https://www.regionaalarchiefalkmaar.nl/studiezaal/hulp-bij-onderzoek</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Important documents</r3d:policyName>
+				<r3d:policyUrl>https://www.regionaalarchiefalkmaar.nl/over-ons/e-depot/belangrijke-documenten</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Policy plan 2019-2022</r3d:policyName>
+				<r3d:policyUrl>https://www.regionaalarchiefalkmaar.nl/images/Documenten/Artikelen/Beleidsplan_Tijdreizen.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>closed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-nc-sa/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/publicdomain/mark/1.0/deed.nl</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.regionaalarchiefalkmaar.nl/disclaimer</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+									<r3d:api>
+				<r3d:apiType>OAI-PMH</r3d:apiType>
+				<r3d:apiUrl>https://www.regionaalarchiefalkmaar.nl/over-ons/open-data</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://www.opencultuurdata.nl/api-english/</r3d:apiUrl>
+							</r3d:api>
+																					<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2026-07-10</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2029-07-09</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/7A7HV0</r3d:certificateUrl>
+							</r3d:certificate>
+										<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2023-01-16</r3d:entryDate>
+		<r3d:lastUpdate>2026-07-15</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

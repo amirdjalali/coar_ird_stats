@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010150</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3VS3M</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">LISS Panel</r3d:repositoryName>
+				<r3d:additionalName language="eng">Longitudinal Internet Studies for the Social sciences</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.lissdata.nl/</r3d:repositoryUrl>
+				<r3d:description language="eng">The LISS panel (Longitudinal Internet Studies for the Social sciences) is the principal component of the MESS project. It consists of 5000 households, comprising approximately 7500 individuals. The panel is based on a true probability sample of households drawn from the population register by Statistics Netherlands. Households that could not otherwise participate are provided with a computer and Internet connection. In addition to the LISS panel an Immigrant panel was available from October 2010 up until December 2014. This Immigrant panel consisted of around 1,600 households (2,400 individuals) of which 1,100 households (1,700 individuals) were of non-Dutch origin. The data from this panel are still available through the LISS data archive (https://www.dataarchive.lissdata.nl/study_units/view/162). 
+Panel members complete online questionnaires every month of about 15 to 30 minutes in total. They are paid for each completed questionnaire. One member in the household provides the household data and updates this information at regular time intervals.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.lissdata.nl/contact-us</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+								<r3d:startDate>2007-10</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12302</r3d:subjectId>
+				<r3d:subjectName>Empirical Social Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.lissdata.nl/how-it-works</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>LISS Core Study</r3d:keyword>
+					<r3d:keyword>MESS</r3d:keyword>
+					<r3d:keyword>census</r3d:keyword>
+					<r3d:keyword>immigrants</r3d:keyword>
+					<r3d:keyword>longitudinal study</r3d:keyword>
+					<r3d:keyword>microdata</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Dutch Research Council</r3d:institutionName>
+									<r3d:institutionAdditionalName language="nld">NWO</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="nld">Nederlandse Organisatie voor Wetenschappelijk Onderzoek</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>NLD</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nwo.nl/en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04jsz6e67</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="nld">Tilburg University, Instituut voor dataverzameling en onderzoek, CentERdata</r3d:institutionName>
+									<r3d:institutionAdditionalName language="nld">TIU, CentERdata</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Tilburg University , Institute for data collection and research, CentERdata</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>NLD</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://en.centerdata.nl/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Access the Archive</r3d:policyName>
+				<r3d:policyUrl>https://www.lissdata.nl/use-the-data</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Rules and Conditions</r3d:policyName>
+				<r3d:policyUrl>https://www.lissdata.nl/how-it-works-archive</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms and Conditions</r3d:policyName>
+				<r3d:policyUrl>https://www.lissdata.nl/general-terms-and-conditions</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://wetten.overheid.nl/BWBR0001886/2012-01-01</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.lissdata.nl/general-terms-and-conditions</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>DOI</r3d:pidSystem>
+					<r3d:pidSystem>URN</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.lissdata.nl/app/uploads/sites/4/2024/08/Reference_LISS_v6.1_20240828.pdf</r3d:citationGuidelineUrl>
+																	<r3d:metadataStandard>
+				<r3d:metadataStandardName>DDI (Data Documentation Initiative)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m13</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>LISS panel is covered by Thomson Reuters Data Citation Index. The LISS panel is the core element of the MESS project (Measurement and Experimentation in the Social Sciences). This project is devoted to enabling researchers to benefit from existing data, to carry out their own survey or to design a special experiment. Every researcher at a university or research institute in the Netherlands or elsewhere can submit a proposal for a panel throughout the year. We strive to integrate different academic disciplines: besides proposals from economics and the social sciences, we welcome proposals from the medical and biomedical sciences and the behavioral sciences.
+DSA seal from 23/03/2016 expired
+LISS Panel was CTS certified until 2024-12-14.</r3d:remarks>
+		<r3d:entryDate>2013-09-05</r3d:entryDate>
+		<r3d:lastUpdate>2026-01-30</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

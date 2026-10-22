@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012586</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3BF58</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">International Clinical Trials Registry Platform</r3d:repositoryName>
+				<r3d:additionalName language="eng">ICTRP</r3d:additionalName>
+				<r3d:additionalName language="eng">WHO ICTRP</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.who.int/clinical-trials-registry-platform</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.5a3bc5</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_004475</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>nlx_143764</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">The global scientific community, international partners, the private sector, civil society, and other relevant stakeholders  establish a voluntary platform to link clinical trials registers in order to ensure a single point of access and the unambiguous identification of trials with a view to enhancing access to information by patients, families, patient groups and others.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://trialsearch.who.int/Contact.aspx</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>ictrpinfo@who.int</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2007-05-04</r3d:startDate>
+        									<r3d:repositoryLanguage>ara</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fas</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>jpn</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>nld</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>por</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>rus</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>zho</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.who.int/clinical-trials-registry-platform/about</r3d:missionStatementUrl>
+									<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>COVID-19</r3d:keyword>
+					<r3d:keyword>evaluation</r3d:keyword>
+					<r3d:keyword>health care</r3d:keyword>
+					<r3d:keyword>health outcomes</r3d:keyword>
+					<r3d:keyword>health-related interventions</r3d:keyword>
+					<r3d:keyword>human participants</r3d:keyword>
+					<r3d:keyword>research study</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">World Health Organization</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">WHO</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.who.int/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01f80g185</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_008505</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nif-0000-30534</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">World Health Organization, Department of Research Policy and Cooperation, International Clinical Registry Platform</r3d:institutionName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.who.int/clinical-trials-registry-platform</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Copyright notice</r3d:policyName>
+				<r3d:policyUrl>https://www.who.int/about/policies/terms-of-use</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>The WHO strategy on research for health</r3d:policyName>
+				<r3d:policyUrl>https://www.afro.who.int/sites/default/files/2020-11/WHO_Strategy_on_research_for_health.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>WHO Registry Criteria</r3d:policyName>
+				<r3d:policyUrl>https://www.who.int/clinical-trials-registry-platform/network/registry-criteria</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>closed</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.who.int/about/policies/publishing/copyright</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>other</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.who.int/about/policies/publishing/copyright</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+									<r3d:certificate>
+				<r3d:certificateName>other</r3d:certificateName>
+												<r3d:certificateUrl></r3d:certificateUrl>
+							</r3d:certificate>
+										<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2018-01-04</r3d:entryDate>
+		<r3d:lastUpdate>2024-04-08</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

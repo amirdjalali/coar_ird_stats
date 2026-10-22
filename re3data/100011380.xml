@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011380</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R38S6G</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">National Arctic and Antarctic Data Center</r3d:repositoryName>
+				<r3d:additionalName language="eng">CN-AADC</r3d:additionalName>
+				<r3d:additionalName language="eng">CN-NADC</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.chinare.org.cn/data-center/data-resource</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>other</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>https://fairsharing.org/2810</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">Chinese National Arctic &amp; Antarctic Data Center(CN-NADC) is a national facility within the Polar research institute of China (PRIC), which is a research institute under the State Oceanic Administration (SOA) of China. CN-NADC was established in response to Chinese participation in the Article III.1.c of Antarctic Treaty System - (ATS — https://www.ats.aq/index_e.html) and Chinese Polar Data Policy.
+CN-NADC serves as the only authorized institution in China to capture, standard manage and long-term preserve the data and samples information, and to provide sustainable polar data service. In 2003, CN-NADC became one of the nodes of ‘National Data Sharing Infrastructure of Earth Science’ (GEODATA), which’s one of the Platforms of the National Science and Technology Infrastructures (NSTI) supported by the Ministry of Science and Technology (MOST) and the Ministry of Finance of People’s Republic of China.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>nadc@pric.org.cn</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2004</r3d:startDate>
+        									<r3d:repositoryLanguage>zho</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34302</r3d:subjectId>
+				<r3d:subjectName>Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>343</r3d:subjectId>
+				<r3d:subjectName>Geophysics and Geodesy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34102</r3d:subjectId>
+				<r3d:subjectName>Oceanography</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.chinare.org.cn/data-center/dindex</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>polar data</r3d:keyword>
+					<r3d:keyword>polar year</r3d:keyword>
+					<r3d:keyword>satellite image</r3d:keyword>
+					<r3d:keyword>weather data</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Chinese Arctic and Antarctic Service Portal</r3d:institutionName>
+								<r3d:institutionCountry>CHN</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.chinare.org.cn/data-center/data-resource</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Ministry of Science and Technology of the People&#039;s Republic of China</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">PRIC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CHN</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://en.most.gov.cn/index.html</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/027s68j25</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Science and Technology Infrastructures</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NSTI</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CHN</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.escience.org.cn/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Polar Research Institute of China</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">PRIC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CHN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://en.pric.org.cn/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/027fn9x30</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">State Council of the People&#039;s Republic of China</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">SOA</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CHN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://english.www.gov.cn/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02fzqav45</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+																	<r3d:responsibilityEndDate>2018</r3d:responsibilityEndDate>
+							</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data Management</r3d:policyName>
+				<r3d:policyUrl>https://www.chinare.org.cn/data-center/system</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Implementation rules for data collection and dissemination of national key research and development plan projects in polar fields (preliminary)</r3d:policyName>
+				<r3d:policyUrl>https://www.chinare.org.cn/data-center/rich-text?id=0daa80e4-4a9c-4860-aec7-6b17c4374be6</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Polar Information Commons - PIC</r3d:policyName>
+				<r3d:policyUrl>https://www.polarcommons.org/ethics-and-norms-of-data-sharing.html</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/3.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+															<r3d:pidSystem>none</r3d:pidSystem>
+																							<r3d:metadataStandard>
+				<r3d:metadataStandardName>DIF (Directory Interchange Format)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m14</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>ISO 19115</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m22</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>N-NADC uses Directory Interchange Fomrat -DIF metadata Standard. N-NADC submits metadata directory and information to Portal of Chinese Science and Technology Resource of NSTI and Antarctic Master Directory(AMD) of Global Change Master Directory (GCMD). Since 2003, CN-NADC is a member of SC-ADM (Standing Committee on Antarctic Data Management, http://www.scar.org/data-products/scadm) and it is also a member of the SOOS-DISM (Southern Ocean Observing System, Data Management Sub-Committee) since 2013.</r3d:remarks>
+		<r3d:entryDate>2014-11-17</r3d:entryDate>
+		<r3d:lastUpdate>2026-09-09</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

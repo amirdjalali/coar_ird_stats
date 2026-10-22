@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010189</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R36W2C</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">National Geoscience Data Centre</r3d:repositoryName>
+				<r3d:additionalName language="eng">NGDC</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.bgs.ac.uk/ngdc/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.drz6sx</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">The BGS is a data-rich organisation with over 400 datasets in its care; including environmental monitoring data, digital databases, physical collections (borehole core, rocks, minerals and fossils), records and archives. Our data is managed by the National Geoscience Data Centre.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>ngdc@bgs.ac.uk</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>77.850 records</r3d:size>
+						<r3d:startDate>2004</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34301</r3d:subjectId>
+				<r3d:subjectName>Geophysics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>343</r3d:subjectId>
+				<r3d:subjectName>Geophysics and Geodesy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>346</r3d:subjectId>
+				<r3d:subjectName>Water Research</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.bgs.ac.uk/information-hub/data-centres/?src=topNav</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>borehole records</r3d:keyword>
+					<r3d:keyword>climate change</r3d:keyword>
+					<r3d:keyword>drilling</r3d:keyword>
+					<r3d:keyword>earthquakes</r3d:keyword>
+					<r3d:keyword>geothermal energy</r3d:keyword>
+					<r3d:keyword>groundwater levels</r3d:keyword>
+					<r3d:keyword>hydrology</r3d:keyword>
+					<r3d:keyword>materials collections</r3d:keyword>
+					<r3d:keyword>offshore gas</r3d:keyword>
+					<r3d:keyword>offshore oil</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">British Geological Survey</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">BGS</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.bgs.ac.uk/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04a7gbp98</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Natural Environment Research Council</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NERC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ukri.org/councils/nerc/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02b5d8509</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_012850</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_27406</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>BGS Research Data Management Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.bgs.ac.uk/download/bgs-research-data-management-policy/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>NGDC Terms and Conditions</r3d:policyName>
+				<r3d:policyUrl>https://www.bgs.ac.uk/ngdc/download/ngdc-terms-and-conditions/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms of use</r3d:policyName>
+				<r3d:policyUrl>https://www.bgs.ac.uk/legal-and-policy/terms-of-use/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>The Freedom of Information Act and Environmental Information Regulations</r3d:policyName>
+				<r3d:policyUrl>https://www.bgs.ac.uk/about-bgs/contact-us/freedom-of-information-act/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>closed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.bgs.ac.uk/download/bgs-research-data-management-policy/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>OGL</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>open</r3d:dataUploadType>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>NGDC Digital Data Deposit Application</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>http://transfer.bgs.ac.uk/ingestion?_ga=2.39087907.1244703088.1711088512-254227631.1711088512</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>unknown</r3d:software>
+							<r3d:versioning>no</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>FTP</r3d:apiType>
+				<r3d:apiUrl>ftp://ftp.bgs.ac.uk/</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://www.bgs.ac.uk/technologies/web-services/api/</r3d:apiUrl>
+									<r3d:apiDocumentation>https://agsapi.bgs.ac.uk/docs</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.bgs.ac.uk/ngdc/citing-data/</r3d:citationGuidelineUrl>
+													<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2025-11-04</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2028-11-03</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/YASYML</r3d:certificateUrl>
+							</r3d:certificate>
+									<r3d:metadataStandard>
+				<r3d:metadataStandardName>ISO 19115</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m22</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>NGDC is covered by Clarivate Data Citation Index.
+NGDC is one of the Data Centres of NERC, https://www.ukri.org/councils/nerc/ .
+NGDC is a regular member of ICSU World Data System - WDS.</r3d:remarks>
+		<r3d:entryDate>2013-01-31</r3d:entryDate>
+		<r3d:lastUpdate>2025-12-11</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010064</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3Z30H</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Ecological Archives</r3d:repositoryName>
+				<r3d:additionalName language="eng">esa&#039;s ecological archives</r3d:additionalName>
+				<r3d:repositoryUrl>https://esapubs.org/archive/</r3d:repositoryUrl>
+				<r3d:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt; Ecological Archives through the end of 2015 will be hosted on FigShare once the transition to publishing with Wiley is completed. Thereafter, supplemental material may be hosted on Wiley Online, and/or data deposited with FigShare, Dryad, and other repositories. &gt;&gt;&gt;!!!&lt;&lt;&lt;   Ecological Archives publishes materials that are supplemental to articles that appear in the ESA journals (Ecology, Ecological Applications, Ecological Monographs, Ecosphere, Ecosystem Health and Sustainability and Bulletin of the Ecological Society of America), as well as peer-reviewed data papers with abstracts published in the printed journals. Three kinds of publications appear in Ecological Archives: appendices, supplements, and data papers.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>esa_journals@cornell.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>1982</r3d:startDate>
+        				<r3d:endDate>
+						<r3d:closed>2015</r3d:closed>
+								</r3d:endDate>
+        							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>31</r3d:subjectId>
+				<r3d:subjectName>Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>311</r3d:subjectId>
+				<r3d:subjectName>Molecular Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>31102</r3d:subjectId>
+				<r3d:subjectName>Organic Molecular Chemistry - Synthesis and Characterisation</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>http://esapubs.org/archive/</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>biotechnology</r3d:keyword>
+					<r3d:keyword>ecological restoration</r3d:keyword>
+					<r3d:keyword>ecosystem management</r3d:keyword>
+					<r3d:keyword>global climate change</r3d:keyword>
+					<r3d:keyword>habitat alteration and destruction</r3d:keyword>
+					<r3d:keyword>natural resource management</r3d:keyword>
+					<r3d:keyword>ozone depletion</r3d:keyword>
+					<r3d:keyword>species extinction</r3d:keyword>
+					<r3d:keyword>sustainable ecological systems</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">DataONE</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Data Observation Network for Earth</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.dataone.org</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2012-07-23</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Ecological Society of America</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">esa</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://esa.org/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>1982</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Instructions for Authors</r3d:policyName>
+				<r3d:policyUrl>http://esapubs.org/archive/instruct_d.htm</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>http://esapubs.org/archive/copyright.htm</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Instructions for Authors</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>http://esapubs.org/archive/instruct_d.htm</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>URN</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>http://esapubs.org/archive/instruct_d.htm</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>EML (Ecological Metadata Language)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m16</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>In addition, all authors are encouraged to register their data at DRYAD at http://datadryad.org or another appropriate Data Registry.</r3d:remarks>
+		<r3d:entryDate>2012-08-20</r3d:entryDate>
+		<r3d:lastUpdate>2026-07-01</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

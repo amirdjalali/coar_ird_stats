@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010661</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3WG7B</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Flanders Marine Institute</r3d:repositoryName>
+				<r3d:additionalName language="nld">VLIZ</r3d:additionalName>
+				<r3d:additionalName language="nld">Vlaams Instituut voor de Zee</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.vliz.be/en</r3d:repositoryUrl>
+				<r3d:description language="eng">The Flanders Marine Institute (VLIZ) is a centre for marine and coastal research. As a partner in various projects and networks it promotes and supports the international image of Flemish marine scientific research and international marine education.
+In its capacity as a coordination and information platform, the Flanders Marine Institute (VLIZ) supports some thousand marine scientists in Flanders by disseminating their knowledge to policymakers, educators, the general public and scientists.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>data@vliz.be</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.vliz.be/en/contact#14|51.2322|2.9313</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>nld</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34102</r3d:subjectId>
+				<r3d:subjectName>Oceanography</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.vliz.be/en/who-we-are/about-vliz/mission-strenghts</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>Aphia</r3d:keyword>
+					<r3d:keyword>Coastal Wiki</r3d:keyword>
+					<r3d:keyword>EurOBIS</r3d:keyword>
+					<r3d:keyword>IMERS</r3d:keyword>
+					<r3d:keyword>IMIS</r3d:keyword>
+					<r3d:keyword>Lifewatch</r3d:keyword>
+					<r3d:keyword>MDA</r3d:keyword>
+					<r3d:keyword>MIDAS</r3d:keyword>
+					<r3d:keyword>Marine Regions</r3d:keyword>
+					<r3d:keyword>RIB Zeekat</r3d:keyword>
+					<r3d:keyword>ScheldeMonitor</r3d:keyword>
+					<r3d:keyword>greenhouses</r3d:keyword>
+					<r3d:keyword>marine stations</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Flanders Marine Institute</r3d:institutionName>
+									<r3d:institutionAdditionalName language="nld">Vlaams Instituut voor de Zee</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>BEL</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.vliz.be/en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/0496vr396</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>IOC Data Policy and Terms of Use</r3d:policyName>
+				<r3d:policyUrl>https://iode.org/resources/ioc-data-policy-and-terms-of-use-2023/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>ISC World Data System Constitution</r3d:policyName>
+				<r3d:policyUrl>https://worlddatasystem.org/about/constitution/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>VLIZ Terms of use</r3d:policyName>
+				<r3d:policyUrl>https://www.vliz.be/en/terms-use</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/choose/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://worlddatasystem.org/about/data-sharing-principles/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Data submit guidelines</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://www.vliz.be/sites/vliz.be/files/public/docs/DataSubmitGuidelines.pdf</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>DOI</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.vliz.be/sites/vliz.be/files/public/docs/DataSubmitGuidelines.pdf</r3d:citationGuidelineUrl>
+																	<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>ISO 19115</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m22</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>VLIZ is covered by Clarivate Data Citation Index. VLIZ is a regular member of ISC World Data System (WDS). VLIZ is a partner in three European research infrastructures: LifeWatch focuses on biodiversity research, ICOS monitors the greenhouse gas balance and EMBRC provides access to marine organisms. These projects are part of the European Strategy Forum on Research Infrastructures (ESFRI). Aside VLIZ has an active role in the development of a European Marine Observation and Data Network (EMODnet).</r3d:remarks>
+		<r3d:entryDate>2014-02-14</r3d:entryDate>
+		<r3d:lastUpdate>2026-07-06</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014690</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNTU</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">LAPaL</r3d:repositoryName>
+				<r3d:additionalName language="eng">Long-acting therapeutics patents and licences database</r3d:additionalName>
+				<r3d:repositoryUrl>https://lapal.ch/</r3d:repositoryUrl>
+				<r3d:description language="eng">LAPaL was launched in May 2021 as the first go-to resource for information on long-acting technologies patents and licences.
+As of May 2023, it comprises 10 long-acting platform technologies with many potential applications in the fields of HIV prevention and treatment, hepatitis B treatment, malaria treatment, type 2 diabetes and metabolic disorders management, pain management and contraception, among other applications.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>lapal@medicinespatentpool.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>87 entries</r3d:size>
+						<r3d:startDate>2021-05</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22209</r3d:subjectId>
+				<r3d:subjectName>Pharmacology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://lapal.medicinespatentpool.org/information#factsheet</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_cb28</r3d:contentTypeId>
+				<r3d:contentTypeName>clinical trial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>HIV</r3d:keyword>
+					<r3d:keyword>hepatitis B</r3d:keyword>
+					<r3d:keyword>long-acting therapeutics</r3d:keyword>
+					<r3d:keyword>malaria</r3d:keyword>
+					<r3d:keyword>patents</r3d:keyword>
+					<r3d:keyword>tuberculosis</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Medicines Patent Pool</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">MPP</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CHE</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://medicinespatentpool.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01kw4bf10</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Unitaid</r3d:institutionName>
+								<r3d:institutionCountry>CHE</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://unitaid.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05t99je22</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Liverpool</r3d:institutionName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.liverpool.ac.uk</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04xs57h96</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Access Principles</r3d:policyName>
+				<r3d:policyUrl>https://lapal.medicinespatentpool.org/access-principles</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://lapal.medicinespatentpool.org/access-principles</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>Public Domain</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://lapal.medicinespatentpool.org/information#faq</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://lapal.medicinespatentpool.org/access-principles</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+											<r3d:versioning>no</r3d:versioning>
+																			<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2025-09-02</r3d:entryDate>
+		<r3d:lastUpdate>2025-09-06</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

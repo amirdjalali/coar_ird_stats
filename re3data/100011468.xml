@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011468</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3PS66</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Data Portal of the Alfred Wegener Institute</r3d:repositoryName>
+				<r3d:additionalName language="eng">including: AWI EXPEDITION</r3d:additionalName>
+				<r3d:repositoryUrl>https://data.awi.de/?site=home</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>biodbcore</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>001661</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; This repository is no longer available. &gt;&gt;&gt;!!!&gt;&gt;&gt;
+This page is not longer active, please use www.marine-data.de https://www.re3data.org/repository/r3d100011470 instead.
+Our data portal data.awi.de offers an integrative one-stop shop framework for discovering AWI research platforms including devices and sensors, tracklines, field reports, peer-reviewed publications, GIS products and mostly important data and data products archived in PANGAEA.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>expedition@awi.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>institutional</r3d:type>
+						<r3d:size>1.729 expeditions; 398.298 datasets</r3d:size>
+								<r3d:endDate>
+									<r3d:offline>2022-11-08</r3d:offline>
+					</r3d:endDate>
+        					<r3d:relatedRepository>
+				<r3d:relatedRepositoryId>r3d100011470</r3d:relatedRepositoryId>
+				<r3d:relatedRepositoryType>successor</r3d:relatedRepositoryType>
+			</r3d:relatedRepository>
+							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34102</r3d:subjectId>
+				<r3d:subjectName>Oceanography</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://data.awi.de/?site=about</r3d:missionStatementUrl>
+									<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>ATM</r3d:keyword>
+					<r3d:keyword>FRAM</r3d:keyword>
+					<r3d:keyword>Heincke</r3d:keyword>
+					<r3d:keyword>LTER</r3d:keyword>
+					<r3d:keyword>Neumayer III</r3d:keyword>
+					<r3d:keyword>Polar 2</r3d:keyword>
+					<r3d:keyword>Polar 5</r3d:keyword>
+					<r3d:keyword>Polar 6</r3d:keyword>
+					<r3d:keyword>Polarstern</r3d:keyword>
+					<r3d:keyword>aircraft</r3d:keyword>
+					<r3d:keyword>climate change</r3d:keyword>
+					<r3d:keyword>environmental science</r3d:keyword>
+					<r3d:keyword>research vessels</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="deu">Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung, Computer and Data Center</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">AWI Computer and Data Center</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.awi.de/en/about-us/service/computing-centre.html</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung (AWI)</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">AWI</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Alfred Wegener Institute for Polar and Marine Research</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.awi.de/?site=home</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/032e6b942</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Tutorials</r3d:policyName>
+				<r3d:policyUrl>https://sensor.awi.de/?site=tutorial</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>DOI</r3d:pidSystem>
+					<r3d:pidSystem>hdl</r3d:pidSystem>
+													<r3d:aidSystem>ORCID</r3d:aidSystem>
+							<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+											<r3d:profile>
+				<r3d:profileName>Helmholtz Association</r3d:profileName>
+				<r3d:profileUrl>https://os.helmholtz.de/open-research-data/forschungsdatenrepositorien/</r3d:profileUrl>
+			</r3d:profile>
+								<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2015-05-20</r3d:entryDate>
+		<r3d:lastUpdate>2024-12-11</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

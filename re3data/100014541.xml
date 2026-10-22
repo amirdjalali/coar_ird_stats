@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100014541</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJNPP</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">QualiBi</r3d:repositoryName>
+				<r3d:additionalName language="eng">Data for Qualitative Educational Research</r3d:additionalName>
+				<r3d:additionalName language="deu">Daten der qualitativen Bildungsforschung</r3d:additionalName>
+				<r3d:repositoryUrl>https://qualibi.net</r3d:repositoryUrl>
+				<r3d:description language="eng">QualiBi sees itself as a repository and platform for data in qualitative educational research. These data are documented, archived, and made available for scientific reuse upon request. Educational research primarily refers to research in the field of education in all its thematic and methodological diversity, but also includes studies from related disciplines that focus on educational processes across all stages of life or their underlying conditions. QualiBi aims to create an infrastructure that, with maximum involvement from the academic community, is specifically tailored to the needs of qualitative educational research. By doing so, it seeks to promote the sustainable management of research data and enable collaborative research based on a shared data foundation.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@qualibi.net</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2024</r3d:startDate>
+        									<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12103</r3d:subjectId>
+				<r3d:subjectName>Education Systems and Educational Institutions</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>121</r3d:subjectId>
+				<r3d:subjectName>Educational Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12302</r3d:subjectId>
+				<r3d:subjectName>Empirical Social Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11601</r3d:subjectId>
+				<r3d:subjectName>Social and Cultural Anthropology and Ethnology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>116</r3d:subjectId>
+				<r3d:subjectName>Social and Cultural Anthropology, Non-European Cultures, Jewish Studies and Religious Studies</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://qualibi.net</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>FAIR</r3d:keyword>
+					<r3d:keyword>adult education</r3d:keyword>
+					<r3d:keyword>biographical research</r3d:keyword>
+					<r3d:keyword>childhood studies</r3d:keyword>
+					<r3d:keyword>educational research</r3d:keyword>
+					<r3d:keyword>qualitative data</r3d:keyword>
+					<r3d:keyword>youth research</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="deu">Goethe-Universität Frankfurt</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Goethe University Frankfurt</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.uni-frankfurt.de</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04cvxnb49</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011240</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Collection policy (Daten teilen)</r3d:policyName>
+				<r3d:policyUrl>https://qualibi.net/daten-teilen/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Daten nutzen</r3d:policyName>
+				<r3d:policyUrl>https://qualibi.net/daten-nutzen/</r3d:policyUrl>
+			</r3d:policy>
+							<r3d:fundingInformation>
+				<r3d:funderName>Deutsche Forschungsgemeinschaft</r3d:funderName>
+									<r3d:funderIdentifier>
+						<r3d:funderIdentifierType>CrossrefFunderID</r3d:funderIdentifierType>
+						<r3d:funderIdentifierValue>501100001659</r3d:funderIdentifierValue>
+					</r3d:funderIdentifier>
+											</r3d:fundingInformation>
+				<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://qualibi.net/daten-nutzen</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+																																		<r3d:remarks>QualiBi is part of QualidataNet.</r3d:remarks>
+		<r3d:entryDate>2025-02-03</r3d:entryDate>
+		<r3d:lastUpdate>2025-10-30</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013300</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJMR8</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">COVID-19 Research Collaborations</r3d:repositoryName>
+				<r3d:repositoryUrl>https://covid19.elsevierpure.com/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>other</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>https://fairsharing.org/2926</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; This repository is no longer available. &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>330 datsets</r3d:size>
+								<r3d:endDate>
+									<r3d:offline>2022</r3d:offline>
+					</r3d:endDate>
+        							<r3d:repositoryLanguage>cat</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>dan</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fin</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>ita</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>jpn</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>nld</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>pol</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>rus</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>swe</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>tur</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>zho</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22201</r3d:subjectId>
+				<r3d:subjectName>Epidemiology and Medical Biometry/Statistics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>222</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>221</r3d:subjectId>
+				<r3d:subjectName>Microbiology, Virology and Immunology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22104</r3d:subjectId>
+				<r3d:subjectName>Virology</r3d:subjectName>
+			</r3d:subject>
+											<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>COVID-19</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Elsevier</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">RELX Group</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">Reed Elsevier</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>NLD</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.relx.com/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02scfj030</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+								<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://creativecommons.org/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+											<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>DOI</r3d:pidSystem>
+															<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks>Description: &quot;Research Collaborators &amp; Institutions related to Coronavirus Epidemic
+Aim: Identify potential research experts or collaborators in areas related to the coronavirus epidemic across basic science, translational research, or clinical practice.
+Scope: A selection of Researchers active or cited in the area of Coronavirus, Middle East Respiratory Syndrome (MERS), SARS, etc.&quot;</r3d:remarks>
+		<r3d:entryDate>2020-04-24</r3d:entryDate>
+		<r3d:lastUpdate>2024-12-09</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

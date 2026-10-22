@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012132</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3806J</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Ontario Reptile and Amphibian Atlas</r3d:repositoryName>
+				<r3d:repositoryUrl>https://ontarionature.org/programs/community-science/reptile-amphibian-atlas/</r3d:repositoryUrl>
+				<r3d:description language="eng">Reptiles and amphibians are collectively known as herpetofauna and are a unique part of Ontario’s biodiversity. An earlier atlas, called the Ontario Herpetofaunal Summary Atlas, provided extensive information about where many of the province’s reptiles and amphibians occurred.
+The Atlas is transitioning into a new era, with Ontario Nature wrapping-up the data collection phase of this project as of December 1, 2019. Now that we have discontinued our app and online form, we encourage you to continue submitting any future observations through the ‘Herps of Ontario’ project (https://www.inaturalist.org/projects/herps-of-ontario) on iNaturalist or directly to the Natural Heritage Information Centre (nhicrequests@ontario.ca) for species at risk. To learn more about the transition, read our blog (https://ontarionature.org/ontario-reptile-and-amphibian-atlas-changes-blog/)</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://ontarionature.org/about/contact/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@ontarionature.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2009</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21303</r3d:subjectId>
+				<r3d:subjectName>Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>213</r3d:subjectId>
+				<r3d:subjectName>Zoology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://ontarionature.org/about/</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>amphibian</r3d:keyword>
+					<r3d:keyword>biodiversity</r3d:keyword>
+					<r3d:keyword>biogeography</r3d:keyword>
+					<r3d:keyword>frog</r3d:keyword>
+					<r3d:keyword>herpetofauna</r3d:keyword>
+					<r3d:keyword>lizard</r3d:keyword>
+					<r3d:keyword>nature study</r3d:keyword>
+					<r3d:keyword>reptile</r3d:keyword>
+					<r3d:keyword>salamander</r3d:keyword>
+					<r3d:keyword>snake</r3d:keyword>
+					<r3d:keyword>toads</r3d:keyword>
+					<r3d:keyword>turtle</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Eastern Ontario Model Forest</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">EOMF</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.eomf.on.ca/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Environment Canada,  Habitat Stewardship Program</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">HSP</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">PIH</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Programme d&#039;intendance de l&#039;habitat</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.canada.ca/en/environment-climate-change/services/environmental-funding/programs.html#toc7</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Natural Heritage Information Centre</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">Centre d&#039;information sur le patrimoine naturel</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">NHIC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ontario.ca/page/natural-heritage-information-centre</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Ontario Nature</r3d:institutionName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://ontarionature.org/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Privacy and Security Policy</r3d:policyName>
+				<r3d:policyUrl>https://ontarionature.org/privacy-policy/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Provincial Policy Statement</r3d:policyName>
+				<r3d:policyUrl>https://www.ontario.ca/page/provincial-policy-statement-2020</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Survey Guidelines  Policies and Procedures</r3d:policyName>
+				<r3d:policyUrl>https://ontarionature.org/programs/community-science/reptile-amphibian-atlas/policies/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://ontarionature.org/programs/community-science/reptile-amphibian-atlas/policies/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>other</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Policies and Procedures</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://ontarionature.org/programs/community-science/reptile-amphibian-atlas/policies/</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>none</r3d:pidSystem>
+															<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+														<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2016-08-22</r3d:entryDate>
+		<r3d:lastUpdate>2024-07-05</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012788</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R39J7R</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">ArkDB</r3d:repositoryName>
+				<r3d:repositoryUrl>http://www.thearkdb.org/arkdb/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>other</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>OMICS_20036</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>SCR_001838</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>RRID</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>nif-0000-02568</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; The ArkDB is now CLOSED
+With apologies to anyone who still relies on the ArkDB data system or map-drawing tools, we&#039;ve had to take the difficult decision to shut down the ArkDB system. We&#039;ve not been funded to maintain it for many years now and have kept it in the air as best we could with the time that we had available but recent changes in personnel and continuing updates to the underpinning libraries mean that the effort required to keep it going outweighs the perceived benefits.
+If you feel that this is the wrong decision, please contact us to let us know and we&#039;ll see what we can do together
+You can always contact us on our Roslin Bioinformatics email address (roslin.bioinformatics@roslin.ed.ac.uk)
+The Roslin Bioinformatics Team
+21st November 2018 &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>info@thearkdb.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2008</r3d:startDate>
+        				<r3d:endDate>
+									<r3d:offline>2018-11-21</r3d:offline>
+					</r3d:endDate>
+        							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21306</r3d:subjectId>
+				<r3d:subjectName>Evolutionary Cell and Developmental Biology (Zoology)</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21105</r3d:subjectId>
+				<r3d:subjectName>General Genetics and Functional Genome Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>213</r3d:subjectId>
+				<r3d:subjectName>Zoology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>http://www.thearkdb.org/arkdb/</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>bioinformatics</r3d:keyword>
+					<r3d:keyword>chat</r3d:keyword>
+					<r3d:keyword>chicken</r3d:keyword>
+					<r3d:keyword>cow</r3d:keyword>
+					<r3d:keyword>deer</r3d:keyword>
+					<r3d:keyword>duck</r3d:keyword>
+					<r3d:keyword>farm animals</r3d:keyword>
+					<r3d:keyword>genetics</r3d:keyword>
+					<r3d:keyword>genomics</r3d:keyword>
+					<r3d:keyword>horse</r3d:keyword>
+					<r3d:keyword>pig</r3d:keyword>
+					<r3d:keyword>quail</r3d:keyword>
+					<r3d:keyword>salmon</r3d:keyword>
+					<r3d:keyword>sea bass</r3d:keyword>
+					<r3d:keyword>sequences</r3d:keyword>
+					<r3d:keyword>sheep</r3d:keyword>
+					<r3d:keyword>turkey</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Biotechnology and Biological Sciences Research Council</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">BSSRC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://bbsrc.ukri.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_011118</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_inv_1005015</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">University of Edinburgh, The Roslin Institute</r3d:institutionName>
+								<r3d:institutionCountry>GBR</r3d:institutionCountry>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ed.ac.uk/roslin</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_006533</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:nlx_83761</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Legal information</r3d:policyName>
+				<r3d:policyUrl>https://www.ed.ac.uk/about/website/privacy/legal-information</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://www.thearkdb.org/arkdb/privacy.jsp</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+									<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>http://rest.ensembl.org/</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>none</r3d:pidSystem>
+																								<r3d:remarks>Description:
+&quot;ArkDB is a generic, species-independent database built to capture the state of published information on genome mapping in a given species. It stores details of references, markers and loci and genetic linkage and cytogenetic maps which can be drawn using the online map-drawing application. Data from linkage maps held within the ArkDB system can be drawn alongside their corresponding genome sequence maps (extracted from ENSEMBL).&quot;
+ArkMAP is ArkDB&#039;s downloadable Map Drawing Application which can display maps retrieved from ArkDB and Ensembl.</r3d:remarks>
+		<r3d:entryDate>2018-08-02</r3d:entryDate>
+		<r3d:lastUpdate>2024-12-10</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010828</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3ZP6N</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Speech and Language Data Repository</r3d:repositoryName>
+				<r3d:additionalName language="spa">Banco de datos de habla y lenguaje</r3d:additionalName>
+				<r3d:additionalName language="fra">Banque de données parole et langage</r3d:additionalName>
+				<r3d:additionalName language="fra">CRDO-Aix</r3d:additionalName>
+				<r3d:additionalName language="fra">Centre de ressources pour la description de l&#039;oral</r3d:additionalName>
+				<r3d:additionalName language="eng">ORTOLANG Deposit and sharing</r3d:additionalName>
+				<r3d:additionalName language="eng">SLDR</r3d:additionalName>
+				<r3d:repositoryUrl>https://portal.issn.org/resource/ISSN/2429-6252</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>ISSN</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>2429-6252</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt;  As of 01/12/2015, deposit of data on SLDR website will be suspended to allow the public opening of Ortolang platform https://www.ortolang.fr/#/market/home . &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://portal.issn.org/contact-us</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+						<r3d:size>341 visible items; 790.856 documents</r3d:size>
+						<r3d:startDate>2006</r3d:startDate>
+        				<r3d:endDate>
+						<r3d:closed>2024-12-11</r3d:closed>
+								</r3d:endDate>
+        					<r3d:relatedRepository>
+				<r3d:relatedRepositoryId>100011329</r3d:relatedRepositoryId>
+				<r3d:relatedRepositoryType>successor</r3d:relatedRepositoryType>
+			</r3d:relatedRepository>
+							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>spa</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>zho</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>114</r3d:subjectId>
+				<r3d:subjectName>Linguistics</r3d:subjectName>
+			</r3d:subject>
+											<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>corpora</r3d:keyword>
+					<r3d:keyword>oral communication</r3d:keyword>
+					<r3d:keyword>speech</r3d:keyword>
+					<r3d:keyword>speech acts (linguistics)</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="fra">AIX-Marseille Université</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">AMU</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Université de la Mediterranée, Aix-Marseille II</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.univ-amu.fr/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/035xkbk20</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">CLARIN-ERIC</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.clarin.eu/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">Centre Informatique National de l&#039;Enseignement Supérieur Scientifique</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">CINES</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.cines.fr/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/00gnrwz95</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">Centre National de la Recherche Scientifique</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">CNRS</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.cnrs.fr/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02feahw73</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">Centre de Calcul de l&#039;institut National de Physique Nucléaire et de Physique de Particules</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">CCIN2P3</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://cc.in2p3.fr/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">Huma-Num</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">HN</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">La TGIR des humanités numériques</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.huma-num.fr/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">ORTOLANG</r3d:institutionName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ortolang.fr/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">Université de Provence, Aix-Marseille I, Laboratoire parole et langage</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">Centre d&#039;expérimentation sur la parole</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">LPL</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">UMR 7309</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://www.lpl-aix.fr/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Open Access (L213-1)</r3d:policyName>
+				<r3d:policyUrl>https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019202816/2011-05-08/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-nc-sa/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://sldr.org/licenceSLDR.php?version=1&amp;lang=en</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019202816/2011-05-08/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>Fedora</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>hdl</r3d:pidSystem>
+															<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>description: Speech &amp; Language Data Repository (SLDR) is a Trusted Data Repository offering labs and scholars a free-of-charge service for sharing their oral/linguistic data and archiving it with the help of procedures compliant with the OAIS model for long-term preservation. Its entire storage is referenced in international repositories such as OLAC (Open Language Archives Community) and CLARIN Virtual Language Observatory (VLO). Currently, packages are distributed via the TGE-Adonis grid, now integrated in Huma-Num, hosted by CC-IN2P3 and preserved on the platform of CINES, an institutional archive beneficiary of the Data Seal of Approval.
+In the framework of the ORTOLANG project (Open Resources and Tools for Language), a consortium of French linguistic research labs is planning to set up a network of CLARIN centres relying on SLDR and CNRTL respectively for the preservation and sharing of oral and text resources. Now engaged with the CNRTL and Nanterre Orléans Centre in building ORTOLANG, SLDR continues its work of gathering and sharing language data. All services currently offered will remain part of the new platform.</r3d:remarks>
+		<r3d:entryDate>2014-06-30</r3d:entryDate>
+		<r3d:lastUpdate>2024-12-11</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

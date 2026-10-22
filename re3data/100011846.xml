@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011846</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3206P</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Reality Commons</r3d:repositoryName>
+				<r3d:repositoryUrl>http://realitycommons.media.mit.edu/</r3d:repositoryUrl>
+				<r3d:description language="eng">Cell phones have become an important platform for the understanding of social dynamics and influence, because of their pervasiveness, sensing capabilities, and computational power. Many applications have emerged in recent years in mobile health, mobile banking, location based services, media democracy, and social movements. With these new capabilities, we can potentially be able to identify exact points and times of infection for diseases, determine who most influences us to gain weight or become healthier, know exactly how information flows among employees and productivity emerges in our work spaces, and understand how rumors spread.
+In an attempt to address these challenges, we release several mobile data sets here in &quot;Reality Commons&quot; that contain the dynamics of several communities of about 100 people each. We invite researchers to propose and submit their own applications of the data to demonstrate the scientific and business values of these data sets, suggest how to meaningfully extend these experiments to larger populations, and develop the math that fits agent-based models or systems dynamics models to larger populations. 
+These data sets were collected with tools developed in the MIT Human Dynamics Lab and are now available as open source projects  or at cost.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>http://realitycommons.media.mit.edu/contactus.html</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>wdong@media.mit.edu</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12303</r3d:subjectId>
+				<r3d:subjectName>Communication Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>44202</r3d:subjectId>
+				<r3d:subjectName>Communication Technology and Networks, High-Frequency Technology and Photonic Systems, Signnal Processing and Machine Learning for Information Technology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>44</r3d:subjectId>
+				<r3d:subjectName>Computer Science, Systems and Electrical Engineering</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>442</r3d:subjectId>
+				<r3d:subjectName>Electrical Engineering and Information Technology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>4</r3d:subjectId>
+				<r3d:subjectName>Engineering Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+											<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>MATLAB</r3d:keyword>
+					<r3d:keyword>bluetooth</r3d:keyword>
+					<r3d:keyword>employees</r3d:keyword>
+					<r3d:keyword>family</r3d:keyword>
+					<r3d:keyword>friends</r3d:keyword>
+					<r3d:keyword>mobile phones</r3d:keyword>
+					<r3d:keyword>people analytics</r3d:keyword>
+					<r3d:keyword>phone log</r3d:keyword>
+					<r3d:keyword>reality mining</r3d:keyword>
+					<r3d:keyword>social evolution</r3d:keyword>
+					<r3d:keyword>social networks</r3d:keyword>
+					<r3d:keyword>social physics</r3d:keyword>
+					<r3d:keyword>students</r3d:keyword>
+					<r3d:keyword>survey</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">MIT Human Dynamics Laboratory</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Massachusetts Institute of Technology, Human Dynamics Laboratory</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.media.mit.edu/groups/human-dynamics/overview/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">MIT Media Lab</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Massachusetts Institute of Technology, Media Lab</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.media.mit.edu/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Massachusetts Institute of Technology</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">MIT</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://web.mit.edu/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/042nb2s44</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Dynamics and Performance of an IT Call Center</r3d:policyName>
+				<r3d:policyUrl>http://realitycommons.media.mit.edu/CallCenterDynamics.html</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>feeRequired</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://realitycommons.media.mit.edu/index.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+							<r3d:versioning>no</r3d:versioning>
+									<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>http://realitycommons.media.mit.edu/download.php?file=RealityMiningReadMe.pdf</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks>Reality Commons is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+		<r3d:entryDate>2016-05-04</r3d:entryDate>
+		<r3d:lastUpdate>2022-05-10</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010156</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3388H</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">World Data Center for Remote Sensing of the Atmosphere</r3d:repositoryName>
+				<r3d:additionalName language="deu">WDC - Remote Sensing of the Atmosphere</r3d:additionalName>
+				<r3d:additionalName language="eng">WDC-RSAT</r3d:additionalName>
+				<r3d:additionalName language="deu">Weltdatenzentrum für die Fernerkundung der Atmosphäre</r3d:additionalName>
+				<r3d:repositoryUrl>https://wdc.dlr.de/data_products/VIEWER/</r3d:repositoryUrl>
+				<r3d:description language="eng">The World Data Center for Remote Sensing of the Atmosphere, WDC-RSAT, offers scientists and the general public free access (in the sense of a “one-stop shop”) to a continuously growing collection of atmosphere-related satellite-based data sets (ranging from raw to value added data), information products and services. Focus is on atmospheric trace gases, aerosols, dynamics, radiation, and cloud physical parameters. Complementary information and data on surface parameters (e.g. vegetation index, surface temperatures) is also provided. This is achieved either by giving access to data stored at the data center or by acting as a portal containing links to other providers.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://wdc.dlr.de/about/contact.php</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>wdc@dlr.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+								<r3d:startDate>2003</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34101</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>343</r3d:subjectId>
+				<r3d:subjectName>Geophysics and Geodesy</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>344</r3d:subjectId>
+				<r3d:subjectName>Mineralogy, Petrology and Geochemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.dlr.de/en/eoc/about-us/german-remote-sensing-data-center/atmosphere/wdc-rsat</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>Stratospheric Ozone Monitoring; Solar Energy</r3d:keyword>
+					<r3d:keyword>aerosols</r3d:keyword>
+					<r3d:keyword>air quality</r3d:keyword>
+					<r3d:keyword>air quality forecasting and monitoring</r3d:keyword>
+					<r3d:keyword>atmosphere</r3d:keyword>
+					<r3d:keyword>bio-energy</r3d:keyword>
+					<r3d:keyword>cloud parameters</r3d:keyword>
+					<r3d:keyword>clouds</r3d:keyword>
+					<r3d:keyword>convention monitoring renewable energies</r3d:keyword>
+					<r3d:keyword>dynamics</r3d:keyword>
+					<r3d:keyword>hazard early detection</r3d:keyword>
+					<r3d:keyword>health</r3d:keyword>
+					<r3d:keyword>land surface parameters</r3d:keyword>
+					<r3d:keyword>mesopause change</r3d:keyword>
+					<r3d:keyword>meteorology</r3d:keyword>
+					<r3d:keyword>missions</r3d:keyword>
+					<r3d:keyword>remote sensing</r3d:keyword>
+					<r3d:keyword>satellite data</r3d:keyword>
+					<r3d:keyword>sea surface</r3d:keyword>
+					<r3d:keyword>sensors</r3d:keyword>
+					<r3d:keyword>solar radiation</r3d:keyword>
+					<r3d:keyword>spectroscopy data</r3d:keyword>
+					<r3d:keyword>sunburn time</r3d:keyword>
+					<r3d:keyword>temperatures</r3d:keyword>
+					<r3d:keyword>trace gases</r3d:keyword>
+					<r3d:keyword>validation</r3d:keyword>
+					<r3d:keyword>virtual lab</r3d:keyword>
+					<r3d:keyword>weather</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">German Aerospace Center</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">DLR</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Deutsches Zentrum für Luft- und Raumfahrt (DLR)</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.dlr.de/en</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04bwf3e34</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">German Aerospace Center, Earth Observation Center, German Remote Sensing Data Center of the German Aerospace Center</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">DFD</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="deu">Deutsches Zentrum für Luft- und Raumfahrt (DLR), Earth Observation Center, Deutsches Fernerkundungsdatenzentrum</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">EOC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.dlr.de/de/eoc/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2003</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">International Council for Science, World Data System</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">ICSU</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://council.science/member/world-data-system-wds/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2003</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">World Meteorological Organization, Global Atmosphere Watch</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">GAW</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">WMO</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>AAA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/global-atmosphere-watch-gaw-programme</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2003</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data Sharing Principles</r3d:policyName>
+				<r3d:policyUrl>https://worlddatasystem.org/about/data-sharing-principles/</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>ISC World Data System Constitution</r3d:policyName>
+				<r3d:policyUrl>https://worlddatasystem.org/about/constitution/</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://worlddatasystem.org/about/data-sharing-principles/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>DOI</r3d:pidSystem>
+																					<r3d:profile>
+				<r3d:profileName>Helmholtz Association</r3d:profileName>
+				<r3d:profileUrl>https://os.helmholtz.de/open-research-data/forschungsdatenrepositorien/</r3d:profileUrl>
+			</r3d:profile>
+								<r3d:remarks>WDC-RSAT is a regular ISC World Data System member. 
+WDC-RSAT is the most recent data center in the WMO-WDC family. As part of the family of the ISC-World Data Services, WDC-RSAT is by definition integrated and linked to other WDC’s worldwide. WDC-RSAT serves as a communication and data management platform for the recently established international and global Network for the Detection of Mesopause Change (NDMC). As part of the family of the ICSU-World Data Services, WDC-RSAT is by definition integrated and linked to other WDC’s worldwide. Especially, the German ICSU WDC’s (WDC-Climate, WDC-Mare, WDC-Terra, and WDC-RSAT) have formed in 2004 the “WDC-Cluster on Earth System Research” in order to promote interdisciplinary research related to Earth sciences.</r3d:remarks>
+		<r3d:entryDate>2012-11-05</r3d:entryDate>
+		<r3d:lastUpdate>2026-07-13</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

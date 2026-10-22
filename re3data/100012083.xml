@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012083</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3XS84</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Ocean Tracking Network</r3d:repositoryName>
+				<r3d:additionalName language="eng">OTN</r3d:additionalName>
+				<r3d:repositoryUrl>https://members.oceantrack.org/</r3d:repositoryUrl>
+				<r3d:description language="eng">Ocean Tracking Network (OTN) deploys Canadian, state of the art acoustic receivers and oceanographic monitoring equipment in key ocean locations. These are being used to document the movements and survival of marine animals carrying acoustic tags and to document how both are influenced by oceanographic conditions.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://oceantrackingnetwork.org/contact-us/</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>otn@dal.ca</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+															<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>31</r3d:subjectId>
+				<r3d:subjectName>Chemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21303</r3d:subjectId>
+				<r3d:subjectName>Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34601</r3d:subjectId>
+				<r3d:subjectName>Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34102</r3d:subjectId>
+				<r3d:subjectName>Oceanography</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>346</r3d:subjectId>
+				<r3d:subjectName>Water Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>213</r3d:subjectId>
+				<r3d:subjectName>Zoology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://oceantrackingnetwork.org/about/#vision</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>acoustics</r3d:keyword>
+					<r3d:keyword>animal movements</r3d:keyword>
+					<r3d:keyword>fish migration patterns</r3d:keyword>
+					<r3d:keyword>marine conditions</r3d:keyword>
+					<r3d:keyword>marine ecology</r3d:keyword>
+					<r3d:keyword>marine science</r3d:keyword>
+					<r3d:keyword>oceanography</r3d:keyword>
+					<r3d:keyword>sea animals</r3d:keyword>
+					<r3d:keyword>telemetry</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Canada Foundation for Innovation</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CFI</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">FCI</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Fondation canadienne pour l’innovation</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">INNOVATION.CA</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.innovation.ca/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/000az4664</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_005054</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Dalhousie University, Department of Oceanography</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Dal, Department of Oceanography</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.dal.ca/faculty/science/oceanography.html</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Natural Sciences and Engineering Research Council of Canada</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">CRSNG</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Conseil de recherches en sciences naturelles et en génie du Canada</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">NSERC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nserc-crsng.gc.ca/index_eng.asp</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01h531d29</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>RRID</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://scicrunch.org/resolver/RRID:SCR_013327</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Social Sciences and Humanities Research Council of Canada</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">CRSH</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Conseil de recherches en sciences humaines</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">SSHRCC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04j5jqy92</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>OTN Data Policies and Guidelines</r3d:policyName>
+				<r3d:policyUrl>https://members.oceantrack.org/data/policies</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://members.oceantrack.org/data/policies</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>OTN Data Policy</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://members.oceantrack.org/data/policies</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>unknown</r3d:software>
+									<r3d:api>
+				<r3d:apiType>OpenDAP</r3d:apiType>
+				<r3d:apiUrl>http://erddap.oceantrack.org</r3d:apiUrl>
+									<r3d:apiDocumentation>https://members.oceantrack.org/erddap/index.html</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>http://geoserver.oceantrack.org</r3d:apiUrl>
+									<r3d:apiDocumentation>https://members.oceantrack.org/data/publication-information</r3d:apiDocumentation>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://members.oceantrack.org/data/discovery/bypublic.htm</r3d:apiUrl>
+									<r3d:apiDocumentation>https://members.oceantrack.org/data/publication-information</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>http://OTN Data Policies and Guidelines</r3d:citationGuidelineUrl>
+													<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2023-11-09</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2026-11-08</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/XANOTV</r3d:certificateUrl>
+							</r3d:certificate>
+									<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>Ocean Tracking Network is member of the WDS.</r3d:remarks>
+		<r3d:entryDate>2016-07-27</r3d:entryDate>
+		<r3d:lastUpdate>2025-06-23</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

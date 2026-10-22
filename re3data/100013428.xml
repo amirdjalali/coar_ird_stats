@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013428</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJMUS</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Genome Warehouse</r3d:repositoryName>
+				<r3d:additionalName language="eng">GWH</r3d:additionalName>
+				<r3d:repositoryUrl>https://ngdc.cncb.ac.cn/gwh/</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>:10.25504/FAIRsharing.7qBaJ0</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">The Genome Warehouse (GWH) is a public repository housing genome-scale data for a wide range of species and delivering a series of web services for genome data submission, storage, release and sharing.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>gwh@big.ac.cn</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>2017-07-01</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>211</r3d:subjectId>
+				<r3d:subjectName>Basic Research in Biology and Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21105</r3d:subjectId>
+				<r3d:subjectName>General Genetics and Functional Genome Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>22</r3d:subjectId>
+				<r3d:subjectName>Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>221</r3d:subjectId>
+				<r3d:subjectName>Microbiology, Virology and Immunology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://ngdc.cncb.ac.cn/mission</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>animals</r3d:keyword>
+					<r3d:keyword>archaea</r3d:keyword>
+					<r3d:keyword>bacteria</r3d:keyword>
+					<r3d:keyword>fungi</r3d:keyword>
+					<r3d:keyword>genome annotation</r3d:keyword>
+					<r3d:keyword>genome archive</r3d:keyword>
+					<r3d:keyword>genome sequence</r3d:keyword>
+					<r3d:keyword>genome submission</r3d:keyword>
+					<r3d:keyword>metagenomes</r3d:keyword>
+					<r3d:keyword>plants</r3d:keyword>
+					<r3d:keyword>quality control</r3d:keyword>
+					<r3d:keyword>viroids</r3d:keyword>
+					<r3d:keyword>viruses</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">China National Center for Bioinformation / Beijing Institute of Genomics, Chinese Academy of Sciences</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CAS-BIG</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CHN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>http://english.big.cas.cn/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">China National Center for Bioinformation,  National Genomics Data Center</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">CNCB-NGDC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CHN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://ngdc.cncb.ac.cn/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data Usage Policies</r3d:policyName>
+				<r3d:policyUrl>https://ngdc.cncb.ac.cn/policies</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/3.0/cn/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+													<r3d:api>
+				<r3d:apiType>FTP</r3d:apiType>
+				<r3d:apiUrl>ftp://download.big.ac.cn/gwh/</r3d:apiUrl>
+							</r3d:api>
+													<r3d:citationGuidelineUrl>https://ngdc.cncb.ac.cn/gwh/</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>unknown</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>Repository-Developed Metadata Schemas</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m36</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2020-10-14</r3d:entryDate>
+		<r3d:lastUpdate>2024-08-26</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

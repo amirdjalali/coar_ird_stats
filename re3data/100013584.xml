@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013584</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJMZ4</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="deu">aviDa</r3d:repositoryName>
+				<r3d:additionalName language="deu">FDZ-aviDa</r3d:additionalName>
+				<r3d:additionalName language="deu">Forschungsdateninfrastruktur für audio-visuelle Forschungsdaten der empirischen qualitativen Sozialforschung</r3d:additionalName>
+				<r3d:additionalName language="eng">RDC-aviDa</r3d:additionalName>
+				<r3d:additionalName language="eng">Research Data Centre for audio-visual data of qualitative social research</r3d:additionalName>
+				<r3d:repositoryUrl>https://depositonce.tu-berlin.de/collections/583fdd9c-3d05-4e09-9959-08ab7d74c1f0</r3d:repositoryUrl>
+				<r3d:description language="eng">aviDa is the RDC for audio-visual data of empirical qualitative social research at the Department of General Sociology at the Technische Universität Berlin, developed in cooperation between the Technische Universität Berlin and the University of Bayreuth. aviDa aims at opening and sharing videographic research data since 2018.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>avida@as.tu-berlin.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.tu.berlin/as/fdz-avida/daten-nachnutzen</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>384 items</r3d:size>
+						<r3d:startDate>2018</r3d:startDate>
+        									<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.tu.berlin/as/fdz-avida/home</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/CQMR-7K63</r3d:contentTypeId>
+				<r3d:contentTypeName>recorded data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>emotions</r3d:keyword>
+					<r3d:keyword>large religious events</r3d:keyword>
+					<r3d:keyword>large sporting events</r3d:keyword>
+					<r3d:keyword>social distancing</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="deu">Deutsche Forschungsgemeinschaft</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">DFG</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">German Research Foundation</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.dfg.de/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/018mejw64</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">TU Berlin, Universitätsbibliothek</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">TU Berlin, University Library</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.tu.berlin/ub/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">TU Berlin, ZE Campusmanagement</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">tubIT</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.tu.berlin/en/campusmanagement</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">Technical University of Berlin</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">Technische Universität Berlin</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.tu.berlin/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03v4gjf40</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Technische Universität Berlin, Fachgebiet Allgemeine Soziologie, insbesondere Theorie moderner Gesellschaften</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">TU Berlin, Department of General Sociology and Theory of Modern Societies</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">formerly: TU Berlin, Chair of General Sociology</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.tu.berlin/as</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2018</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Universität Bayreuth, Lehrstuhl für Kultur- und Religionssoziologie</r3d:institutionName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.soziologie.uni-bayreuth.de/de/bereiche/kultur-und-religionssoziologie/index.html</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2018</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities</r3d:policyName>
+				<r3d:policyUrl>https://openaccess.mpg.de/Berliner-Erklaerung</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Die Forschungsdaten-Policy der Technischen Universität Berlin</r3d:policyName>
+				<r3d:policyUrl>https://www.tu.berlin/arbeiten/wichtige-dokumente/richtlinien-leitlinien/forschungsdaten-policy</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://rightsstatements.org/page/InC/1.0/?language=de</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>DSpace</r3d:software>
+											<r3d:pidSystem>DOI</r3d:pidSystem>
+					<r3d:pidSystem>hdl</r3d:pidSystem>
+																							<r3d:metadataStandard>
+				<r3d:metadataStandardName>Dublin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m15</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2021-06-07</r3d:entryDate>
+		<r3d:lastUpdate>2025-07-09</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100013555</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R31NJMYB</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Finnish Biodiversity Information Facility</r3d:repositoryName>
+				<r3d:additionalName language="eng">FinBIF</r3d:additionalName>
+				<r3d:additionalName language="swe">Finlands Artdatacenter</r3d:additionalName>
+				<r3d:additionalName language="fin">Laji.fi</r3d:additionalName>
+				<r3d:additionalName language="fin">Suomen Lajitietokeskus</r3d:additionalName>
+				<r3d:repositoryUrl>https://laji.fi/en</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>ROR</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>01c0yey93</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.58bd67</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">FinBIF is an integral part of the global biodiversity informatics framework, dedicated to managing species information. Its mission encompasses a wide array of services, including the generation of digital data through various processes, as well as the sourcing, collation, integration, and distribution of existing digital data. Key initiatives under FinBIF include the digitization of collections, the development of data systems for collections Kotka (https://biss.pensoft.net/article/37179/) and observations (https://biss.pensoft.net/article/39150/), and the establishment of a national DNA barcode reference library. 
+
+FinBIF manages data types such as verbal species descriptions (which include drawings, pictures, and other media types), biological taxonomy, scientific collection specimens, opportunistic systematic and event-based observations, and DNA barcodes. It employs a unified IT architecture to manage data flows, delivers services through a single online portal, fosters collaboration under a cohesive umbrella concept, and articulates development visions under a unified brand. The portal Laji.fi serves as the entry point to this harmonized open data ecosystem. FinBIF&#039;s portal is accessible in Finnish, Swedish, and English. Data intended for restricted use are made available to authorities through a separate portal, while open data are also shared with international systems, such as GBIF.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>helpdesk@laji.fi</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://laji.fi/en/about/1153</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>54.517.109 occurrence records; 48.892 species; 600 collections</r3d:size>
+						<r3d:startDate>2024-03-27</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fin</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>swe</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21305</r3d:subjectId>
+				<r3d:subjectName>Animal Physiology and Biochemistry</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21202</r3d:subjectId>
+				<r3d:subjectName>Ecology and Biodiversity of Plants and Ecosystems</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>212</r3d:subjectId>
+				<r3d:subjectName>Plant Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>213</r3d:subjectId>
+				<r3d:subjectName>Zoology</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://laji.fi/en/about/2954</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_c513</r3d:contentTypeId>
+				<r3d:contentTypeName>image</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FF4C-28RK</r3d:contentTypeId>
+				<r3d:contentTypeName>observational data</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>biodiversity informatics</r3d:keyword>
+					<r3d:keyword>biodiversity information</r3d:keyword>
+					<r3d:keyword>research infrastructure</r3d:keyword>
+					<r3d:keyword>species information</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Finnish Museum of Natural History</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Luomus</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fin">Luonnontieteellinen keskusmuseo</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="swe">Naturhistoriska centralmuseet</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FIN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.helsinki.fi/en/luomus</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/03tcx6c30</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Data policy of the Finnish Biodiversity Information Facility</r3d:policyName>
+				<r3d:policyUrl>https://cms.laji.fi/wp-content/uploads/2020/01/Data-policy-of-the-Finnish-Biodiversity-Information-Facility_Final-2020.pdf</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Terms of data usage and publishing</r3d:policyName>
+				<r3d:policyUrl>https://laji.fi/en/about/845</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>embargoed</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>institutional membership</r3d:dataAccessRestriction>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by/4.0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://laji.fi/en/about/886</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://laji.fi/en/about/845</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://laji.fi/en/about/2986</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>open</r3d:dataUploadType>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Data publication</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://laji.fi/en/about/845</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+							<r3d:software>other</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://api.laji.fi/explorer/</r3d:apiUrl>
+									<r3d:apiDocumentation>https://laji.fi/about/3120</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>PURL</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://laji.fi/en/about/2986</r3d:citationGuidelineUrl>
+													<r3d:certificate>
+				<r3d:certificateName>CoreTrustSeal</r3d:certificateName>
+									<r3d:certificateStartDate>2025-03-19</r3d:certificateStartDate>
+													<r3d:certificateEndDate>2028-03-18</r3d:certificateEndDate>
+								<r3d:certificateUrl>https://doi.org/10.34894/DRK0PY</r3d:certificateUrl>
+							</r3d:certificate>
+									<r3d:metadataStandard>
+				<r3d:metadataStandardName>Darwin Core</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m9</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>FGDC/CSDGM (Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m17</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>FinBIF is a compilation of nature observations, museum collections and other scientific datasets from many sources. These data have been collected by academics, public authorities and citizen scientists.
+The Finnish Museum of Natural History is an independent research institution functioning under the University of Helsinki. Partners of LAJI.FI: https://laji.fi/en.</r3d:remarks>
+		<r3d:entryDate>2021-04-26</r3d:entryDate>
+		<r3d:lastUpdate>2025-03-21</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

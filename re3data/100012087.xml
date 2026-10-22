@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012087</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3593K</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">UNESCO Institute for Statistics, Data Centre</r3d:repositoryName>
+				<r3d:additionalName language="fra">ISU Centre de données</r3d:additionalName>
+				<r3d:additionalName language="fra">Institut de statistique de l&#039;UNESCO, Centre de données</r3d:additionalName>
+				<r3d:additionalName language="eng">UIS Data Centre</r3d:additionalName>
+				<r3d:additionalName language="eng">UIS.stat</r3d:additionalName>
+				<r3d:repositoryUrl>https://data.uis.unesco.org/</r3d:repositoryUrl>
+				<r3d:description language="eng">A primary source for cross-nationally comparable statistics on education, science and technology, culture, and communication for more than 200 countries and territories.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://uis.unesco.org/en/contact-us</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>uis.publications@unesco.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType></r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+								<r3d:startDate>1999</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12303</r3d:subjectId>
+				<r3d:subjectName>Communication Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12402</r3d:subjectId>
+				<r3d:subjectName>Economic Policy, Applied Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>121</r3d:subjectId>
+				<r3d:subjectName>Educational Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12302</r3d:subjectId>
+				<r3d:subjectName>Empirical Social Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12101</r3d:subjectId>
+				<r3d:subjectName>General Education and History of Education</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12102</r3d:subjectId>
+				<r3d:subjectName>General and Domain-Specific Teaching and Learning</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12406</r3d:subjectId>
+				<r3d:subjectName>Statistics and Econometrics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://uis.unesco.org/en/about-us</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>communication</r3d:keyword>
+					<r3d:keyword>culture</r3d:keyword>
+					<r3d:keyword>education</r3d:keyword>
+					<r3d:keyword>science</r3d:keyword>
+					<r3d:keyword>technology</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">UNESCO Institute for Statistics</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">Institut de  statistique de l&#039;UNESCO</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Organisation des Nations Unies pour l&#039;Éducation la Science et la Culture</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">UIS</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">United Nations Educational, Scientific and Cultural Organization, Institut for Statistics</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://uis.unesco.org/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02t7bvx21</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">Université de Montréal,   École des hautes études commerciales</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">HEC Montreal</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">HEC Montréal</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>CAN</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.hec.ca/en/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05ww3wq27</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Terms and Conditions</r3d:policyName>
+				<r3d:policyUrl>https://uis.unesco.org/en/terms-and-conditions</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://uis.unesco.org/en/terms-and-conditions</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+							<r3d:versioning>yes</r3d:versioning>
+									<r3d:pidSystem>none</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://uis.unesco.org/en/terms-and-conditions</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+														<r3d:remarks>Donors: https://uis.unesco.org/en/our-donors</r3d:remarks>
+		<r3d:entryDate>2016-07-27</r3d:entryDate>
+		<r3d:lastUpdate>2024-08-21</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

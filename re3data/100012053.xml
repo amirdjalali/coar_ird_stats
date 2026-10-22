@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100012053</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3ZW73</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">UiT Open Research Data Dataverse</r3d:repositoryName>
+				<r3d:repositoryUrl>http://opendata.uit.no/</r3d:repositoryUrl>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt;  UiT Open Research Data is part of DataverseNO;  re3data: https://www.re3data.org/repository/r3d100012538  &gt;&gt;&gt;!!!&gt;&gt;&gt;</r3d:description>
+												<r3d:endDate>
+						<r3d:closed>2020</r3d:closed>
+								</r3d:endDate>
+        					<r3d:relatedRepository>
+				<r3d:relatedRepositoryId>r3d100012538</r3d:relatedRepositoryId>
+				<r3d:relatedRepositoryType>successor</r3d:relatedRepositoryType>
+			</r3d:relatedRepository>
+																						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+									<r3d:dataLicense>
+				<r3d:dataLicenseName>CC0</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/share-your-work/public-domain/cc0/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+													<r3d:versioning>yes</r3d:versioning>
+																												<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2016-06-24</r3d:entryDate>
+		<r3d:lastUpdate>2024-12-09</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011581</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3B065</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">NOAA National Centers for Environmental Information - formerly: National Oceanographic Data Center</r3d:repositoryName>
+				<r3d:additionalName language="eng">NODC</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.nodc.noaa.gov/</r3d:repositoryUrl>
+				<r3d:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; The demand for high-value environmental data and information has dramatically increased in recent years. To improve our ability to meet that demand, NOAA’s former three data centers—the National Climatic Data Center, the National Geophysical Data Center, and the National Oceanographic Data Center, which includes the National Coastal Data Development Center—have merged into the National Centers for Environmental Information (NCEI) https://www.re3data.org/repository/r3d100011801.  &gt;&gt;&gt;!!!&gt;&gt;&gt;
+The National Oceanographic Data Center includes the National Coastal Data Development Center (NCDDC) and the NOAA Central Library, which are integrated to provide access to the world&#039;s most comprehensive sources of marine environmental data and information. NODC maintains and updates a national ocean archive with environmental data acquired from domestic and foreign activities and produces products and research from these data which help monitor global environmental changes. These data include physical, biological and chemical measurements derived from in situ oceanographic observations, satellite remote sensing of the oceans, and ocean model simulations.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>https://www.nodc.noaa.gov/about/contact.html</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+				<r3d:type>institutional</r3d:type>
+								<r3d:startDate>1961</r3d:startDate>
+        				<r3d:endDate>
+									<r3d:offline>2023</r3d:offline>
+					</r3d:endDate>
+        					<r3d:relatedRepository>
+				<r3d:relatedRepositoryId>r3d100011801</r3d:relatedRepositoryId>
+				<r3d:relatedRepositoryType>successor</r3d:relatedRepositoryType>
+			</r3d:relatedRepository>
+							<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34101</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>341</r3d:subjectId>
+				<r3d:subjectName>Atmospheric Science, Oceanography and Climate Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34102</r3d:subjectId>
+				<r3d:subjectName>Oceanography</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.ncei.noaa.gov/about</r3d:missionStatementUrl>
+									<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>biology</r3d:keyword>
+					<r3d:keyword>climate change</r3d:keyword>
+					<r3d:keyword>environment</r3d:keyword>
+					<r3d:keyword>geology</r3d:keyword>
+					<r3d:keyword>marine data management</r3d:keyword>
+					<r3d:keyword>national security</r3d:keyword>
+					<r3d:keyword>natural diesasters</r3d:keyword>
+					<r3d:keyword>oceanography</r3d:keyword>
+					<r3d:keyword>oxygen</r3d:keyword>
+					<r3d:keyword>plankton</r3d:keyword>
+					<r3d:keyword>satellite remote sensing</r3d:keyword>
+					<r3d:keyword>temperature</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">National Centers for Environmental Information,  National Oceanographic Data Center</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NCEI</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">NODC</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nodc.noaa.gov/</r3d:institutionUrl>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Environmental Satellite, Data, and Information Service</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NESDIS</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.nesdis.noaa.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/007qwym43</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">National Oceanic and Atmospheric Administration</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">NOAA</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>USA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.noaa.gov/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/02z5nhe81</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>NCEI-Oceans Data Policy</r3d:policyName>
+				<r3d:policyUrl>https://www.nodc.noaa.gov/about/datapolicy.html</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.nodc.noaa.gov/about/disclaimer.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>Public Domain</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.nodc.noaa.gov/about/faq.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>http://www.icsu-wds.org/services/data-sharing-principles</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.nodc.noaa.gov/about/datapolicy.html</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>feeRequired</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+							<r3d:dataUploadLicense>
+				<r3d:dataUploadLicenseName>Data Submission Guidelines</r3d:dataUploadLicenseName>
+				<r3d:dataUploadLicenseUrl>https://www.nodc.noaa.gov/submit/submit-guide.html</r3d:dataUploadLicenseUrl>
+			</r3d:dataUploadLicense>
+											<r3d:api>
+				<r3d:apiType>FTP</r3d:apiType>
+				<r3d:apiUrl>ftp://ftp.nodc.noaa.gov/pub/data.nodc/</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>NetCDF</r3d:apiType>
+				<r3d:apiUrl>https://www.nodc.noaa.gov/data/formats/netcdf/v1.1/</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>http://www.nodc.noaa.gov/access/index.html</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://www.nodc.noaa.gov/access/services.html</r3d:apiUrl>
+							</r3d:api>
+					<r3d:api>
+				<r3d:apiType>other</r3d:apiType>
+				<r3d:apiUrl>https://data.nodc.noaa.gov/thredds/catalog.html</r3d:apiUrl>
+							</r3d:api>
+							<r3d:pidSystem>DOI</r3d:pidSystem>
+																							<r3d:metadataStandard>
+				<r3d:metadataStandardName>FGDC/CSDGM (Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m17</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+					<r3d:metadataStandard>
+				<r3d:metadataStandardName>ISO 19115</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m22</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+							<r3d:syndication>
+				<r3d:syndicationType>RSS</r3d:syndicationType>
+				<r3d:syndicationUrl>https://www.nodc.noaa.gov/rss/</r3d:syndicationUrl>
+			</r3d:syndication>
+				<r3d:remarks>NCEI - National Oceanographic Data Center is covered by Thomson Reuters Data Citation Index.</r3d:remarks>
+		<r3d:entryDate>2015-04-13</r3d:entryDate>
+		<r3d:lastUpdate>2024-12-10</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

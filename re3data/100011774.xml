@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011774</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R30H0Z</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="fra">data.eaufrance.fr</r3d:repositoryName>
+				<r3d:additionalName language="fra">Répertoire des données publiques sur l&#039;eau</r3d:additionalName>
+				<r3d:repositoryUrl>https://data.ofb.fr/catalogue/data-eaufrance/</r3d:repositoryUrl>
+				<r3d:description language="eng">data.eaufrance.fr is an information system on water  (EIS); it is registered in the National Plan for Water Data (NELS) and will be integrated into the data dissemination web pattern.
+It also complies with the European Directive 2003/98 / EC of November 2003 on the reuse of public sector information.
+data.eaufrance.fr is a public data distribution platform open for reuse in the terms and conditions of the Licence Open / Open License.
+Opendata SIE is coordinated by the National Office for Water and Aquatic Environments (Onema); it was developed by the BRGM and the International Office for Water (IOW).</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>data.eaufrance@ofb.gouv.fr</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>618 résultats</r3d:size>
+													<r3d:repositoryLanguage>fra</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>34</r3d:subjectId>
+				<r3d:subjectName>Geosciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>3</r3d:subjectId>
+				<r3d:subjectName>Natural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>346</r3d:subjectId>
+				<r3d:subjectName>Water Research</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://ged.ofb.fr/share/s/xqGP7geJTkG4aRuiMv0vKw#popup1</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>France</r3d:keyword>
+					<r3d:keyword>coastal water</r3d:keyword>
+					<r3d:keyword>earth siences</r3d:keyword>
+					<r3d:keyword>ecosystem</r3d:keyword>
+					<r3d:keyword>environment</r3d:keyword>
+					<r3d:keyword>inland water</r3d:keyword>
+					<r3d:keyword>water</r3d:keyword>
+					<r3d:keyword>water management</r3d:keyword>
+					<r3d:keyword>water quality</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="fra">Bureau de Recherches Géologiques et Minières</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">BRGM</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.brgm.fr/fr</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05hnb7x64</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="eng">International Office for Water</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">OIEau</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="fra">Office International de l&#039;Eau</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="spa">Ovicina Internacional del Agua</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.oieau.fr/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/04aptxm88</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">Office français de la biodiversité</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">OFB</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>funding</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.ofb.gouv.fr/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/01pf7nz88</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="fra">eaufrance</r3d:institutionName>
+									<r3d:institutionAdditionalName language="fra">Le service public d&#039;information sur l&#039;eau</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>FRA</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.eaufrance.fr/</r3d:institutionUrl>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Avertissement</r3d:policyName>
+				<r3d:policyUrl>https://enquetedeau.eaufrance.fr/avertissements</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Conditions générales d’utilisation (C.G.U.)</r3d:policyName>
+				<r3d:policyUrl>https://enquetedeau.eaufrance.fr/conditions-generales-dutilisation</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://www.eaufrance.fr/mentions-legales</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://enquetedeau.eaufrance.fr/conditions-generales-dutilisation</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>institutional membership</r3d:dataUploadRestriction>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>URN</r3d:pidSystem>
+															<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+													<r3d:metadataStandard>
+				<r3d:metadataStandardName>ISO 19115</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m22</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks></r3d:remarks>
+		<r3d:entryDate>2016-02-26</r3d:entryDate>
+		<r3d:lastUpdate>2025-06-17</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

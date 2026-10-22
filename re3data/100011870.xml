@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100011870</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R38K85</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">IndExs – Index of Exsiccatae</r3d:repositoryName>
+				<r3d:additionalName language="eng">Index of Exsiccatae</r3d:additionalName>
+				<r3d:repositoryUrl>http://indexs.botanischestaatssammlung.de</r3d:repositoryUrl>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>FAIRsharing</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>10.25504/FAIRsharing.naAm6C</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:repositoryIdentifier>
+			<r3d:repositoryIdentifierType>Wikidata</r3d:repositoryIdentifierType>
+			<r3d:repositoryIdentifierValue>Q125246464</r3d:repositoryIdentifierValue>
+		</r3d:repositoryIdentifier>
+				<r3d:description language="eng">‘IndExs’ is a biological database and research data repository containing information on exsiccatae and exsiccata-like herbarium specimen series from around the world, including titles, abbreviations, descriptions of contents, bibliographic details and publication information. As a authority control database, it assigns a unique and permanent exsiccata ID to each series. Exsiccatae are reference collections in herbaria and are defined as ‘published, uniform, numbered sets of preserved specimens bearing printed labels’; see https://en.wikipedia.org/wiki/Exsiccata and https://en.wikipedia.org/w/index.php?title=IndExs_%E2%80%93_Index_of_Exsiccatae. They often have separately published booklets with lists of species and specimens distributed, sometimes with taxonomic novelties included. The IndExs database provides access to unique insights into the history of botany and mycology, taxonomy, geobotany, bryology, phycology, cecidology, lichenology and mycology (see https://istc.cetaf.org/Storytelling_with_IndExs). For most exsiccatae, images of one or more representative labels from 150 herbaria worldwide are available. The database’s SQL engine, with its rich client user interface, was designed and configured as a module of the Diversity Workbench. The REST API of the IndExs web service enables machine-assisted searches across more than 2,600 exsiccata series and their respective publishers – totalling more than 1,300. The service is particularly useful as a source of information and a controlled vocabulary for organising data generation and management in herbarium digitisation projects involving historical specimens.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>it-center@snsb.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>office.bsm@snsb.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>support</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>seifert@snsb.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>triebel@snsb.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>weibulat@snsb.de</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>multidisciplinary</r3d:type>
+						<r3d:size>2,600 exsiccata series with 1,300 exsiccata editors, 4,000 categorized still images from 150 herbaria worldwide</r3d:size>
+						<r3d:startDate>2001-01-01</r3d:startDate>
+        									<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>231</r3d:subjectId>
+				<r3d:subjectName>Agriculture, Forestry and Veterinary Medicine</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21</r3d:subjectId>
+				<r3d:subjectName>Biology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>21201</r3d:subjectId>
+				<r3d:subjectName>Evolution and Systematics of Plants and Fungi</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>112</r3d:subjectId>
+				<r3d:subjectName>History</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11204</r3d:subjectId>
+				<r3d:subjectName>History of Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>11</r3d:subjectId>
+				<r3d:subjectName>Humanities</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>2</r3d:subjectId>
+				<r3d:subjectName>Life Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>23102</r3d:subjectId>
+				<r3d:subjectName>Plant Breeding and Plant Pathology</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>212</r3d:subjectId>
+				<r3d:subjectName>Plant Sciences</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>http://www.botanischestaatssammlung.de/DatabaseClients/IndExs/About.jsp</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/FXF3-D3G7</r3d:contentTypeId>
+				<r3d:contentTypeName>compiled data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/CQMR-7K63</r3d:contentTypeId>
+				<r3d:contentTypeName>recorded data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ecc8</r3d:contentTypeId>
+				<r3d:contentTypeName>still image</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+							<r3d:keyword>Diversity Workbench</r3d:keyword>
+					<r3d:keyword>algae</r3d:keyword>
+					<r3d:keyword>bacteria</r3d:keyword>
+					<r3d:keyword>bryophytes</r3d:keyword>
+					<r3d:keyword>fungi</r3d:keyword>
+					<r3d:keyword>lichens</r3d:keyword>
+					<r3d:keyword>pteridophytes</r3d:keyword>
+					<r3d:keyword>spermatophytes</r3d:keyword>
+					<r3d:keyword>viruses</r3d:keyword>
+					<r3d:keyword>zoocecidia</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">Botanische Staatssammlung München</r3d:institutionName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://bsm.snsb.de/</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/05mgwem27</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+													<r3d:responsibilityStartDate>2001</r3d:responsibilityStartDate>
+											</r3d:institution>
+					<r3d:institution>
+				<r3d:institutionName language="deu">Staatliche Naturwissenschaftliche Sammlungen Bayerns, IT Center</r3d:institutionName>
+									<r3d:institutionAdditionalName language="eng">Bavarian Natural History Collections, IT Center</r3d:institutionAdditionalName>
+									<r3d:institutionAdditionalName language="eng">SNSB IT Center</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.snsb.info/</r3d:institutionUrl>
+													<r3d:responsibilityStartDate>2006</r3d:responsibilityStartDate>
+											</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Disclaimer</r3d:policyName>
+				<r3d:policyUrl>https://www.snsb.info/Disclaimer.html</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>Copyrights</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>http://indexs.botanischestaatssammlung.de/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>CC</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://creativecommons.org/licenses/by-sa/3.0/de/</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>closed</r3d:dataUploadType>
+							</r3d:dataUpload>
+									<r3d:software>other</r3d:software>
+							<r3d:versioning>no</r3d:versioning>
+							<r3d:api>
+				<r3d:apiType>REST</r3d:apiType>
+				<r3d:apiUrl>https://services.snsb.info/indexs/api/v1</r3d:apiUrl>
+									<r3d:apiDocumentation>http://www.botanischestaatssammlung.de/DatabaseClients/IndExs/webservice.jsp</r3d:apiDocumentation>
+							</r3d:api>
+							<r3d:pidSystem>URN</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>http://www.botanischestaatssammlung.de/DatabaseClients/IndExs/About.jsp</r3d:citationGuidelineUrl>
+									<r3d:enhancedPublication>yes</r3d:enhancedPublication>
+							<r3d:qualityManagement>
+				<r3d:qualityManagementStatus>yes</r3d:qualityManagementStatus>
+								<r3d:qualityManagementMeasure>
+					<r3d:qualityManagementMeasureName>Technical remarks</r3d:qualityManagementMeasureName>
+					<r3d:qualityManagementMeasureUrl>https://www.botanischestaatssammlung.de/DatabaseClients/IndExs/About.jsp</r3d:qualityManagementMeasureUrl>
+				</r3d:qualityManagementMeasure>
+							</r3d:qualityManagement>
+												<r3d:remarks>export options: csv, xls, xml</r3d:remarks>
+		<r3d:entryDate>2015-10-26</r3d:entryDate>
+		<r3d:lastUpdate>2026-09-02</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- re3data.org Metadata Schema for the Description of Research Data Repositories. Version 4.0, August 2023. https://doi.org/10.48440/re3.014 -->
+<r3d:re3data xmlns:r3d="http://www.re3data.org/schema/4-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/4-0 http://schema.re3data.org/4-0/re3dataV4-0.xsd">
+	<r3d:repository>
+		<r3d:identifiers>
+			<r3d:re3data>r3d100010433</r3d:re3data>
+			<r3d:doi>https://doi.org/10.17616/R3ZC89</r3d:doi>
+		</r3d:identifiers>
+		<r3d:repositoryName language="eng">Research Data Center Elections</r3d:repositoryName>
+				<r3d:additionalName language="deu">FDZ Wahlen</r3d:additionalName>
+				<r3d:additionalName language="eng">Forschungsdatenzentrum Wahlen</r3d:additionalName>
+				<r3d:additionalName language="eng">RDC Elections</r3d:additionalName>
+				<r3d:repositoryUrl>https://www.gesis.org/en/elections</r3d:repositoryUrl>
+				<r3d:description language="eng">The Research Data Center Elections is part of GESIS, provides access to a number of national survey datasets and offers researchers access to survey and election data.
+
+Furthermore, by processing and documenting the data, the RDC Elections grants long-term usability for research and teaching, scientific value-added services, knowledge transfer and research. The project is linked to GESIS&#039; focus on survey and election research. Among other things, this includes federal and state elections, the Politbarometer and various individual studies.</r3d:description>
+				<r3d:repositoryContact>
+			<r3d:repositoryContactInformation>fdz_wahlen@gesis.org</r3d:repositoryContactInformation>
+			<r3d:repositoryContactType>administrative</r3d:repositoryContactType>
+		</r3d:repositoryContact>
+						<r3d:type>disciplinary</r3d:type>
+						<r3d:size>More than 650 studies on political participation, political attitudes and behavior in Germany</r3d:size>
+						<r3d:startDate>2004-01-05</r3d:startDate>
+        									<r3d:repositoryLanguage>deu</r3d:repositoryLanguage>
+					<r3d:repositoryLanguage>eng</r3d:repositoryLanguage>
+							<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>124</r3d:subjectId>
+				<r3d:subjectName>Economics</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12302</r3d:subjectId>
+				<r3d:subjectName>Empirical Social Research</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>1</r3d:subjectId>
+				<r3d:subjectName>Humanities and Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12304</r3d:subjectId>
+				<r3d:subjectName>Political Science</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>123</r3d:subjectId>
+				<r3d:subjectName>Social Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12</r3d:subjectId>
+				<r3d:subjectName>Social and Behavioural Sciences</r3d:subjectName>
+			</r3d:subject>
+					<r3d:subject subjectScheme="DFG">
+				<r3d:subjectId>12406</r3d:subjectId>
+				<r3d:subjectName>Statistics and Econometrics</r3d:subjectName>
+			</r3d:subject>
+							<r3d:missionStatementUrl>https://www.gesis.org/en/institute/about-us/research-data-centers/rdc-elections</r3d:missionStatementUrl>
+							<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_ddb1</r3d:contentTypeId>
+				<r3d:contentTypeName>dataset</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/2H0M-X761</r3d:contentTypeId>
+				<r3d:contentTypeName>geospatial data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/NHD0-W6SY</r3d:contentTypeId>
+				<r3d:contentTypeName>survey data</r3d:contentTypeName>
+			</r3d:contentType>
+					<r3d:contentType contentTypeScheme="COAR">
+				<r3d:contentTypeId>http://purl.org/coar/resource_type/c_18cf</r3d:contentTypeId>
+				<r3d:contentTypeName>text</r3d:contentTypeName>
+			</r3d:contentType>
+							<r3d:providerType>dataProvider</r3d:providerType>
+					<r3d:providerType>serviceProvider</r3d:providerType>
+							<r3d:keyword>attitudes</r3d:keyword>
+					<r3d:keyword>behaviour</r3d:keyword>
+					<r3d:keyword>census data</r3d:keyword>
+					<r3d:keyword>data documentation</r3d:keyword>
+					<r3d:keyword>elections</r3d:keyword>
+					<r3d:keyword>empirical social research</r3d:keyword>
+					<r3d:keyword>microdata</r3d:keyword>
+							<r3d:institution>
+				<r3d:institutionName language="eng">GESIS – Leibniz Institute for the Social Sciences</r3d:institutionName>
+									<r3d:institutionAdditionalName language="deu">GESIS - Leibniz-Institut für Sozialwissenschaften</r3d:institutionAdditionalName>
+								<r3d:institutionCountry>DEU</r3d:institutionCountry>
+									<r3d:responsibilityType>general</r3d:responsibilityType>
+									<r3d:responsibilityType>technical</r3d:responsibilityType>
+								<r3d:institutionType>non-profit</r3d:institutionType>
+				<r3d:institutionUrl>https://www.gesis.org/en/home</r3d:institutionUrl>
+									<r3d:institutionIdentifier>
+						<r3d:institutionIdentifierType>ROR</r3d:institutionIdentifierType>
+											<r3d:institutionIdentifierUrl>https://ror.org/018afyw53</r3d:institutionIdentifierUrl>
+										</r3d:institutionIdentifier>
+															</r3d:institution>
+							<r3d:policy>
+				<r3d:policyName>Kriterien des RatSWD</r3d:policyName>
+				<r3d:policyUrl>https://www.konsortswd.de/wp-content/uploads/RatSWD_FDZKriterien.PDF</r3d:policyUrl>
+			</r3d:policy>
+					<r3d:policy>
+				<r3d:policyName>Usage regulations</r3d:policyName>
+				<r3d:policyUrl>https://www.gesis.org/fileadmin/upload/dienstleistung/daten/umfragedaten/_bgordnung_bestellen/Usage_regulations.pdf</r3d:policyUrl>
+			</r3d:policy>
+						<r3d:databaseAccess>
+			<r3d:databaseAccessType>open</r3d:databaseAccessType>
+					</r3d:databaseAccess>
+					<r3d:databaseLicense>
+				<r3d:databaseLicenseName>CC0</r3d:databaseLicenseName>
+				<r3d:databaseLicenseUrl>https://creativecommons.org/share-your-work/public-domain/cc0/</r3d:databaseLicenseUrl>
+			</r3d:databaseLicense>
+							<r3d:dataAccess>
+				<r3d:dataAccessType>open</r3d:dataAccessType>
+							</r3d:dataAccess>
+					<r3d:dataAccess>
+				<r3d:dataAccessType>restricted</r3d:dataAccessType>
+									<r3d:dataAccessRestriction>registration</r3d:dataAccessRestriction>
+							</r3d:dataAccess>
+							<r3d:dataLicense>
+				<r3d:dataLicenseName>Copyrights</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.gesis.org/en/institute/imprint</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+					<r3d:dataLicense>
+				<r3d:dataLicenseName>other</r3d:dataLicenseName>
+				<r3d:dataLicenseUrl>https://www.gesis.org/fileadmin/upload/dienstleistung/daten/umfragedaten/_bgordnung_bestellen/Usage_regulations.pdf</r3d:dataLicenseUrl>
+			</r3d:dataLicense>
+							<r3d:dataUpload>
+				<r3d:dataUploadType>restricted</r3d:dataUploadType>
+									<r3d:dataUploadRestriction>registration</r3d:dataUploadRestriction>
+							</r3d:dataUpload>
+									<r3d:software>unknown</r3d:software>
+											<r3d:pidSystem>DOI</r3d:pidSystem>
+											<r3d:citationGuidelineUrl>https://www.gesis.org/en/services/finding-and-accessing-data/data-archive-service/citation-of-research-data</r3d:citationGuidelineUrl>
+													<r3d:certificate>
+				<r3d:certificateName>RatSWD</r3d:certificateName>
+									<r3d:certificateStartDate>2009</r3d:certificateStartDate>
+												<r3d:certificateUrl>https://www.konsortswd.de/en/services/research/all-datacentres/fdz-wahlen/</r3d:certificateUrl>
+							</r3d:certificate>
+									<r3d:metadataStandard>
+				<r3d:metadataStandardName>DDI (Data Documentation Initiative)</r3d:metadataStandardName>
+				<r3d:metadataStandardUrl>https://rdamsc.bath.ac.uk/msc/m13</r3d:metadataStandardUrl>
+			</r3d:metadataStandard>
+						<r3d:remarks>FDZ Wahlen is a member of the RatSWD - research data - infrastructure</r3d:remarks>
+		<r3d:entryDate>2013-07-16</r3d:entryDate>
+		<r3d:lastUpdate>2025-09-26</r3d:lastUpdate>
+	</r3d:repository>
+</r3d:re3data>
