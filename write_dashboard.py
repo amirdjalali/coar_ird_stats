@@ -9,15 +9,17 @@ df = pd.read_csv("ird_it_with_coordinates_iris.csv", encoding="utf-8")
 df = df[df["lat"] != -1]
 
 df_not_archived = df[(df["record_status"] != "archived")]
+df_active_not_iris = df[(df["record_status"] != "archived") & (~df["is_iris"])]
 not_archived = plot_repo_map(df_not_archived)
-repo_type_map = plot_repo_map_repo_type(df_not_archived)
-data_repos = plot_data_repos(df_not_archived)
+repo_type_map = plot_repo_map_repo_type(df_active_not_iris)
+data_repos = plot_data_repos(df_active_not_iris)
 
 df_archived = df[(df["record_status"] == "archived")]
 archived = plot_repo_map(df_archived, color="grey")
 
-df_active_not_iris = df[(df["record_status"] != "archived") & (~df["is_iris"])]
-active_not_iris_treemap = plot_software_treemap(df_active_not_iris, "software")
+
+software_treemap = plot_software_treemap(df_active_not_iris, "software")
+subject_treemap = plot_software_treemap(df_active_not_iris, "primary_subject")
 
 media_types = plot_media_types_treemap(df_not_archived)
 
@@ -54,14 +56,17 @@ with open("dashboard.html", "w") as f:
     f.write(f"<h1>Repository non più attivi</h1>")
     f.write(archived.to_html(full_html=False, include_plotlyjs="cdn"))
 
-    f.write(f"<h1>Tipi di Repository (attivi)</h1>")
+    f.write(f"<h1>Tipi di Repository (attivi non iris)</h1>")
     f.write(repo_type_map.to_html(full_html=False, include_plotlyjs="cdn"))
 
-    f.write(f"<h1>Repository dati (attivi)</h1>")
+    f.write(f"<h1>Repository dati (attivi non iris)</h1>")
     f.write(data_repos.to_html(full_html=False, include_plotlyjs="cdn"))
 
     f.write(f"<h1>Software - Repository attivi non IRIS</h1>")
-    f.write(active_not_iris_treemap.to_html(full_html=False, include_plotlyjs="cdn"))
+    f.write(software_treemap.to_html(full_html=False, include_plotlyjs="cdn"))
+
+    f.write(f"<h1>Soggetti - Repository attivi non IRIS</h1>")
+    f.write(subject_treemap.to_html(full_html=False, include_plotlyjs="cdn"))
 
     f.write(f"<h1>Media types per repository attivi non IRIS</h1>")
     f.write(media_types.to_html(full_html=False, include_plotlyjs="cdn"))
