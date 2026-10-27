@@ -1,0 +1,20 @@
+archivio giuliano marini
+controllare archivio giuliano marini
+generalist
+verificare i preprint
+
+non iris aggiungere preprint - Michela
+verificare special collection - Amir
+aggiungere subjects
+repository dati non iris
+
+Archiviare archivio Giuliano Marini
+Giambattistavico.it è special collection
+Reti medievali open archive è scomparso da IRD, recuperarlo!
+SFERA è un iris
+Iris.unisa.it ha il nome sbagliato (salerno non salento)
+Togliere research-data da airus (IRIS)
+AIRUS is_iris
+
+analisi da aggiungere:
+chi ha iris ha altre repo? per cosa le usa?

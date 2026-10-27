@@ -104,6 +104,8 @@ def plot_data_repos(df):
     # "white-bg"          blank white background, no tiles at all
     # "open-street-map"   what you're using now
 
+    df.to_csv("data_repos.csv", encoding="utf-8")
+
     return fig
 
 if __name__ == "__main__":
