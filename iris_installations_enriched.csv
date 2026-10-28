@@ -19,12 +19,12 @@
 17,Università della Calabria (Cosenza),iris.unical.it,http://iris.unical.it/oai/request?verb=Identify,,,True
 18,Università degli Studi di Chieti- Pescara,ricerca.unich.it,ricerca.unich.it/oai/request?verb=Identify,,,True
 19,Università Kore (Enna),iris.unikore.it,iris.unikore.it/oai/request?verb=Identify,,,True
-20,Università degli Studi di Ferrara,iris.unife.it,iris.unife.it/oai/request?verb=Identify,Policy di Ateneo sull'accesso aperto (Open Access) alla letteratura scientifica,X,True
+20,Università degli Studi di Ferrara,sfera.unife.it,sfera.unife.it/oai/request?verb=Identify,Policy di Ateneo sull'accesso aperto (Open Access) alla letteratura scientifica,X,True
 21,Università degli Studi di Foggia,fair.unifg.it,fair.unifg.it/oai/request?verb=Identify,Regolamento in materia di accesso aperto,X,True
 22,Università degli Studi di Firenze,flore.unifi.it,flore.unifi.it/oai/request?verb=Identify,Policy per l'accesso aperto alla letteratura scientifica dell'Università degli Studi di Firenze,X,True
 23,Università degli Studi di Genova,iris.unige.it,iris.unige.it/oai/request?verb=Identify,,X,True
 24,Università degli Studi dell'Aquila,ricerca.univaq.it,ricerca.univaq.it/oai/request?verb=Identify,,X,True
-25,Università del Salento (Lecce),iris.unisalento.it,iris.unisalento.it/oai/request?verb=Identify,,X,False
+25,Università del Salento (Lecce),airus.unisalento.it,airus.unisalento.it/oai/request?verb=Identify,,X,True
 26,Scuola IMT Alti Studi Lucca,iris.imtlucca.it,iris.imtlucca.it/oai/request?verb=Identify,,,True
 27,Università degli Studi di Macerata,u-pad.unimc.it,u-pad.unimc.it/oai/request?verb=Identify,,X,True
 28,Università degli Studi di Messina,iris.unime.it,iris.unime.it/oai/request?verb=Identify,,X,True
@@ -79,3 +79,4 @@
 77,Archivio della ricerca dell'Università degli studi di Catanzaro,iris.unicz.it,www.iris.unicz.it/oai/request?verb=Identify,,,False
 78,GSSI,iris.gssi.it,,,,True
 79,LUM,ricerca.lum.it,,,,False
+80,CNR,iris.cnr.it,,,,True

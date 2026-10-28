@@ -16,9 +16,16 @@ def plot_repo_map(df, color=None):
         )
         .reset_index()
     )
+    # total records per category (not number of map points)
+    totals = df["is_iris"].value_counts()
+    n_iris = int(totals.get(True, 0))
+    n_other = int(totals.get(False, 0))
+
+    iris_label = f"IRIS ({n_iris})"
+    other_label = f"Other ({n_other})"
 
     # readable legend labels instead of True/False
-    counts["type"] = counts["is_iris"].map({True: "IRIS", False: "Other"})
+    counts["type"] = counts["is_iris"].map({True: iris_label, False: other_label})
 
     fig = px.scatter_map(
         counts,
@@ -28,8 +35,8 @@ def plot_repo_map(df, color=None):
         size_max=40,
         color="type",
         opacity=0.7,
-        color_discrete_map={"IRIS": DEFAULT_IRIS_COLOR, "Other": default_color},
-        category_orders={"type": ["IRIS", "Other"]},   # last = drawn on top
+        color_discrete_map={iris_label: DEFAULT_IRIS_COLOR, other_label: default_color},
+        category_orders={"type": [iris_label, other_label]},   # last = drawn on top
         hover_data={"count": True, "type": True, "names": True, "lat": False, "lon": False},
         center=dict(lat=counts.lat.mean(), lon=counts.lon.mean()),
         zoom=5,
@@ -47,30 +54,38 @@ def plot_repo_map(df, color=None):
 def plot_repo_map_repo_type(df):
     counts = (
         df.groupby(["lat", "lon", "repository_type"])
-        .agg(
-            count=("name", "size"),
-            names=("name", lambda s: "<br>".join(s.dropna().astype(str))),
-        )
-        .reset_index()
+          .agg(
+              count=("name", "size"),
+              names=("name", lambda s: "<br>".join(s.dropna().astype(str))),
+          )
+          .reset_index()
     )
-    
+
+    # total records per repository type -> legend label "Type (N)"
+    totals = df["repository_type"].value_counts()
+    counts["type_label"] = counts["repository_type"].map(
+        lambda t: f"{t} ({totals[t]})"
+    )
+
+    # legend sorted from most to least frequent
+    order = [f"{t} ({n})" for t, n in totals.items()]
+
     fig = px.scatter_map(
         counts,
         lat="lat",
         lon="lon",
         size="count",
         size_max=40,
-        color="repository_type",
+        color="type_label",
+        category_orders={"type_label": order},
         opacity=0.7,
-        hover_data={"count": True, "repository_type": True, "names": True, "lat": False, "lon": False},
+        hover_data={"count": True, "type_label": True, "names": True,
+                    "repository_type": False, "lat": False, "lon": False},
+        labels={"type_label": "repository_type"},   # hover/legend title
         center=dict(lat=counts.lat.mean(), lon=counts.lon.mean()),
         zoom=5,
     )
-    fig.update_layout(map_style="carto-positron")   # light, minimal (great for data overlays)
-    # other options:
-    # "carto-darkmatter"  dark minimal
-    # "white-bg"          blank white background, no tiles at all
-    # "open-street-map"   what you're using now
+    fig.update_layout(map_style="carto-positron")
 
     return fig
 
@@ -79,12 +94,21 @@ def plot_data_repos(df):
 
     counts = (
         df.groupby(["lat", "lon", "data_repo"])
-        .agg(
-            count=("name", "size"),
-            names=("name", lambda s: "<br>".join(s.dropna().astype(str))),
-        )
-        .reset_index()
+          .agg(
+              count=("name", "size"),
+              names=("name", lambda s: "<br>".join(s.dropna().astype(str))),
+          )
+          .reset_index()
     )
+
+    # total records per category -> legend labels with counts
+    n_data = int(df["data_repo"].sum())
+    n_other = int((~df["data_repo"]).sum())
+
+    data_label = f"Research data ({n_data})"
+    other_label = f"Other ({n_other})"
+
+    counts["type"] = counts["data_repo"].map({True: data_label, False: other_label})
 
     fig = px.scatter_map(
         counts,
@@ -92,17 +116,15 @@ def plot_data_repos(df):
         lon="lon",
         size="count",
         size_max=40,
-        color="data_repo",
+        color="type",
+        category_orders={"type": [data_label, other_label]},   # last = drawn on top
         opacity=0.7,
-        hover_data={"count": True, "data_repo": True, "names": True, "lat": False, "lon": False},
+        hover_data={"count": True, "type": True, "names": True,
+                    "data_repo": False, "lat": False, "lon": False},
         center=dict(lat=counts.lat.mean(), lon=counts.lon.mean()),
         zoom=5,
     )
-    fig.update_layout(map_style="carto-positron")   # light, minimal (great for data overlays)
-    # other options:
-    # "carto-darkmatter"  dark minimal
-    # "white-bg"          blank white background, no tiles at all
-    # "open-street-map"   what you're using now
+    fig.update_layout(map_style="carto-positron")
 
     df.to_csv("data_repos.csv", encoding="utf-8")
 
