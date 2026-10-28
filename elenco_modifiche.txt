@@ -25,10 +25,8 @@ fatto
 - rimosso research-data da Liberabit
 - INO Open Portal cambiato primary subject in Science
 - aggiornata istituzione in IRIS unina (era ospedale)
-- 
+- Portale Vico cambiato in Special Collection
 
-
-- Giambattistavico.it è special collection
 
 analisi da aggiungere:
 chi ha iris ha altre repo? per cosa le usa?
