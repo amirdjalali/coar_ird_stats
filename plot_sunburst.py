@@ -9,12 +9,12 @@ TOTAL_COLOR = "white"
 SENZA_IRIS = "#2c97e4"
 CON_IRIS = "#49b3ff"
 
-def plot_sunburst(totali, attivi, attivi_iris):
+def plot_sunburst(totali, attivi, verificati):
     
     data = {
-        'labels': ['Totali', 'Attivi', 'Archiviati', 'IRIS', 'Non IRIS'],
-        'parents': ['', 'Totali', 'Totali', 'Attivi', 'Attivi'],
-        'values': [totali, attivi, totali - attivi, attivi_iris, attivi - attivi_iris]
+        'labels':  ['Totali', 'Attivi', 'Archiviati', 'Verificati',   'Da confermare'],
+        'parents': ['',       'Totali', 'Totali',     'Attivi',       'Attivi'],
+        'values': [totali, attivi, totali - attivi, verificati, attivi - verificati]
     }
 
     df = pd.DataFrame(data)

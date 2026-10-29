@@ -174,8 +174,17 @@ data_repos = plot_data_repos(df_active_not_iris)
 df_archived = df[(df["record_status"] == "archived")]
 archived = plot_repo_map(df_archived, color="grey")
 
-totals = plot_sunburst(totali=174, attivi=138, attivi_iris=79)
+df_active_under_review = df[(df["record_status"] != "archived") & (df["record_status"] == "under_review")]
+df_active_verified = df[(df["record_status"] != "archived") & (df["record_status"] == "verified")]
 
+totali = len(df)
+attivi = len(df_not_archived)
+archiviati = len(df_archived)
+under_review = len(df_active_under_review)
+verificati = len(df_active_verified)
+totals = plot_sunburst(totali=totali, attivi=attivi, verificati=verificati)
+
+non_iris = len(df_active_not_iris)
 
 software_treemap = plot_software_treemap(df_active_not_iris, "software")
 subject_treemap = plot_software_treemap(df_active_not_iris, "primary_subject")
@@ -191,91 +200,25 @@ software_treemap_non_iris_repos = plot_software_treemap(non_iris_repos, "softwar
 subject_treemap_non_iris_repos = plot_software_treemap(non_iris_repos, "primary_subject")
 media_types_non_iris_repos = plot_media_types_treemap(non_iris_repos)
 
-with open("dashboard.html", "w") as f:
-    f.write("""
-            <html>
-            <head>
-            <style>
-                body {
-                    font-family: Arial, sans-serif;
-                    margin: 40px;
-                    background-color: #f9f9f9;
-                }
-                h1 {
-                    font-size: 2em;
-                    color: #333;
-                    border-bottom: 2px solid #ccc;
-                    padding-bottom: 10px;
-                    margin-top: 40px;
-                }
-                h2 {
-                    font-size: 1.5em;
-                    color: #555;
-                    margin-top: 30px;
-                }
-            </style>
-            </head>
-            <body>
-            """)
+build_page([
+    ("COAR IRD Italia",
+        f"""Su {totali} repository analizzati, {attivi} sono stati confermati e {archiviati} sono stati archiviati.
+        {under_review} repository sono in attesa di conferma.""", 
+        totals),
+    ("Repository archiviati", 
+     f"Sono stati archiviati {archiviati} repository (siti non più attivi o migrati, o contenuti ad accesso riservato)",
+     df_archived[["name", "homepage", "owner_name"]]),
+    ("Repository in attesa di conferma",
+     f"{under_review} repository sono in attesa di conferma (interfaccia OAI-PMH non linkata o non accessibile).",
+     df_active_under_review[["name", "homepage", "owner_name"]]),
+    ("Repository confermati o under review", f"Su {len(df_not_archived)}, {len(df_active_iris)} sono IRIS", not_archived),
+    ("Repository confermati o under review, non IRIS", f"Tipi di repository, totale {non_iris}.", repo_type_map),
+    ("Repository confermati o under review, non IRIS", f"Repository con media_type 'research_data', totale {non_iris}.", data_repos),
+    ("Repository confermati o under review, non IRIS", f"Software, totale {non_iris}.", software_treemap),
+    ("Repository confermati o under review, non IRIS", f"Soggetti, totale {non_iris}.", subject_treemap),
+    ("Repository confermati o under review, non IRIS", f"Media types, totale ({non_iris} repository)", media_types),
+    ("Repository non IRIS di istituzioni con Iris", print_non_iris(institutions_with_iris, non_iris_repos), non_iris_institutions),
+    ("Istituzioni senza IRIS", f"Ci sono {len(institutions_with_no_iris)} istituzioni che hanno almeno un repository, ma che non hanno IRIS", institutions_with_no_iris)
+    
 
-    f.write(f"<h1>Repository attivi</h1>")
-    f.write(f"""
-        Su {len(df)} repository analizzati, {len(df_not_archived)} sono ad oggi attivi e {len(df_archived)} sono stati archiviati.
-        Tra i repository attivi, {len(df_active_iris)} sono IRIS.
-    """)
-    f.write(totals.to_html(full_html=False, include_plotlyjs="cdn"))
-    f.write(not_archived.to_html(full_html=False, include_plotlyjs="cdn"))
-
-    f.write(f"<h1>Repository non più attivi</h1>")
-    f.write(archived.to_html(full_html=False, include_plotlyjs="cdn"))
-
-    f.write(f"<h1>Tipi di Repository (attivi non iris)</h1>")
-    f.write(repo_type_map.to_html(full_html=False, include_plotlyjs="cdn"))
-
-    f.write(f"<h1>Repository dati (attivi non iris)</h1>")
-
-    f.write(data_repos.to_html(full_html=False, include_plotlyjs="cdn"))
-
-    f.write(f"<h1>Software - Repository attivi non IRIS</h1>")
-    f.write(software_treemap.to_html(full_html=False, include_plotlyjs="cdn"))
-
-    f.write(f"<h1>Soggetti - Repository attivi non IRIS</h1>")
-    f.write(subject_treemap.to_html(full_html=False, include_plotlyjs="cdn"))
-
-    f.write(f"<h1>Media types per repository attivi non IRIS</h1>")
-    f.write(media_types.to_html(full_html=False, include_plotlyjs="cdn"))
-
-    f.write(f"<h1>Istituzioni con IRIS - Repository non IRIS</h1>")
-    f.write(print_non_iris(institutions_with_iris, non_iris_repos))
-    f.write(non_iris_institutions.to_html(full_html=False, include_plotlyjs="cdn"))
-    f.write(non_iris_institutions_repo_types.to_html(full_html=False, include_plotlyjs="cdn"))
-    f.write(software_treemap_non_iris_repos.to_html(full_html=False, include_plotlyjs="cdn"))
-    f.write(subject_treemap_non_iris_repos.to_html(full_html=False, include_plotlyjs="cdn"))
-    f.write(media_types_non_iris_repos.to_html(full_html=False, include_plotlyjs="cdn"))
-
-    systems = pd.read_csv("systems_roar.csv", encoding="utf-8")
-    timeline= plot_timeline(systems)
-
-    f.write(f"<h1>Linea del tempo (per ora solo con dati ROAR)</h1>")
-    f.write(timeline.to_html(full_html=False, include_plotlyjs="cdn"))
-
-    f.write("</body></html>")
-
-    build_page([
-        ("COAR IRD Italia",
-         f"""Su {len(df)} repository analizzati, {len(df_not_archived)} sono stati confermati e {len(df_archived)} sono stati archiviati.
-         X repository sono in attesa di conferma.
-         Tra i repository attivi, {len(df_active_iris)} sono IRIS""", 
-         totals),
-        ("Repository archiviati", f"Tra i {len(df_archived)} repository archiviati, X non sono più attivi, Y sono stati eliminati perché non conformi ai requisiti", archived),
-        ("Repository confermati o under review", f"Su {len(df_not_archived)}, {len(df_active_iris)} sono IRIS", not_archived),
-        ("Repository confermati o under review", f"Tipi di repository ({len(df_not_archived)} repository)", repo_type_map),
-        ("Repository confermati o under review", f"Repository con media_type 'research_data' (totale {len(df_not_archived)})", data_repos),
-        ("Repository confermati o under review", f"Software ({len(df_not_archived)} repository)", software_treemap),
-        ("Repository confermati o under review", f"Soggetti ({len(df_not_archived)} repository)", subject_treemap),
-        ("Repository confermati o under review", f"Media types ({len(df_not_archived)} repository)", media_types),
-        ("Repository non IRIS di istituzioni con Iris", print_non_iris(institutions_with_iris, non_iris_repos), non_iris_institutions),
-        ("Istituzioni senza IRIS", f"Ci sono {len(institutions_with_no_iris)} istituzioni che hanno almeno un repository, ma che non hanno IRIS", institutions_with_no_iris)
-       
-
-    ])
+])
