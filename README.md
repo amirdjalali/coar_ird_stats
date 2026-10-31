@@ -14,6 +14,8 @@ In seguito, il dataset è stato ulteriormente arricchito aggiungendo il dato `is
 
 I grafici sono salvati nel file `report.html`, e generati attraverso lo script `write_slides.py`.
 
+Una versione live dei risultati può essere consultata [qui](https://amirdjalali.github.io/coar_ird_it_stats/report.html)
+
 ## Uso
 
 Questo progetto utilizza `uv` per gestire le librerie.
