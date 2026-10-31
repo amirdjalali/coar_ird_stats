@@ -59,7 +59,7 @@
 57,Università degli Studi di Teramo,research.unite.it,research.unite.it/oai/request?verb=Identify,,X,True
 58,Università degli Studi di Trento,iris.unitn.it,iris.unitn.it/oai/request?verb=Identify,Policy di Ateneo sull'accesso aperto (Open Access) alla letteratura scientifica,X,True
 59,Politecnico di Torino,iris.polito.it,iris.polito.it/oai/request?verb=Identify,,X,True
-60,Università degli Studi di Torino,iris.unito.it,iris.unito.it/oai/request?verb=Identify,Regolamento di Ateneo per l'accesso aperto,X,False
+60,Università degli Studi di Torino,iris.unito.it,iris.unito.it/oai/request?verb=Identify,Regolamento di Ateneo per l'accesso aperto,X,True
 61,Università degli Studi di Trieste,arts.units.it,arts.units.it/oai/request?verb=Identify,Policy di Ateneo sull'accesso aperto (Open Access) alla letteratura scientifica,X,True
 62,SISSA- Scuola Internazionale Superiore per gli Studi Avanzati (Trieste),iris.sissa.it,iris.sissa.it/oai/request?verb=Identify,Regolamento della Sissa sull'accesso aperto,X,True
 63,Università degli Studi di Udine,air.uniud.it,air.uniud.it/oai/request?verb=Identify,Policy di Ateneo per l'accesso aperto (Open Access) alla letteratura scientifica,X,True
@@ -71,12 +71,12 @@
 69,Università degli Studi di Verona,iris.univr.it,iris.univr.it/oai/request?verb=Identify,,X,True
 70,ENEA,iris.enea.it,iris.enea.it/oai/request?verb=Identify,,X,True
 71,HUMANITAS,iris.hunimed.eu,iris.hunimed.eu/oai/request?verb=Identify,,,True
-72,Università degli Studi di Reggio Calabria,iris.unirc.it,iris.unirc.it/oai/request?verb=Identify,,,False
+72,Università degli Studi di Reggio Calabria,iris.unirc.it,iris.unirc.it/oai/request?verb=Identify,,,True
 73,IUSS University School for Advanced Studies Pavia,research.iusspavia.it,research.iusspavia.it/oai/request?verb=Identify,,,True
 74,Università degli Studi Suor Orsola Benincasa,iris.unisob.na.it,iris.unisob.na.it/oai/request?verb=Identify,,,True
 75,Università per Stranieri di Perugia,ricerca.unistrapg.it,ricerca.unistrapg.it/oai/request?verb=Identify,,,True
-76,Università Telematica San Raffaele Roma,iris.uniroma5.it,www.iris.uniroma5.it/oai/request?verb=Identify,,,False
-77,Archivio della ricerca dell'Università degli studi di Catanzaro,iris.unicz.it,www.iris.unicz.it/oai/request?verb=Identify,,,False
+76,Università Telematica San Raffaele Roma,iris.uniroma5.it,iris.uniroma5.it/oai/request?verb=Identify,,,True
+77,Archivio della ricerca dell'Università degli studi di Catanzaro,iris.unicz.it,www.iris.unicz.it/oai/request?verb=Identify,,,True
 78,GSSI,iris.gssi.it,,,,True
-79,LUM,ricerca.lum.it,,,,False
+79,LUM,ricerca.lum.it,,,,True
 80,CNR,iris.cnr.it,,,,True

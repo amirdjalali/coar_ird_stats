@@ -31,9 +31,10 @@ def enrich_with_coordinates(df):
     return df
 
 if __name__ == "__main__":
-    records = pd.read_csv("ird_unibo-unipd_clean.csv", encoding="utf-8", keep_default_na=False)
+    filename = "systems_italy"
+    records = pd.read_csv(f"{filename}.csv", encoding="utf-8", keep_default_na=False)
     records_updated = enrich_with_coordinates(records)
-    records_updated.to_csv("ird_it_with_coordinates.csv", encoding="utf-8")
+    records_updated.to_csv(f"{filename}_with_coordinates.csv", encoding="utf-8")
 
 
 

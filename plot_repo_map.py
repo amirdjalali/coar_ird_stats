@@ -126,8 +126,6 @@ def plot_data_repos(df):
     )
     fig.update_layout(map_style="carto-positron")
 
-    df.to_csv("data_repos.csv", encoding="utf-8")
-
     return fig
 
 if __name__ == "__main__":

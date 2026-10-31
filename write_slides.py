@@ -1,4 +1,4 @@
-from plot_media_types_treemap import plot_media_types_treemap
+from plot_exploded_treemaps import plot_media_types_treemap, plot_sources_treemap
 from plot_repo_map import plot_repo_map, plot_data_repos, plot_repo_map_repo_type
 from plot_software_treemap import plot_software_treemap
 from plot_timeline import plot_timeline
@@ -7,6 +7,7 @@ from plot_sunburst import plot_sunburst
 
 import pandas as pd
 from pathlib import Path
+from plotly.offline import get_plotlyjs
 
 def df_to_html(df, max_height="60vh"):
     table = df.to_html(
@@ -20,7 +21,7 @@ def df_to_html(df, max_height="60vh"):
     )
     return f'<div class="tbl-wrap" style="max-height:{max_height}">{table}</div>'
 
-
+FILENAME = "systems_italy_with_coordinates_iris.csv"
 
 TABLE_CSS = """
             :root {
@@ -69,7 +70,8 @@ def build_page(sections, path="report.html", title="Report", extra_css=""):
     blocks = []
     plotly_loaded = False   # load Plotly.js once, on the first figure
 
-    has_table = False           
+    has_table = False 
+    has_plotly = False          
 
     for i, (heading, text, content) in enumerate(sections):
         kind = "empty"
@@ -85,13 +87,13 @@ def build_page(sections, path="report.html", title="Report", extra_css=""):
         elif hasattr(content, "to_html"):   # Plotly figure
             kind = "chart"
             content.update_layout(margin=dict(t=10, l=10, r=10, b=10))
+            has_plotly = True
             inner = content.to_html(
                 full_html=False,
-                include_plotlyjs=False if plotly_loaded else "cdn",
+                include_plotlyjs=False,          # library is embedded once in <head>
                 config={"responsive": True, "displayModeBar": False},
                 default_height="100%",
             )
-            plotly_loaded = True
         else:
             raise TypeError(f"Unsupported content in section {i}: {type(content)}")
 
@@ -106,6 +108,7 @@ def build_page(sections, path="report.html", title="Report", extra_css=""):
     if has_table:                          # <-- new
         extra_css = TABLE_CSS + extra_css
 
+    plotly_script = f"<script>{get_plotlyjs()}</script>" if has_plotly else ""
 
     html = f"""<!doctype html>
                 <html lang="it">
@@ -143,6 +146,7 @@ def build_page(sections, path="report.html", title="Report", extra_css=""):
                 }}
                 {extra_css}
                 </style>
+                {plotly_script}
                 </head>
                 <body>
                 {''.join(blocks)}
@@ -161,7 +165,10 @@ def build_page(sections, path="report.html", title="Report", extra_css=""):
                 </html>"""
     Path(path).write_text(html, encoding="utf-8")
 
-df = pd.read_csv("ird_it_with_coordinates_iris.csv", encoding="utf-8")
+df = pd.read_csv(FILENAME, encoding="utf-8", keep_default_na=False)
+df_systems = pd.read_csv(FILENAME, encoding="utf-8", keep_default_na=False)
+everything = len(df_systems)
+sources_treemap = plot_sources_treemap(df_systems)
 df = df[df["lat"] != -1]
 
 df_not_archived = df[(df["record_status"] != "archived")]
@@ -201,6 +208,7 @@ subject_treemap_non_iris_repos = plot_software_treemap(non_iris_repos, "primary_
 media_types_non_iris_repos = plot_media_types_treemap(non_iris_repos)
 
 build_page([
+    ("COAR IRD Italia", "Data sources", sources_treemap),
     ("COAR IRD Italia",
         f"""Su {totali} repository analizzati, {attivi} sono stati confermati e {archiviati} sono stati archiviati.
         {under_review} repository sono in attesa di conferma.""", 
@@ -217,8 +225,6 @@ build_page([
     ("Repository confermati o under review, non IRIS", f"Software, totale {non_iris}.", software_treemap),
     ("Repository confermati o under review, non IRIS", f"Soggetti, totale {non_iris}.", subject_treemap),
     ("Repository confermati o under review, non IRIS", f"Media types, totale ({non_iris} repository)", media_types),
-    ("Repository non IRIS di istituzioni con Iris", print_non_iris(institutions_with_iris, non_iris_repos), non_iris_institutions),
-    ("Istituzioni senza IRIS", f"Ci sono {len(institutions_with_no_iris)} istituzioni che hanno almeno un repository, ma che non hanno IRIS", institutions_with_no_iris)
-    
-
+    #("Repository non IRIS di istituzioni con Iris", print_non_iris(institutions_with_iris, non_iris_repos), non_iris_institutions),
+    #("Istituzioni senza IRIS", f"Ci sono {len(institutions_with_no_iris)} istituzioni che hanno almeno un repository, ma che non hanno IRIS", institutions_with_no_iris)
 ])

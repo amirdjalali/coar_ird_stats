@@ -27,6 +27,32 @@ def plot_media_types_treemap(df):
     )
     return fig
 
+def plot_sources_treemap(df):
+    categories = (
+            df["other_registry_identifiers"].str.split("|").explode().tolist()
+        )
+    categories_clean = []
+    for cat in categories:
+        if cat == "":
+            categories_clean.append("new")
+        else:
+            categories_clean.append(cat.split(":")[0])
+    sources = pd.DataFrame({"source": categories_clean})
+
+    counts = (
+            sources.groupby("source")
+            .size()
+            .reset_index(name="count")
+    )
+
+    print(counts)
+    fig = px.treemap(counts, 
+                        path=["source"], 
+                        values="count",
+                        color="source",
+                        color_discrete_map={"other": "lightgrey"}
+    )
+    return fig
 
 if __name__ == "__main__":
     df = pd.read_csv("ird_it_with_coordinates_iris.csv", encoding="utf-8")
