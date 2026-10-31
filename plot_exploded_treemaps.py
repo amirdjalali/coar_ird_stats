@@ -18,7 +18,6 @@ def plot_media_types_treemap(df):
             .reset_index(name="count")
     )
   
-    print(counts)
     fig = px.treemap(counts, 
                      path=["category"], 
                      values="count",
@@ -45,7 +44,6 @@ def plot_sources_treemap(df):
             .reset_index(name="count")
     )
 
-    print(counts)
     fig = px.treemap(counts, 
                         path=["source"], 
                         values="count",

@@ -198,14 +198,14 @@ subject_treemap = plot_software_treemap(df_active_not_iris, "primary_subject")
 
 media_types = plot_media_types_treemap(df_not_archived)
 
-non_iris_repos = list_non_iris_repos_from_iris_institutions(df_not_archived)
-institutions_with_iris = list_iris_institutions(df_not_archived)
-non_iris_institutions = plot_software_treemap(non_iris_repos, "owner_name")
-institutions_with_no_iris = list_non_iris_institutions(df_not_archived)
-non_iris_institutions_repo_types = plot_software_treemap(non_iris_repos, "repository_type")
-software_treemap_non_iris_repos = plot_software_treemap(non_iris_repos, "software")
-subject_treemap_non_iris_repos = plot_software_treemap(non_iris_repos, "primary_subject")
-media_types_non_iris_repos = plot_media_types_treemap(non_iris_repos)
+#non_iris_repos = list_non_iris_repos_from_iris_institutions(df_not_archived)
+#institutions_with_iris = list_iris_institutions(df_not_archived)
+#non_iris_institutions = plot_software_treemap(non_iris_repos, "owner_name")
+#institutions_with_no_iris = list_non_iris_institutions(df_not_archived)
+#non_iris_institutions_repo_types = plot_software_treemap(non_iris_repos, "repository_type")
+#software_treemap_non_iris_repos = plot_software_treemap(non_iris_repos, "software")
+#subject_treemap_non_iris_repos = plot_software_treemap(non_iris_repos, "primary_subject")
+#media_types_non_iris_repos = plot_media_types_treemap(non_iris_repos)
 
 build_page([
     ("COAR IRD Italia", "Data sources", sources_treemap),
