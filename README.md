@@ -1,6 +1,6 @@
 # coar_ird_it_stats
 
-Statistiche sui record COAR IRD Italiani, curati dalle università di Bologna e Padova.
+Statistiche sui record [COAR IRD](https://ird.coar-repositories.org/) Italiani, curati dalle università di Bologna e Padova.
 
 ## Descrizione dei file
 
