@@ -27,7 +27,6 @@ def plot_media_types_treemap(df):
     return fig
 
 def plot_sources_treemap(df):
-    print(df["other_registry_identifiers"])
     categories = (
             df["other_registry_identifiers"].str.split("|").explode().tolist()
         )

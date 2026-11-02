@@ -21,7 +21,7 @@ def df_to_html(df, max_height="60vh"):
     )
     return f'<div class="tbl-wrap" style="max-height:{max_height}">{table}</div>'
 
-FILENAME = "systems_italy_last_curated_20261101_with_coordinates_iris.csv"
+FILENAME = "systems_italy_last_curated_20261102_with_coordinates_iris.csv"
 
 TABLE_CSS = """
             :root {
@@ -169,7 +169,7 @@ df = pd.read_csv(FILENAME, encoding="utf-8", keep_default_na=False)
 df_systems = pd.read_csv(FILENAME, encoding="utf-8", keep_default_na=False)
 everything = len(df_systems)
 sources_treemap = plot_sources_treemap(df_systems)
-df = df[df["lat"] != -1]
+#df = df[df["lat"] != -1]
 
 df_not_archived = df[(df["record_status"] != "archived")]
 df_active_iris = df[(df["record_status"] != "archived") & (df["is_iris"])]

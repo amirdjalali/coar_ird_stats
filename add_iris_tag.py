@@ -1,6 +1,6 @@
 import pandas as pd
 
-ird_filename = "systems_italy_last_curated_20261101_with_coordinates"
+ird_filename = "systems_italy_last_curated_20261102_with_coordinates"
 
 iris_installations = pd.read_csv("iris_installazioni.csv", encoding="utf-8")
 coar_ird = pd.read_csv(f"{ird_filename}.csv", encoding="utf-8")
