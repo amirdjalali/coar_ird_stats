@@ -4,7 +4,7 @@ Statistiche sui record [COAR IRD](https://ird.coar-repositories.org/) Italiani, 
 
 ## Descrizione dei file
 
-I dataset `systems_curated.csv` e `systems_italy.csv` sono estrazioni da COAR IRD al 30 ottobre 2026.
+Il dataset `systems_italy_last_curated_20261101.csv` è una estrazione da COAR IRD del 30 ottobre 2026, con alcuni aggiornamenti del 1 novembre.
 
 Il file `iris_installazioni.csv` è stato generato a partire da [questa lista](https://wiki.u-gov.it/confluence/display/public/UGOVHELP/List+of+IRIS+Installations+-+Elenco+delle+installazioni+IRIS) (scaricata dal sito CINECA il 26 ottobre 2026).
 
@@ -29,4 +29,4 @@ Questo progetto utilizza `uv` per gestire le librerie.
 
 Gli script e le elaborazioni sono rilasciati con licenza [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
-I dataset `systems_curated.csv` e `systems_italy.csv` sono di pubblico dominio [CC0](https://creativecommons.org/public-domain/#cc0)
+Il dataset `systems_italy_last_curated_20261101.csv` è rilasciato nel dominio pubblico [CC0](https://creativecommons.org/public-domain/#cc0)
