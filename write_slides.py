@@ -212,7 +212,7 @@ build_page([
         <p>Amir Djalali, Irene Frascari, Marialaura Vignocchi, Università di Bologna<br/>
         Cristiana Bettella, Michela Zorzi, Università di Padova</p>
         <p>Questa presentazione è rilasciata con licenza 
-        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p>
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></p>
         <p>I dati e gli script sono disponibili su <a href="https://github.com/amirdjalali/coar-ird-stats">GitHub</a>.</p>
     """),
     ("COAR IRD Italia", "Data sources", sources_treemap),
