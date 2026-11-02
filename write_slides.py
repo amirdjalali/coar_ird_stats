@@ -215,11 +215,11 @@ build_page([
         <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></p>
         <p>I dati e gli script sono disponibili su <a href="https://github.com/amirdjalali/coar-ird-stats">GitHub</a>.</p>
     """),
-    ("COAR IRD Italia", "Data sources", sources_treemap),
     ("COAR IRD Italia",
         f"""Su {totali} repository analizzati, {attivi} sono stati confermati e {archiviati} sono stati archiviati.
         {under_review} repository sono in attesa di conferma.""", 
         totals),
+    ("COAR IRD Italia", "Data sources", sources_treemap),
     ("Repository archiviati", 
      f"Sono stati archiviati {archiviati} repository (siti non più attivi o migrati, o contenuti ad accesso riservato)",
      df_archived[["name", "homepage", "owner_name"]]),
@@ -229,9 +229,12 @@ build_page([
     ("Repository confermati o under review", f"Su {len(df_not_archived)}, {len(df_active_iris)} sono IRIS", not_archived),
     ("Repository confermati o under review, non IRIS", f"Tipi di repository, totale {non_iris}.", repo_type_map),
     ("Repository confermati o under review, non IRIS", f"Repository con media_type 'research_data', totale {non_iris}.", data_repos),
-    ("Repository confermati o under review, non IRIS", f"Software, totale {non_iris}.", software_treemap),
-    ("Repository confermati o under review, non IRIS", f"Soggetti, totale {non_iris}.", subject_treemap),
     ("Repository confermati o under review, non IRIS", f"Media types, totale ({non_iris} repository)", media_types),
+    ("Repository confermati o under review, non IRIS", f"Soggetti, totale {non_iris}.", subject_treemap),
+    ("Repository confermati o under review, non IRIS", f"Software, totale {non_iris}.", software_treemap),
     #("Repository non IRIS di istituzioni con Iris", print_non_iris(institutions_with_iris, non_iris_repos), non_iris_institutions),
     #("Istituzioni senza IRIS", f"Ci sono {len(institutions_with_no_iris)} istituzioni che hanno almeno un repository, ma che non hanno IRIS", institutions_with_no_iris)
+    ("Contatti", 
+     "Per richiedere un aggiornamento o suggerire un nuovo repository per COAR IRD",
+     "<h1>coar-ird-italy@cab.unipd.it</h1>")
 ])
