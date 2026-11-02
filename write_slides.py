@@ -21,7 +21,7 @@ def df_to_html(df, max_height="60vh"):
     )
     return f'<div class="tbl-wrap" style="max-height:{max_height}">{table}</div>'
 
-FILENAME = "systems_italy_with_coordinates_iris.csv"
+FILENAME = "systems_italy_last_curated_20261101_with_coordinates_iris.csv"
 
 TABLE_CSS = """
             :root {
@@ -208,6 +208,13 @@ media_types = plot_media_types_treemap(df_not_archived)
 #media_types_non_iris_repos = plot_media_types_treemap(non_iris_repos)
 
 build_page([
+    ("COAR IRD Italia", "Analisi sui dati.", """
+        <p>Amir Djalali, Irene Frascari, Marialaura Vignocchi, Università di Bologna<br/>
+        Cristiana Bettella, Michela Zorzi, Università di Padova</p>
+        <p>Questa presentazione è rilasciata con licenza 
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p>
+        <p>I dati e gli script sono disponibili su <a href="https://github.com/amirdjalali/coar-ird-stats">GitHub</a>.</p>
+    """),
     ("COAR IRD Italia", "Data sources", sources_treemap),
     ("COAR IRD Italia",
         f"""Su {totali} repository analizzati, {attivi} sono stati confermati e {archiviati} sono stati archiviati.

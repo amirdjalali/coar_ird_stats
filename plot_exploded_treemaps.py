@@ -27,12 +27,13 @@ def plot_media_types_treemap(df):
     return fig
 
 def plot_sources_treemap(df):
+    print(df["other_registry_identifiers"])
     categories = (
             df["other_registry_identifiers"].str.split("|").explode().tolist()
         )
     categories_clean = []
     for cat in categories:
-        if cat == "":
+        if cat == "" or cat == None:
             categories_clean.append("new")
         else:
             categories_clean.append(cat.split(":")[0])

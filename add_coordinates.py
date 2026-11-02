@@ -31,8 +31,8 @@ def enrich_with_coordinates(df):
     return df
 
 if __name__ == "__main__":
-    filename = "systems_italy"
-    records = pd.read_csv(f"{filename}.csv", encoding="utf-8", keep_default_na=False)
+    filename = "systems_italy_last_curated_20261101"
+    records = pd.read_csv(f"{filename}.csv", encoding="utf-8", keep_default_na=False, sep=";")
     records_updated = enrich_with_coordinates(records)
     records_updated.to_csv(f"{filename}_with_coordinates.csv", encoding="utf-8")
 
