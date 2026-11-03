@@ -39,13 +39,20 @@ def plot_repo_map(df, color=None):
         category_orders={"type": [iris_label, other_label]},   # last = drawn on top
         hover_data={"count": True, "type": True, "names": True, "lat": False, "lon": False},
         center=dict(lat=counts.lat.mean(), lon=counts.lon.mean()),
-        zoom=5,
+        zoom=4,
     )
     fig.update_layout(map_style="carto-positron")   # light, minimal (great for data overlays)
     # other options:
     # "carto-darkmatter"  dark minimal
     # "white-bg"          blank white background, no tiles at all
     # "open-street-map"   what you're using now
+    fig.update_layout(legend=dict(
+        orientation="h",
+        yanchor="bottom",
+        y=1.02,
+        xanchor="right",
+        x=1
+    ))
     if color:
         fig.update_layout(showlegend=False)
 
@@ -83,8 +90,15 @@ def plot_repo_map_repo_type(df):
                     "repository_type": False, "lat": False, "lon": False},
         labels={"type_label": "repository_type"},   # hover/legend title
         center=dict(lat=counts.lat.mean(), lon=counts.lon.mean()),
-        zoom=5,
+        zoom=4,
     )
+    fig.update_layout(legend=dict(
+        orientation="h",
+        yanchor="bottom",
+        y=1.02,
+        xanchor="right",
+        x=1
+    ))
     fig.update_layout(map_style="carto-positron")
 
     return fig
@@ -122,8 +136,15 @@ def plot_data_repos(df):
         hover_data={"count": True, "type": True, "names": True,
                     "data_repo": False, "lat": False, "lon": False},
         center=dict(lat=counts.lat.mean(), lon=counts.lon.mean()),
-        zoom=5,
+        zoom=4,
     )
+    fig.update_layout(legend=dict(
+        orientation="h",
+        yanchor="bottom",
+        y=1.02,
+        xanchor="right",
+        x=1
+    ))
     fig.update_layout(map_style="carto-positron")
 
     return fig

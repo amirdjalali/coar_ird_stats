@@ -13,12 +13,14 @@ def plot_software_treemap(df, path):
                      color=path,
                      color_discrete_map={"_unknown": "lightgrey"}
     )
+    fig.update_layout(legend=dict(
+        orientation="h",
+        yanchor="bottom",
+        y=1.02,
+        xanchor="right",
+        x=1
+    ))
     return fig
-
-def plot_iris_treemap(df):
-    grouped = (
-        df.groupby()
-    )
 
 if __name__ == "__main__":
     df = pd.read_csv("ird_it_with_coordinates_iris.csv", encoding="utf-8")
